@@ -1,0 +1,45 @@
+123
+donald trump	donald trump	PER	1
+czech free press	czech free press	ORG	189
+emil kalabus	emil kalabus	PER	190
+usa	usa	LOC	2
+trump	trump	PER	1
+hillary clintonová	hillary clintonová	PER	3
+libyi	libye	LOC	191
+iráku	irák	LOC	192
+zbigniew brzezinski	zbigniew brzezinski	PER	193
+ruskem	rusko	LOC	78
+čínou	čína	LOC	11
+blízkého východu	blízký východ	LOC	194
+p.c.roberts	p.c.roberts	PER	195
+roberts	roberts	PER	195
+saúdy	saúdi	PER	196
+cia	cia	ORG	64
+mossad	mossad	ORG	197
+washington post	washington post	ORG	144
+amerického kongresu	americký kongres	ORG	55
+donaldem trumpem	donald trump	PER	1
+rothschildů	rothschildové	PER	198
+rockefellerů	rockefelleři	PER	199
+warburgů	warburgové	PER	200
+morganů	morganové	PER	201
+americká centrální banka	americká centrální banka	ORG	71
+federálního rezervního systému	federální rezervní systém	ORG	71
+švýcarského federálního institutu technologií	švýcarský federální institut technologií	ORG	202
+rockefelleři	rockefelleři	PER	199
+rothschildové	rothschildové	PER	198
+evropě	evropa	LOC	73
+trumpa	trump	PER	1
+dmitrij kisiliov	dmitrij kisiliov	PER	203
+kisiliova	kisiliov	PER	203
+rusku	rusko	LOC	78
+kisiliov	kisiliov	PER	203
+ruska	rusko	LOC	78
+new york city	new york	LOC	4
+manhattanu	manhattan	LOC	204
+trump tower	trump tower	LOC	205
+cbs	cbs	ORG	206
+federální letecká správa	federální letecká správa	ORG	207
+faa	faa	ORG	207
+hillary clintonové	hillary clintonová	PER	3
+twitteru	twitter	MISC	90

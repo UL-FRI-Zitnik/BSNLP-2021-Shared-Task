@@ -1,0 +1,17 @@
+210
+europska komisija	europska komisija	ORG	1
+cim-a	cim	ORG	51002
+unidu-a	unidu	ORG	50483
+institut ruđer bošković	institut ruđer bošković	ORG	50484
+jadranskom moru	jadransko more	LOC	50405
+republike hrvatske	republika hrvatska	LOC	41
+engraulis encrasicolus (l.)	engraulis encrasicolus (l.)	MISC	50485
+jadranu	jadran	LOC	50405
+centra za istraživanje mora instituta ruđer bošković	centar za istraživanje mora instituta ruđer bošković	ORG	50486
+romina kraus	romina kraus	PER	50487
+nastjenjka supić	nastjenjka supić	PER	50488
+instituta za more i priobalje sveučilišta u dubrovniku	institut za more i priobalje sveučilišta u dubrovniku	ORG	50489
+davorom lučićem	davor lučić	PER	50490
+jakicom njire	jakica njire	PER	50491
+jadrana	jadran	LOC	50405
+po	po	LOC	50492

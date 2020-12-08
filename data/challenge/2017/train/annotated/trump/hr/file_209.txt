@@ -1,0 +1,15 @@
+209
+amy schumer	amy schumer	PER	50206
+donald trump	donald trump	PER	1
+španjolsku	španjolska	LOC	50471
+trump	trump	PER	1
+amy schumer	amy schumer	PER	50206
+hillary clinton	hillary clinton	PER	3
+hillary	hillary	PER	3
+schumer	schumer	PER	50206
+bbc newsnight	bbc newsnight	MISC	50208
+schumer	schumer	PER	50206
+švedskoj	švedska	LOC	41000
+schumer	schumer	PER	50206
+amy schumer	amy schumer	PER	50206
+twitteru	twitter	MISC	90

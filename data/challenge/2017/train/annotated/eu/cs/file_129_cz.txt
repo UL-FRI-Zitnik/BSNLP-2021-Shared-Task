@@ -1,0 +1,16 @@
+129
+evropská komise	evropská komise	ORG	1
+čr	čr	LOC	20
+eu	eu	LOC	6
+erú	erú	ORG	52
+euractiv.cz	euractiv.cz	ORG	170
+evropské komise	evropská komise	ORG	1
+české republice	česká republika	LOC	20
+pařížská úmluva o ochraně klimatu	pařížská úmluva o ochraně klimatu	MISC	171
+energetický regulační úřad	energetický regulační úřad	ORG	52
+oze	oze	MISC	172
+českou republiku	česká republika	LOC	20
+evropskou komisí	evropská komise	ORG	1
+komory oze	komora oze	ORG	173
+štěpán chalupa	štěpán chalupa	PER	174
+jan habart	jan habart	PER	175

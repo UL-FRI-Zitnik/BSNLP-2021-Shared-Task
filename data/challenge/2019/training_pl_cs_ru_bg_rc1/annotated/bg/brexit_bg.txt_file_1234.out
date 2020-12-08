@@ -1,0 +1,15 @@
+bg-1234
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Камарата на общините	Камара на общините	ORG	ORG-House-of-Commons
+Камарата на лордовете	Камара на лордовете	ORG	ORG-House-of-Lords
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+ЕС	ЕС	ORG	ORG-European-Union
+Брекзит	Брекзит	EVT	EVT-Brexit
+Франс прес	Франс прес	ORG	ORG-France-Presse
+ДПА	ДПА	ORG	ORG-DPA
+Мей	Мей	PER	PER-Theresa-May
+БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+Брюксел	Брюксел	LOC	GPE-Brussles
+консерваторите	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+Елизабет Втора	Елизабет Втора	PER	PER-Elizabeth-II
+ТАСС	ТАСС	ORG	ORG-TASS-Agency

@@ -1,0 +1,23 @@
+bg-1675
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+ЕС	ЕС	ORG	ORG-European-Union
+Брекзит	Брекзит	EVT	EVT-Brexit
+Политико	Политико	ORG	ORG-Politico
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Лондон	Лондон	LOC	GPE-London
+Джордж	Джордж	PER	PER-George-Norton
+Франция	Франция	LOC	GPE-France
+Италия	Италия	LOC	GPE-Italy
+Германия	Германия	LOC	GPE-Germany
+Гърция	Гърция	LOC	GPE-Greece
+Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+Атланта	Атланта	LOC	GPE-Atlanta
+Сомалия	Сомалия	LOC	GPE-Somalia
+Нортууд	Нортууд	LOC	GPE-Northwood
+Хертфордшир	Хертфордшир	LOC	GPE-Hertfordshire
+София	София	EVT	EVT-Operation-Sofia
+Средиземноморието	Средиземноморие	LOC	LOC-Mediterranean-Basin
+Естония	Естония	LOC	GPE-Estonia
+Русия	Русия	LOC	GPE-Russia

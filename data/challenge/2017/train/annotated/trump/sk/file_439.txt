@@ -1,0 +1,12 @@
+439
+trump	trump	PER	1
+washington	washington	LOC	47
+tasr	tasr	ORG	101
+donalda trumpa	donald trump	PER	1
+bielom dome	biely dom	LOC	111
+spojené štáty	spojené štáty	LOC	2
+george w. bush	george w. bush	PER	306
+barackovi obamovi	barack obama	PER	16
+barack obama	barack obama	PER	16
+biely dom	biely dom	LOC	111
+donald trump	donald trump	PER	1

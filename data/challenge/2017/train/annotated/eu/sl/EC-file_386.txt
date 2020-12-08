@@ -1,0 +1,13 @@
+386
+evropska komisija	evropska komisija	ORG	1
+tehnozvezdje	tehnozvezdje	ORG	40154
+evropski parlament	evropski parlament	ORG	14
+evropska komisija	evropska komisija	ORG	1
+evropske unije	evropska unija	LOC	6
+politico	politico	ORG	253
+beuc	beuc	ORG	40156
+eu	eu	LOC	6
+evropske ljudske stranke	evropska ljudska stranka	ORG	40157
+eva paunova	eva paunova	PER	40158
+evropski parlament	evropski parlament	ORG	14
+berec	berec	ORG	40081

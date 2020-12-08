@@ -1,0 +1,18 @@
+154
+putinov	putin	PER	63
+donald trump	donald trump	PER	1
+rf	rf	LOC	78
+sergej glazjev	sergej glazjev	PER	50052
+donald trump	donald trump	PER	1
+sad-a	sad	LOC	2
+rusije	rusija	LOC	78
+trump	trump	PER	1
+rusije	rusija	LOC	78
+sad-u	sad	LOC	2
+zapada	zapad	LOC	50053
+glazjev	glazjev	PER	50052
+tass	tass	ORG	30058
+glazjeva	glazjev	PER	50052
+glazjev	glazjev	PER	50052
+sad	sad	LOC	2
+kine	kina	LOC	50393

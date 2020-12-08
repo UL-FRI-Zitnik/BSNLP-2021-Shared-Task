@@ -1,0 +1,33 @@
+bg-1111
+Лондон	Лондон	LOC	GPE-London
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Палестина	Палестина	LOC	GPE-Palestine
+Джихада	Джихада	EVT	EVT-Jihad
+The Times	The Times	PRO	PRO-The-Times
+Аластър Бърт	Аластър Бърт	PER	PER-Alastair-Birt
+Израел	Израел	LOC	GPE-Israel
+Нютон	Нютон	PER	PER-Isaac-Newton
+Рая	Рай	LOC	LOC-Heaven
+The Guardian	The Guardian	PRO	PRO-The-Guardian
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Джина Хаспел	Джина Хаспел	PER	PER-Gina-Haspel
+ЦРУ	ЦРУ	ORG	ORG-CIA
+Тайланд	Тайланд	LOC	GPE-Thailand
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Брекзит	Брекзит	EVT	EVT-Brexit
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+Daily Express	Daily Express	PRO	PRO-The-Daily-Express
+ЕС	ЕС	ORG	ORG-European-Union
+Евросъюза	Евросъюз	ORG	ORG-European-Union
+Амбър Ръд	Амбър Ръд	PER	PER-Amber-Rudd
+Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+Майкъл Гоув	Майкъл Гоув	PER	PER-Michael-Gove
+Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+Гавин Уилямсън	Гавин Уилямсън	PER	PER-Gavin-Williamson
+Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+Карън Брадли	Карън Брадли	PER	PER-Karen-Bradley
+Южна	Южна	LOC	LOC-Southern-Europe
+Източна Европа	Източна Европа	LOC	LOC-Eastern-Europe
+Информационна агенция "Фокус"	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

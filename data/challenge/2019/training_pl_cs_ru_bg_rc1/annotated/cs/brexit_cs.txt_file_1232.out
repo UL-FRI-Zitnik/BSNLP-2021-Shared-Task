@@ -1,0 +1,15 @@
+cs-1232
+ANO	ANO	ORG	ORG-ANO-political-party-CZ
+Andrej Babiš	Andrej Babiš	PER	PER-Andrej-Babis
+Babišem	Babiš	PER	PER-Andrej-Babis
+Británií	Británie	LOC	GPE-Great-Britain
+Davidem Davisem	David Davis	PER	PER-David-Davis
+Davis	Davis	PER	PER-David-Davis
+EU	EU	ORG	ORG-European-Union
+Evropské unie	Evropská unie	ORG	ORG-European-Union
+Martin Stropnický	Martin Stropnický	PER	PER-Martin-Stropnicky
+Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+Praze	Praha	LOC	GPE-Prague
+Stropnickým	Stropnický	PER	PER-Martin-Stropnicky
+brexit	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit

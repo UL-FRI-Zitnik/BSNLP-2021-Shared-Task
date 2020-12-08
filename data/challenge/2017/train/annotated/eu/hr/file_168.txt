@@ -1,0 +1,7 @@
+168
+europska komisija	europska komisija	ORG	1
+ugovor iz amsterdama	ugovor iz amsterdama	MISC	10169
+europske unije	europska unija	LOC	6
+lisabonskim ugovorom	lisabonski ugovor	MISC	10168
+unija	unija	LOC	6
+potrošačka agenda	potrošačka agenda	MISC	50375

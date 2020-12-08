@@ -1,0 +1,17 @@
+bg-1125
+The Guardian	The Guardian	PRO	PRO-The-Guardian
+Франция	Франция	LOC	GPE-France
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Лондон	Лондон	LOC	GPE-London
+Париж	Париж	LOC	GPE-Paris
+Брекзит	Брекзит	EVT	EVT-Brexit
+Рикетс	Рикетс	PER	PER-Peter-Ricketts
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+НАТО	НАТО	ORG	ORG-NATO
+ЕС	ЕС	ORG	ORG-European-Union
+Макрон	Макрон	PER	PER-Emmanuel-Macron
+Форин офис	Форин офис	ORG	ORG-Foreign-Office
+Цанко Цолов	Цанко Цолов	PER	PER-Tsanko-Tsolov
+Информационна агенция "Фокус"	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

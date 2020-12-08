@@ -1,0 +1,39 @@
+﻿bg-9
+Австрия	Австрия	LOC	GPE-Austria
+Балканите	Балкани	LOC	LOC-Balkans
+Барние	Барние	PER	PER-Michel-Barnier
+Боровец	Боровец	LOC	GPE-Borovets-Bulgaria
+Брекзит	Брекзит	EVT	EVT-Brexit
+Бургас	Бургас	LOC	GPE-Burgas-Bulgaria
+българите	българи	PER	GPE-Bulgaria
+България	България	LOC	GPE-Bulgaria
+българското председателство 	българско председателство	EVT	EVT-Bulgarian-Presidency-EU
+Варна	Варна	LOC	GPE-Varna
+Велико Търново	Велико Търново	LOC	GPE-Veliko-Tarnovo
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Димитровград	Димитровград	LOC	GPE-Dimitrovgrad-Bulgaria
+Дъблинския регламент	Дъблински регламент	PRO	PRO-Dublin-Regulation
+Европа	Европа	LOC	LOC-Europe
+Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+Европейския парламент	Европейски парламент	ORG	ORG-European-Parlament
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+ЕС	ЕС	ORG	ORG-European-Union
+Естония	Естония	LOC	GPE-Estonia
+Жан-Клод Юнкер	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+Запад	Запад	LOC	LOC-Western-Europe
+Западните Балкани	Западни Балкани	LOC	LOC-Western-Balkans
+Изток	Изток	LOC	LOC-Eastern-Europe
+Козлодуй	Козлодуй	LOC	GPE-Kozloduy
+Лиляна Павлова	Лиляна Павлова	PER	PER-Lilyana-Pavlova
+МВР	МВР	ORG	ORG-Ministry-of-Foreign-Affairs-Bulgaria
+Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+НДК	НДК	LOC	LOC-National-Palace-of-Culture
+Павлова	Павлова	PER	PER-Lilyana-Pavlova
+Пловдив	Пловдив	LOC	GPE-Plovdiv
+Румъния	Румъния	LOC	GPE-Romania
+Русе	Русе	LOC	GPE-Ruse-Buglaria
+София	София	LOC	GPE-Sofia
+Съвета на Европейския съюз	Съвет на Европейския съюз	ORG	ORG-Council-of-the-European-Union
+Съвета на ЕС	Съвет на ЕС	ORG	ORG-Council-of-the-European-Union
+Шенген	Шенген	LOC	LOC-Schengen
+шенгенското пространство	шенгенско пространство	LOC	LOC-Schengen

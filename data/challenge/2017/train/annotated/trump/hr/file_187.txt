@@ -1,0 +1,42 @@
+187
+donald trump	donald trump	PER	1
+siniše vuce	siniša vuco	PER	50187
+miroslava ćire blaževića	miroslav ćiro blažević	PER	50188
+donalda trumpa	donald trump	PER	1
+obama	obama	PER	16
+trump	trump	PER	1
+zlatnu malinu	zlatna malina	MISC	50189
+ghosts can't do it	ghosts can't do it	MISC	50190
+zlatnu malinu	zlatna malina	MISC	50189
+brooklyn bridgea	brooklyn bridge	LOC	50191
+sad	sad	LOC	2
+ronalda reagana	ronald reagan	PER	50192
+čehinju	čehinja	PER	50193
+ivanu zelničkovu	ivana zelničkova	PER	58
+marlu maples	marla maples	PER	29
+heather locklear	heather locklear	PER	50194
+slovenku	slovenka	PER	50195
+melaniju knavs	melanija knavs	PER	183
+clinton	clinton	PER	3
+amerika	amerika	LOC	2
+obamin	obama	PER	16
+honoluluu	honolulu	LOC	50196
+havaji	havaji	LOC	54
+bijela kuća	bijela kuća	LOC	111
+obaminu	obama	PER	16
+trumpov	trump	PER	1
+cher	cher	PER	50197
+twitteru	twitter	MISC	90
+texasa	texas	LOC	40199
+tironi	marin tironi	PER	50198
+tironijem	tironi	PER	50198
+apprentice	apprentice	MISC	96
+amera	ameri	ORG	17
+hamdija	hamdija	PER	50007
+pravim kućanicama new jerseya	prave kućanice new jerseya	PER	50199
+bijele kuće	bijela kuća	LOC	111
+late nightu conana o'briena	late night conana o'briena	MISC	50200
+forbesu	forbes	ORG	222
+meksikance	meksikanci	PER	20513
+kinezu	kinez	PER	50202
+donald	donald	PER	1

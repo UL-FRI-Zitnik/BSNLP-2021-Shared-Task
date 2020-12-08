@@ -1,0 +1,23 @@
+cs-1092
+Brexitem	brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+Britové	Britové	PER	GPE-Great-Britain
+Británie	Británie	LOC	GPE-Great-Britain
+Bruselu	Brusel	LOC	GPE-Brussles
+EHP	EHP	LOC	LOC-European-Economic-Area
+ESVO	ESVO	ORG	ORG-European-Free-Trade-Association-EFTA
+EU	EU	ORG	ORG-European-Union
+Evropskou unií	Evropská unie	ORG	ORG-European-Union
+Evropského hospodářského prostoru	evropský hospodářský prostor	LOC	LOC-European-Economic-Area
+Evropského sdružení volného obchodu	evropské sdružení volného obchodu	ORG	ORG-European-Free-Trade-Association-EFTA
+Evropy	Evropa	LOC	LOC-Europe
+LONDÝN	LONDÝN	LOC	GPE-London
+Labouristé	Labouristé	PER	ORG-Labour-Party-UK
+Mayovou	Mayová	PER	PER-Theresa-May
+Mayová	Mayová	PER	PER-Theresa-May
+Spojené království	Spojené království	LOC	GPE-Great-Britain
+The Sun	The Sun	PRO	PRO-The-Sun
+The Sunday Telegraph	The Sunday Telegraph	PRO	PRO-The-Sunday-Telegraph
+Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+konzervativci	konzervativci	PER	ORG-Conservative-and-Unionist-Party-UK
+konzervativní strany	konzervativní strana	ORG	ORG-Conservative-and-Unionist-Party-UK

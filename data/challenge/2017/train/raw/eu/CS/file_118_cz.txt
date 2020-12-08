@@ -1,0 +1,10 @@
+118
+cz
+2016-10-05T12:28:00+01:00
+http://computerworld.cz/udalosti/evropska-komise-hodla-omezit-nektere-praktiky-googlu-53355
+Evropská komise hodlá omezit některé praktiky Googlu | Computerworld.cz
+EU vyplnila stížnost proti Googlu již v dubnu, kdy jej obvinila z nucení výrobců k exkluzivnímu využívání jeho vyhledávače, pokud chtějí získat přístup k obchodu Play Store, skrze nějž uživatelé kupují a stahují přídavné aplikace. Komise nyní odeslala upravenou kopii svých výhrad žalobcům, napsala agentura Reuters poté, co dokument viděla. Plánem komise je zakázat Googlu nabízení plateb či slev pro výrobce chytrých mobilů za vložení svého vyhledávače a obchodu s aplikacemi do jejich systémů, založených na Androidu.
+
+Pokud Google se svými praktiky nepřestane, bude čelit pokutě na úrovni, která postačí k zajitění dodržování zákazu,“ cituje Reuters dokument. Částka bude vyčíslena pomocí doby trvání neférových soutěžních praktik tedy od ledna 2011 do současnosti a obratem, který generují, včetně toho z kliknutí na AdWords od evropských uživatelů, reklamních výsledků vyhledávání Google Search, zakoupených aplikací z Play Storu a AdMob reklam z aplikací, píe se v dokumentu rozeslaném žalobcům. Mluvčí pro Fairsearch, skupiny lobující za rovnou soutěž v online a mobilním vyhledávání, sdělil, že společnost v současnosti nemá žádné vyjádření k publikaci. Google ani Evropská komise prozatím na žádost o komentář neodpověděli. Komisařka pro hospodářskou soutěž Margrethe Vestagerová v dubnu prohlásila, že se obává toho, že Google odstřihuje svou konkurenci od jedné z nejdůležitějích metod získávání zákazníků: předinstalováním softwaru na chytré telefony.
+
+

@@ -1,0 +1,18 @@
+200
+hrvatske	hrvatska	LOC	41
+njemačke	njemačka	LOC	68
+španjolske	španjolska	LOC	163
+europska komisija	europska komisija	ORG	1
+panjolske	španjolska	LOC	163
+europske komisije	europska komisija	ORG	1
+frans timmermans	frans timmermans	PER	146
+vera jourova	věra jourová	PER	46
+jourova	jourová	PER	46
+jutarnjeg lista	jutarnji list	ORG	50348
+globus	globus	ORG	50473
+dora koretić	dora koretić	PER	50474
+na život pod hidžabom u zagrebu	na život pod hidžabom u zagrebu	MISC	50475
+lejlu ferhatović	lejla ferhatović	PER	50476
+neira hadžismajlović hamzić	neira hadžismajlović hamzić	PER	50477
+verene mayer	verena mayer	PER	50478
+imane rachidi	imane rachidi	PER	50479

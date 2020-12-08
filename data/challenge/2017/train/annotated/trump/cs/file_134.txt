@@ -1,0 +1,23 @@
+134
+donald trump	donald trump	PER	1
+usa	usa	LOC	2
+ornelly	ornella	PER	186
+extra.cz	extra.cz	ORG	187
+hillary	hillary	PER	3
+billovi	bill	PER	135
+ornella koktová	ornella koktová	PER	186
+hillary clinton	hillary clinton	PER	3
+donald	donald	PER	1
+američanů	američané	PER	17
+sýrii	sýrie	LOC	188
+trump	trump	PER	1
+rusko	rusko	LOC	78
+ruskem	rusko	LOC	78
+killary	killary	PER	3
+billa clintona	bill clinton	PER	135
+bill	bill	PER	135
+donalda trumpa	donald trump	PER	1
+asie	asie	LOC	72
+ameriku	amerika	LOC	2
+čt24	čt24	ORG	12
+kanady	kanada	LOC	117

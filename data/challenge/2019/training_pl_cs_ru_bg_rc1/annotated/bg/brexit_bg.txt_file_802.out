@@ -1,0 +1,40 @@
+bg-802
+ЕС	ЕС	ORG	ORG-European-Union
+Брекзит	Брекзит	EVT	EVT-Brexit
+британците	британци	PER	GPE-Great-Britain
+Брюксел	Брюксел	LOC	GPE-Brussles
+Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Ирландия	Ирландия	LOC	GPE-Ireland
+Белфаст	Белфаст	LOC	GPE-Belfast
+Шин Фейн	Шин Фейн	ORG	ORG-Sinn-Fein
+Лондон	Лондон	LOC	GPE-London
+Дъблин	Дъблин	LOC	GPE-Dublin
+Лео Варадкар	Лео Варадкар	PER	PER-Leo-Varadkar
+Смарагдовия остров	Смарагдов остров	LOC	GPE-Ireland
+европейците	европейци	PER	LOC-Europe
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Световната търговска организация	Световна търговска организация	ORG	ORG-WTO-World-Trade-Organization
+СТО	СТО	ORG	ORG-WTO-World-Trade-Organization
+САЩ	САЩ	LOC	GPE-USA
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Давос	Давос	LOC	GPE-Davos
+консерваторите	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+Англия	Англия	LOC	GPE-England
+Китай	Китай	LOC	GPE-China
+Ли Къцян	Ли Къцян	PER	PER-Li-Keqiang
+Поднебесната империя	Поднебесна империя	LOC	GPE-China
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Пекин	Пекин	LOC	GPE-Beijing
+Иу	Иу	LOC	GPE-Yiwu
+Казахстан	Казахстан	LOC	GPE-Kazakhstan
+Русия	Русия	LOC	GPE-Russia
+Беларус	Беларус	LOC	GPE-Belarus
+Полша	Полша	LOC	GPE-Poland
+Дуисбург	Дуисбург	LOC	GPE-Duisburg
+Германия	Германия	LOC	GPE-Germany
+Италия	Италия	LOC	GPE-Italy
+Испания	Испания	LOC	GPE-Spain
+Източна Европа	Източна Европа	LOC	LOC-Eastern-Europe
+БДЖ-то	БДЖ	ORG	ORG-Bulgarian-State-Railways
+китайците	китайци	PER	GPE-China

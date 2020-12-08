@@ -1,0 +1,43 @@
+pl-1280
+AFCO	AFCO	ORG	ORG-AFCO-The-Committee-on-Constitutional-Affairs
+Brexit	Brexit	EVT	EVT-Brexit
+Budapeszcie	Budapeszt	LOC	GPE-Budapest
+Cypr	Cypr	LOC	GPE-Cyprus
+Emmanuel Macron	Emmanuel Macron	PER	PER-Emmanuel-Macron
+Francja	Francja	LOC	GPE-France
+Francji	Francja	LOC	GPE-France
+Grecja	Grecja	LOC	GPE-Greece
+Hiszpania	Hiszpania	LOC	GPE-Spain
+Jean-Claude Juncker	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+Junckera	Juncker	PER	PER-Jean-Claude-Juncker
+KE	KE	ORG	ORG-European-Commission
+Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+Malta	Malta	LOC	GPE-Malta
+PE	PE	ORG	ORG-European-Parlament
+PISM	PISM	ORG	ORG-PISM
+Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parlament
+Parlament Europejski	Parlament Europejski	ORG	ORG-European-Parlament
+Parlamentu Europejskiego	Parlament Europejski	ORG	ORG-European-Parlament
+Polska	Polska	LOC	GPE-Poland
+Portugalia	Portugalia	LOC	GPE-Portugal
+RE	RE	ORG	ORG-European-Council
+Rada Europejska	Rada Europejska	ORG	ORG-European-Council
+Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+Radzie Europejskiej	Rada Europejska	ORG	ORG-European-Council
+Radzie	Rada	ORG	ORG-European-Council
+Radę Europejską	Rada Europejska	ORG	ORG-European-Council
+Rzymie	Rzym	LOC	GPE-Rome
+Sorbonie	Sorbona	ORG	ORG-Sorbonne
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+V4	V4	ORG	ORG-Visegrád-Group
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+Włochy	Włochy	LOC	GPE-Italy
+Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+brexicie	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit
+europarlamentarzyści	Europarlamentarzyści	PER	ORG-European-Parlament
+komisja ds. konstytucyjnych PE	Komisja ds. konstytucyjnych PE	ORG	ORG-AFCO-The-Committee-on-Constitutional-Affairs
+traktat lizboński	Traktat lizboński	PRO	PRO-Treaty-of-Lisbon

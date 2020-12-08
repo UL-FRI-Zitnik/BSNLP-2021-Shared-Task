@@ -1,0 +1,19 @@
+﻿11
+komisja europejska	komisja europejska	ORG	1
+polskę	polska	LOC	20002
+puszczy białowieskiej	puszcza białowieska	LOC	21104
+polska	polska	LOC	20002
+natura 2000	natura 2000	MISC	21100
+komisję	komisja	ORG	1
+tok fm	tok fm	ORG	21103
+@tokfm_news	@tokfm_news	ORG	21103
+ministerstwo środowiska	ministerstwo środowiska	ORG	22000
+brukseli	bruksela	LOC	28
+komisja	komisja	ORG	1
+unia	unia	LOC	6
+europejskiego trybunału sprawiedliwości	europejski trybunał sprawiedliwości	ORG	239
+planu urządzenia lasu	plan urządzenia lasu	MISC	21102
+pul	pul	MISC	21102
+nadleśnictwa białowieża	nadleśnictwo białowieża	ORG	21101
+ke	ke	ORG	1
+natury 2000	natura 2000	MISC	21100

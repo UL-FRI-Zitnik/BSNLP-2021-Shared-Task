@@ -1,0 +1,12 @@
+cs-1406
+Barniera	Barnier	PER	PER-Michel-Barnier
+Britové	Britové	PER	GPE-Great-Britain
+Británii	Británie	LOC	GPE-Great-Britain
+EU	EU	ORG	ORG-European-Union
+Evropská komise	Evropská komise	ORG	ORG-European-Commission
+Evropské unie	Evropská unie	ORG	ORG-European-Union
+Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+Velké Británie	Velká Británie	LOC	GPE-Great-Britain
+brexit 	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit
+europarlamentu	europarlament	ORG	ORG-European-Parlament

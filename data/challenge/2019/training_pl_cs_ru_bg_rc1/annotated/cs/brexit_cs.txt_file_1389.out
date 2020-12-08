@@ -1,0 +1,15 @@
+cs-1389
+Brexit	Brexit	EVT	EVT-Brexit
+Británie	Británie	LOC	GPE-Great-Britain
+Británii	Británie	LOC	GPE-Great-Britain
+Británií	Británie	LOC	GPE-Great-Britain
+Britům	Britové	PER	GPE-Great-Britain
+Bruselem	Brusel	LOC	GPE-Brussles
+BuzzFeed News	BuzzFeed News	PRO	PRO-Buzzfeed-website
+EU	EU	ORG	ORG-European-Union
+Evropské unie	Evropská unie	ORG	ORG-European-Union
+Londýn	Londýn	LOC	GPE-London
+Světové obchodní organizace	Světová zdravotnická organizace	ORG	ORG-WTO-World-Trade-Organization
+Theresy Mayové	Theresa Mayová	PER	PER-Theresa-May
+WTO	WTO	ORG	ORG-WTO-World-Trade-Organization
+brexitu	brexit	EVT	EVT-Brexit

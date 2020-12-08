@@ -1,0 +1,21 @@
+144
+donald trump	donald trump	PER	1
+detroitu	detroit	LOC	159
+ameriky	amerika	LOC	2
+detroit	detroit	LOC	159
+hillary clintonovou	hillary clintonová	PER	3
+trump	trump	PER	1
+trumpův	trump	PER	1
+america	amerika	LOC	2
+obamova	obama	PER	16
+hillaryně	hillary	PER	3
+trumpa	trump	PER	1
+amerika	amerika	LOC	2
+americe	amerika	LOC	2
+bílého domu	bílý dům	LOC	111
+republikánů	republikáni	ORG	118
+usa	usa	LOC	2
+jindříšek kissinger	jindříšek kissinger	PER	160
+hillary	hillary	PER	3
+emeriky	amerika	LOC	2
+dušan neumann	dušan neumann	PER	161

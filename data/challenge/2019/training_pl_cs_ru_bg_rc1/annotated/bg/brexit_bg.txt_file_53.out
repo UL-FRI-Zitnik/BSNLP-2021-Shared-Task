@@ -1,0 +1,19 @@
+bg-53
+ЕС	ЕС	ORG	ORG-European-Union
+Брекзит	Брекзит	EVT	EVT-Brexit
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+FTI	FTI	ORG	ORG-FTI-Consulting
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+Джон Малоуни	Джон Малоуни	PER	PER-John-Mulaney
+Европейския съд	Европейски съд	ORG	ORG-European-Court-of-Justice
+Лондон	Лондон	LOC	GPE-London
+Ханс Хек	Ханс Хек	PER	PER-Hans-Hack
+Германия	Германия	LOC	GPE-Germany
+Франция	Франция	LOC	GPE-France
+АФП	АФП	ORG	ORG-France-Presse
+Михаил Саакашвили	Михаил Саакашвили	PER	PER-Mikheil-Saakashvili
+Алстом	Алстом	ORG	ORG-Alstom
+Сименс	Сименс	ORG	ORG-Siemens
+Малайзия	Малайзия	LOC	GPE-Malaysia
+Сингапур	Сингапур	LOC	GPE-Singapore

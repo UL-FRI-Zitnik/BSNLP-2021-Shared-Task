@@ -1,0 +1,21 @@
+500
+európska komisia	európska komisia	ORG	1
+británie	británia	LOC	90
+eú	eú	LOC	6
+tvnoviny.sk	tvnoviny.sk	ORG	243
+briti	briti	PER	244
+pierre moscovici	pierre moscovici	PER	245
+reuters	reuters	ORG	13
+france 5	france 5	ORG	246
+británia	británia	LOC	90
+moscovici	moscovici	PER	245
+spojené kráľovstvo	spojené kráľovstvo	LOC	90
+európe	európa	LOC	9
+londýnom	londýn	LOC	247
+bruselom	brusel	LOC	28
+davida camerona	david cameron	PER	248
+európskej únie	európska únia	LOC	6
+londýna	londýn	LOC	247
+boris johnson	boris johnson	PER	249
+európske hospodárske spoločenstvo	európske hospodárske spoločenstvo	ORG	250
+ehs	ehs	ORG	250

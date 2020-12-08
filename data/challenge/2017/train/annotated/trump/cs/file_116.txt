@@ -1,0 +1,8 @@
+116
+trump	trump	PER	1
+putinovi	putin	PER	63
+cia	cia	ORG	64
+putina	putin	PER	63
+erdogana	erdogan	PER	65
+madura	madur	PER	66
+orbána	orbán	PER	67

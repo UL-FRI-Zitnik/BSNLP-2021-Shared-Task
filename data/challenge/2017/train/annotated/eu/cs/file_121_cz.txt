@@ -1,0 +1,17 @@
+121
+evropská komise	evropská komise	ORG	1
+microsoftu	microsoft	ORG	25
+linkedin	linkedin	ORG	26
+českénoviny.cz	českénoviny.cz	ORG	27
+brusel	brusel	LOC	28
+microsoft	microsoft	ORG	25
+evropě	evropa	LOC	9
+usa	usa	LOC	11
+kanadě	kanada	LOC	29
+brazílii	brazílie	LOC	30
+jihoafrické republice	jihoafrická republika	LOC	31
+bruselu	brusel	LOC	28
+windows	windows	MISC	32
+microsoft office	microsoft office	MISC	33
+evropané	evropané	PER	34
+margrethe vestagerová	margrethe vestagerová	PER	35

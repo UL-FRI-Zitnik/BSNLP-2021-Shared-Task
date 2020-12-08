@@ -1,0 +1,8 @@
+490
+iab slovakia	iab slovakia	ORG	212
+európska komisia	európska komisia	ORG	1
+brusel	brusel	LOC	28
+european newspaper publishers’ association	european newspaper publishers’ association	ORG	213
+enpa	enpa	ORG	213
+carlo perrone	carlo perrone	PER	214
+európskej komisie	európska komisia	ORG	1

@@ -1,0 +1,11 @@
+﻿43
+komisja europejska	komisja europejska	ORG	1
+ue	ue	LOC	6
+unia	unia	LOC	6
+ke	ke	ORG	1
+amr	amr	MISC	20120
+europejska agencja leków	europejska agencja leków	ORG	20121
+ema	ema	ORG	20121
+europejskie centrum prewencji i kontroli chorób	europejskie centrum prewencji i kontroli chorób	ORG	20122
+ecdc	ecdc	ORG	20122
+vytenis andriukaitis	vytenis andriukaitis	PER	20123

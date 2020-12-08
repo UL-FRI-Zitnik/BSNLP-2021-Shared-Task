@@ -1,0 +1,35 @@
+94
+evropská komise	evropská komise	ORG	1
+eu	eu	LOC	6
+čt24	čt24	MISC	144
+česká televize	česká televize	ORG	145
+evropské komise	evropská komise	ORG	1
+frans timmermans	frans timmermans	PER	146
+spojených států	spojené státy	LOC	11
+japonska	japonsko	LOC	147
+izraele	izrael	LOC	148
+velké británie	velká británie	LOC	90
+turecka	turecko	LOC	149
+ukrajiny	ukrajina	LOC	150
+čt	čt	ORG	145
+bruselu	brusel	LOC	28
+bohumila vostala	bohumil vostal	PER	151
+paříži	paříž	LOC	152
+německu	německo	LOC	68
+ek	ek	ORG	1
+dimitris avramopulos	dimitris avramopulos	PER	62
+evropy	evropa	LOC	9
+etias	etias	MISC	63
+esta	esta	MISC	153
+česko	česko	LOC	20
+česká republika	česká republika	LOC	20
+bohuslava sobotky	bohuslav sobotka	PER	154
+čssd	čssd	ORG	155
+evropa	evropa	LOC	9
+jiří pospíšil	jiří pospíšil	PER	156
+top 09	top 09	ORG	157
+stan	stan	ORG	158
+spojených státech	spojené státy	LOC	11
+evropský parlament	evropský parlament	ORG	14
+pnr	pnr	MISC	159
+brusel	brusel	LOC	28

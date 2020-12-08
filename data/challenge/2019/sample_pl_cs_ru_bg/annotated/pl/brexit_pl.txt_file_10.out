@@ -1,0 +1,19 @@
+pl-10
+Brexitu	Brexit	EVT	EVT-Brexit
+Chuka Ummuna	Chuka Ummuna	PER	PER-Chuka-Ummuna
+Farage'a	Farage	PER	PER-Nigel-Farage
+Farage'owi	Farage	PER	PER-Nigel-Farage
+Farage	Farage	PER	PER-Nigel-Farage
+Gerard Batten	Gerard Batten	PER	PER-Gerard-Batten
+Henry Bolton	Henry Bolton	PER	PER-Henry-Bolton
+Londyn	Londyn	LOC	GPE-London
+NFZ	NFZ	ORG	ORG-NFZ
+NHS	NHS	ORG	ORG-NHS
+Partii Niepodległości Wielkiej Brytanii	Partia Niepodległości Wielkiej Brytanii	ORG	ORG-UK-Independence-Party
+Partii PRacy	Partia Pracy	ORG	ORG-Labour-Party-UK
+Tony Blair	Tony Blair	PER	PER-Tony-Blair
+Twitterze	Twitter	PRO	PRO-Twitter
+UE	UE	ORG	ORG-European-Union
+UKIP	UKIP	ORG	ORG-UK-Independence-Party
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wyspach	Wyspy	LOC	GPE-Great-Britain

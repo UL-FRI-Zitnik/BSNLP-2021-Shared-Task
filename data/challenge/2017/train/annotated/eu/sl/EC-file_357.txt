@@ -1,0 +1,14 @@
+357
+evropska komisija	evropska komisija	ORG	1
+evropa.gov.si	evropa.gov.si	ORG	40124
+evropske unije	evropska unija	ORG	6
+eu	eu	ORG	6
+evropski parlament	evropski parlament	ORG	14
+sodiščem evropske unije	sodišče evropske unije	ORG	239
+komisije	komisija	ORG	1
+unije	unija	ORG	6
+evropske komisije	evropska komisija	ORG	1
+evropski svet	evropski svet	ORG	42
+evropsko komisijo	evropska komisija	ORG	1
+evropskemu parlamentu	evropski parlament	ORG	14
+evropskega parlamenta	evropski parlament	ORG	14

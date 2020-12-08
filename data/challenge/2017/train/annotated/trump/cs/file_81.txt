@@ -1,0 +1,13 @@
+81
+donald trump	donald trump	PER	1
+queen	queen	ORG	153
+rádio beat	rádio beat	ORG	154
+brian	brian	PER	155
+republikány	republikáni	ORG	118
+usa	usa	LOC	2
+trump	trump	PER	1
+trumpa	trump	PER	1
+brian may	brian may	PER	155
+bmi	bmi	ORG	156
+ascap	ascap	ORG	157
+clevelandu	cleveland	LOC	158

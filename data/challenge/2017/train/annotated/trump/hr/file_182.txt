@@ -1,0 +1,33 @@
+182
+donald trump	donald trump	PER	1
+hillary clinton	hillary clinton	PER	3
+extra tv	extra tv	ORG	51000
+trump	trump	PER	1
+hillary	hillary	PER	3
+engleske	engleska	LOC	50180
+ivan gaunt	ivan gaunt	PER	50181
+katherine swynord	katherine swynford	PER	50182
+joana beauforta	joan beaufort	PER	50183
+westmorland	westmorland	LOC	50184
+clintonove	clinton	PER	3
+john beaufort i grof od someerseta	john beaufort i grof od someerseta	PER	50185
+trumpov	trump	PER	1
+edwarda iii	edward iii	PER	50186
+plantagenet	plantagenet	ORG	50175
+bridge anne d'avignon	bridge anne d'avignon	PER	50176
+sad-a	sad	LOC	2
+ivanom	ivan	PER	50174
+plantagenet	platnagenet	ORG	50175
+ivan bez zemlje	ivan bez zemlje	PER	50174
+john lackland	john lackland	PER	51001
+johna lacklanda	john lackland	PER	51001
+bridgeanne d'avignon	bridge anne d'avignon	PER	50176
+sad-a	sad	LOC	2
+georgeom washingtonom	george washington	PER	50177
+mildred reade	mildred reade	PER	50178
+georgea washingtona	george washington	PER	50177
+baracka obame	barack obama	PER	16
+donalda trumpa	donald trump	PER	1
+plantagenet	plantagenet	ORG	50175
+washington times	washington times	ORG	50179
+americi	amerika	LOC	2

@@ -1,0 +1,18 @@
+330
+evropska komisija	evropska komisija	ORG	1
+evropski komisiji	evropska komisija	ORG	1
+evropske unije	evropska unija	LOC	6
+evropskemu parlamentu	evropski parlament	ORG	14
+evropskemu svetu	evropski svet	ORG	42
+eu	eu	LOC	6
+sodiščem eu	sodišče eu	ORG	239
+evropsko unijo	evropska unija	LOC	6
+evropsko komisijo	evropska komisija	ORG	1
+slovenije	slovenija	LOC	295
+violeta bulc	violeta bulc	PER	40044
+spbr	spbr	ORG	40045
+evropske komisije	evropska komisija	ORG	1
+stalno predstavništvo rs pri eu	stalno predstavništvo rs pri eu	ORG	40045
+rue du commerce	rue du commerce	LOC	40046
+bruselj	bruselj	LOC	28
+ministrstvo za zunanje zadeve republike slovenije	ministrstvo za zunanje zadeve republike slovenije	ORG	40047

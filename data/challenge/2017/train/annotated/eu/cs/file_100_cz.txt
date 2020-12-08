@@ -1,0 +1,12 @@
+100
+evropská komise	evropská komise	ORG	1
+česku	česko	LOC	20
+regionální rada regionu soudržnosti severovýchod	regionální rada regionu soudržnosti severovýchod	ORG	75
+českou republikou	česká republika	LOC	20
+evropskou komisí	evropská komise	ORG	1
+evropské komise	evropská komise	ORG	1
+radka burketová	radka burketová	PER	76
+česká republika	česká republika	LOC	20
+eia	eia	MISC	77
+bruselu	brusel	LOC	28
+daniel braun	daniel braun	PER	78

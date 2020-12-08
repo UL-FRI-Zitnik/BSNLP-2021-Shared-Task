@@ -1,0 +1,20 @@
+150
+evropská komise	evropská komise	ORG	1
+mmr	mmr	ORG	104
+evropské komise	evropská komise	ORG	1
+ministerstva pro místní rozvoj	ministerstvo pro místní rozvoj	ORG	104
+praze	praha	LOC	87
+česká republika	česká republika	LOC	20
+olga letáčková	olga letáčková	PER	106
+evropskou komisi	evropská komise	ORG	1
+generálního ředitelství pro regionální a městskou politiku	generální ředitelství pro regionální a městskou politiku	ORG	107
+dg regio	dg regio	ORG	107
+generálního ředitelství pro zaměstnanost, sociální věci a sociální začleňování	generální ředitelství pro zaměstnanost, sociální věci a sociální začleňování	ORG	108
+dg empl	dg empl	ORG	108
+generálního ředitelství pro zemědělství a rozvoj venkova	generální ředitelství pro zemědělství a rozvoj venkova	ORG	109
+dg agri	dg agri	ORG	109
+generálního ředitelství pro námořní záležitosti a rybolov	generální ředitelství pro námořní záležitosti a rybolov	ORG	110
+dg mare	dg mare	ORG	110
+erich unterwurzacher	erich unterwurzacher	PER	111
+eu	eu	LOC	6
+veronika vároši	veronika vároši	PER	112

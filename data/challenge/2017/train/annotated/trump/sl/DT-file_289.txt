@@ -1,0 +1,17 @@
+289
+zda	zda	LOC	2
+sta	sta	ORG	40011
+primorski dnevnik	primorski dnevnik	ORG	40012
+new york	new york	LOC	4
+donalda trumpa	donald trump	PER	1
+mika penca	mike pence	PER	120
+belo hišo	bela hiša	LOC	111
+donald trump	donald trump	PER	1
+trump	trump	PER	1
+hillary clinton	hillary clinton	PER	3
+trumpovi	trump	PER	1
+bele hiše	bela hiša	LOC	111
+clintonovo	clintonova	PER	3
+clintonovi	clintonova	PER	3
+ohia	ohio	LOC	10056
+johna kasicha	john kasich	PER	397

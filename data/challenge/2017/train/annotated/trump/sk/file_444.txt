@@ -1,0 +1,15 @@
+444
+donald trump	donald trump	PER	1
+nový čas	nový čas	ORG	252
+ap	ap	ORG	81
+stevena mnuchina	steven mnuchin	PER	253
+republikánov	republikáni	ORG	118
+mnuchinovu	mnuchin	PER	253
+trump	trump	PER	1
+mnuchin	mnuchin	PER	253
+goldman sachs	goldman sachs	ORG	254
+trumpom	trump	PER	1
+elaine chaovú	elaine chao	PER	255
+senáte	senát	ORG	256
+kentucky	kentucky	LOC	257
+mitcha mcconnella	mitch mcconnell	PER	258

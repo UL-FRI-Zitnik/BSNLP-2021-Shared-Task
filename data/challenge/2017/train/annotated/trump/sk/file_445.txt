@@ -1,0 +1,3 @@
+445
+donald trump	donald trump	PER	1
+slovenskej republiky	slovenska republika	LOC	259

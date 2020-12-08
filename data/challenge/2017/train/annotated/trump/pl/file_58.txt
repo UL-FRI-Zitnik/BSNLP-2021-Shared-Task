@@ -1,0 +1,64 @@
+﻿58
+donald trump	donald trump	PER	1
+usa	usa	LOC	2
+gazetaliberty.com	gazetaliberty.com	ORG	20800
+amerykanie	amerykanie	PER	17
+republikanów	republikanie	PER	118
+mike’a tysona	mike tyson	PER	20801
+arsenalu londyn	arsenal londyn	ORG	20802
+tour de trump	tour de trump	MISC	20803
+trumpa	trump	PER	1
+hillary clinton	hillary clinton	PER	3
+stanach	stany	LOC	2
+toma brady’ego	tom brady	PER	20804
+new england patriots	new england patriots	ORG	20805
+johna daly’ego	john daly	PER	20806
+chicago bulls	chicago bulls	ORG	350
+denisa rodmana	denis rodman	PER	20808
+clay buchholz	clay buchholz	PER	20809
+johnny damon	johnny damon	PER	20810
+tysona	tyson	PER	20801
+hulka hogana	hulk hogan	PER	20811
+tito ortiza	tito ortiz	PER	20812
+mma	mma	ORG	20813
+ufc	ufc	ORG	20814
+danę white’a	dana white	PER	20815
+alex rodriguez	alex rodriguez	PER	20816
+abby wambach	abby wambach	ORG	20817
+martina navratilova	martina navratilova	PER	20818
+twitterowym	twitter	MISC	90
+manchesteru city	manchester city	ORG	20819
+vincent kompany	vincent kompany	PER	20820
+clinton	clinton	PER	3
+nba	nba	ORG	347
+davida sterna	david stern	PER	20822
+magica johnsona	magic johnson	PER	20823
+granta hilla	grant hill	PER	20824
+kareema abdul jabbara	kareem abdul jabbar	PER	20825
+lebrona james’a	lebron james	PER	20826
+micheala jordana	micheal jordan	PER	20827
+stanach	stany	LOC	2
+miss rhode island	miss rhode island	PER	20828
+desiree washington	desiree washington	PER	20829
+michealem spinksem	micheal spinks	PER	20830
+new jersey generals	new jersey generals	ORG	20831
+united states football league	united states football league	ORG	20832
+new jersey	new jersey	LOC	20833
+usfl	usfl	ORG	20834
+nfl	nfl	ORG	20835
+trump	donald trump	PER	1
+tour de trump	tour de trump	MISC	20803
+tour de france	tour de france	MISC	20836
+giro d’italia	giro d’italia	MISC	20837
+vuelta a espana	vuelta a espana	MISC	20838
+greg lemond	greg lemond	PER	20839
+wielkiej pętli	wielka pętla	MISC	20836
+eurosportu	eurosport	ORG	20840
+new paltz	new paltz	LOC	20841
+amerykanów	amerykanie	PER	17
+eric vanderaerden	eric vanderaerden	PER	20842
+tour dupont	tour dupont	MISC	20803
+lance armstrong	lance armstrong	PER	20843
+premier league	premier league	ORG	20844
+arsenalu	arsenal	ORG	20802
+arsena wengera	arsen wenger	PER	20845

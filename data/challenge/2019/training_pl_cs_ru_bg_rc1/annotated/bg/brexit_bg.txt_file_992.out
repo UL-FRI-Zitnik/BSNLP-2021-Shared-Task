@@ -1,0 +1,34 @@
+bg-992
+The Independent	The Independent	PRO	PRO-The-Independent
+Ирландия	Ирландия	LOC	GPE-Ireland
+Дъблин	Дъблин	LOC	GPE-Dublin
+Белфаст	Белфаст	LOC	GPE-Belfast
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Република Ирландия	Република Ирландия	LOC	GPE-Ireland
+ЕС	ЕС	ORG	ORG-European-Union
+Европейският съюз	Европейски съюз	ORG	ORG-European-Union
+The Economist	The Economist	PRO	PRO-The-Economist
+Разпети петък	Разпети петък	EVT	EVT-Good-Friday
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Мей	Мей	PER	PER-Theresa-May
+Брекзит	Брекзит	EVT	EVT-Brexit
+Йонислав Дочев	Йонислав Дочев	PER	PER-Yonislav-Donchev
+Лондон	Лондон	LOC	GPE-London
+The Guardian	The Guardian	PRO	PRO-The-Guardian
+Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+Дейвис	Дейвис	PER	PER-David-Davis
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+Европейският съд	Европейски съд	ORG	ORG-European-Court-of-Justice
+Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
+София	София	LOC	GPE-Sofia
+ЕП	ЕП	ORG	ORG-European-Parlament
+Европейския парламент	Европейски парламент	ORG	ORG-European-Parlament
+Европейският парламент	Европейски парламент	ORG	ORG-European-Parlament
+Европейският съвет	Европейски съвет	ORG	ORG-European-Council
+Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+LIBE	LIBE	ORG	ORG-LIBE
+AFCO	AFCO	ORG	ORG-AFCO
+JURI	JURI	ORG	ORG-JURI
+EMPL	EMPL	ORG	ORG-EMPL

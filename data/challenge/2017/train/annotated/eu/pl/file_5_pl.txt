@@ -1,0 +1,20 @@
+﻿5
+komisja europejska	komisja europejska	ORG	1
+encyklopedia gazety prawnej	encyklopedia gazety prawnej	MISC	20030
+unii europejskiej	unia europejska	LOC	6
+unii	unia	LOC	6
+komisja	komisja	ORG	1
+ue	ue	LOC	6
+komisji	komisja	ORG	1
+parlamentu europejskiego	parlament europejski	ORG	14
+brukseli	bruksela	LOC	28
+luksemburgu	luksemburg	LOC	117
+komisja	komisja europejska	ORG	1
+parlamentowi	parlament	ORG	14
+radzie	rada	ORG	42
+trybunałem sprawiedliwości	trybunał sprawiedliwości	ORG	239
+komisji europejskiej	komisja europejska	ORG	1
+jean-claude juncker	jean-claude juncker	PER	48
+rada europejska	rada europejska	ORG	42
+rada	rada	ORG	42
+parlament europejski	parlament europejski	ORG	14

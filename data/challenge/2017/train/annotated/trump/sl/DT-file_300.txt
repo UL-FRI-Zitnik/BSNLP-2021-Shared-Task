@@ -1,0 +1,8 @@
+300
+svet24.si	svet24.si	ORG	40058
+donald trump	donald trump	PER	1
+kamëz	kamëz	LOC	40059
+xhelal mziu	xhelal mziu	PER	40060
+facebook	facebook	MISC	40029
+trumpovi	trump	PER	1
+američanom	američani	PER	17

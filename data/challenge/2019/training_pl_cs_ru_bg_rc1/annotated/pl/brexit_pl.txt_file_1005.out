@@ -1,0 +1,39 @@
+pl-1005
+Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+Brexit	Brexit	EVT	EVT-Brexit
+Bruksela	Bruksela	LOC	GPE-Brussles
+Brukseli	Bruksela	LOC	GPE-Brussles
+Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+DUP	DUP	ORG	ORG-DUP-Democratic-Unionist-Party
+Demokratyczną Partią Unionistyczną	Demokratyczna Partia Unionistyczna	ORG	ORG-DUP-Democratic-Unionist-Party
+Dublin	Dublin	LOC	GPE-Dublin
+Europą	Europa	LOC	LOC-Europe
+Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+Irlandii	Irlandia	LOC	GPE-Ireland
+Izba Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+Liam Fox	Liam Fox	PER	PER-Liam-Fox
+Liberalni Demokraci	Liberalni Demokraci	ORG	ORG-Scottish-Liberal-Democrats
+Londyn	Londyn	LOC	GPE-London
+Londynu	Londyn	LOC	GPE-London
+LucidTalk	LucidTalk	ORG	ORG-LucidTalk
+Partia Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+Porozumienia Wielkopiątkowego	Porozumienie Wielkopiątkowe	PRO	PRO-Good-Friday-Agreement
+Republiką Irlandii	Republika Irlandii	LOC	GPE-Ireland
+Sinn Fein	Sinn Fein	ORG	ORG-Sinn-Fein
+Szkocka Partia Narodowa	Szkocka Partia Narodowa	ORG	ORG-Scottish-National-Party
+Theresa May	Theresa May	PER	PER-Theresa-May
+Turcją	Turcja	LOC	GPE-Turkey
+UE	UE	ORG	ORG-European-Union
+Ulsterem	Ulster	LOC	GPE-Ulster
+Ulsterze	Ulster	LOC	GPE-Ulster
+Unii	Unia	ORG	ORG-European-Union
+Unią	Unia	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnocie	Wspólnota	ORG	ORG-European-Union
+Wspólnotą	Wspólnota	ORG	ORG-European-Union
+Zielonej Wyspy	Zielona Wyspa	LOC	GPE-Ireland
+Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+brexit	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit
+torysów	torysi	PER	ORG-Tories

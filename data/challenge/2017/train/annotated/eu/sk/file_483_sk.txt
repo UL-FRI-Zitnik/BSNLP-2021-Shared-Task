@@ -1,0 +1,17 @@
+483
+európska komisia	európska komisia	ORG	1
+teraz.sk	teraz.sk	ORG	194
+brusel	brusel	LOC	28
+tasr	tasr	ORG	195
+ek	ek	ORG	1
+crédit agricole	crédit agricole	ORG	196
+hsbc	hsbc	ORG	197
+jpmorgan chase	jpmorgan chase	ORG	198
+eú	eú	LOC	6
+bruseli	brusel	LOC	28
+margrethe vestagerová	margrethe vestagerová	PER	35
+barclays	barclays	ORG	199
+deutsche bank	deutsche bank	ORG	200
+rbs	rbs	ORG	201
+société générale	société générale	ORG	202
+vestagerová	vestagerová	PER	35

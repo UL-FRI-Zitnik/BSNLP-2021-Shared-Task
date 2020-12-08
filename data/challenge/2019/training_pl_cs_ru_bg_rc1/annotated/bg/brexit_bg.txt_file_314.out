@@ -1,0 +1,17 @@
+bg-314
+Лондон	Лондон	LOC	GPE-London
+ЕС	ЕС	ORG	ORG-European-Union
+Брюксел	Брюксел	LOC	GPE-Brussles
+Брекзит	Брекзит	EVT	EVT-Brexit
+Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Гардиън	Гардиън	PRO	PRO-The-Guardian
+Дейвис	Дейвис	PER	PER-David-Davis
+Файненшъл таймс	Файненшъл таймс	PRO	PRO-Financial-Times
+Европейския парламент	Европейски парламент	ORG	ORG-European-Parlament
+Ги Верхофстад	Ги Верхофстад	PER	PER-Guy-Verhofstad
+Мей	Мей	PER	PER-Theresa-May
+Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+Днес+	Днес+	ORG	ORG-DnesPlus

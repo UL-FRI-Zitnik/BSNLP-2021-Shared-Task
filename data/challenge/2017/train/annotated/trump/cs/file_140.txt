@@ -1,0 +1,48 @@
+140
+donald trump	donald trump	PER	1
+bílého domu	bílý dům	LOC	111
+ahaonline.cz	ahaonline.cz	ORG	162
+donalda	donald	PER	1
+donalda trumpa	donald trump	PER	1
+spojených států amerických	spojené státy americké	LOC	2
+friedrich	friedrich	PER	2000
+spojených států	spojené státy	LOC	2
+new yorku	new york	LOC	4
+američané	američané	PER	17
+queensu	queens	LOC	125
+mary	mary	PER	164
+skotska	skotsko	LOC	165
+fred	fred	PER	163
+trumpovi	trumpovi	PER	167
+dromb	dromb	PER	167
+trumoff	trumoff	PER	167
+drumpf	drumpf	PER	167
+trump	trump	PER	1
+kew-forest	kew-forest	ORG	168
+coach‘s award	coach‘s award	MISC	169
+trumpovy	trump	PER	1
+wharton	wharton	ORG	170
+trump organization	trump organization	ORG	93
+grand hyatt hotel	grand hyatt hotel	LOC	171
+chicagu	chicago	LOC	172
+torontu	toronto	LOC	173
+atlantě	atlanta	LOC	174
+atlantic city	atlantic city	LOC	175
+taj mahal	taj mahal	LOC	176
+ivaně zelníčkové	ivana zelníčková	PER	58
+donalda jr.	donald jr.	PER	177
+ivanku	ivanka	PER	178
+erica	eric	PER	179
+trumpovým	trump	PER	1
+zlína	zlín	LOC	180
+donaldem	donald	PER	1
+marlou maples	maria maples	PER	29
+tiffany	tiffany	PER	181
+miss universe	miss universe	ORG	182
+miss universe organization	miss universe organization	ORG	182
+trumpova	trump	PER	1
+melania knauss	melania knauss	PER	183
+slovinska	slovinsko	LOC	184
+barrona williama	barron william	PER	185
+republikánskou stranu	republikánská strana	ORG	118
+barack obama	barack obama	PER	16

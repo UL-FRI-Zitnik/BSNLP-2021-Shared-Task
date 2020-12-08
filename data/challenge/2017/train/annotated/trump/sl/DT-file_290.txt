@@ -1,0 +1,14 @@
+290
+vladimir putin	vladimir putin	PER	63
+pomurec.com	pomurec.com	ORG	40019
+forbes	forbes	ORG	222
+donald trump	donald trump	PER	1
+angela merkel	angela merkel	PER	131
+xi jinping	xi jinping	PER	40022
+frančišek	frančišek	PER	20011
+forbesu	forbes	ORG	222
+putin	putin	PER	63
+sirije	sirija	LOC	188
+donalda trumpa	donald trump	PER	1
+trump	trump	PER	1
+baracku obami	barack obama	PER	16

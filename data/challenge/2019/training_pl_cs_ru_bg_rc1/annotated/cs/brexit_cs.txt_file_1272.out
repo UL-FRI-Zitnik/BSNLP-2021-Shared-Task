@@ -1,0 +1,9 @@
+cs-1272
+Brexit	Brexit	EVT	EVT-Brexit
+EU	EU	ORG	ORG-European-Union
+Evropská komise	Evropská komise	ORG	ORG-European-Commission
+Evropské unie	Evropské unie	ORG	ORG-European-Union
+Evropského parlamentu	Evropský parlament	ORG	ORG-European-Parlament
+Unie	Unie	ORG	ORG-European-Union
+Velké Británie	Velká Británie	LOC	GPE-Great-Britain
+brexitu	brexit	EVT	EVT-Brexit

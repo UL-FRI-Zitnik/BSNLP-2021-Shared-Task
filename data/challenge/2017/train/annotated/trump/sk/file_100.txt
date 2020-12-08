@@ -1,0 +1,10 @@
+100
+donald trump	donald trump	PER	1
+donald john trump	donald john trump	PER	1
+trump organization	trump organization	ORG	93
+trump entertainment resorts	trump entertainment resorts	ORG	94
+forbes 400	forbes 400	MISC	95
+usa	usa	LOC	2
+the apprentice	the apprentice	MISC	96
+nbc	nbc	ORG	97
+trump	trump	PER	1

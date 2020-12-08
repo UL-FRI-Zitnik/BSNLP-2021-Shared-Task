@@ -1,0 +1,43 @@
+pl-1179
+Adam Tomkins	Adam Tomkins	PER	PER-Adam-Tomkins
+Anglia	Anglia	LOC	GPE-England
+Barnierem	Barnier	PER	PER-Michel-Barnier
+Brexit	Brexit	EVT	EVT-Brexit
+Bruksela	Bruksela	LOC	GPE-Brussles
+Brukseli	Bruksela	LOC	GPE-Brussles
+Brukselą	Bruksela	LOC	GPE-Brussles
+Edynburg	Edynburg	LOC	GPE-Edinburgh
+Edynburgu	Edynburg	LOC	GPE-Edinburgh
+Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+Liberalni Demokraci	Liberalni Demokraci	PER	ORG-Liberal-Democrats-UK
+Lizbonie	Lizbona	LOC	GPE-Lisbon
+Londyn	Londyn	LOC	GPE-London
+Londynie	Londyn	LOC	GPE-London
+Londynu	Londyn	LOC	GPE-London
+Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+Michelem Barnierem	Michel Barnier	PER	PER-Michel-Barnier
+Neil Findlay	Neil Findlay	PER	PER-Neil-Findlay
+Nicola Sturgeon	Nicola Sturgeon	PER	PER-Nicola-Sturgeon
+Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+Sturgeon	Sturgeon	PER	PER-Nicola-Sturgeon
+Szkoci	Szkoci	PER	GPE-Scotland
+Szkocja	Szkocja	LOC	GPE-Scotland
+Szkocji	Szkocja	LOC	GPE-Scotland
+Szkocji	Szkocji	LOC	GPE-Scotland
+Szkockiego Domu	Szkocki Dom	LOC	LOC-Scottish-House
+Szkockiej Partii Narodowej	Szkocka Partia Narodowa	ORG	ORG-Scottish-National-Party
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+Walia	Walia	LOC	GPE-Wales
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+Willie Rennie	Willie Rennie	PER	PER-Willie-Rennie
+Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+brexitem	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit

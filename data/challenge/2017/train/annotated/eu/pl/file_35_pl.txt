@@ -1,0 +1,43 @@
+﻿35
+komisja europejska	komisja europejska	ORG	1
+centrum dokumentacji europejskiej w rzeszowie	centrum dokumentacji europejskiej w rzeszowie	ORG	20050
+podkarpacie	podkarpacie	LOC	20051
+polsce	polska	LOC	20002
+rp	rp	LOC	20002
+szwecji	szwecja	LOC	10113
+niemczech	niemcy	LOC	68
+przedstawicielstwa komisji europejskiej w polsce	przedstawicielstwo komisji europejskiej w polsce	ORG	20054
+rzeszów	rzeszów	LOC	20055
+unię europejską	unia europejska	LOC	6
+pke	pke	ORG	20054
+unii	unia	LOC	6
+wielkiej brytanii	wielka brytania	LOC	90
+ue	ue	LOC	6
+brexit	brexit	MISC	20057
+ukrainy	ukraina	LOC	150
+centrum dokumentacji europejskiej	centrum dokumentacji europejskiej	ORG	20050
+wsiiz	wsiiz	ORG	20059
+wergiliusza gołąbka	wergiliusz gołąbek	PER	20060
+komisją europejską	komisja europejska	ORG	1
+marka prawdę	marek prawda	PER	20061
+komisji	komisja	ORG	1
+biura wysokiego komisarza nz ds. uchodźców	biuro wysokiego komisarza nz ds. uchodźców	ORG	20062
+unhcr	unhcr	ORG	100
+instytutu badań nad cywilizacjami	instytut badań nad cywilizacjami	ORG	20064
+anna siewierska-chmaj	anna siewierska-chmaj	PER	20065
+instytutu badań nad bezpieczeństwem narodowym wsiiz	instytut badań nad bezpieczeństwem narodowym wsiiz	ORG	20066
+maciej milczanowski	maciej milczanowski	PER	20067
+komisji europejskiej	komisja europejska	ORG	1
+punktu informacyjnego europe - direct rzeszów	punkt informacyjny europe - direct rzeszów	ORG	20068
+regionalnego punktu informacyjnego eurodesk rzeszów	regionalny punkt informacyjny eurodesk rzeszów	ORG	20069
+enterprise europe network	enterprise europe network	ORG	20070
+centrum dokumentacji europejskiej	centrum dokumentacji europejskiej	ORG	20050
+dominik łazarz	dominik łazarz	PER	20071
+biura prasowego wsiiz	biuro prasowe wsiiz	ORG	20072
+cde rzeszów	cde rzeszów	ORG	20050
+henryk wolicki	henryk wolicki	PER	20073
+rzeszowa	rzeszów	LOC	20055
+mariusz szewczyk	mariusz szewczyk	PER	20074
+dębicy	dębica	LOC	22002
+mieczysław łagowski	mieczysław łagowski	PER	20075
+izby przemysłowo-handlowej w rzeszowie	izba przemysłowo-handlowa w rzeszowie	ORG	20076

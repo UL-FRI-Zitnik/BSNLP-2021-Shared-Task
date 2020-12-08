@@ -1,0 +1,9 @@
+211
+donald trump	donald trump	PER	1
+berlinu	berlin	LOC	317
+božića	božić	MISC	98
+trump	trump	PER	1
+isis	isis	ORG	121
+trump	trump	PER	1
+twitter	twitter	MISC	90
+media servis	media servis	ORG	50214

@@ -1,0 +1,22 @@
+bg-1780
+Европейците	европейци	PER	PER-Europe
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Брекзит	Брекзит	EVT	EVT-Brexit
+ЕС	ЕС	ORG	ORG-European-Union
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+британците	британци	PER	GPE-Great-Britain
+българите	българи	PER	GPE-Bulgaria
+румънците	румънци	PER	GPE-Romania
+Източен блок	Източен блок	LOC	LOC-ex-socialist-countries
+Румъния	Румъния	LOC	GPE-Romania
+България	България	LOC	GPE-Bulgaria
+българи	българи	PER	GPE-Bulgaria
+румънци	румънци	PER	GPE-Romania
+Полша	Полша	LOC	GPE-Poland
+Западна Европа	Западна Европа	LOC	LOC-Western-Europe
+източноевропейците	източноевропейци	PER	PER-Eastern-Europe
+Корнуол	Корнуол	LOC	GPE-Cornwall
+Англия	Англия	LOC	GPE-England
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+българин	българи	PER	GPE-Bulgaria
+британци	британци	PER	GPE-Great-Britain

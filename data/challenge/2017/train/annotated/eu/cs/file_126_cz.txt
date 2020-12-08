@@ -1,0 +1,24 @@
+126
+evropská komise	evropská komise	ORG	1
+peníze.cz	peníze.cz	ORG	176
+česku	česko	LOC	20
+lukáš kovanda	lukáš kovanda	PER	177
+transatlantickém obchodním a investičním partnerství	transatlantické obchodní a investiční partnerství	MISC	178
+transatlantické obchodní a investiční partnerství	transatlantické obchodní a investiční partnerství	MISC	178
+ttip	ttip	MISC	178
+evropská unie	evropská unie	LOC	6
+rady čtú	rada čtú	ORG	179
+ondřeje malého	ondřej malý	PER	180
+patricka zandla	patrick zandl	PER	181
+zuzany roithové	zuzana roithová	PER	182
+evropě	evropa	LOC	9
+visa europe	visa europe	ORG	183
+českou republiku	česká republika	LOC	20
+česká republika	česká republika	LOC	20
+slovensko	slovensko	LOC	125
+marcelem gajdošem	marcel gajdoš	PER	184
+evropský parlament	evropský parlament	ORG	14
+velká británie	velká británie	LOC	90
+německu	německo	LOC	68
+řecko	řecko	LOC	101
+tomáš prouza	tomáš prouza	PER	185

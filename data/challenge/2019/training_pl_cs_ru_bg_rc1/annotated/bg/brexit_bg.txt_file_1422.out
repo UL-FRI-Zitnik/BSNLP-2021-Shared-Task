@@ -1,0 +1,51 @@
+bg-1422
+Брюно Льо Мер	Брюно Льо Мер	PER	PER-Bruno-Le-Maire
+Франция	Франция	LOC	GPE-France
+Брекз	Брекзит	EVT	EVT-Brexit
+Лондон	Лондон	LOC	GPE-London
+Брекзит	Брекзит	EVT	EVT-Brexit
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Huffington Post	Huffington Post	PRO	PRO-Huffington-Post
+консерваторите	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+Евросъюза	Евросъюз	ORG	ORG-European-Union
+Мей	Мей	PER	PER-Theresa-May
+Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
+Джереми Хънт	Джереми Хънт	PER	PER-Jeremy-Hunt
+The Independent	The Independent	PRO	PRO-The-Independent
+ЕС	ЕС	ORG	ORG-European-Union
+Майкъл Хезълтайн	Майкъл Хезълтайн	PER	PER-Michael-Haseltine
+The Guardian	The Guardian	PRO	PRO-The-Guardian
+Хезълтайн	Хезълтайн	PER	PER-Michael-Haseltine
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Observer	Observer	PRO	PRO-Observer
+Европа	Европа	LOC	LOC-Europe
+Ирландия	Ирландия	LOC	GPE-Ireland
+Тони Блеър	Тони Блеър	PER	PER-Tony-Blair
+Джон Мейджър	Джон Мейджър	PER	PER-John-Major
+Брюксел	Брюксел	LOC	GPE-Brussles
+Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+Алеш Шмелар	Алеш Шмелар	PER	PER-Ales-Chmelar
+Норвегия	Норвегия	LOC	GPE-Norway
+Канада	Канада	LOC	GPE-Canada
+Европейската агенция за сигурността на полетите	Европейска агенция за сигурността на полетите	ORG	ORG-European-Aviation-Safety-Agency
+Европейския парламент	Европейски парламент	ORG	ORG-European-Parlament
+Ги Верхофстад	Ги Верхофстад	PER	PER-Guy-Verhofstad
+Манфред Вебер	Манфред Вебер	PER	PER-Manfred-Weber
+ЕНП	ЕНП	ORG	ORG-EPP
+ЕП	ЕП	ORG	ORG-European-Parlament
+Виктор Турмаков	Виктор Турмаков	PER	PER-Viktor-Turmakov
+Европейската агенция за лекарствата	Европейска агенция за лекарствата	ORG	ORG-European-Medicines-Agency
+Европейската агенция за химикалите	Европейска агенция за химикали	ORG	ORG-European-Chemicals-Agency
+Европейска агенциа за безопасността на полетите	Европейска агенция за безопасността на полетите	ORG	ORG-European-Aviation-Safety-Agency
+Андрю Диърден	Андрю Диърдън	PER	PER-Andrew-Dearden
+Британската медицинска асоциация	Британска медицинска асоциация	ORG	ORG-British-Medical-Association
+Дъблин	Дъблин	LOC	GPE-Dublin
+Лео Варадкар	Лео Варадкар	PER	PER-Leo-Varadkar
+Reuters	Reuters	ORG	ORG-Reuters
+Варадкар	Варадкар	PER	PER-Leo-Varadkar
+Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+Република Ирландия	Република Ирландия	LOC	GPE-Ireland
+BBC	BBC	ORG	ORG-BBC-Ltd
+Европейския съд	Европейски съд	ORG	ORG-European-Court-of-Justice
+Цанко Цолов	Цанко Цолов	PER	PER-Tsanko-Tsolov

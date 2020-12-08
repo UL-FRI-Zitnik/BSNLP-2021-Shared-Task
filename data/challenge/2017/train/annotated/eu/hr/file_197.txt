@@ -1,0 +1,14 @@
+197
+europska komisija	europska komisija	ORG	1
+hrvatsku	hrvatska	LOC	41
+komisija	komisija	ORG	1
+zorana milanovića	zoran milanović	PER	50468
+komisije	komisija	ORG	1
+jean claude juncker	jean-claude juncker	PER	48
+juncker	juncker	PER	48
+hdz	hdz	ORG	50316
+domovinski rat	domovinski rat	MISC	50469
+damir kajin	damir kajin	PER	50470
+junckera	juncker	PER	48
+hrvatskoj	hrvatska	LOC	41
+kajin	kajin	PER	50470

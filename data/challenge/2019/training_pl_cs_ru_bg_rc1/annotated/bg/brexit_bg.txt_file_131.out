@@ -1,0 +1,32 @@
+bg-131
+Мей	Мей	PER	PER-Theresa-May
+Брекзит	Брекзит	EVT	EVT-Brexit
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Франс прес	Франс прес	ORG	ORG-France-Presse
+Лондон	Лондон	LOC	GPE-London
+Брюксел	Брюксел	LOC	GPE-Brussles
+Ройтерс	Ройтерс	ORG	ORG-Reuters
+Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+Амбър Ръд	Амбър Ръд	PER	PER-Amber-Rudd
+торите	тори	PER	ORG-Conservative-and-Unionist-Party-UK
+Фокус	Фокус	ORG	ORG-Focus-News-Agency
+Крис Грейлинг	Крис Грейлинг	PER	PER-Chris-Grayling
+Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+Брандън Луис	Брандън Луис	PER	PER-Branden-Lewis
+Патрик Маклохлин	Патрик Маклохлин	PER	PER-Patrick-McLoughlin
+Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+Джеймс Броукъншър	Джеймс Броукъншър	PER	PER-James-Brokenshire
+Деймиън Грийн	Деймиън Грийн	PER	PER-Damian-Green
+Грийн	Грийн	PER	PER-Damian-Green
+Майкъл Фалън	Майкъл Фалън	PER	PER-Michael-Fallon
+Гавин Уилямсън	Гавин Уилямсън	PER	PER-Gavin-Williamson
+Прити Пател	Прити Пател	PER	PER-Priti-Patel
+Израел	Израел	LOC	GPE-Israel
+Джеръми Хънт	Джеръми Хънт	PER	PER-Jeremy-Hunt
+Дейвид Лидингтън	Дейвид Лидингтън	PER	PER-David-Lidington
+Лидингтън	Лидингтън	PER	PER-David-Lidington
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+ЕС	ЕС	ORG	ORG-European-Union
+БТА	БТА	ORG	ORG-Bulgarian-News-Agency

@@ -1,0 +1,19 @@
+cs-263
+Berlína	Berlín	LOC	GPE-Berlin
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Evropa	Evropa	LOC	LOC-Europe
+Evropy	Evropa	LOC	LOC-Europe
+Jens Stoltenberg	Jens Stoltenberg	PER	PER-Jens-Stoltenberg
+NATO	NATO	ORG	ORG-NATO
+Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+Nord Stream	Nord Stream	PRO	PRO-Nord-Stream-1
+Německa	Německo	LOC	GPE-Germany
+Německo	Německo	LOC	GPE-Germany
+Ruska	Rusko	LOC	GPE-Russia
+Ruskem	Rusko	LOC	GPE-Russia
+Severoatlantická aliance	Severoatlantická aliance	ORG	ORG-NATO
+Stoltenberg	Stoltenberg	PER	PER-Jens-Stoltenberg
+Stoltenberga	Stoltenberg	PER	PER-Jens-Stoltenberg
+Trump	Trump	PER	PER-Donald-Trump
+Trumpem	Trump	PER	PER-Donald-Trump
+USA	USA	LOC	GPE-USA

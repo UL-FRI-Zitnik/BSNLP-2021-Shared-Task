@@ -1,0 +1,19 @@
+189
+europska komisija	europska komisija	ORG	1
+informacijski centar europe direct - šibenik	informacijski centar europe direct - šibenik	ORG	50446
+europske unije	europska unija	LOC	6
+eu-a	eu	LOC	6
+komisije	komisija	ORG	1
+europske komisije	europska komisija	ORG	1
+jean-claude juncker	jean-claude juncker	PER	48
+europsko vijeće	europsko vijeće	ORG	50304
+vijeće	vijeće	ORG	50304
+europski parlament	europski parlament	ORG	14
+parlamentu	parlament	ORG	14
+komisiju	komisija	ORG	1
+vijeću	vijeće	ORG	50304
+sudom eu-a	sud eu-a	ORG	239
+bruxellesu	bruxelles	LOC	28
+luxembourgu	luksemburg	LOC	117
+komisija	komisija	ORG	1
+hrvatskoj	hrvatska	LOC	41

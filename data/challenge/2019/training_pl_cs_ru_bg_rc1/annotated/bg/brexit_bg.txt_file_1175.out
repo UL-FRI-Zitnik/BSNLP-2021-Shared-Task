@@ -1,0 +1,41 @@
+bg-1175
+Лондон	Лондон	LOC	GPE-London
+Париж	Париж	LOC	GPE-Paris
+Франция	Франция	LOC	GPE-France
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Брекзит	Брекзит	EVT	EVT-Brexit
+Рикетс	Рикетс	PER	PER-Peter-Ricketts
+Guardian	Guardian	PRO	PRO-The-Guardian
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+НАТО	НАТО	ORG	ORG-NATO
+ЕС	ЕС	ORG	ORG-European-Union
+Макрон	Макрон	PER	PER-Emmanuel-Macron
+Форин офис	Форин офис	ORG	ORG-Foreign-Office
+The Daily Express	The Daily Express	PRO	PRO-The-Daily-Express
+Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+Лейбъристката партия	Лейбъристка партия	ORG	ORG-Labour-Party-UK
+Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+Деймиън Грийн	Деймиън Грийн	PER	PER-Damian-Green
+Барние	Барние	PER	PER-Michel-Barnier
+Грийн	Грийн	PER	PER-Damian-Green
+консерватори	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+Северна Корея	Северна Корея	LOC	GPE-North-Korea
+Evening Standard	Evening Standard	PRO	PRO-Evening-Standard
+Джонсън	Джонсън	PER	PER-Boris-Johnson
+Канада	Канада	LOC	GPE-Canada
+Япония	Япония	LOC	GPE-Japan
+Южна Корея	Южна Корея	LOC	GPE-South-Korea
+Пхенян	Пхенян	LOC	GPE-Pyongyang
+Ким Чен-ун	Ким Чен-ун	PER	PER-Kim-Jong-Un
+Южна	Южна	LOC	GPE-South-Korea
+Джереми Корбин	Джереми Корбин	PER	PER-Jeremy-Corbyn
+САЩ	САЩ	LOC	GPE-USA
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+The Times	The Times	PRO	PRO-The-Times
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Корбин	Корбин	PER	PER-Jeremy-Corbyn
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Информационна агенция "Фокус"	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

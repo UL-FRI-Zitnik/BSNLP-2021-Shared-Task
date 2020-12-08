@@ -1,0 +1,5 @@
+462
+martinus.sk	martinus.sk	ORG	260
+donald j. trump	donald j. trump	PER	1
+donald trump	donald trump	PER	1
+trumpově	trump	PER	1

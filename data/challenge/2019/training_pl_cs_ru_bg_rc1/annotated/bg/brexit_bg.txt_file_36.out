@@ -1,0 +1,10 @@
+bg-36
+Лондон	Лондон	LOC	GPE-London
+ЕС	ЕС	ORG	ORG-European-Union
+Брекзит	Брекзит	EVT	EVT-Brexit
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+Ройтерс	Ройтерс	ORG	ORG-Reuters
+Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+Дейвис	Дейвис	PER	PER-David-Davis

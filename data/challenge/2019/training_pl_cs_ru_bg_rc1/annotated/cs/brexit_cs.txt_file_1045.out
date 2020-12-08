@@ -1,0 +1,30 @@
+cs-1045
+Berlína	Berlín	LOC	GPE-Berlin
+Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+Brexit	Brexit	EVT	EVT-Brexit
+Britové	Britové	PER	GPE-Great-Britain
+Brity	Britové	PER	GPE-Great-Britain
+Británie	Británie	LOC	GPE-Great-Britain
+Bruselem	Brusel	LOC	GPE-Brussles
+Buzzfeed	Buzzfeed	PRO	PRO-Buzzfeed-website
+Conservative Way Forward	Conservative Way Forward	ORG	ORG-Conservative-Way-Forward
+Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+Donaldu Trumpovi	Donald Trump	PER	PER-Donald-Trump
+EU	EU	ORG	ORG-European-Union
+Evropské unie	Evropská unie	ORG	ORG-European-Union
+Hammond	Hammond	PER	PER-Philip-Hammond
+Irskou republikou	Irská republika	LOC	GPE-Ireland
+Italy	Italové	PER	GPE-Italy
+Johnson	Johnson	PER	PER-Boris-Johnson
+Johnsonovy	Johnson	PER	PER-Boris-Johnson
+Konzervativní cesta vpřed	Konzervativní cesta vpřed	ORG	ORG-Conservative-Way-Forward
+Konzervativní strany	Konzervativní strana	ORG	ORG-Conservative-and-Unionist-Party-UK
+Němci	Němci	PER	GPE-Germany
+Philip Hammond	Philip Hammond	PER	PER-Philip-Hammond
+Severním Irskem	Severní Irsko	LOC	GPE-Northern-Ireland
+Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+Trump	Trump	PER	PER-Donald-Trump
+brexit	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit
+britského parlamentu	britský parlament	ORG	ORG-British-Parlament
+konzervativců	konzervativců	PER	ORG-Conservative-and-Unionist-Party-UK

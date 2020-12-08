@@ -1,0 +1,29 @@
+cs-1008
+Británie	Británie	LOC	GPE-Great-Britain
+Británii	Británie	LOC	GPE-Great-Britain
+Brusel	Brusel	LOC	GPE-Brussles
+Bruselem	Brusel	LOC	GPE-Brussles
+Bruselu	Brusel	LOC	GPE-Brussles
+David Davis	David Davis	PER	PER-David-Davis
+EU27	EU27	ORG	ORG-European-Union
+EU	EU	ORG	ORG-European-Union
+Evropskou komisi	Evropská komise	ORG	ORG-European-Commission
+Evropská komise	Evropská komise	ORG	ORG-European-Commission
+Financial Times	Financial Times	PRO	PRO-Financial-Times
+France 2	France 2	PRO	PRO-France-2-TV
+Horní komora britského parlamentu	Horní komora britského parlamentu	ORG	ORG-House-of-Lords
+Irskem	Irsko	LOC	GPE-Ireland
+Londýn	Londýn	LOC	GPE-London
+Londýna	Londýn	LOC	GPE-London
+Londýnem	Londýn	LOC	GPE-London
+Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+Reuters	Reuters	ORG	ORG-Reuters
+Severní Irsko	Serverní Irsko	LOC	GPE-Northern-Ireland
+Severního Irska	Serverní Irsko	LOC	GPE-Northern-Ireland
+Severním Irsku	Serverní Irsko	LOC	GPE-Northern-Ireland
+The Telegraph	The Telegraph	PRO	PRO-The-Telegraph
+Theresy Mayové	Theresa Mayová	PER	PER-Theresa-May
+brexitu	brexit	EVT	EVT-Brexit
+ministerstva pro vystoupení z EU	ministerstvo pro vystoupení z EU	ORG	ORG-Ministry-of-Brexity
+zákonu o odchodu z Evropské unie	zákon o odchodu z Evropské unie	PRO	PRO-Brexit-law
+ČTK	ČTK	ORG	ORG-CTK

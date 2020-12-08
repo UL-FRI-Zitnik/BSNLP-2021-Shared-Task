@@ -1,0 +1,22 @@
+﻿34
+donald trump	donald trump	PER	1
+usa	usa	LOC	2
+polskatimes.pl	polskatimes.pl	ORG	21200
+trumpa	trump	PER	1
+palm beach	palm beach	LOC	102
+florydzie	floryda	LOC	99
+hillary clinton	hillary clinton	PER	3
+mark singer	mark singer	PER	21202
+trump and me	trump and me	MISC	21203
+new yorkera	new yorker	ORG	21204
+singer	singer	PER	21202
+nagrodzie puliztera	nagroda puliztera	MISC	21205
+woodwardsów	woodwardsi	PER	21206
+bernsteinów	bernsteinowie	PER	21207
+woodward	woodward	PER	21206
+bernstein	bernstein	PER	21207
+the washington post	the washington post	ORG	144
+ameryki	ameryka	LOC	2
+waszyngtonu	waszyngton	LOC	47
+trump	trump	PER	1
+donald trump	donald trump	PER	1

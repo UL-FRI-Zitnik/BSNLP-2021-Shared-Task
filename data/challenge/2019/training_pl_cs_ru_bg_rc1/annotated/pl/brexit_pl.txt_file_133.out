@@ -1,0 +1,13 @@
+pl-133
+Brexit	Brexit	EVT	EVT-Brexit
+Europy	Europa	LOC	LOC-Europe
+GW	GW	PRO	PRO-Gazeta-Wyborcza
+Gazeta Wyborcza	Gazeta Wyborcza	PRO	PRO-Gazeta-Wyborcza
+Krajowej Rady Drobiarstwa	Krajowa Rada Drobiarstwa	ORG	ORG-National-Council-for-Poultry-Poland
+Niemczech	Niemcy	LOC	GPE-Germany
+Polska	Polska	LOC	GPE-Poland
+Shutterstock	Shutterstock	PRO	PRO-Shutterstock
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wyborcza	Wyborcza	PRO	PRO-Gazeta-Wyborcza
+brexit	Brexit	EVT	EVT-Brexit
+Łukasz Dominiak	Łukasz Dominiak	PER	PER-Łukasz-Dominiak

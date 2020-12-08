@@ -1,0 +1,13 @@
+153
+evropská komise	evropská komise	ORG	1
+google	google	ORG	2
+androidu	android	MISC	3
+google search	google search	MISC	4
+google chrome	google chrome	MISC	5
+googlu	google	ORG	2
+evropské unii	evropská unie	LOC	6
+maps	maps	MISC	7
+search	search	MISC	4
+gmail	gmail	MISC	8
+evropě	evropa	LOC	9
+evropské komisi	evropská komise	ORG	1

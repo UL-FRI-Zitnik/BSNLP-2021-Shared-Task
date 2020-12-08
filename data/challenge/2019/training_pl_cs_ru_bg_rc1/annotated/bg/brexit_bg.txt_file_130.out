@@ -1,0 +1,9 @@
+bg-130
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Brexit	Brexit	EVT	EVT-Brexit
+Брекзита	Брекзит	EVT	EVT-Brexit
+ЕС	ЕС	ORG	ORG-European-Union
+Ройтерс	Ройтерс	ORG	ORG-Reuters
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Брюксел	Брюксел	LOC	GPE-Brussles
+Лондон	Лондон	LOC	GPE-London

@@ -1,0 +1,4 @@
+385
+дональд трамп	дональд трамп	PER	1
+politico.com	politico.com	ORG	248
+трампа	трампа	PER	1

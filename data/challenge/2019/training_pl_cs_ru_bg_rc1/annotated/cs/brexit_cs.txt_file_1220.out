@@ -1,0 +1,18 @@
+cs-1220
+Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+Britové	Britové	PER	GPE-Great-Britain
+Británie	Británie	LOC	GPE-Great-Britain
+David Davis	David Davis	PER	PER-David-Davis
+EU	EU	ORG	ORG-European-Union
+Foxe	Fox	PER	EVT-Brexit
+Liam Fox	Liam Fox	PER	PER-Liam-Fox
+Londýně	Londýn	LOC	GPE-London
+Mayovou	Mayová	PER	PER-Theresa-May
+Mayová	Mayová	PER	PER-Theresa-May
+Mayové	Mayová	PER	PER-Theresa-May
+The Sun	The Sun	PRO	PRO-The-Sun
+Unie	Unie	ORG	ORG-European-Union
+Unií	Unie	ORG	ORG-European-Union
+brexit	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit
+britský parlament	britský parlament	ORG	ORG-British-Parlament

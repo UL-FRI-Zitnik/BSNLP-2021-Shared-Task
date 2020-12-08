@@ -1,0 +1,18 @@
+155
+donald trump	donald trump	PER	1
+donalda trumpa	donald trump	PER	1
+forbes	forbes	ORG	222
+amerikanaca	amerikanci	PER	17
+trump	trump	PER	1
+amerikanaca	amerikanci	PER	17
+microsofta	microsoft	ORG	152
+bill gates	bill gates	PER	40074
+gates	gates	PER	40074
+trump tower	trump tower	LOC	205
+petoj aveniji	peta avenija	LOC	30006
+palm beachu	palm beach	LOC	102
+floridi	florida	LOC	99
+charlestonu	charleston	LOC	50062
+južnoj karolini	južna karolina	LOC	20641
+forbes	forbes	ORG	222
+trumpova	trump	PER	1

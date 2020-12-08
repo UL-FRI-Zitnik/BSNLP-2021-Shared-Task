@@ -1,0 +1,11 @@
+466
+pc revue	pc revue	ORG	261
+donald trump	donald trump	PER	1
+apple	apple	ORG	149
+usa	usa	LOC	2
+steve jobs	steve jobs	PER	262
+liberty university	liberty university	ORG	263
+applu	apple	ORG	149
+tim cook	tim cook	PER	264
+mac	mac	MISC	265
+donalda trumpa	donald trump	PER	1

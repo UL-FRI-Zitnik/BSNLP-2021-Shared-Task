@@ -1,0 +1,13 @@
+177
+europska komisija	europska komisija	ORG	1
+kine	kina	LOC	12
+kina	kina	LOC	12
+eu	eu	LOC	6
+komisija	komisija	ORG	1
+europi	europa	LOC	9
+europska unija	europska unija	LOC	6
+eu-a	eu	LOC	6
+globalni forum o višku proizvodnih kapaciteta u čeličnoj industriji	globalni forum o višku proizvodnih kapaciteta u čeličnoj industriji	ORG	50408
+wto-a	wto	ORG	10161
+ek	ek	ORG	1
+europskoj uniji	europska unija	LOC	6

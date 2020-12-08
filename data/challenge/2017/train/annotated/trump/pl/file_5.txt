@@ -1,0 +1,14 @@
+﻿5
+donald trump	donald trump	PER	1
+time	time	ORG	126
+donaldowi trumpowi	donald trump	PER	1
+usa	usa	LOC	2
+donalda trumpa	donald trump	PER	1
+ameryce	ameryka	LOC	2
+angela merkel	angela merkel	PER	131
+hillary clinton	hillary clinton	PER	3
+turcji	turcja	LOC	10038
+recep tayyip erdogan	recep tayyip erdogan	PER	65
+rosji	rosja	LOC	78
+władimir putin	władimir putin	PER	63
+beyonce	beyonce	PER	20104

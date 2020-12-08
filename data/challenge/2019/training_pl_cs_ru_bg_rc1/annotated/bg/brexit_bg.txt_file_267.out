@@ -1,0 +1,20 @@
+bg-267
+ЕС	ЕС	ORG	ORG-European-Union
+Брекзит	Брекзит	EVT	EVT-Brexit
+Европейският съюз	Европейски съюз	ORG	ORG-European-Union
+Лондон	Лондон	LOC	GPE-London
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+БНР	БНР	ORG	ORG-Bulgarian-National-Radio
+Блумбърг	Блумбърг	ORG	ORG-Bloomberg-LP
+Frankfurter Allgemeine Zeitung	Frankfurter Allgemeine Zeitung	PRO	PRO-Frankfurter-Allgemeine-Zeitung
+Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+Германия	Германия	LOC	GPE-Germany
+Брезкит	Брекзит	EVT	EVT-Brexit
+Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+Барние	Барние	PER	PER-Michel-Barnier
+FAZ	FAZ	PRO	PRO-Frankfurter-Allgemeine-Zeitung
+Дейвис	Дейвис	PER	PER-David-Davis
+Хамънд	Хамънд	PER	PER-Philip-Hammond

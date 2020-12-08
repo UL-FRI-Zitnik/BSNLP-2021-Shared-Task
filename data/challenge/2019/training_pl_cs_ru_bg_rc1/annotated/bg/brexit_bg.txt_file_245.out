@@ -1,0 +1,44 @@
+﻿bg-245
+Евродепутатите	евродепутати	PER	ORG-European-Parlament
+Брекзит	Брекзит	EVT	EVT-Brexit
+евродепутатите	евродепутати	PER	ORG-European-Parlament
+София	София	LOC	GPE-Sofia
+ЕС	ЕС	ORG	ORG-European-Union
+Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+Доналд Туск	Доналд Туск	PER	PER-Donald-Tusk
+Жан-Клод Юнкер	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+евродепутати	евродепутати	PER	ORG-European-Parlament
+Ги Верхофстад	Ги Верхофстад	PER	PER-Guy-Verhofstad
+еврозоната	Еврозона	LOC	LOC-Eurozone
+Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+Манфред Вебер	Манфред Вебер	PER	PER-Manfred-Weber
+ЕНП	ЕНП	ORG	ORG-EPP
+Германия	Германия	LOC	GPE-Germany
+Мария Жуан Родригеш	Мария Жуан Родригеш	PER	PER-Maria-Juan-Rodriguez
+С и Д	С и Д	ORG	ORG-Socialists&Democrats
+Португалия	Португалия	LOC	GPE-Portugal
+Сайед Камал	Сайед Камал	PER	PER-Syed-Kamall
+АЛДЕ	АЛДЕ	ORG	ORG-ALDE
+Белгия	Белгия	LOC	GPE-Belgium
+Такис Хаджигеоргиу	Такис Хаджигеоргиу	PER	PER-Takis-Hadjigeorgiou
+Хаджигеоргиу	Хаджигеоргиу	PER	PER-Takis-Hadjigeorgiou
+Кипър	Кипър	LOC	GPE-Cyprus
+Ска Келер	Ска Келер	PER	PER-Ska-Keller
+Зелените	Зелените	ORG	ORG-Die-Grunen
+Роландас Паксас	Роландас Паксас	PER	PER-Rolandas-Paksas
+ЕСПД	ЕСПД	ORG	ORG-Party-Order-and-Justice
+Литва	Литва	LOC	GPE-Lithuania
+Марсел де Граф	Марсел де Граф	PER	PER-Marcel-de-Graaff
+Марсел	Марсел	PER	PER-Marcel-de-Graaff
+Нидерландия	Нидерландия	LOC	GPE-Holland
+Светослав Малинов	Светослав Малинов	PER	PER-Svetoslav-Malinov
+България	България	LOC	GPE-Bulgaria
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+Brexit	Brexit	EVT	EVT-Brexit
+французи	французи	PER	GPE-France
+германци	германци	PER	GPE-Germany
+поляци	поляци	PER	GPE-Poland
+българи	българи	PER	GPE-Bulgaria
+румънци	румънци	PER	GPE-Romania
+ЕП	ЕП	ORG	ORG-European-Parlament

@@ -1,0 +1,21 @@
+﻿27
+komisja europejska	komisja europejska	ORG	1
+europy	europa	LOC	9
+euractiv.pl	euractiv.pl	ORG	20036
+brukseli	bruksela	LOC	28
+rady europejskiej	rada europejska	ORG	42
+stanach zjednoczonych	stany zjednoczone	LOC	11
+ke	ke	ORG	1
+komisja	komisja	ORG	1
+ue	ue	LOC	6
+chin	chiny	LOC	20038
+państwie środka	państwo środka	LOC	20038
+jean-claude juncker	jean-claude juncker	PER	48
+parlamentu europejskiego	parlament europejski	ORG	14
+rady	rada	ORG	42
+usa	usa	LOC	11
+james watson	james watson	PER	20039
+solareurope	solar europe	ORG	20040
+komisji	komisja	ORG	1
+jyrki katainen	jyrki katainen	PER	10147
+chinach	chiny	LOC	20038

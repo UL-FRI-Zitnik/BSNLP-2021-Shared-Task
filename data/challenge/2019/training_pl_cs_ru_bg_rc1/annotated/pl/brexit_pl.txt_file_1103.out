@@ -1,0 +1,24 @@
+pl-1103
+Barnier	Barnier	PER	PER-Michel-Barnier
+Bruksela	Bruksela	LOC	GPE-Brussles
+DUP	DUP	ORG	ORG-DUP-Democratic-Unionist-Party
+David Davis	David Davis	PER	PER-David-Davis
+Demokratycznej Partii Unionistycznej	Demokratyczna Partia Unionistyczna	ORG	ORG-DUP-Democratic-Unionist-Party
+Dublinowi	Dublin	LOC	GPE-Dublin
+Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+Irlandią	Irlandia	LOC	GPE-Ireland
+Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+Londyn	Londyn	LOC	GPE-London
+Londynu	Londyn	LOC	GPE-London
+Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+Porozumienie Wielkopiątkowe	Porozumienie Wielkopiątkowe	PRO	PRO-Good-Friday-Agreement
+Theresa May	Theresa May	PER	PER-Theresa-May
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+brexit	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit
+torysów	torysi	PER	ORG-Tories

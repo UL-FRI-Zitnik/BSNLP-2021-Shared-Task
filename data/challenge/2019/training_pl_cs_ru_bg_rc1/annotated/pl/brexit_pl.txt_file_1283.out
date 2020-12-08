@@ -1,0 +1,18 @@
+pl-1283
+Brukseli	Bruksela	LOC	GPE-Brussles
+Gibraltar	Gibraltar	LOC	GPE-Gibraltar
+Gibraltaru	Gibraltar	LOC	GPE-Gibraltar
+Hiszpanią	Hiszpania	LOC	GPE-Spain
+Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+Irlandią	Irlandia	LOC	GPE-Ireland
+Izba Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+Londyn	Londyn	LOC	GPE-London
+Madrytu	Madryt	LOC	GPE-Madrid
+Parlament Europejski	Parlament Europejski	ORG	ORG-European-Parlament
+Theresa May	Theresa May	PER	PER-Theresa-May
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+brexit	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit

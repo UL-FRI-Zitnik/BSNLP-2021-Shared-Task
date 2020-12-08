@@ -1,0 +1,15 @@
+113
+evropská komise	evropská komise	ORG	1
+vw	vw	ORG	15
+evropě	evropa	LOC	9
+auto.cz	auto.cz	ORG	70
+volkswagen	volkswagen	ORG	15
+spojených státech	spojené státy	LOC	11
+reuters	reuters	ORG	13
+věra jourová	věra jourová	PER	46
+christiana wiganda	christian wigand	PER	71
+volkswagenu	volkswagen	ORG	15
+matthias müller	matthias müller	PER	72
+usa	usa	LOC	11
+welt am sonntag	welt am sonntag	ORG	73
+elžbieta bieńkowská	elžbieta bieńkowská	PER	74

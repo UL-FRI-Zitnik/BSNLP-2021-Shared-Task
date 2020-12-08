@@ -1,0 +1,24 @@
+473
+donald trump	donald trump	PER	1
+tvnoviny.sk	tvnoviny.sk	ORG	293
+donalda trumpa	donald trump	PER	1
+republikánskej strany	republikánska strana	ORG	118
+usa	usa	LOC	2
+monológy vagíny	monológy vagíny	MISC	294
+eve enslerová	eve enslerová	PER	295
+jodie evansová	jodie evansová	PER	296
+kimberlé crenshawová	kimberlé crenshawová	PER	297
+harry belafonte	harry belafonte	PER	298
+danny glover	danny glover	PER	299
+kerry washingtonová	kerry washingtonová	PER	300
+jane fonda	jane fonda	PER	301
+rosanna arquettová	rosanna arquettová	PER	302
+jonathan demme	jonathan demme	PER	303
+trumpa	trump	PER	1
+trump	trump	PER	1
+američanom	američania	PER	17
+crenshawová	crenshawová	PER	297
+trumpových	trump	PER	1
+stophatedumptrump.com	stophatedumptrump.com	MISC	304
+trumpovými	trump	PER	1
+mexika	mexiko	LOC	116

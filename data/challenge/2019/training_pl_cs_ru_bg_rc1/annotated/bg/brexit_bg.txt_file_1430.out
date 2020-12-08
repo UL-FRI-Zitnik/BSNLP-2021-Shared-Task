@@ -1,0 +1,12 @@
+bg-1430
+Reuters	Reuters	ORG	ORG-Reuters
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Брекзит	Брекзит	EVT	EVT-Brexit
+Лондон	Лондон	LOC	GPE-London
+ЕС	ЕС	ORG	ORG-European-Union
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Виктор Турмаков	Виктор Турмаков	PER	PER-Viktor-Turmakov
+Информационна агенция "Фокус"	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency
+Информационна агенция ФОКУС	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency
+Закона за авторското право и сродните му права	Закон за авторското право и сродните му права	PRO	PRO-Bulgarian-Copyright-and-Related-Rights-Act
+България	България	LOC	GPE-Bulgaria

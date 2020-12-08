@@ -1,0 +1,17 @@
+pl-1542
+Bloomberg Television	Bloomberg Television	PRO	PRO-Bloomberg
+Bożym Narodzeniem	Boże Narodzenie	EVT	EVT-Christmas
+Brexicie	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+Europie	Europa	LOC	LOC-Europe
+Hiszpanii	Hiszpania	LOC	GPE-Spain
+Irlandii	Irlandia	LOC	GPE-Ireland
+Michael O'Leary	Michael O'Leary	PER	PER-Michael-OLeary
+Niemczech	Niemcy	LOC	GPE-Germany
+O'Leary	O'Leary	PER	PER-Michael-OLeary
+Portugalii	Portugalia	LOC	GPE-Portugal
+Ryanair	Ryanair	ORG	ORG-Ryanair
+Ryanaira	Ryanair	ORG	ORG-Ryanair
+UE	UE	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+W.Brytania	W.Brytania	LOC	GPE-Great-Britain

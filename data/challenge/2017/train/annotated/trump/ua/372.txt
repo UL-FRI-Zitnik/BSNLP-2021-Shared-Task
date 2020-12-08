@@ -1,0 +1,14 @@
+372
+дональд трамп	дональд трамп	PER	1
+доональд джон трамп	доональд джон трамп	PER	1
+сша	сша	LOC	2
+республіканської партії	республіканська партія	ORG	118
+трамп	трамп	PER	1
+trump organization	trump organization	ORG	93
+trump entertainment resorts	trump entertainment resorts	ORG	94
+міс сша	міс сша	MISC	30085
+кандидат	кандидат	MISC	30086
+nbc	nbc	ORG	97
+демократичної партії	демократична партія	ORG	112
+хілларі клінтон	хілларі клінтон	PER	3
+рональда рейгана	рональд рейган	PER	30087

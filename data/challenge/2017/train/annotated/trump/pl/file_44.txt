@@ -1,0 +1,12 @@
+﻿44
+donald trump	donald trump	PER	1
+fundacji clintonów	fundacja clintonów	ORG	20710
+gazetakrakowska.pl	gazetakrakowska.pl	ORG	20711
+donalda trumpa	donald trump	PER	1
+trumpa	trump	PER	1
+kellyanne conway	kellyanne conway	PER	20712
+hillary clinton	hillary clinton	PER	3
+msnbc	msnbc	ORG	20019
+clinton	clinton	PER	3
+stanów zjednoczonych	stany zjednoczone	LOC	2
+cbs	cbs	ORG	206

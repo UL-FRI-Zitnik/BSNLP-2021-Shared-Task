@@ -1,0 +1,12 @@
+bg-1431
+Reuters	Reuters	ORG	ORG-Reuters
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+ЕС	ЕС	ORG	ORG-European-Union
+Лондон	Лондон	LOC	GPE-London
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Брекзит	Брекзит	EVT	EVT-Brexit
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+британците	британци	PER	GPE-Great-Britain
+Мей	Мей	PER	PER-Theresa-May
+Виктор Турмаков	Виктор Турмаков	PER	PER-Viktor-Turmakov
+Информационна агенция "Фокус"	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

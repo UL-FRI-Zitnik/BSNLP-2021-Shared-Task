@@ -1,0 +1,24 @@
+cs-231
+Baltským mořem	Baltské moře	LOC	LOC-Baltic-Sea
+Engie	Engie	ORG	ORG-Engie
+Evropany	Evropané	PER	LOC-Europe
+Finsko	Finsko	LOC	GPE-Finland
+Gazprom	Gazprom	ORG	ORG-Gazprom
+Nizozemska	Nizozemsko	LOC	GPE-Holland
+Nord Stream 2	Nord Stream 2	PRO	PRO-Nord-Stream-2
+North Stream 2	North Stream 2	PRO	PRO-Nord-Stream-2
+Německa	Německo	LOC	GPE-Germany
+Německo	Německo	LOC	GPE-Germany
+OMV	OMV	ORG	ORG-OMV
+Paul Corcoran	Paul Corcoran	PER	PER-Paul-Corcoran
+Rakouska	Rakousko	LOC	GPE-Austria
+Rusko	Rusko	LOC	GPE-Russia
+Shell	Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
+Spojenými státy	Spojené státy	LOC	GPE-USA
+Trump	Trump	PER	PER-Donald-Trump
+Trumpa	Trump	PER	PER-Donald-Trump
+Uniper	Uniper	ORG	ORG-Uniper
+Washingtonu	Washington	LOC	GPE-Washington
+Welt	Welt	PRO	PRO-Die-Welt
+Wintershall	Wintershall	ORG	ORG-Wintershall
+Švédsko	Švédsko	LOC	GPE-Sweden

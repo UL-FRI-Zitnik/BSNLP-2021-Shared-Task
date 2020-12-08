@@ -1,0 +1,20 @@
+bg-1776
+Юнкер	Юнкер	PER	PER-Jean-Claude-Juncker
+Брекзит	Брекзит	EVT	EVT-Brexit
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+ЕС	ЕС	ORG	ORG-European-Union
+Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+Жан-Клод Юнкер	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+Ройтерс	Ройтерс	ORG	ORG-Reuters
+Европейския парламент	Европейски парламент	ORG	ORG-European-Parlament
+Страсбург	Страсбург	LOC	GPE-Strasbourg
+ЕК	ЕК	ORG	ORG-European-Commission
+Лондон	Лондон	LOC	GPE-London
+Брюксел	Брюксел	LOC	GPE-Brussles
+Ирландия	Ирландия	LOC	GPE-Ireland
+Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+Споразумението "Добрият петък"	Споразумение Добрият петък	PRO	PRO-Good-Friday-Agreement
+Белфаст	Белфаст	LOC	GPE-Belfast
+Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+европарламента	европарламент	ORG	ORG-European-Parlament
+Барние	Барние	PER	PER-Michel-Barnier

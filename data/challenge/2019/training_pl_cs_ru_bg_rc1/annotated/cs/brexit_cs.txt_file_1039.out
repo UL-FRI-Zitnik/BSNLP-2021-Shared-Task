@@ -1,0 +1,21 @@
+cs-1039
+BBC	BBC	ORG	ORG-BBC-Ltd
+Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+Britů	Britové	PER	GPE-Great-Britain
+BuzzFeed	BuzzFeed	ORG	ORG-BuzzFeed-Inc
+Downing Street	Downing Street	LOC	LOC-Downing-Street
+Evropské unie	Evropská unie	ORG	ORG-European-Union
+Johnson	Johnson	PER	PER-Boris-Johnson
+Johnsona	Johnson	PER	PER-Boris-Johnson
+Johnsonovým	Johnson	PER	PER-Boris-Johnson
+Londýn	Londýn	LOC	GPE-London
+Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+Philip Hammond	Philip Hammond	PER	PER-Philip-Hammond
+Radiožurnál	Radiožurnál	PRO	PRO-Radiozurnal
+Reuters	Reuters	ORG	ORG-Reuters
+Theresy Mayové	Theresa Mayová	PER	PER-Theresa-May
+Toby Melville	Toby Melville	PER	PER-Tobi-Melvile
+Trump	Trump	PER	PER-Donald-Trump
+Velká Británie	Velká Británie	LOC	GPE-Great-Britain
+brexit	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit

@@ -1,0 +1,21 @@
+474
+európska komisia	európska komisia	ORG	1
+slovenska	slovensko	LOC	125
+itapa	itapa	ORG	223
+európskej komisie	európska komisia	ORG	1
+jeana-claudea junckera	jeana-claude juncker	PER	48
+rade európskej únie	rada európskej únie	ORG	190
+slovensko	slovensko	LOC	125
+dušan chrenek	dušan chrenek	PER	224
+slovensku	slovensko	LOC	125
+jean-claude juncker	jeana-claude juncker	PER	48
+slovenskej republiky	slovenská republika	LOC	125
+andrejom kiskom	andrej kiska	PER	225
+sr	sr	LOC	125
+robertom ficom	robert fico	PER	218
+bratislave	bratislava	LOC	226
+európskej únie	európska únia	LOC	6
+národnej rady slovenskej republiky	národná rada slovenské republiky	ORG	227
+andrejom dankom	andrej danko	PER	228
+európskej únii	európska únia	LOC	6
+eú	eú	LOC	6

@@ -1,0 +1,11 @@
+pl-1159
+Amerykanin	Amerykanin	PER	GPE-USA
+Brexit	Brexit	EVT	EVT-Brexit
+Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+George Soros	George Soros	PER	PER-George-Soros
+Paryżu	Paryż	LOC	GPE-Paris
+Politico	Politico	PRO	PRO-Politico
+Soros	Soros	PER	PER-George-Soros
+UE	UE	ORG	ORG-European-Union
+Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+brexit	Brexit	EVT	EVT-Brexit

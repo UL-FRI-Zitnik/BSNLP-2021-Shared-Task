@@ -1,0 +1,20 @@
+cs-1153
+BBC	BBC	PRO	PRO-BBC-website
+Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+Brexit	Brexit	EVT	EVT-Brexit
+Brity	Britové	PER	GPE-Great-Britain
+Británie	Británie	LOC	GPE-Great-Britain
+Británii	Británie	LOC	GPE-Great-Britain
+Bruselem	Brusel	LOC	GPE-Brussles
+Daily Express	Daily Express	PRO	PRO-Daily-Express
+David Davis	David Davis	PER	PER-David-Davis
+EU	EU	ORG	ORG-European-Union
+Liam Fox	Liam Fox	PER	PER-Liam-Fox
+Mayová	Mayová	PER	PER-Theresa-May
+Spojené království	Spojené království	LOC	GPE-Great-Britain
+Theresy Mayové	Theresa Mayová	PER	PER-Theresa-May
+UK	UK	LOC	GPE-Great-Britain
+Unie	Unie	ORG	ORG-European-Union
+brexit	brexit	EVT	EVT-Brexit
+brexitem	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit

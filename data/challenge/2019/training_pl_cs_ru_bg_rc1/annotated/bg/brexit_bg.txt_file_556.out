@@ -1,0 +1,9 @@
+bg-556
+ING	ING	ORG	ORG-ING-Group
+Брекзит	Брекзит	EVT	EVT-Brexit
+Вирадж Пател	Вирадж Пател	PER	PER-Viraj-Patel
+Брезкит	Брекзит	EVT	EVT-Brexit
+Пател	Пател	PER	PER-Viraj-Patel
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+ЕС	ЕС	ORG	ORG-European-Union
+Великобритания	Великобритания	LOC	GPE-Great-Britain

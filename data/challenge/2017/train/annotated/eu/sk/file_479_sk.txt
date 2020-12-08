@@ -1,0 +1,15 @@
+479
+európska komisia	európska komisia	ORG	1
+sita	sita	ORG	211
+ek	ek	ORG	1
+eú	eú	LOC	6
+spoločný konsolidovaný základ dane z príjmov právnických osôb	spoločný konsolidovaný základ dane z príjmov právnických osôb	MISC	275
+common consolidated corporate tax base	common consolidated corporate tax base	MISC	275
+ccctb	ccctb	MISC	275
+európskej komisie	európska komisia	ORG	1
+sr	sr	LOC	125
+valdis dombrovskis	valdis dombrovskis	PER	276
+dombrovskis	dombrovskis	PER	276
+pierre moscovici	pierre moscovici	PER	245
+brusel	brusel	LOC	28
+sita a.s.	sita a.s.	ORG	211

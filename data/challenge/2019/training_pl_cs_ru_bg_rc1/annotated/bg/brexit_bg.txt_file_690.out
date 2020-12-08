@@ -1,0 +1,10 @@
+bg-690
+Лондон	Лондон	LOC	GPE-London
+Брекзит	Брекзит	EVT	EVT-Brexit
+ЕС	ЕС	ORG	ORG-European-Union
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+Брюксел	Брюксел	LOC	GPE-Brussles
+Политико	Политико	ORG	ORG-Politico
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Мей	Мей	PER	PER-Theresa-May

@@ -1,0 +1,13 @@
+bg-307
+Брекзит	Брекзит	EVT	EVT-Brexit
+Гибралтар	Гибралтар	LOC	GPE-Gibraltar
+Алфонсо Дастис	Алфонсо Дастис	PER	PER-Alfonso-Dastis
+Испания	Испания	LOC	GPE-Spain
+Мадрид	Мадрид	LOC	GPE-Madrid
+Франс прес	Франс прес	ORG	ORG-France-Presse
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+ЕС	ЕС	ORG	ORG-European-Union
+Дастис	Дастис	PER	PER-Alfonso-Dastis
+испанци	испанци	PER	GPE-Spain
+гибралтарци	гибралтарци	PER	GPE-Gibraltar
+Брекзита	Брекзит	EVT	EVT-Brexit

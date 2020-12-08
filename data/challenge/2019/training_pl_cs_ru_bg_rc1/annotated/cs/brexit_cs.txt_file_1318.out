@@ -1,0 +1,30 @@
+cs-1318
+Brexit	brexit	EVT	EVT-Brexit
+Británie	Británie	LOC	GPE-Great-Britain
+Británii	Británie	LOC	GPE-Great-Britain
+Corbyn	Corbyn	PER	PER-Jeremy-Corbyn
+Corbyna	Corbyn	PER	PER-Jeremy-Corbyn
+Dolní sněmovně	Dolní sněmovna	ORG	ORG-House-of-Commons
+EU	EU	ORG	ORG-European-Union
+Indie	Indie	LOC	GPE-India
+Irskem	Irsko	LOC	GPE-Ireland
+Keir Starmer	Keir Starmer	PER	PER-Keir-Starmer
+Konzervatiní strana	Konzervatiní strana	ORG	ORG-Conservative-and-Unionist-Party-UK
+Labouristé	Labouristé	PER	ORG-Labour-Party-UK
+Lamanšský průliv	Lamanšský průliv	LOC	LOC-English-Channel
+Londýn	Londýn	LOC	GPE-London
+Mayovou	Mayová	PER	PER-Theresa-May
+Mayové	Mayová	PER	PER-Theresa-May
+Mini	Mini	PRO	PRO-Mini-Car-Model
+Mnichovem	Mnichov	LOC	GPE-Munich
+Oxfordem	Oxford	LOC	GPE-Oxford
+Oxfordu	Oxford	LOC	GPE-Oxford
+Severním Irskem	Severní Irsko	LOC	GPE-Northern-Ireland
+Warwickshirem	Warwickshir	LOC	GPE-Warwickshir
+brexit	brexit	EVT	EVT-Brexit
+brexitem	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit
+konzervativců	konzervativci	PER	ORG-Conservative-and-Unionist-Party-UK
+labouristy	labouristé	PER	ORG-Labour-Party-UK
+labouristů	labouristé	PER	ORG-Labour-Party-UK
+Čína	Čína	LOC	GPE-China

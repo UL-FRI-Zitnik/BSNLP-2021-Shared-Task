@@ -1,0 +1,11 @@
+464
+európska komisia	európska komisia	ORG	1
+ek	ek	ORG	1
+tasr	tasr	ORG	195
+eú	eú	LOC	6
+dimitris avramopulos	dimitris avramopulos	PER	62
+julian king	julian king	PER	280
+king	king	PER	280
+európsky parlament	európsky parlament	ORG	14
+schengenského informačného systému	shengenský informačný systém	MISC	230
+interpolu	interpolu	ORG	281

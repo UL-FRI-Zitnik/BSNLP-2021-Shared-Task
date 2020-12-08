@@ -1,0 +1,17 @@
+cs-1207
+Alžběty II.	Alžběta II.	PER	PER-Queen-Elizabeth-II
+Brexit	Brexit	EVT	EVT-Brexit
+Britský parlament	Britský parlament	ORG	ORG-British-Parlament
+Británie	Británie	LOC	GPE-Great-Britain
+Británii	Británie	LOC	GPE-Great-Britain
+Bruselu	Brusel	LOC	GPE-Brussles
+Dolní sněmovna	Dolní sněmovna	ORG	ORG-House-of-Commons
+EU	EU	ORG	ORG-European-Union
+Evropské unie	Evropská unie	ORG	ORG-European-Union
+Londýnu	Londýn	LOC	GPE-London
+Lordi	Lordi	PER	ORG-House-of-Lords
+Mayové	Mayová	PER	PER-Theresa-May
+Sněmovna lordů	Sněmovna lordů	ORG	ORG-House-of-Lords
+Spojenému království	Spojené království	LOC	GPE-Great-Britain
+Theresou Mayovou	Theresa Mayová	PER	PER-Theresa-May
+brexitu	brexit	EVT	EVT-Brexit

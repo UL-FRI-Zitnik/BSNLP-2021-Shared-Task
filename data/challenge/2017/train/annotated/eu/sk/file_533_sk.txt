@@ -1,0 +1,11 @@
+533
+horizont 2020	horizont 2020	MISC	19
+európska komisia	európska komisia	ORG	1
+zika	zika	MISC	203
+erc	erc	ORG	204
+marie skłodowska-curie	marie skłodowska-curie	MISC	205
+svetovou zdravotníckou organizáciou	svetovou zdravotníckou organizáciou	ORG	206
+latinskej amerike	latinská amerika	LOC	207
+era-net	era-net	MISC	208
+fp7	fp7	MISC	209
+ek	ek	ORG	1

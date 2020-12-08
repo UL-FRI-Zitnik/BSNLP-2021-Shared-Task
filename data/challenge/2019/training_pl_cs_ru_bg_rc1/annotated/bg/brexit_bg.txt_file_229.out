@@ -1,0 +1,13 @@
+bg-229
+Лондон	Лондон	LOC	GPE-London
+брекзит	Брекзит	ORG	EVT-Brexit
+ЕС	ЕС	ORG	ORG-European-Union
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Европа 1	Европа 1	PRO	PRO-Europe-1
+Се нюз	Се нюз	PRO	PRO-CNews-France
+Пиер Московиси	Пиер Московиси	PER	PER-Pierre-Moscovici
+Великобритание	Великобритания	ORG	GPE-Great-Britain
+Московиси	Московиси	PER	PER-Pierre-Moscovici
+брекзитът	брекзитът	EVT	EVT-Brexit
+Европа	Европа	LOC	LOC-Europe
+Съвета за сигурност на ООН	Съвет за сигурност на ООН	ORG	ORG-UN-Security-Council

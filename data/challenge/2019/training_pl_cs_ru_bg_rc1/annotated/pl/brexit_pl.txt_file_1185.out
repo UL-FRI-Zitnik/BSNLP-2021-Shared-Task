@@ -1,0 +1,38 @@
+pl-1185
+Barber	Barber	PER	PER-Tony-Barber
+Berlin	Berlin	LOC	GPE-Berlin
+Brexit	Brexit	EVT	EVT-Brexit
+Brexitem	Brexit	EVT	EVT-Brexit
+Bruksela	Bruksela	LOC	GPE-Brussles
+Brukseli	Bruksela	LOC	GPE-Brussles
+Europy	Europa	LOC	LOC-Europe
+Financial Timesa	Financial Times	PRO	PRO-Financial-Times
+Francji	Francja	LOC	GPE-France
+Frankfurt	Frankfurt	LOC	GPE-Frankfurt-am-Main
+Guardian	Guardian	PRO	PRO-The-Guardian
+Ligi	Liga	ORG	ORG-Lega-Nord
+Ligi	Liga	ORG	ORG-Northern-League-IT-politi
+Mattarella	Mattarella	PER	PER-Sergio-Mattarella
+Niemiec	Niemcy	LOC	GPE-Germany
+Risorgimento	Risorgimento	EVT	EVT-Risorgimento
+Ruchu Pięciu Gwiazd	Ruch Pięciu Gwiazd	ORG	ORG-Five-Star-Movement
+Sergio Mattarella	Sergio Mattarella	PER	PER-Sergio-Mattarella
+Stanley	Stanley	PER	PER-Tim-Stanley
+Telegraph	Telegraph	PRO	PRO-The-Telegraph
+The Guardian	The Guardian	PRO	PRO-The-Guardian
+The Times	The Times	PRO	PRO-The-Times
+Tima Stanleya	Tim Stanley	PER	PER-Tim-Stanley
+Times	Times	PRO	PRO-The-Sunday-Times
+Tony Barber	Tony Barber	PER	PER-Tony-Barber
+UE	UE	ORG	ORG-European-Union
+Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnocie	Wspólnota	ORG	ORG-European-Union
+Wspólnoty	Wspólnota	ORG	ORG-European-Union
+Włoch	Włochy	LOC	GPE-Italy
+Włochy	Włochy	LOC	GPE-Italy
+Włochów	Włosi	PER	GPE-Italy
+Włosi	Włosi	PER	GPE-Italy
+Włoszech	Włochy	LOC	GPE-Italy
+Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain

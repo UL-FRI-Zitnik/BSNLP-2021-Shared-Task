@@ -1,0 +1,76 @@
+﻿21
+donald trump	donald trump	PER	1
+polski	polska	LOC	20002
+cooltura	cooltura	ORG	20501
+bułgarii	bułgaria	LOC	20502
+mołdawii	mołdawia	LOC	20503
+norbert hofer	norbert hofer	PER	20504
+austrii	austria	LOC	319
+marine le pen	marine le pen	PER	20506
+francji	francja	LOC	20507
+włoszech	włochy	LOC	20508
+azji	azja	LOC	72
+ameryce południowej	ameryka południowa	LOC	381
+afryce	afryka	LOC	20511
+trump	donald trump	PER	1
+kanadą	kanada	LOC	117
+meksykiem	meksyk	LOC	116
+meksyku	meksyk	LOC	116
+chin	chiny	LOC	11
+nato	nato	ORG	251
+rosji	rosja	LOC	78
+syrii	syria	LOC	188
+ukrainie	ukrainia	LOC	10034
+meksykanów	meksykanie	PER	20513
+usa	usa	LOC	2
+sądzie najwyższym	sąd najwyższy	ORG	20514
+stany zjednoczone	stany zjednoczone	LOC	2
+obamy	obama	PER	16
+ameryki	ameryka	LOC	2
+komisji	komisja	ORG	20516
+jean-claude juncker	jean-claude juncker	PER	22000
+trumpa	trump	PER	1
+europa	europa	LOC	73
+eu	eu	LOC	387
+angela merkel	angela merkel	PER	131
+theresa may	theresa may	PER	20518
+gianni pittella	gianni pittella	PER	20519
+socjalistów	socjaliści	ORG	20520
+parlamencie europejskim	parlament europejski	ORG	20521
+europie	europa	LOC	73
+ue	ue	LOC	387
+stanach	stany	LOC	2
+liberałów	liberałowie	ORG	20522
+guy verhofstadt	guy verhofstadt	PER	20523
+hillary clinton	hillary clinton	PER	3
+wielkiej brytanii	wielka brytania	LOC	20524
+brexit	brexit	MISC	80
+wielka brytania	wielka brytania	LOC	20524
+francja	francja	LOC	20507
+węgry	węgry	LOC	20037
+brukseli	bruksela	LOC	20526
+ameryki	ameryka	LOC	2
+putin	putin	PER	63
+krymu	krym	LOC	10098
+ukrainy	ukraina	LOC	10034
+rosją	rosja	LOC	78
+partii republikańskiej	partia republikańska	ORG	118
+reince priebus	reince priebus	PER	20528
+rudy giuliani	rudy giuliani	PER	20529
+putina	putin	PER	63
+rząd polski	rząd polski	ORG	20530
+donalda trumpa	donald trump	PER	1
+ryszard czarnecki	ryszard czarnecki	PER	20531
+trumpem	trump	PER	1
+czarnecki	czarnecki	PER	20531
+waszczykowski	waszczykowski	PER	20532
+jarosławem kaczyńskim	jarosław kaczyński	PER	20035
+pis-em	pis	ORG	20043
+rząd polski	rząd polski	ORG	20530
+europy	europa	LOC	73
+kongresem polonii amerykańskiej	kongres polonii amerykańskiej	ORG	20533
+chicago	chicago	LOC	172
+polaków	polacy	PER	20014
+pis-u	pis	ORG	20043
+polsce	polska	LOC	20002
+tygodniu polskim	tygodnik polski	ORG	20535

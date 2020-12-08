@@ -1,0 +1,16 @@
+﻿bg-3
+Атина	Атина	LOC	GPE-Athens
+Брекзит	Брекзит	EVT	EVT-Brexit
+България	България	LOC	GPE-Bulgaria
+Българското председателство	Българско председателство	EVT	EVT-Bulgarian-Presidency-EU
+Варна	Варна	LOC	GPE-Varna
+Дончев	Дончев	PER	PER-Tomislav-Donchev
+Европа	Европа	LOC	LOC-Europe
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+ЕС	ЕС	ORG	ORG-European-Union
+Западните Балкани	Западни Балкани	LOC	LOC-Western-Balkans
+Комисията по регионална политика на Европейския парламент	Комисия по регионална политика на Европейския парламент	ORG	ORG-REGI
+Кохезионната политика	Кохезионна политика	PRO	PRO-Cohesion-Policy
+Лисабон	Лисабон	LOC	GPE-Lisbon
+Томислав Дончев	Томислав Дончев	PER	PER-Tomislav-Donchev
+Хелзинки	Хелзинки	LOC	GPE-Helsinki

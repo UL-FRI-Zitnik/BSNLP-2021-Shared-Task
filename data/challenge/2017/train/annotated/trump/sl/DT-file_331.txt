@@ -1,0 +1,13 @@
+331
+trumpovo	trump	PER	1
+bodi eko	bodi eko	ORG	40154
+donald trump	donald trump	PER	1
+združenih držav amerike	združene države amerike	LOC	2
+trumpovim	trump	PER	1
+zda	zda	LOC	2
+torontu	toronto	LOC	173
+trump	trump	PER	1
+nase	nasa	ORG	14
+al gore	al gore	PER	20625
+bill nye	bill nye	PER	40158
+trumpa	trump	PER	1

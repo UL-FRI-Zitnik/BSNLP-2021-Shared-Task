@@ -1,0 +1,24 @@
+﻿26
+donald trump	donald trump	PER	1
+castro	castro	PER	21100
+dziennik związkowy	dziennik związkowy	ORG	21107
+fidela castro	fidel castro	PER	21100
+usa	usa	LOC	2
+kubańczyków	kubańczycy	PER	21101
+kuba	kuba	LOC	21103
+trumpa	trump	PER	1
+kubańczycy	kubańczycy	PER	21101
+amerykanom	amerykanie	PER	17
+twitterze	twitter	MISC	90
+fidel castro	fidel castro	PER	21100
+barack obama	barack obama	PER	16
+obama	obama	PER	16
+republikanów	republikanie	ORG	118
+marco rubio	marco rubio	PER	396
+ted cruz	ted cruz	PER	395
+obamę	obama	PER	16
+kuby	kuba	LOC	21103
+raula castro	raul castro	PER	21105
+waszyngtonu	waszyngton	LOC	47
+inga czerny	inga czerny	PER	21106
+pap	pap	ORG	20206

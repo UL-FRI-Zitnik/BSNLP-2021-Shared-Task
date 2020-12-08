@@ -1,0 +1,14 @@
+bg-502
+Брекзит	Брекзит	EVT	EVT-Brexit
+Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+Съветът на Европейския съюз	Съвет на Европейския съюз	ORG	ORG-Council-of-the-European-Union
+Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+Лондон	Лондон	LOC	GPE-London
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+ЕС	ЕС	ORG	ORG-European-Union
+EUobserver	EUobserver	PRO	PRO-EUobserver
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+Дейвис	Дейвис	PER	PER-David-Davis
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Съда на ЕС	Съд на ЕС	ORG	ORG-European-Court-of-Justice

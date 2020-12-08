@@ -1,0 +1,5 @@
+179
+europska komisija	europska komisija	ORG	1
+eu	eu	LOC	6
+komisija	komisija	ORG	1
+prijedlog o općoj dobrobiti životinja	prijedlog o općoj dobrobiti životinja	MISC	50423

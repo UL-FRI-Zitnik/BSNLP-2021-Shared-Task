@@ -1,0 +1,7 @@
+124
+trump	trump	PER	1
+novinky.cz	novinky.cz	ORG	92
+donald trump	donald trump	PER	1
+spojených států	spojené státy	LOC	2
+ap	ap	ORG	81
+donalda trumpa	donald trump	PER	1

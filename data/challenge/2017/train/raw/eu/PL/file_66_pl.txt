@@ -1,0 +1,8 @@
+66
+pl
+
+http://www.benchmark.pl/aktualnosci/komisja-europejska-ofiara-ataku-ddos.html
+Komisja Europejska ofiarą ataku DDoS
+Nieznani cyberprzestępcy przeprowadzili atak DDoS na Komisję Europejską, utrudniając tym samym dostęp do Internetu przez kilka godzin. KE potwierdziła te informacje dodając od razu, że żadne dane nie zostały w ten sposób naruszone. Nie byliśmy w stanie pracować po południu [w czwartek], ponieważ dwukrotnie odcięto nas od Internetu na kilka godzin” poinformowała Komisja Europejska. Nie wiadomo kto i w jakim celu skierował atak DDoS w stronę KE. Sytuacja jest już jednak podobno pod kontrolą, a dochodzenie w tej sprawie zostało wszczęte. Jak wynika z danych opublikowanych przez firmę Akamai, liczba ataków DDoS nie wzrosła z roku na rok, ale zwiększyła się za to ich wielkość. Obecnie cyberprzestępcy są w stanie nie tylko utrudnić, ale wręcz sparaliżować pracę na kilka godzin. Coraz częściej wykorzystują w tym celu Internet Rzeczy tak jak miało to miejsce w przypadku ataku na Internet” . Firma jest przekonana, że intensywność ataków będzie dynamicznie wzrastać. Źródło: The Inquirer.
+
+

@@ -1,0 +1,43 @@
+125
+donald	donald	PER	1
+usa	usa	LOC	2
+lamborghini	lamborghini	MISC	221
+donalda trumpa	donald trump	PER	1
+forbes	forbes	ORG	222
+trump	trump	PER	1
+deutsche bank	deutsche bank	ORG	223
+euro.cz	euro.cz	ORG	224
+trumpovi	trump	PER	1
+manhattanu	manhattan	LOC	204
+stopařova průvodce	stopařův průvodce	MISC	225
+douglas adams	douglas adams	PER	226
+američanů	američané	PER	17
+trumpa	trump	PER	1
+trump tower	trump tower	LOC	205
+forbesem	forbes	ORG	222
+trumpem	trump	PER	1
+nike storu	nike store	ORG	227
+forbes 400	forbes 400	MISC	95
+donaldovo	donald	PER	1
+trumpnation	trumpnation	MISC	228
+timothy o’brien	timothy o’brien	PER	229
+o’briena	o’brien	PER	229
+trumpových	trump	PER	1
+trumpově	trump	PER	1
+chase peterson-withorn	chase peterson-withorn	PER	230
+forbes.com	forbes.com	ORG	222
+trumpova	trump	PER	1
+new yorku	new york	LOC	4
+washington post	washington post	ORG	144
+sověty	sověti	PER	232
+citibank	citibank	ORG	233
+new york times	new york times	ORG	5
+alan pomerantz	alan pomerantz	PER	234
+o’brienovi	o’brien	PER	229
+harvey miller	harvey miller	PER	235
+ivanou trumpovou	ivana trumpová	PER	58
+o’brien	o’brien	PER	229
+michel d’antonio	michel d’antonio	PER	236
+withorna	withorn	PER	230
+trumpův	trump	PER	1
+donaldovy	donald	PER	1

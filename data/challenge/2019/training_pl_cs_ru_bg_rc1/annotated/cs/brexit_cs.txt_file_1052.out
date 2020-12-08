@@ -1,0 +1,19 @@
+cs-1052
+Británie	Británie	LOC	GPE-Great-Britain
+Chorvatsku	Chorvatsko	LOC	GPE-Croatia
+Dánsku	Dánsko	LOC	GPE-Denmark
+EU	EU	ORG	ORG-European-Union
+Evropském parlamentu	Británie	ORG	ORG-European-Parlament
+Evropském parlamentu	Evropském parlamentu	ORG	ORG-European-Parlament
+Francie	Francie	LOC	GPE-France
+Irsko	Irsko	LOC	GPE-Ireland
+Itálie	Itálie	LOC	GPE-Italy
+Nizozemsko	Nizozemsko	LOC	GPE-Holland
+Polsku	Polsko	LOC	GPE-Poland
+Rakousku	Rakousko	LOC	GPE-Austria
+Slovensku	Slovensko	LOC	GPE-Slovakia
+brexitu	brexit	EVT	EVT-Brexit
+europarlamentu	europarlament	ORG	ORG-European-Parlament
+europoslanci	europoslanci	PER	ORG-European-Parlament
+Česko	Česko	LOC	GPE-Czech-Republic
+Španělsko	Španělsko	LOC	GPE-Spain

@@ -1,0 +1,35 @@
+﻿bg-1139
+Лондон	Лондон	LOC	GPE-London
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+Брекзит	Брекзит	EVT	EVT-Brexit
+The Guardian	The Guardian	PRO	PRO-The-Guardian
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+ЕС	ЕС	ORG	ORG-European-Union
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Джонсън	Джонсън	PER	PER-Boris-Johnson
+Норвегия	Норвегия	LOC	GPE-Norway
+Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+Амбър Ръд	Амбър Ръд	PER	PER-Amber-Rudd
+Джейкъб Рийс-Мог	Джейкъб Рийс-Мог	PER	PER-Jacob-Rees-Mogg
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+The Independent	The Independent	PRO	PRO-The-Independent
+Рийс-Мог	Рийс-Мог	PER	PER-Jacob-Rees-Mogg
+Рут Дейвидсън	Рут Дейвидсън	PER	PER-Ruth-Davidson
+консерваторите	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+Франция	Франция	LOC	GPE-France
+Daily Express	Daily Express	PRO	PRO-The-Daily-Express
+Швеция	Швеция	LOC	GPE-Sweden
+Холандия	Холандия	LOC	GPE-Holland
+Испания	Испания	LOC	GPE-Spain
+Португалия	Португалия	LOC	GPE-Portugal
+Лондонското Сити	Лондонското Сити	LOC	GPE-City-of-London
+Брекзити	Брекзит	EVT	EVT-Brexit
+Париж	Париж	LOC	GPE-Paris
+Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+Хамънд	Хамънд	PER	PER-Philip-Hammond
+Дейвис	Дейвис	PER	PER-David-Davis
+европейците	европейци	PER	LOC-Europe
+Информационна агенция "Фокус"	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

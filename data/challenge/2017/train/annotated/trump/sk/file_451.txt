@@ -1,0 +1,17 @@
+451
+energie-portal.sk	energie-portal.sk	ORG	267
+donald trump	donald trump	PER	1
+aberdeene	aberdeen	LOC	268
+trumpova	trump	PER	1
+trumpovho	trump	PER	1
+aberdeenshire	aberdeenshire	LOC	269
+trump	trump	PER	1
+londýne	londýn	LOC	270
+aberdeen bay	aberdeen bay	LOC	277
+európsky súdny dvor	európsky súdny dvor	ORG	271
+property & environment s. r. o.	property & environment s. r. o.	ORG	272
+bratislave	bratislava	LOC	241
+nissan motor	nissan motor	ORG	273
+renault	renault	ORG	274
+mitsubishi motors	mitsubishi motors	ORG	275
+holandska	holandsko	LOC	276

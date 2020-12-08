@@ -1,0 +1,38 @@
+pl-1215
+24 godziny	24 godziny	PRO	PRO-24-godziny
+Alex Barker	Alex Barker	PER	PER-Alex-Barker
+Andrzej Olechowski	Andrzej Olechowski	PER	PER-Andrzej-Olechowski
+Borisa Johnsona	Boris Johnson	PER	PER-Boris-Johnson
+Brexicie	Brexit	EVT	EVT-Brexit
+Brexit	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+Brukselą	Bruksela	LOC	GPE-Brussles
+Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+Davida Camerona	David Cameron	PER	PER-David-Cameron
+EPA	EPA	ORG	ORG-EPA-European-Pressphoto-Agency
+Europy	Europa	LOC	LOC-Europe
+Faktów	Fakty	PRO	PRO-Fakty
+Financial Timesa	Financial Times	PRO	PRO-Financial-Times
+Francji	Francja	LOC	GPE-France
+Izby Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+Londynem	Londyn	LOC	GPE-London
+Niemiec	Niemcy	LOC	GPE-Germany
+PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+PAUL MCERLANE	Paul McErlane	PER	PER-Paul-McErlane
+Polacy	Polacy	PER	GPE-Poland
+Reuters	Reuters	ORG	ORG-Reuters
+TVN24 BiS	TVN24 BiS	PRO	PRO-TVN24-BiS
+TVN24	TVN24	PRO	PRO-TVN24
+TVN	TVN	PRO	PRO-TVN
+UE	UE	ORG	ORG-European-Union
+USA	USA	LOC	GPE-USA
+Unia	Unia	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+Wyspach	Wyspy	LOC	GPE-Great-Britain
+brexicie	Brexit	EVT	EVT-Brexit
+tvn24	TVN24	PRO	PRO-TVN24

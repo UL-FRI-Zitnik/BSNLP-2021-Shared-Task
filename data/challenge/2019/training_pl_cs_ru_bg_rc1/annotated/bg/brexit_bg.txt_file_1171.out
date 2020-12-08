@@ -1,0 +1,37 @@
+bg-1171
+Лондон	Лондон	LOC	GPE-London
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Брекзит	Брекзит	EVT	EVT-Brexit
+Оливър Робинс	Оливър Робинс	PER	PER-Oliver-Robbins
+The Sunday Times	The Sunday Times	PRO	PRO-PRO-The-Sunday-Times
+Маргарет Тачър	Маргарет Тачър	PER	PER-Margaret-Thatcher
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+Робинс	Робинс	PER	PER-Oliver-Robbins
+Дейвис	Дейвис	PER	PER-David-Davis
+Гевин Баруел	Гевин Баруел	PER	PER-Gavin-Barwell
+Садик Хан	Садик Хан	PER	PER-Sadiq-Khan
+Амбър Ръд	Амбър Ръд	PER	PER-Amber-Rudd
+The Guardian	The Guardian	PRO	PRO-The-Guardian
+Ръд	Ръд	PER	PER-Amber-Rudd
+лейбъристите	лейбъристи	PER	ORG-Labour-Party-UK
+консерваторите	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+Хан	Хан	PER	PER-Sadiq-Khan
+Дамаск	Дамаск	LOC	GPE-Damascus
+Сирия	Сирия	LOC	GPE-Syria
+Израел	Израел	LOC	GPE-Israel
+Близкия изток	Близкия изток	LOC	LOC-Near-East
+Sunday Express	Sunday Express	PRO	PRO-Sunday-Express
+ООН	ООН	ORG	ORG-United-Nations
+Дани Данон	Дани Данон	PER	PER-Danny-Danon
+Близък Изток	Близък изток	LOC	LOC-Near-East
+Иран	Иран	LOC	GPE-Iran
+Северна Корея	Северна Корея	LOC	GPE-North-Korea
+Берлин	Берлин	LOC	GPE-Berlin
+Германия	Германия	LOC	GPE-Germany
+Турция	Турция	LOC	GPE-Turkey
+Саудитска Арабия	Саудитска Арабия	LOC	GPE-Saudi-Arabia
+ОАЕ	ОАЕ	LOC	GPE-UAE
+The Independent	The Independent	PRO	PRO-The-Independent
+Йемен	Йемен	LOC	GPE-Yemen
+Информационна агенция "Фокус"	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

@@ -1,0 +1,66 @@
+176
+donald trump	donald trump	PER	1
+nigel farage	nigel farage	PER	40186
+donalda trumpa	donald trump	PER	1
+vladimira putina	vladimir putin	PER	63
+vojislava šelješlja	vojislav šešelj	PER	50134
+srbima	srbi	PER	50135
+sad-u	sad	LOC	2
+donaldu trumpu	donald trump	PER	1
+trumpa	trump	PER	1
+eu	eu	LOC	50306
+brexit-a	brexit	MISC	80
+nigela faraga	nigel farage	PER	40186
+donalda trumpa	doland trump	PER	1
+trumpu	trump	PER	1
+mississippiju	mississippi	LOC	44
+brexita	brexit	MISC	80
+velikoj britaniji	velika britanija	LOC	50115
+europske unije	europska unija	ORG	50306
+eu parlamenta	eu parlamenta	ORG	50303
+nigel faragea	nigel farage	PER	40186
+ukip-a	ukip	ORG	50110
+uk independence party	uk independence party	ORG	50110
+farage	farage	PER	40186
+hrvata	hrvati	PER	50454
+unije	unija	ORG	50306
+jugoslavije	jugoslavija	ORG	50140
+domovinski rat	domovinski rat	MISC	50469
+hrvatsku	hrvatska	LOC	50310
+hrvati	hrvati	PER	50454
+nato	nato	ORG	251
+jugoslavije	jugoslavija	ORG	50140
+angele merkel	angela merkel	PER	131
+ddr	ddr	LOC	50143
+uniji	unija	ORG	50306
+velike britanije	velika britanija	LOC	50115
+brexita	brexit	MISC	80
+hrvatska	hrvatska	LOC	50310
+unija	unija	ORG	50306
+nigel farage	nigel farage	PER	40186
+kremlja	kremlj	LOC	10031
+vladimir putin	vladimir putin	PER	63
+šešelj	šelješ	PER	50134
+nigelom farageom	nigel farage	PER	40186
+putinom	putin	PER	63
+joe bidena	joe biden	PER	56
+hrvatsku	hrvatska	LOC	50310
+putin	putin	PER	63
+faragea	farage	PER	40186
+šešelja	šešelj	PER	50134
+amerikancima	amerikanci	PER	17
+trumpovog	trump	PER	1
+hrvatskoj	hrvatska	LOC	50310
+domovinskim ratom	domovinski rat	MISC	50469
+domovinskom ratu	domovinski rat	MISC	50469
+sad	sad	LOC	2
+kgb-ovac	kgb	ORG	50146
+putin	putin	PER	63
+nigel farage	nigel farage	PER	40186
+orešković	orešković	PER	50147
+hrvatske	hrvatska	LOC	50310
+dubrovniku	dubrovnik	LOC	50148
+vučićevu	vučić	PER	50149
+karamarkov	karamarko	PER	50150
+hdz	hdz	ORG	50316
+plenovićevim	plenković	PER	50317

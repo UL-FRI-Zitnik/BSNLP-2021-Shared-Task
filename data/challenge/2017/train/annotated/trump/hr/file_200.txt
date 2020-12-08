@@ -1,0 +1,7 @@
+200
+donald trump	donald trump	PER	1
+sad-a	sad	LOC	2
+donalda trumpa	donald trump	PER	1
+trump	trump	PER	1
+new scientista	new scientist	ORG	50165
+trumpove	trump	PER	1

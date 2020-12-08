@@ -1,0 +1,14 @@
+bg-572
+Лондон	Лондон	LOC	GPE-London
+ЕС	ЕС	ORG	ORG-European-Union
+БГНЕС	БГНЕС	ORG	ORG-BGNES-Agency
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+ТАСС	ТАСС	ORG	ORG-TASS-Agency
+Грег Кларк	Грег Кларк	PER	PER-Greg-Clark
+Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+Брекзит	Брекзит	EVT	EVT-Brexit
+Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Кларк	Кларк	PER	PER-Greg-Clark
+Хамънд	Хамънд	PER	PER-Philip-Hammond
+Дейвис	Дейвис	PER	PER-David-Davis

@@ -1,0 +1,13 @@
+﻿62
+io 2024	io 2024	MISC	21300
+donald trump	donald trump	PER	1
+los angeles	los angeles	LOC	21301
+igrzysk olimpijskich w 2024 roku	igrzyska olimpijskie w 2024 roku	MISC	21300
+erica garcettiego	eric garcetti	PER	21302
+connie llanos	connie llanos	PER	21303
+garcetti	garcetti	PER	21302
+stanów zjednoczonych	stany zjednoczone	LOC	2
+paryżem	paryż	LOC	21034
+budapesztem	budapeszt	LOC	21305
+mkol	mkol	ORG	21306
+tokio	tokio	LOC	21307

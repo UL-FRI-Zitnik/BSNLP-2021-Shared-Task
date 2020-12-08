@@ -1,0 +1,16 @@
+350
+evropska komisija	evropska komisija	ORG	1
+portal energetika	portal energetika	ORG	40101
+eu	eu	LOC	6
+komisije	komisija	ORG	1
+maroš šefčovič	maroš šefčovič	PER	86
+miguel arias cañete	miguel arias cañete	PER	50
+svet eu	svet eu	ORG	190
+evropski parlament	evropski parlament	ORG	14
+svetu eu	svet eu	ORG	190
+evropskega parlamenta	evropski parlament	ORG	14
+slovenije	slovenija	LOC	295
+slovenija	slovenija	LOC	295
+slovenijo	slovenija	LOC	295
+ministrstvo za infrastruturo	ministrstvo za infrastrukturo	ORG	40104
+evropske komisije	evropska komisija	ORG	1

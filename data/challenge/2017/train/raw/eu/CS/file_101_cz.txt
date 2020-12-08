@@ -1,0 +1,12 @@
+101
+cz
+
+http://www.lupa.cz/clanky/evropska-komise-chce-regulovat-chatovaci-aplikace-jako-operatory/
+Evropská komise chce regulovat chatovací aplikace jako operátory - Lupa.cz
+Komise se tak podle a Reuters chystá rozšířit povinnost dodržovat některá pravidla i na poskytovatele těchto služeb. Jak konkrétně, to mají úředníci odhalit v průběhu září. Hlavní změny by měly spočívat v tom, že by aplikace – podobně jako telekomunikační firmy – musely umožnit přístup ke komunikaci bezpečnostním složkám. Změnit by se ale mělo i to, jakým způsobem mohou využívat data o uživatelích pro komerční účely. V tomto ohledu jsou operátoři mnohem více omezení. Na snahu Komise se lze dívat z několika pohledů. Tím jedním je otázka soukromí a argumentace „bojem proti terorismu“ k dalším a dalším změnám k horšímu. Druhý pohled, v tomto případě také hodně pravděpodobný, je vítězství lobby telco operátorů, kterým chatovací aplikace už delší dobu likvidují doposud poměrně zajímavý trh s posíláním SMS zpráv. Právě revize ePrivacy směrnice by pak měla aplikace jako je WhatsApp, Skype, Viber, Snapchat, Facebook Messenger, Kik (a řadu dalších) postavit v regulaci na úroveň telekomunikačních operátorů. Jedním z nových omezení by pak mohlo být i to, že Evropa bude požadovat, aby provozovatelé svá datacentra pro evropské uživatele provozovali přímo v Evropě. Což nejenom zajistí možnost od nich vybírat další peníze, ale také je legislativně podřídí místním pravidlům. Zajistí to také možnost dožadovat se přístupu k datům v datových centrech uložených. Vše se to nakonec vrací k obvyklému tématu terorismu a snaze postavit šifrování mimo zákon. Dvě mouchy jednou ranou.
+
+Jakmile se vybuduje infrastuktura pro blokování webů umožnujících sázky, stačí jen jedním příkazem blokovat taky servery umožňující chatování. Všechny komunikátory budou mít povolenou jedinou bránu / server na území ČR a to nejlépe na ministerstvu financí. S poplatkem za bajt a povinnou registrací odevzdáním DNA. V případě nepovolené komunikace (šifrování, obejití autorizace nebo řeč v náznacích) zasáhne Celní správa s traktoristou v čele. Jak prosté, že? To vše za potlesku vohnoutů, nováků a.
+
+Podle mě by měli regulovat veškerou vzdálenou komunikaci jako operátory. Co kdyby si nedej bože teroristi vyrobili neregulovaný telefon z provázku a dvou kelímků od jogurtu!
+
+

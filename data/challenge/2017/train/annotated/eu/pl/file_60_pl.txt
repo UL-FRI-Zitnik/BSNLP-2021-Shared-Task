@@ -1,0 +1,28 @@
+﻿60
+polska	polska	LOC	20002
+european commission	european commission	ORG	1
+unia europejska	unia europejska	LOC	6
+funduszu spójności	fundusz spójności	ORG	20300
+linii m2	linia m2	MISC	20301
+europejczyków	europejczycy	PER	34
+europejskiego funduszu społecznego	europejski fundusz społeczny	ORG	20257
+efs	efs	ORG	20257
+ue	ue	LOC	6
+ceta	ceta	MISC	20302
+ke	ke	ORG	1
+ambasada kanady	ambasada kanady	ORG	20303
+ministerstwo rozwoju	ministerstwo rozwoju	ORG	20221
+thinktank	thinktank	ORG	20304
+ceta w praktyce	ceta w praktyce	MISC	20305
+mauro raffaele petriccione	mauro raffaele petriccione	PER	20306
+komisja europejska	komisja europejska	ORG	1
+undp	undp	ORG	20307
+uniwersytet warszawski	uniwersytet warszawski	ORG	20308
+fundacja józefa rotblata	fundacja józefa rotblata	ORG	20309
+wykłady kapuścińskiego	wykłady kapuścińskiego	MISC	20310
+sali balowej pałacu tyszkiewiczów-potockich	sala balowa pałacu tyszkiewiczów-potockich	LOC	20311
+warszawie	warszawa	LOC	20008
+pokojowej nagrody nobla	pokojowa nagroda nobla	MISC	20312
+dawn engle	dawn engle	PER	20313
+one billion acts of peace	one billion acts of peace	MISC	20314
+fundacji peacejam	fundacja peacejam	ORG	20315

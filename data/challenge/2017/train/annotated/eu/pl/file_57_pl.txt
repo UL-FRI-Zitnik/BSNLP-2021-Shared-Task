@@ -1,0 +1,13 @@
+﻿57
+komisja europejska	komisja europejska	ORG	1
+fundacja rozwoju systemu edukacji	fundacja rozwoju systemu edukacji	ORG	20230
+komisji europejskiej	komisja europejska	ORG	1
+jean-claude juncker	jean-claude juncker	PER	48
+unii	unia	LOC	6
+parlamentem europejskim	parlament europejski	ORG	14
+europejskiego korpusu solidarności	europejski korpus solidarności	ORG	20231
+europejczyków	europejczycy	PER	34
+brukseli	bruksela	LOC	28
+europejczycy	europejczycy	PER	34
+europie	europa	LOC	9
+new skills agenda for europe	new skills agenda for europe	MISC	20233

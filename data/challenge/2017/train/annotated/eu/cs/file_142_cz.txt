@@ -1,0 +1,12 @@
+142
+evropská komise	evropská komise	ORG	1
+evropě	evropa	LOC	9
+reuters	reuters	ORG	13
+evropského parlamentu	evropský parlament	ORG	14
+volkswagen	volkswagen	ORG	15
+kateřiny konečné	kateřina konečná	PER	16
+ksčm	ksčm	ORG	17
+evropské komisi	evropská komise	ORG	1
+konečná	konečná	PER	17
+pavlína nečásková	pavlína nečásková	PER	18
+evropské komise	evropská komise	ORG	1

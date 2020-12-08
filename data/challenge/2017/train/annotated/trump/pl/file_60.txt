@@ -1,0 +1,30 @@
+﻿60
+donald trump	donald trump	PER	1
+time	time	ORG	126
+bankier.pl	bankier.pl	ORG	20900
+donalda trumpa	donald trump	PER	1
+today	today	MISC	22004
+nbc	nbc	ORG	97
+time'a	time	ORG	126
+nancy gibbs	nancy gibbs	PER	132
+trumpa	trump	PER	1
+białego domu	biały dom	LOC	111
+hillary clinton	hillary clinton	PER	3
+trump	trump	PER	1
+turcji	turcja	LOC	10038
+rosji	rosja	LOC	78
+recep tayyip erdogan	recep tayyip erdogan	PER	65
+władimir putin	władimir putin	PER	63
+beyonce	beyonce	PER	20104
+angela merkel	angela merkel	PER	131
+romney	romney	PER	20903
+republikanów	republikanie	ORG	118
+mitt romney	mitt romney	PER	20903
+nowego jorku	nowy jork	LOC	4
+rudy giuliani	rudy giuliani	PER	20529
+cia	cia	ORG	64
+david petraeus	david petraeus	PER	20904
+tennessee	tennessee	LOC	50
+bob corker	bob corker	PER	20906
+baracka obamę	barack obama	PER	16
+pap	pap	ORG	20206

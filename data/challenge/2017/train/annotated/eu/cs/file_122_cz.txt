@@ -1,0 +1,35 @@
+122
+evropská komise	evropská komise	ORG	1
+nga	nga	ORG	113
+české republice	česká republika	LOC	20
+ján šebo	ján šebo	PER	114
+teltemp	teltemp	ORG	115
+evropskou komisí	evropská komise	ORG	1
+ministerstvem průmyslu a obchodu	ministerstvo průmyslu a obchodu	ORG	10
+eu	eu	LOC	6
+evropské unie	evropská unie	LOC	6
+facebook	facebook	ORG	55
+whatsapp	whatsapp	ORG	56
+facebooku	facebook	ORG	55
+betzdorf	betzdorf	LOC	116
+lucembursku	lucembursko	LOC	117
+tier iv	tier iv	MISC	118
+galileo	galileo	MISC	119
+praze	praha	LOC	87
+gps	gps	MISC	120
+sony	sony	ORG	121
+panasonic	panasonic	ORG	122
+evropské komise	evropská komise	ORG	1
+oracle	oracle	ORG	123
+digitaleurope	digitaleurope	ORG	124
+microsoft	microsoft	ORG	25
+linkedin	linkedin	ORG	26
+slovensku	slovensko	LOC	125
+petra pellegriniho	peter pellegrini	PER	126
+evropské komisi	evropská komise	ORG	1
+linkedinu	linkedin	ORG	26
+microsoftu	microsoft	ORG	25
+yahoo	yahoo	ORG	127
+česko	česko	LOC	20
+nbú	nbú	ORG	128
+navrátil	navrátil	PER	129

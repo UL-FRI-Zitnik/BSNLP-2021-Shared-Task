@@ -1,0 +1,18 @@
+bg-1904
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Brexit	Brexit	EVT	EVT-Brexit
+Брекзита	Брекзит	EVT	EVT-Brexit
+ЕС	ЕС	ORG	ORG-European-Union
+Ройтерс	Ройтерс	ORG	ORG-Reuters
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Брюксел	Брюксел	LOC	GPE-Brussles
+Лондон	Лондон	LOC	GPE-London
+Мей	Мей	PER	PER-Theresa-May
+БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+Мюнхенската конференция по сигурността	Мюнхенска конференция по сигурността	EVT	EVT-Munich-Conference-On-Security
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+Лиъм Фокс	Лиъм Фокс	PER	PER-Liam-Fox
+Дейвид Лидингтън	Дейвид Лидингтън	PER	PER-David-Lidington
+Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond

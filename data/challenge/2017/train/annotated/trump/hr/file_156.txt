@@ -1,0 +1,27 @@
+156
+donald trump	donald trump	PER	1
+republikanski	republikanski	ORG	118
+hillary clinton	hillary clinton	PER	3
+amerikancima	amerikanci	PER	17
+republikansku stranku	republikanska stranka	ORG	118
+trump	trump	PER	1
+pripravnik	pripravnik	MISC	96
+meksikom	meksiko	LOC	116
+meksiko	meksiko	LOC	116
+fredericka	frederick	PER	163
+mary trump	mary trump	PER	164
+fordham	fordham	ORG	391
+sveučilišta u pennsylvaniji	sveučilište u pennsylvaniji	ORG	389
+wharton	wharton	ORG	170
+trumpov	trump	PER	1
+miss amerike	miss amerika	MISC	30085
+miss universe	miss universe	MISC	182
+forbes	forbes	ORG	222
+bloomberg	bloomberg	ORG	209
+new yorku	new york	LOC	4
+ivanom zelničkovom	ivana zelničkova	PER	58
+donalda mlađeg	donald mlađi	PER	177
+ivanku	ivanka	PER	178
+erica	eric	PER	50032
+martom maples	marta maples	PER	29
+melanijom knavs	melanija knavs	PER	183

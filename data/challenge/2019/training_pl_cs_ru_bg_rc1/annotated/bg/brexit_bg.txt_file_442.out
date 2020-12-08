@@ -1,0 +1,21 @@
+bg-442
+Брекзит	Брекзит	EVT	EVT-Brexit
+Ройтерс	Ройтерс	ORG	ORG-Reuters
+ЕС	ЕС	ORG	ORG-European-Union
+Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+Мей	Мей	PER	PER-Theresa-May
+Барние	Барние	PER	PER-Michel-Barnier
+Лондон	Лондон	LOC	GPE-London
+Брюксел	Брюксел	LOC	GPE-Brussles
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Ламанша	Ламанша	LOC	LOC-English-Channel
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+Съда на ЕС	Съд на ЕС	ORG	ORG-European-Court-of-Justice
+Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+Дъблин	Дъблин	LOC	GPE-Dublin
+Белфаст	Белфаст	LOC	GPE-Belfast
+Канада	Канада	LOC	GPE-Canada
+Норвегия	Норвегия	LOC	GPE-Norway
+Франция	Франция	LOC	GPE-France

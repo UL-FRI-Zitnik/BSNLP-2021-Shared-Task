@@ -1,0 +1,27 @@
+180
+europska komisija	europska komisija	ORG	1
+hrvatske	hrvatska	LOC	41
+hrvatsku	hrvatska	LOC	41
+net.hr	net.hr	ORG	50424
+unicredit	unicredit	ORG	50425
+europske komisije	europska komisija	ORG	1
+unicredit austrija	unicredit austrija	ORG	50425
+austrije	austrija	LOC	293
+europskoj komisiji	europska komisija	ORG	1
+komisija	komisija	ORG	1
+eu	eu	LOC	6
+ek	ek	ORG	1
+nizozemske	nizozemska	LOC	89
+rumunjske	rumunjska	LOC	298
+slovačke	slovačka	LOC	125
+češke	češka	LOC	20
+zdravko marić	zdravko marić	PER	50319
+vlada	vlada	ORG	50318
+europskom komisijom	europska komisija	ORG	1
+boris lalovac	boris lalovac	PER	50427
+vlade	vlada	ORG	50318
+udruzi franak	udruga franak	ORG	50428
+goran aleksić	goran aleksić	PER	50429
+povjerenstvo za informiranje	povjerenstvo za informiranje	ORG	50430
+aleksić	aleksić	PER	50429
+washingtonu	washington	LOC	51001

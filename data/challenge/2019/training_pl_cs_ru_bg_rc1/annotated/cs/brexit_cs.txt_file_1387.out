@@ -1,0 +1,16 @@
+cs-1387
+Barniera	Barnier	PER	PER-Michel-Barnier
+Britové	Britové	PER	GPE-Great-Britain
+Británie	Británie	LOC	GPE-Great-Britain
+Británii	Británie	LOC	GPE-Great-Britain
+EU	EU	ORG	ORG-European-Union
+Eurokomisaři	Eurokomisaři	PER	ORG-European-Commission
+Evropská komise	Evropská komise	ORG	ORG-European-Commission
+Evropské unie	Evropská unie	ORG	ORG-European-Union
+Mayové	Mayová	PER	PER-Theresa-May
+Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+Severní Irsko	Severní Irsko	LOC	GPE-Northern-Ireland
+Velké Británie	Velká Británie	LOC	GPE-Great-Britain
+brexit	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit
+europarlamentu	europarlament	ORG	ORG-European-Parlament

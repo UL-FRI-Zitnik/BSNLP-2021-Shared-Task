@@ -1,0 +1,16 @@
+387
+evropska komisija	evropska komisija	ORG	1
+madžarskem	madžarska	LOC	294
+evropske unije	evropska unija	LOC	6
+totkomlos	totkomlos	LOC	40159
+ljubljana	ljubljana	LOC	40061
+h5n8	h5n8	MISC	40160
+eu	eu	LOC	6
+stalni odbor za rastline, živali, hrano in krmo	stalni odbor za rastline, živali, hrano in krmo	ORG	40161
+paff	paff	ORG	40161
+komisija	komisija	ORG	1
+latviji	latvija	LOC	40162
+litvi	litva	LOC	162
+poljskem	poljska	LOC	91
+totkomlosu	totkomlos	LOC	40159
+sta	sta	ORG	40065

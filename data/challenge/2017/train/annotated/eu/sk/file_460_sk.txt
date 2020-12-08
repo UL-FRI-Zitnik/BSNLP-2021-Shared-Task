@@ -1,0 +1,10 @@
+460
+európska komisia	európska komisia	ORG	1
+hpi	hpi	ORG	220
+stredoeurópsky inštitút pre zdravotnú politiku	stredoeurópsky inštitút pre zdravotnú politiku	ORG	220
+ek	ek	ORG	1
+slovensku	slovensko	LOC	125
+health policy institute	health policy institute	ORG	220
+eú	eú	LOC	6
+eurostat	eurostat	ORG	221
+oecd	oecd	ORG	222

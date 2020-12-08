@@ -1,0 +1,11 @@
+197
+donald trump	donald trump	PER	1
+sad	sad	LOC	2
+sjedinjene američke države	sjedinjene američke države	LOC	2
+sadiq khan	sadiq khan	PER	50163
+the new york times	the new york times	ORG	5
+sad	sad	LOC	2
+trump	trump	PER	1
+khan	khan	PER	50163
+trumpu	trump	PER	1
+uk	uk	LOC	50115

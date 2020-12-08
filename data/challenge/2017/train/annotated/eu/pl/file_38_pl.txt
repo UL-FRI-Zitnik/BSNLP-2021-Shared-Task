@@ -1,0 +1,9 @@
+﻿38
+polska	polska	LOC	20002
+komisja europejska	komisja europejska	ORG	1
+rmf24.pl	rmf24.pl	ORG	20080
+bruksela	bruksela	LOC	28
+komisją europejską	komisja europejska	ORG	1
+katarzyna szymańska-borginon	katarzyna szymańska-borginon	PER	20081
+ke	ke	ORG	1
+morawiecki	morawiecki	PER	20082

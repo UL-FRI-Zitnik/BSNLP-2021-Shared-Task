@@ -1,0 +1,26 @@
+﻿46
+komisja europejska	komisja europejska	ORG	1
+wiem	wiem	MISC	20150
+wspólnoty	wspólnota	LOC	20151
+ue	ue	LOC	6
+parlamentem europejskim	parlament europejski	ORG	14
+w. hallstein	w. hallstein	PER	20152
+j. delors	j. delors	PER	20153
+unii europejskiej	unia europejska	LOC	6
+komisji europejskiej	komisja europejska	ORG	1
+r. prodi	r. prodi	PER	20154
+jose manuel durao barroso	jose manuel durao barroso	PER	43
+komisji	komisja	ORG	1
+wspólnotę	wspólnota	LOC	20151
+rady unii europejskiej	rada unii europejskiej	ORG	190
+komisja	komisja	ORG	1
+parlamentem	parlament	ORG	14
+komisji	komisji	ORG	1
+trybunał sprawiedliwości	trybunał sprawiedliwości	ORG	239
+dg i	dg i	ORG	20157
+dg iv	dg iv	ORG	20158
+służba prawna	służba prawna	ORG	20159
+służba rzeczników	służba rzeczników	ORG	20160
+biuro publikacji oficjalnych wspólnot europejskich	biuro publikacji oficjalnych wspólnot europejskich	ORG	20161
+eurostat	eurostat	ORG	221
+sekretariat generalny	sekretariat generalny	ORG	20163

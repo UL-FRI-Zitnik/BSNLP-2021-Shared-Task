@@ -1,0 +1,14 @@
+bg-1152
+The Independent	The Independent	PRO	PRO-The-Independent
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Лондон	Лондон	LOC	GPE-London
+Брекзит	Брекзит	EVT	EVT-Brexit
+Брюксел	Брюксел	LOC	GPE-Brussles
+ЕС	ЕС	ORG	ORG-European-Union
+Европейския съд	Европейски съд	ORG	ORG-European-Court-of-Justice
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+Консервативна партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+Торите	тори	PER	ORG-Conservative-and-Unionist-Party-UK
+Иван Христов	Иван Христов	PER	PER-Ivan-Hristov
+Информационна агенция "Фокус"	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

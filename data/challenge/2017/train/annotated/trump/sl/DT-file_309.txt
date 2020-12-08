@@ -1,0 +1,42 @@
+309
+ekoper	ekoper	ORG	40106
+donald trump	donald trump	PER	1
+hillary clinton	hillary clinton	PER	3
+donald trump	donald trump	PER	1
+melanija knavs	melanija knavs	PER	183
+monica lewinsky	monica lewinsky	PER	133
+bila clintona	bill clinton	PER	135
+trump	trump	PER	1
+melanijo	melanija	PER	183
+clintonova	clintonova	PER	3
+monico lewinsky	monica lewinsky	PER	133
+donaldu	donald	PER	1
+bill	bill	PER	135
+hillary	hillary	PER	3
+zda	zda	LOC	2
+donaldov	donald	PER	1
+američani	američani	PER	17
+mujotu	mujo	PER	40109
+hasotu	haso	PER	40110
+egom	ego	PER	40111
+rusija	rusija	LOC	78
+putina	putin	PER	63
+rusiji	rusija	LOC	78
+donalda trumpa	donald trump	PER	1
+trumpova	trump	PER	1
+clintonovo	clintonova	PER	3
+trumpa	trump	PER	1
+zahodne evrope	zahodna evropa	LOC	40113
+rusije	rusija	LOC	78
+kitajske	kitajska	LOC	11
+sirijo	sirija	LOC	188
+isis	isis	ORG	121
+mehiko	mehika	LOC	116
+nadjaz	nadjaz	PER	40115
+billom	bill	PER	135
+amerika	amerika	LOC	2
+donaldove	donald	PER	1
+donaldovim	donald	PER	1
+trumpovi	trump	PER	1
+clintonove	clintonova	PER	3
+roman vodeb	roman vodeb	PER	40116

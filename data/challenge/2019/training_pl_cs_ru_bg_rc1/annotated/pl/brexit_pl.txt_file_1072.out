@@ -1,0 +1,34 @@
+pl-1072
+Barnier	Barnier	PER	PER-Michel-Barnier
+Brexicie	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+Europosłowie	Europosłowie	PER	ORG-European-Parlament
+Grupę Sterującą ds. Brexitu	Grupa Sterująca ds. Brexitu	ORG	ORG-Brexit-Steering-Group
+Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+Irlandii	Irlandia	LOC	GPE-Ireland
+Jean-Claude Juncker	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+KE	KE	ORG	ORG-European-Commission
+Komisji	Komisja	ORG	ORG-European-Commission
+Komisję Europejską	Komisja Europejska	ORG	ORG-European-Commission
+Londynem	Londyn	LOC	GPE-London
+Luksemburgu	Luksemburg	LOC	GPE-Luxembourg
+Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+PE	PE	ORG	ORG-European-Parlament
+Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parlament
+Parlament Europejski	Parlament Europejski	ORG	ORG-European-Parlament
+Parlament	Parlament	ORG	ORG-European-Parlament
+Parlamentu	Parlament	ORG	ORG-European-Parlament
+Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+TSUE	TSUE	ORG	ORG-European-Court-of-Justice
+Trybunału Sprawiedliwości Unii Europejskiej	Trybunał Sprawiedliwości Unii Europejskiej	ORG	ORG-European-Court-of-Justice
+Tusk	Tusk	PER	PER-Donald-Tusk
+Tuska	Tusk	PER	PER-Donald-Tusk
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnoty	Wspólnota	ORG	ORG-European-Union
+Zjednoczonym Królestwem	Zjednoczone Królestwo	LOC	GPE-Great-Britain

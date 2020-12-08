@@ -1,0 +1,11 @@
+476
+európska komisia	európska komisia	ORG	1
+konzervatívny výber	konzervatívny výber	ORG	210
+atény	atény	LOC	102
+sita	sita	ORG	211
+grécka	grécko	LOC	101
+egejského mora	egejské more	LOC	97
+jorgos kyritsis	jorgos kyritsis	PER	98
+európskej komisie	európska komisia	ORG	1
+ek	ek	ORG	1
+natasha bertaudová	natasha bertaudová	PER	96

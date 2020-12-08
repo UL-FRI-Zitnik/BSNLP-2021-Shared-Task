@@ -1,0 +1,22 @@
+bg-713
+Меркел	Меркел	PER	PER-Angela-Merkel
+Мей	Мей	PER	PER-Theresa-May
+Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+Берлин	Берлин	LOC	GPE-Berlin
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Ройтерс	Ройтерс	ORG	ORG-Reuters
+БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+Брекзита	Брекзит	EVT	EVT-Brexit
+Лондон	Лондон	LOC	GPE-London
+Брюксел	Брюксел	LOC	GPE-Brussles
+британците	британци	PER	GPE-Great-Britain
+ЕС	ЕС	ORG	ORG-European-Union
+Европейския съд	Европейски съд	ORG	ORG-European-Court-of-Justice
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Иран	Иран	LOC	GPE-Iran
+Техеран	Техеран	LOC	GPE-Tehran
+ТАСС	ТАСС	ORG	ORG-TASS-Agency
+Сирия	Сирия	LOC	GPE-Syria
+Турция	Турция	LOC	GPE-Turkey
+НАТО	НАТО	ORG	ORG-NATO

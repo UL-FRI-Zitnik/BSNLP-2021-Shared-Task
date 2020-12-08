@@ -1,0 +1,19 @@
+163
+željko kerum	željko kerum	PER	50089
+donald trump	donald trump	PER	1
+kerum	kerum	PER	50089
+trump	trump	PER	1
+sad-u	sad	LOC	2
+sad	sad	LOC	2
+deklaracije za nezavisnost	deklaracije za nezavisnost	MISC	50090
+europi	europa	LOC	73
+hrvatskoj	hrvatska	LOC	50310
+split	split	LOC	50442
+amerika	amerika	LOC	2
+indijanci	indijanci	PER	50094
+rimljani	rimljani	PER	50095
+amerikanci	amerikanci	PER	17
+trump	trump	PER	1
+željka keruma	željko kerum	PER	50089
+trumpove	trump	PER	1
+bago	bago	PER	50096

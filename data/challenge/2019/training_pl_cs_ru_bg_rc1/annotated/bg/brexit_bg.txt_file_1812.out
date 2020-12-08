@@ -1,0 +1,15 @@
+bg-1812
+ЕС	ЕС	ORG	ORG-European-Union
+Брекзит	Брекзит	EVT	EVT-Brexit
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+Жан-Клод Юнкер	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+Гардиън	Гардиън	PRO	PRO-The-Guardian
+Юнкер	Юнкер	PER	PER-Jean-Claude-Juncker
+Брюксел	Брюксел	LOC	GPE-Brussles
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Мей	Мей	PER	PER-Theresa-May
+Ирландия	Ирландия	LOC	GPE-Ireland
+Марк Рюте	Марк Рюте	PER	PER-Mark-Rutte
+Лондон	Лондон	LOC	GPE-London
+Лео Варадкар	Лео Варадкар	PER	PER-Leo-Varadkar

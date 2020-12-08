@@ -1,0 +1,34 @@
+pl-1122
+Barnier	Barnier	PER	PER-Michel-Barnier
+Bruksela	Bruksela	LOC	GPE-Brussles
+Brukseli	Bruksela	LOC	GPE-Brussles
+Brytyjczykami	Brytyjczycy	PER	GPE-Great-Britain
+Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+Davis	Davis	PER	PER-David-Davis
+Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+Irlandia Płn.	Irlandia Płn.	LOC	GPE-Northern-Ireland
+Irlandii Płn.	Irlandia Płn.	LOC	GPE-Northern-Ireland
+Irlandią Płn.	Irlandia Płn.	LOC	GPE-Northern-Ireland
+Irlandią	Irlandia	LOC	GPE-Ireland
+Londyn	Londyn	LOC	GPE-London
+Londynem	Londyn	LOC	GPE-London
+Londynowi	Londyn	LOC	GPE-London
+Londynu	Londyn	LOC	GPE-London
+May	May	PER	PER-Theresa-May
+Polak	Polak	PER	GPE-Poland
+Polaków	Polacy	PER	GPE-Poland
+Polsce	Polska	LOC	GPE-Poland
+Tomasz Bielecki	Tomasz Bielecki	PER	PER-Tomasz-Bielecki
+Trybunału UE	Trybunał UE	ORG	ORG-European-Court-of-Justice
+Tusk	Tusk	PER	PER-Donald-Tusk
+UE	UE	ORG	ORG-European-Union
+Ulsterem	Ulster	LOC	GPE-Ulster
+Unia	Unia	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Unią	Unia	ORG	ORG-European-Union
+Wlk. Brytania	Wlk. Brytania	LOC	GPE-Great-Britain
+Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain
+Wlk. Brytanią	Wlk. Brytania	LOC	GPE-Great-Britain
+brexicie	Brexit	EVT	EVT-Brexit
+brexit	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit

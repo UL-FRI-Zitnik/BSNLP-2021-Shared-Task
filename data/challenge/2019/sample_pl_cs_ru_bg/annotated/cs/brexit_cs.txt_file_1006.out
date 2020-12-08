@@ -1,0 +1,23 @@
+cs-1006
+AP	AP	ORG	ORG-The-Associated-Press
+Brexit	Brexit	EVT	EVT-Brexit
+Britové	Britové	PER	GPE-Great-Britain
+Brity	Britové	PER	GPE-Great-Britain
+Británie	Británie	LOC	GPE-Great-Britain
+Britů	Britové	PER	GPE-Great-Britain
+EU	EU	ORG	ORG-European-Union
+Evropany	Evropané	PER	LOC-Europe
+Evropské unie	Evropská unie	ORG	ORG-European-Union
+Evropské unii	Evropská unie	ORG	ORG-European-Union
+Farage	Farage	PER	PER-Nigel-Farage
+Farageovy	Farage	PER	PER-Nigel-Farage
+Guardian	Guardian	PRO	PRO-The-Guardian
+Kirsten Mehrovou	Kirsten Mehrová	PER	PER-Kirsten-Mehr
+Německa	Německo	LOC	GPE-Germany
+TV Nova s.r.o	TV Nova s.r.o	ORG	ORG-TV-Nova-s.r.o.
+The Associated Press	The Associated Press	ORG	ORG-The-Associated-Press
+UKIP	UKIP	ORG	ORG-UK-Independence-Party
+Velká Británie	Velká Británie	LOC	GPE-Great-Britain
+brexit	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit
+ČTK	ČTK	ORG	ORG-CTK

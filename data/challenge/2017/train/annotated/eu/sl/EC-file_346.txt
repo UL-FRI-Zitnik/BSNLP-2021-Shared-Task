@@ -1,0 +1,20 @@
+346
+evropska komisija	evropska komisija	ORG	1
+evropske unije	evropska unija	LOC	6
+unije	unija	LOC	6
+razvojni center murska sobota	razvojni center murska sobota	ORG	40085
+evropski razvojni sklad	evropski razvojni sklad	ORG	40086
+edf	edf	ORG	40086
+instrument za razvojno sodelovanje	instrument za razvojno sodelovanje	MISC	40087
+dci	dci	MISC	40087
+evropski instrument sosedstva in partnerstva	evropski instrument sosedstva in partnerstva	MISC	40088
+evropski instrument sosedstva	evropski instrument sosedstva	MISC	40088
+eni	eni	MISC	40088
+evropski instrument za demokracijo in človekove pravice	evropski instrument za demokracijo in človekove pravice	MISC	40089
+eidhr	eidhr	MISC	40089
+instrument za predpristopno pomoč	instrument za predpristopno pomoč	MISC	40090
+ipa ii	ipa ii	MISC	40090
+instrument za prispevanje k stabilnosti in miru	instrument za prispevanje k stabilnosti in miru	MISC	40091
+icsp	icsp	MISC	40091
+ministrstvo za zunanje zadeve	ministrstvo za zunanje zadeve	ORG	40047
+republike slovenije	republika slovenija	LOC	295

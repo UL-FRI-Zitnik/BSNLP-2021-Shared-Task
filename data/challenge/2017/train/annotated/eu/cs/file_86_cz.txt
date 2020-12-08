@@ -1,0 +1,15 @@
+86
+evropská komise	evropská komise	ORG	1
+týden.cz	týden.cz	ORG	95
+natasha bertaudová	natasha bertaudová	PER	96
+egejském moři	egejské moře	LOC	97
+jorgose kyritsise	jorgos kyritsis	PER	98
+bertaudová	bertaudová	PER	96
+osn	osn	ORG	99
+unhcr	unhcr	ORG	100
+evropské unie	evropská unie	LOC	6
+řecku	řecku	LOC	101
+řecko	řecku	LOC	101
+eu	eu	LOC	6
+aténám	atény	LOC	102
+edwardse	edwards	PER	103

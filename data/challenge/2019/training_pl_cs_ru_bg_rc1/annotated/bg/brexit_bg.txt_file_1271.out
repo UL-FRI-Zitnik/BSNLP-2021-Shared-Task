@@ -1,0 +1,19 @@
+bg-1271
+Лондон	Лондон	LOC	GPE-London
+Брекзит	Брекзит	EVT	EVT-Brexit
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+ДПА	ДПА	ORG	ORG-DPA
+Ройтерс	Ройтерс	ORG	ORG-Reuters
+Народен глас	Народен глас	EVT	EVT-People's-Voice-Campaign
+британците	британци	PER	GPE-Great-Britain
+Брюксел	Брюксел	LOC	GPE-Brussles
+БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+Лейбъристка партия	Лейбъристка партия	ORG	ORG-Labour-Party-UK
+Либерални демократи	Либерални демократи	ORG	ORG-Liberal-Democrats
+Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+ЕС	ЕС	ORG	ORG-European-Union
+Сън	Сън	PRO	PRO-The-Sun
+британци	британци	PER	GPE-Great-Britain

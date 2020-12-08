@@ -1,0 +1,19 @@
+bg-1496
+Reuters	Reuters	ORG	ORG-Reuters
+Дъблин	Дъблин	LOC	GPE-Dublin
+Лео Варадкар	Лео Варадкар	PER	PER-Leo-Varadkar
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+ЕС	ЕС	ORG	ORG-European-Union
+Мей	Мей	PER	PER-Theresa-May
+Брекзит	Брекзит	EVT	EVT-Brexit
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Варадкар	Варадкар	PER	PER-Leo-Varadkar
+Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+Република Ирландия	Република Ирландия	LOC	GPE-Ireland
+Лондон	Лондон	LOC	GPE-London
+Виктор Турмаков	Виктор Турмаков	PER	PER-Viktor-Turmakov
+Информационна агенция "Фокус"	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency
+BBC	BBC	ORG	ORG-BBC-Ltd
+Европейския съд	Европейски съд	ORG	ORG-European-Court-of-Justice
+Ирландия	Ирландия	LOC	GPE-Ireland
+Цанко Цолов	Цанко Цолов	PER	PER-Tsanko-Tsolov

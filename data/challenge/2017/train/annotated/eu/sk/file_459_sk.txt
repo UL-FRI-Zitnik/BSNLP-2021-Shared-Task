@@ -1,0 +1,50 @@
+459
+úrad vlády sr	úrad vlády sr	ORG	282
+európska komisia	európska komisia	ORG	1
+stratégie eú pre dunajský región	stratégia eú pre dunajský región	MISC	283
+slovenská republika	slovenská republika	LOC	125
+úradu vlády sr	úrad vlády sr	ORG	282
+európskou komisiou	európska komisia	ORG	1
+vlády sr	vláda sr	ORG	282
+robert fico	robert fico	PER	218
+európskej komisie	európska komisia	ORG	1
+maroš šefčovič	maroš šefčovič	PER	86
+tibor navracsics	tibor navracsics	PER	284
+petra plavčana	peter plavčan	PER	285
+peter plavčan	peter plavčan	PER	285
+lászlóa sólymosa	lászló sólymos	PER	286
+medzinárodnej komisie pre ochranu rieky dunaj	medzinárodná komisia pre ochranu rieky dunaj	ORG	287
+icpdr	icpdr	ORG	287
+petra j. kalasa	peter j. kalas	PER	288
+dunajskej stratégie	dunajská stratégia	MISC	283
+dunajská stratégia	dunajská stratégia	MISC	283
+péter szijjártó	péter szijjártó	PER	289
+sr	sr	LOC	125
+miroslava lajčáka	miroslav lajčák	PER	290
+innovative flows - water, knowledge and innovation in the danube region	innovative flows - water, knowledge and innovation in the danube region	MISC	283
+inovačné toky - voda, vedomosti a inovácie v dunajskom regióne	inovačné toky - voda, vedomosti a inovácie v dunajskom regióne	MISC	283
+eú	eú	LOC	6
+eusdr	eusdr	MISC	283
+európskou radou	európska rada	ORG	42
+slovenska	slovensko	LOC	125
+slovensko	slovensko	LOC	125
+nemecko	nemecko	LOC	68
+bavorsko	bavorsko	LOC	291
+bádensko-würtembersko	bádensko-würtembersko	LOC	292
+rakúsko	rakúsko	LOC	293
+česko	česko	LOC	20
+maďarsko	maďarsko	LOC	294
+maďarskom	maďarsko	LOC	294
+slovinsko	slovinsko	LOC	295
+chorvátsko	chorvátsko	LOC	41
+srbsko	srbsko	LOC	297
+srbskom	srbsko	LOC	297
+bulharsko	bulharsko	LOC	231
+rumunsko	rumunsko	LOC	298
+bosna a hercegovina	bosna a hercegovina	LOC	299
+čierna hora	čierna hora	LOC	300
+moldavsko	moldavsko	LOC	296
+ukrajina	ukrajina	LOC	150
+regensburgu	regensburg	LOC	301
+a. merkelovej	a. merkelová	PER	302
+ulme	ulm	LOC	303

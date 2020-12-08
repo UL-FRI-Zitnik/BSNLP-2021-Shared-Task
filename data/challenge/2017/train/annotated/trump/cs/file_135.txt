@@ -1,0 +1,5 @@
+135
+donald trump	donald trump	PER	1
+moniku lewinskou	monika lewinská	PER	133
+odpovědi.cz	odpovědi.cz	ORG	134
+billu clintonovi	bill clinton	PER	135

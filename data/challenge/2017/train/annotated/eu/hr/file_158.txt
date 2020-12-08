@@ -1,0 +1,32 @@
+158
+ius-info	ius-info	MISC	50337
+europska komisija	europska komisija	ORG	1
+hrvatska	hrvatska	LOC	41
+europskoj uniji	europska unija	LOC	6
+europske unije	europska unija	LOC	6
+europska komisija	europska komisija	ORG	1
+parlamentom	parlament	ORG	14
+vijećem ministara	vijeće ministara	ORG	50338
+eu-a	eu	LOC	6
+bruxellesu	bruxelles	LOC	28
+luksemburgu	luksemburg	LOC	117
+unije	unija	LOC	6
+komisija	komisija	ORG	1
+europski parlament	europski parlament	ORG	14
+komisije	komisija	ORG	1
+parlament	parlament	ORG	14
+parlamentu	parlament	ORG	14
+parlamenta	parlament	ORG	14
+europskoga parlamenta	europski parlament	ORG	14
+lisabonskim ugovorom	lisabonski ugovor	MISC	10168
+vijeću	vijeće	ORG	50304
+sudom europskih zajednica	sud europskih zajednica	ORG	50342
+europsku uniju	europska unija	LOC	6
+europske komisije	europska komisija	ORG	1
+opće uprave	opća uprava	ORG	50343
+dg	dg	ORG	50343
+pravna služba	pravna služba	ORG	50344
+opća uprava	opća uprava	ORG	50343
+glavno tajništvo	glavno tajništvo	ORG	30056
+eu	eu	LOC	6
+danijela damjanović	danijela damjanović	PER	50346

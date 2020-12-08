@@ -1,0 +1,15 @@
+282
+bruce springsteen	bruce springsteen	PER	40001
+donald trump	donald trump	PER	1
+zda	zda	LOC	2
+hudo slovenija	hudo slovenija	ORG	40004
+springsteen	springsteen	PER	40001
+američanov	američani	PER	17
+trump	trump	PER	1
+beli hiši	bela hiša	LOC	111
+skavlan	skavlan	MISC	40007
+norveškem	norveška	LOC	40008
+švedskem	švedska	LOC	41000
+američane	američani	PER	17
+born to run	born to run	MISC	40009
+new jersyju	new jersey	LOC	20833

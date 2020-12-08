@@ -1,0 +1,12 @@
+292
+klemen slakonja	klemen slakonja	PER	40026
+donald trump	donald trump	PER	1
+lokalno.si	lokalno.si	ORG	40027
+adrifund	adrifund	MISC	40028
+putinu	putin	PER	63
+donalda trumpa	donald trump	PER	1
+klemen	klemen	PER	40026
+facebook	facebook	MISC	40029
+trumpa	trump	PER	1
+sititeatru	sititeater	LOC	40030
+facebooku	facebook	MISC	40029

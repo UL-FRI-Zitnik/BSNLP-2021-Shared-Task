@@ -1,0 +1,23 @@
+cs-101
+BeerExit	BeerExit	PRO	PRO-BeerExit
+Brexit	Brexit	EVT	EVT-Brexit
+Colin Harvey	Colin Harvey	PER	PER-Colin-Harvey
+EU	EU	ORG	ORG-European-Union
+Evropské unie	Evropská unie	ORG	ORG-European-Union
+Evropy	Evropa	LOC	LOC-Europe
+Evropě	Evropa	LOC	LOC-Europe
+Exit	Exit	PRO	PRO-BeerExit
+Hendersonová	Hendersonová	PER	PER-Karen-Henderson
+James Huey	James Huey	PER	PER-James-Huey
+Karen Hendersonová	Karen Hendersonová	PER	PER-Karen-Henderson
+Londonderry	Londonderry	LOC	GPE-Londonderry
+Queen's University v Belfastu	Queen's University v Belfastu	ORG	ORG-Queens-University-Belfast
+Severního Irska	Severní Irsko	LOC	GPE-Northern-Ireland
+Severním Irsku	Severní Irsko	LOC	GPE-Northern-Ireland
+Severnímu Irsku	Severní Irsko	LOC	GPE-Northern-Ireland
+Spojeného království	Spojené království	LOC	GPE-Great-Britain
+VisitDerry	VisitDerry	ORG	ORG-VisitDerry-Company
+brexit	brexit	EVT	EVT-Brexit
+brexitem	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit
+eurozóny	eurozóna	LOC	LOC-Eurozone

@@ -1,0 +1,14 @@
+pl-1239
+Brexicie	Brexit	EVT	EVT-Brexit
+Brexitem	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+Brytyjczykami	Brytyjczycy	PER	GPE-Great-Britain
+Europejczyków	Europejczycy	PER	LOC-Europe
+PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+Polaków	Polacy	PER	GPE-Poland
+Polsce	Polska	LOC	GPE-Poland
+Unii	Unia	ORG	ORG-European-Union
+Unię Europejską	Unia Europejska	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wyspy	Wyspy	LOC	GPE-Great-Britain

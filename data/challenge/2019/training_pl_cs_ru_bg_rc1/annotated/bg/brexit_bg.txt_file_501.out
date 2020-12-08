@@ -1,0 +1,17 @@
+bg-501
+Лондон	Лондон	LOC	GPE-London
+Брекзит	Брекзит	EVT	EVT-Brexit
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+ЕС	ЕС	ORG	ORG-European-Union
+Гринуич	Гринуич	LOC	LOC-Greenwich
+Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+Европейския парламент	Европейски парламент	ORG	ORG-European-Parlament
+Барние	Барние	PER	PER-Michel-Barnier
+британците	британци	PER	GPE-Great-Britain
+Съвета на ЕС	Съвет на ЕС	ORG	ORG-Council-of-the-European-Union
+Европейският съвет	Европейски съвет	ORG	ORG-European-Council
+Екатерина Захариева	Екатерина Захариева	PER	PER-Ekaterina-Zaharieva
+Захариева	Захариева	PER	PER-Ekaterina-Zaharieva
+българското председателство	Българско председателство	EVT	EVT-Bulgarian-Presidency-EU
+Съда на ЕС	Съд на ЕС	ORG	ORG-European-Court-of-Justice

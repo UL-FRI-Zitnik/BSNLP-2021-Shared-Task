@@ -1,0 +1,19 @@
+ru-1004
+Brexit		EVT	EVT-Brexit
+Борис Джонсон		PER	PER-Boris-Johnson
+Германии		LOC	GPE-Germany
+Джонсон		PER	PER-Boris-Johnson
+Джонсона		PER	PER-Boris-Johnson
+Дэвид Дэвис		PER	PER-David-Davis
+Дэвис		PER	PER-David-Davis
+ЕС		ORG	ORG-European-Union
+Евросоюзом		ORG	ORG-European-Union
+Западных Балкан		LOC	LOC-Balkans
+Консервативной партии		ORG	ORG-Conservative-and-Unionist-Party-UK
+Лондоне		LOC	GPE-London
+МИД Великобритании		ORG	ORG-Foreign-Office
+МИД		ORG	ORG-Foreign-Office
+Мэй		PER	PER-Theresa-May
+Польши		LOC	GPE-Poland
+ТАСС	ТАСС	ORG	ORG-TASS
+Терезы Мэй		PER	PER-Theresa-May

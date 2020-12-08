@@ -1,0 +1,25 @@
+bg-1203
+Лондон	Лондон	LOC	GPE-London
+британците	британци	PER	GPE-Great-Britain
+Брекзит	Брекзит	EVT	EVT-Brexit
+The Independent	The Independent	PRO	PRO-The-Independent
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+британци	британци	PER	GPE-Great-Britain
+ЕС	ЕС	ORG	ORG-European-Union
+The Guardian	The Guardian	PRO	PRO-The-Guardian
+Берлин	Берлин	LOC	GPE-Berlin
+Франция	Франция	LOC	GPE-France
+Испания	Испания	LOC	GPE-Spain
+The Sunday Times	The Sunday Times	PRO	PRO-PRO-The-Sunday-Times
+Доминик Лоусън	Доминик Лоусън	PER	PER-Dominic-Lawson
+член 50 от Лисабонския договор	член 50 от Лисабонския договор	PRO	PRO-Article-50
+Камарата на общините	Камара на общините	ORG	ORG-House-of-Commons
+Брюксел	Брюксел	LOC	GPE-Brussles
+Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+Ги Верховстадт	Ги Верховстадт	PER	PER-Guy-Verhofstad
+Sunday Exspress	Sunday Express	PRO	PRO-Sunday-Express
+Верховстадт	Верховстадт	PER	PER-Guy-Verhofstad
+Доналд Туска	Доналд Туск	PER	PER-Donald-Tusk
+Информационна агенция "Фокус"	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

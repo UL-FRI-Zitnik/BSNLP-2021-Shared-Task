@@ -1,0 +1,14 @@
+﻿bg-29
+Reuters	Reuters	ORG	ORG-Reuters
+Брекзит	Брекзит	EVT	EVT-Brexit
+Варадкар	Варадкар	PER	PER-Leo-Varadkar
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Европейския парламент	Европейски парламент	ORG	ORG-European-Parlament
+ЕП	ЕП	ORG	ORG-European-Parlament
+ЕС	ЕС	ORG	ORG-European-Union
+Лио Варадкар	Лио Варадкар	PER	PER-Leo-Varadkar
+Наджъл Фараж	Наджъл Фараж	PER	PER-Nigel-Farage
+Партията за независимост на Обединеното кралство	Партия за независимост на Обединеното кралство	ORG	ORG-UK-Independence-Party
+Страсбург	Страсбург	LOC	GPE-Strasbourg
+Тони Блеър	Тони Блеър	PER	PER-Tony-Blair
+ЮКИП	ЮКИП	ORG	ORG-UK-Independence-Party

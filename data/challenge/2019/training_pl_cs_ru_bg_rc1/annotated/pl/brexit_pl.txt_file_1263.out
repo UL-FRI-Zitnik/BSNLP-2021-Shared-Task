@@ -1,0 +1,50 @@
+pl-1263
+Angelą Merkel	Angela Merkel	PER	PER-Angela-Merkel
+Antonio Tajani	Antonio Tajani	PER	PER-Antonio-Tajani
+Australia	Australia	LOC	GPE-Australia
+Brexicie	Brexit	EVT	EVT-Brexit
+Brukseli	Bruksela	LOC	GPE-Brussles
+Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+Cecilia Malmstroem	Cecilia Malmstroem	PER	PER-Cecilia-Malmstroem
+Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+Europa	Europa	LOC	LOC-Europe
+Europarlament	Europarlament	ORG	ORG-European-Parlament
+Europejczyków	Europejczycy	PER	LOC-Europe
+Europy	Europa	LOC	LOC-Europe
+Facebooka	Facebook	PRO	PRO-Facebook
+Grupy Wyszehradzkiej	Grupa Wyszehradzka	ORG	ORG-Visegrád-Group
+Jacek Czaputowicz	Jacek Czaputowicz	PER	PER-Jacek-Czaputowicz
+Jean-Claude'em Junckerem	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+Kanada	Kanada	LOC	GPE-Canada
+Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+Komisją	Komisja	ORG	ORG-European-Commission
+Mateusz Morawiecki	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+Meksyk	Meksyk	LOC	GPE-Mexico
+Moskwy	Moskwa	LOC	GPE-Moscow
+Parlamentu Europejskiego	Parlament Europejski	ORG	ORG-European-Parlament
+Polska	Polska	LOC	GPE-Poland
+Polskiego Radia	Polskie Radio	PRO	PRO-Polish-Radio
+Polskę	Polska	LOC	GPE-Poland
+Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+Rosja	Rosja	LOC	GPE-Russia
+Rosji	Rosja	LOC	GPE-Russia
+Siergieja Skripala	Siergiej Skripal	PER	PER-Siergiej-Skripal
+Skripala	Skripal	PER	PER-Siergiej-Skripal
+Sojusz Europejskich Konserwatystów i Reformatorów	Sojusz Europejskich Konserwatystów i Reformatorów	ORG	ORG-AECR-Alliance-of-European-Conservatives-and-Reformists
+Stanów Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+Theresa May	Theresa May	PER	PER-Theresa-May
+UE	UE	ORG	ORG-European-Union
+USA	USA	LOC	GPE-USA
+Unia	Unia	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Waszyngtonie	Waszyngton	LOC	GPE-Washington
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnocie	Wspólnota	ORG	ORG-European-Union
+Wspólnoty	Wspólnota	ORG	ORG-European-Union
+Wyspy	Wyspy	LOC	GPE-Great-Britain
+brexit	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit
+facebook	Facebook	PRO	PRO-Facebook

@@ -1,0 +1,14 @@
+bg-1686
+Мей	Мей	PER	PER-Theresa-May
+Брекзит	Брекзит	EVT	EVT-Brexit
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+ЕС	ЕС	ORG	ORG-European-Union
+Ройтерс	Ройтерс	ORG	ORG-Reuters
+Гринуич	Гринуич	LOC	LOC-Greenwich
+Англия	Англия	LOC	GPE-England
+Шотландия	Шотландия	LOC	GPE-Scotland
+Уелс	Уелс	LOC	GPE-Wales
+Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+БиБиСи	БиБиСи	ORG	ORG-BBC-Ltd
+Тони Блеър	Тони Блеър	PER	PER-Tony-Blair

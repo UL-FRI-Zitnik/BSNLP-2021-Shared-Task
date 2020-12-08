@@ -1,0 +1,38 @@
+157
+europska komisija	europska komisija	ORG	1
+hrvatskoj	hrvatska	LOC	41
+komisija	komisija	ORG	1
+hrvatsku	hrvatska	LOC	41
+direktivom o uslugama	direktiva o uslugama	MISC	50311
+grčku	grčka	LOC	101
+irsku	irska	LOC	10055
+italiju	italija	LOC	10032
+portugal	portugal	LOC	30237
+hrvatska	hrvatska	LOC	41
+hdz-a	hdz	ORG	50316
+andrej plenković	andrej plenković	PER	50317
+vlada	vlada	ORG	50318
+europskom komisijom	europska komisija	ORG	1
+plenković	plenković	PER	50317
+zdravko marić	zdravko marić	PER	50319
+ek	ek	ORG	1
+marić	marić	PER	50319
+austriju	austrija	LOC	293
+belgiju	belgija	LOC	10120
+bugarsku	bugarska	LOC	231
+cipar	cipar	LOC	50323
+češku	češka	LOC	20
+estoniju	estonija	LOC	50325
+finsku	finska	LOC	10140
+francusku	francuska	LOC	241
+mađarsku	mađarska	LOC	294
+latviju	latvija	LOC	40162
+litvu	litva	LOC	162
+luksemburg	luksemburg	LOC	117
+nizozemsku	nizozemska	LOC	89
+slovačku	slovačka	LOC	125
+sloveniju	slovenija	LOC	295
+veliku britaniju	velika britanija	LOC	90
+komisiju	komisija	ORG	1
+eu-a	eu	LOC	6
+sudu eu-a	sud eu-a	ORG	239

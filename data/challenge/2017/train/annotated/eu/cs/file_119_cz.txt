@@ -1,0 +1,12 @@
+119
+evropská komise	evropská komise	ORG	1
+eu	eu	LOC	6
+security magazín	security magazín	ORG	58
+die welt	die welt	ORG	59
+berlín	berlín	LOC	60
+čtk	čtk	ORG	61
+spojených státech	spojené státy	LOC	11
+evropská unie	evropská unie	LOC	6
+dimitris avromopulos	dimitris avromopulos	PER	62
+etias	etias	MISC	63
+security magazínu	security magazín	ORG	58

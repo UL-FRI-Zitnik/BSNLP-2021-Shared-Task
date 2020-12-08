@@ -1,0 +1,30 @@
+﻿50
+komisja europejska	komisja europejska	ORG	1
+komisja wspólnot europejskich	komisja wspólnot europejskich	ORG	1
+unii europejskiej	unia europejska	LOC	6
+unii	unia	LOC	6
+traktatu z maastricht	traktat z maastricht	MISC	10175
+traktatu fuzyjnego	traktat fuzyjny	MISC	20201
+wysoka władza	wysoka władza	ORG	20202
+europejskiej wspólnoty węgla i stali	europejska wspólnota węgla i stali	ORG	20203
+komisja europejskiej wspólnoty gospodarczej	komisja europejskiej wspólnoty gospodarczej	ORG	20204
+komisja euratomu	komisja euratomu	ORG	20205
+bruksela	bruksela	LOC	28
+komisja	komisja	ORG	1
+wspólnot	wspólnoty	LOC	20151
+komisji	komisja	ORG	1
+parlamentu europejskiego	parlament europejski	ORG	14
+wspólnot europejskich	wspólnoty europejskie	LOC	20151
+rady	rada	ORG	190
+parlament europejski	parlament europejski	ORG	14
+komisję wspólnot europejskich	komisja wspólnot europejskich	ORG	1
+traktatu nicejskiego	traktat nicejski	MISC	10024
+rada europejska	rada europejska	ORG	42
+traktatu z nicei	traktat z nicei	MISC	10024
+parlamentu	parlament	ORG	14
+rada unii europejskiej	rada unii europejskiej	ORG	190
+parlamencie europejskim	parlament europejski	ORG	14
+komisji europejskiej	komisja europejska	ORG	1
+portugalczyka	portugalczyk	PER	20210
+jose mauela barroso	jose mauel barroso	PER	43
+pe	pe	ORG	14

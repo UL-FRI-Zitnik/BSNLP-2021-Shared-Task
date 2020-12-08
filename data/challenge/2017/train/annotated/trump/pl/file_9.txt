@@ -1,0 +1,28 @@
+﻿9
+donald trump	donald trump	PER	1
+alem gorem	al gore	PER	20625
+al gore	al gore	PER	20625
+pokojową nagroda nobla	pokojowa nagroda nobla	MISC	21030
+baracka obamy	barack obama	PER	16
+trumpowi	trump	PER	1
+ivanka	ivanka	PER	58
+gore	gore	PER	20625
+trump tower	trump tower	LOC	205
+trumpa	trump	PER	1
+trumpem	trump	PER	1
+trump organization	trump organization	ORG	93
+cnn	cnn	ORG	20019
+nowego jorku	nowy jork	LOC	4
+waszyngtonu	waszyngton	LOC	47
+politico	politico	ORG	248
+new york times	new york times	ORG	5
+leonardem dicaprio	leonardem dicaprio	PER	21032
+chiny	chiny	LOC	11
+chin	chiny	LOC	11
+twitterze	twitter	MISC	90
+agencję ochrony środowiska	agencja ochrony środowiska	ORG	21033
+usa	usa	LOC	2
+paryżu	paryż	LOC	21034
+trump	trump	PER	1
+chinach	chiny	LOC	11
+obama	obama	PER	16

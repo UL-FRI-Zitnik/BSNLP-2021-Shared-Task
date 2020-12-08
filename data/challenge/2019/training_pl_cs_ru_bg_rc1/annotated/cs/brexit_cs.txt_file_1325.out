@@ -1,0 +1,28 @@
+cs-1325
+Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+Britové	Britové	PER	GPE-Great-Britain
+Brity	Britové	PER	GPE-Great-Britain
+Británie	Británie	LOC	GPE-Great-Britain
+Británii	Británie	LOC	GPE-Great-Britain
+Británií	Británie	LOC	GPE-Great-Britain
+Bruselu	Brusel	LOC	GPE-Brussles
+EU	EU	ORG	ORG-European-Union
+Evropa	Evropa	LOC	LOC-Europe
+Evropané	Evropané	PER	LOC-Europe
+Evropskou unií	Evropská unie	ORG	ORG-European-Union
+Evropská unie	Evropská unie	ORG	ORG-European-Union
+Evropské unie	Evropská unie	ORG	ORG-European-Union
+Irskem	Irsko	LOC	GPE-Ireland
+Irsku	Irsko	LOC	GPE-Ireland
+Jean-Yves Le Drian	Jean-Yves Le Drian	PER	PER-Jean-Yves-Le-Drian
+Johnson	Johnson	PER	PER-Boris-Johnson
+Konzervativní strany	Konzervativní strana	ORG	ORG-Conservative-and-Unionist-Party-UK
+Londýn	Londýn	LOC	GPE-London
+Mayová	Mayová	PER	PER-Theresa-May
+Severním Irsku	Severní Irsko	LOC	GPE-Northern-Ireland
+Sněmovna lordů	Sněmovna lordů	ORG	ORG-House-of-Lords
+Spojené království	Spojené království	LOC	GPE-Great-Britain
+Světové obchodní organizace	Světová obchodní organizace	ORG	ORG-WTO-World-Trade-Organization
+brexit	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit
+Čechů	Češi	PER	GPE-Czech-Republic

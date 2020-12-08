@@ -1,0 +1,25 @@
+117
+wisconsinu	wisconsin	LOC	68
+jill stein	jill stein	PER	69
+donald trump	donald trump	PER	1
+trump	trump	PER	1
+putinova	putin	PER	63
+usa	usa	LOC	2
+číně	čína	LOC	11
+číny	čína	LOC	11
+pekingu	peking	LOC	70
+us	us	LOC	2
+fed	fed	ORG	71
+čína	čína	LOC	11
+čínu	čína	LOC	11
+asie	asie	LOC	72
+evropy	evropa	LOC	73
+česko	česko	LOC	74
+německo	německo	LOC	75
+fedu	fed	ORG	71
+fieldingova	fielding	PER	76
+nwo	nwo	ORG	77
+ruska	rusko	LOC	78
+svob. rádiu	svob. rádio	ORG	79
+brexit	brexit	MISC	80
+trumpa	trump	PER	1

@@ -1,0 +1,23 @@
+cs-1027
+Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+Brexit	Brexit	EVT	EVT-Brexit
+Britové	Britové	PER	GPE-Great-Britain
+Británie	Británie	LOC	GPE-Great-Britain
+Bruselem	Brusel	LOC	GPE-Brussles
+Buzzfeed	Buzzfeed	PRO	PRO-Buzzfeed-website
+Conservative Way Forward	Conservative Way Forward	ORG	ORG-Conservative-Way-Forward
+Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+Donaldu Trumpovi	Donald Trump	PER	PER-Donald-Trump
+EU	EU	ORG	ORG-European-Union
+Evropské unie	Evropská unie	ORG	ORG-European-Union
+Irskou republikou	Irská republika	LOC	GPE-Ireland
+Johnson	Johnson	PER	PER-Boris-Johnson
+Johnsonovy	Johnson	PER	PER-Boris-Johnson
+Konzervativní cesta vpřed	Konzervativní cesta vpřed	ORG	ORG-Conservative-Way-Forward
+Konzervativní strany	Konzervativní strana	ORG	ORG-Conservative-and-Unionist-Party-UK
+Severním Irskem	Severní Irsko	LOC	GPE-Northern-Ireland
+Trump	Trump	PER	PER-Donald-Trump
+brexit	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit
+britského parlamentu	britský parlament	ORG	ORG-British-Parlament
+konzervativců	konzervativci	PER	ORG-Conservative-and-Unionist-Party-UK

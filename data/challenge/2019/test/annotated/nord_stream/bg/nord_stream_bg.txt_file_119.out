@@ -1,0 +1,61 @@
+bg-119
+Cheniere Energy	Cheniere Energy	ORG	ORG-Cheniere-Energy
+Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+PGNiG	PGNiG	ORG	ORG-PGNiG
+Venture Global LNG	Venture Global LNG	ORG	ORG-Venture-Global-LNG
+Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+Балтийско море	Балтийско море	LOC	LOC-Baltic-Sea
+Башар Асад	Башар Асад	PER	PER-Bashar-Assad
+Берлин	Берлин	LOC	GPE-Berlin
+Брекзит	Брекзит	EVT	EVT-Brexit
+Будапеща	Будапеща	LOC	GPE-Budapest
+България	България	LOC	GPE-Bulgaria
+Варшава	Варшава	LOC	GPE-Warsaw
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Виторенко	Витренко	PER	PER-Yuriy-Vitrenko
+Газпром	Газпром	ORG	ORG-Gazprom
+Георги Първанов	Георги Първанов	PER	PER-Georgi-Parvanov
+Германия	Германия	LOC	GPE-Germany
+Дания	Дания	LOC	GPE-Denmark
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+ЕС	ЕС	ORG	ORG-European-Union
+Европа	Европа	LOC	LOC-Europe
+Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+Екип нюз	Екип нюз	PRO	PRO-Ekipnews.com
+Източна Европа	Източна Европа	LOC	LOC-Eastern-Europe
+Керченския пролив	Керченски пролив	LOC	LOC-Kerch-Strait
+Киев	Киев	LOC	GPE-Kiev
+Люксембург	Люксембург	LOC	GPE-Luxembourg
+Матеус Моравецки	Матеус Моравецки	PER	PER-Mateusz-Morawiecki
+Меркел	Меркел	PER	PER-Angela-Merkel
+Москва	Москва	LOC	GPE-Moscow
+Нафтогаз	Нафтогаз	ORG	ORG-Naftogaz
+Пери	Пери	PER	PER-Rick-Perry
+Полша	Полша	LOC	GPE-Poland
+Путин	Путин	PER	PER-Vladimir-Putin
+Риа Новости	Риа Новости	ORG	ORG-RIA-Novosti
+Рик Пери	Рик Пери	PER	PER-Rick-Perry
+Румен Овчаров	Румен Овчаров	PER	PER-Rumen-Ovcharov
+Русия	Русия	LOC	GPE-Russia
+Северeн поток 2	Северeн поток 2	PRO	PRO-Nord-Stream-2
+Северен поток 2 	Северен поток 2	PRO	PRO-Nord-Stream-2
+Северен поток 2	Северен поток 2	ORG	ORG-Nord-Stream-2-AG
+Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+Северен поток	Северен поток	ORG	ORG-Nord-Stream-AG
+Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
+Сирия	Сирия	LOC	GPE-Syria
+София	София	LOC	GPE-Sofia
+Съединените щати	Съединени щати	LOC	GPE-USA
+Тройната коалиция	Тройна коалиция	ORG	ORG-Troyna-koalitsiya
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Турски поток	Турски поток	PRO	PRO-Turkish-Stream
+Украйна	Украйна	LOC	GPE-Ukraine
+Финландия	Финландия	LOC	GPE-Finland
+Хамбург	Хамбург	LOC	GPE-Hamburg
+Хегел	Хегел	PER	PER-Hegel
+Християндемократическия съюз	Християндемократически съюз	ORG	ORG-Christlich-Demokratische-Union
+Централна	Централна	LOC	LOC-Central-Europe
+Юри Виторенко	Юри Витренко	PER	PER-Yuriy-Vitrenko
+евродепутати	евродепутати	PER	ORG-European-Parlament
+руснаците	руснаци	PER	GPE-Russia

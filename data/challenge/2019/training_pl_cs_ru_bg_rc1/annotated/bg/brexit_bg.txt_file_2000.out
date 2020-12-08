@@ -1,0 +1,18 @@
+bg-2000
+Лондон	Лондон	LOC	GPE-London
+Даунинг стрийт	Даунинг стрийт	LOC	LOC-Downing-Street
+Брекзит	Брекзит	EVT	EVT-Brexit
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+ЕС	ЕС	ORG	ORG-European-Union
+Мей	Мей	PER	PER-Theresa-May
+Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+Индипендънт	Индипендънт	PRO	PRO-The-Independent
+Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+Амбър Ръд	Амбър Ръд	PER	PER-Amber-Rudd
+Телеграф	Телеграф	PRO	PRO-The-Telegraph
+Брюксел	Брюксел	LOC	GPE-Brussles
+Гардиън	Гардиън	PRO	PRO-The-Guardian
+Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+Дейли телеграф	Дейли телеграф	PRO	PRO-The-Telegraph

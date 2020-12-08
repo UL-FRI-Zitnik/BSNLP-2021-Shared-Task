@@ -1,0 +1,24 @@
+380
+skupnost višjih strokovnih šol republike slovenije	skupnost višjih strokovnih šol republike slovenije	ORG	40136
+evropska komisija	evropska komisija	ORG	1
+generalni direktorat za zaposljivost, socialne zadeve in vključevanje	generalni direktorat za zaposljivost, socialne zadeve in vključevanje	ORG	108
+evropske komisije	evropska komisija	ORG	1
+bratislavi	bratislavi	LOC	226
+skupnosti vsš	skupnost vsš	ORG	40136
+alicia-leonor sauli-miklavčič	alicia-leonor sauli-miklavčič	PER	40139
+eok	eok	MISC	40140
+francija	francija	LOC	241
+nemčija	nemčija	LOC	68
+belgija	belgija	LOC	10120
+avstrija	avstrija	LOC	293
+madžarska	madžarska	LOC	294
+irska	irska	LOC	10055
+italija	italija	LOC	10032
+španija	španija	LOC	163
+velika britanija	velika britanija	LOC	90
+sloveniji	slovenija	LOC	295
+slovaške	slovaška	LOC	125
+švedske	švedska	LOC	10113
+avstrije	avstrija	LOC	293
+nemčije	nemčija	LOC	68
+madžarske	madžarska	LOC	294

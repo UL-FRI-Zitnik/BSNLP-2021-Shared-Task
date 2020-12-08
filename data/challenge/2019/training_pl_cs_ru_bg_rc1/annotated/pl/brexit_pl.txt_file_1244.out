@@ -1,0 +1,20 @@
+pl-1244
+Barnier	Barnier	PER	PER-Michel-Barnier
+Brexitu	Brexit	EVT	EVT-Brexit
+Brukseli	Bruksela	LOC	GPE-Brussles
+Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+Europejczyków	Europejczycy	PER	LOC-Europe
+Grzegorz Paluch	Grzegorz Paluch	PER	PER-Grzegorz-Paluch
+Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+Irlandią Płn.	Irlandia Płn.	LOC	GPE-Northern-Ireland
+Irlandią	Irlandia	LOC	GPE-Ireland
+PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parlament
+Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+Theresy May	Theresa May	PER	PER-Theresa-May
+Tusk	Tusk	PER	PER-Donald-Tusk
+UE	UE	ORG	ORG-European-Union
+W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+brexitu	Brexit	EVT	EVT-Brexit
+kanał La Manche	Kanał La Manche	LOC	LOC-English-Channel

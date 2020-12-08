@@ -1,0 +1,22 @@
+cs-1262
+Anglie	Anglie	LOC	GPE-England
+Astra	Astra	PRO	PRO-Astra-car-model
+Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+Brexit	Brexit	EVT	EVT-Brexit
+Brusel	Brusel	LOC	GPE-Brussles
+Cooper	Cooper	PER	PER-Cooper
+Ellesmere Port	Ellesmere Port	LOC	GPE-Ellesmere-Port
+Francii	Francie	LOC	GPE-France
+General Motors	General Motors	ORG	ORG-General-Motors
+John Cooper	John Cooper	PER	PER-Cooper
+Liverpoolu	Liverpool	LOC	GPE-Liverpool
+Londýn	Londýn	LOC	GPE-London
+Nissan	Nissan	ORG	ORG-Nissan
+Německu	Německo	LOC	GPE-Germany
+PSA Group	PSA Group	ORG	ORG-PSA-Group
+PSA	PSA	ORG	ORG-PSA-Group
+Vauxhall	Vauxhall	LOC	GPE-Vauxhall-factory
+Vauxhall	Vauxhall	PRO	PRO-Vauxhall-brand
+brexit	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit
+Španělsku	Španělsko	LOC	GPE-Spain

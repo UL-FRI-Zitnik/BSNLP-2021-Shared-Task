@@ -1,0 +1,12 @@
+506
+európska komisia	európska komisia	ORG	1
+trend.sk	trend.sk	ORG	191
+európska únia	európska únia	LOC	6
+japonsko	japonsko	LOC	147
+čína	čína	LOC	12
+kanada	kanada	LOC	29
+usa	usa	LOC	11
+daimler	daimler	ORG	192
+renault	renault	ORG	193
+volkswagen	volkswagen	ORG	15
+eú	eú	LOC	6

@@ -1,0 +1,22 @@
+146
+donald j. trump	donald j. trump	PER	1
+havajima	havaji	LOC	54
+hillary	hillary	PER	3
+kainea	kaine	PER	50004
+bernieja	bernie	PER	7
+warrenicu	warrenica	PER	50006
+teksasa	teksas	LOC	40199
+washingtona	washington	LOC	47
+ec-a	ec	ORG	50009
+bernie	bernie	PER	7
+hillary	hillary	PER	3
+obama	obama	PER	16
+nafta	nafta	MISC	50011
+tpp	tpp	MISC	21401
+ttip	ttip	MISC	50013
+dapl	dapl	MISC	50014
+trump	trump	PER	1
+obama	obama	PER	16
+merkel	merkel	PER	131
+berlinu	berlin	LOC	317
+berlusconi	berlusconi	PER	50017

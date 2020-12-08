@@ -1,0 +1,55 @@
+pl-13
+27	27	ORG	ORG-European-Union
+Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+Brexit	Brexit	EVT	EVT-Brexit
+Bruksela	Bruksela	LOC	GPE-Brussles
+Brukseli	Bruksela	LOC	GPE-Brussles
+Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+Brytyjczykom	Brytyjczycy	PER	GPE-Great-Britain
+Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+City	City	LOC	LOC-City-of-London
+Corbyn	Corbyn	PER	PER-Jeremy-Corbyn
+Corbyna	Corbyn	PER	PER-Jeremy-Corbyn
+Corbynem	Corbyn	PER	PER-Jeremy-Corbyn
+Davida Camerona	David Cameron	PER	PER-David-Cameron
+Dover	Dover	LOC	GPE-Dover
+EEA	EEA	ORG	ORG-EEA-European-Economic-Area
+Europejskiego Obszaru Gospodarczego	Europejski Obszar Gospodarczy	ORG	ORG-EEA-European-Economic-Area
+Europy	Europa	LOC	LOC-Europe
+Guardian	Guardian	PRO	PRO-The-Guardian
+Independenta	Independent	PRO	PRO-The-Independent
+Irlandii	Irlandia	LOC	GPE-Ireland
+Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+Izby Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+Jeremy Corbyn	Jeremy Corbyn	PER	PER-Jeremy-Corbyn
+Johna Majora	John Major	PER	PER-John-Major
+Jędrzej Bielecki	Jędrzej Bielecki	PER	PER-Tomasz-Bielecki
+Kanału	Kanał	LOC	LOC-English-Channel
+Kenneth Clarke	Kenneth Clarke	PER	PER-Kenneth-Clarke
+Londynem	Londyn	LOC	GPE-London
+MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+Margaret Thatcher	Margaret Thatcher	PER	PER-Margaret-Thatcher
+May	May	PER	PER-Theresa-May
+Michael Gove	Michael Gove	PER	PER-Michael-Gove
+Niemcy	Niemcy	LOC	GPE-Germany
+Norwegia	Norwegia	LOC	GPE-Norway
+Partia Konserwatywna	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+Partią Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+Republiką Irlandii	Republika Irlandii	LOC	GPE-Ireland
+Theresa May	Theresa May	PER	PER-Theresa-May
+UE	UE	ORG	ORG-European-Union
+Unia	Unia	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Unią	Unia	ORG	ORG-European-Union
+Unię	Unia	ORG	ORG-European-Union
+Wielka Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnocie	Wspólnota	ORG	ORG-European-Union
+brexicie	Brexit	EVT	EVT-Brexit
+brexit	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit
+laburzystów	laburzyści	PER	ORG-Labour-Party-UK
+torysami	torysi	PER	ORG-Tories
+torysów	torysi	PER	ORG-Tories

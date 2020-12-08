@@ -1,0 +1,9 @@
+152
+evropská komise	evropská komise	ORG	1
+mpo	mpo	MISC	10
+eu	eu	LOC	6
+evropě	evropa	LOC	9
+usa	usa	LOC	11
+číně	čína	LOC	12
+komise	komise	ORG	1
+evropské komise	evropská komise	ORG	1

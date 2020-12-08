@@ -1,0 +1,13 @@
+213
+europska komisija	europska komisija	ORG	1
+hrvatsku	hrvatska	LOC	41
+sud eu	sud eu	ORG	239
+komisija	komisija	ORG	1
+protokol o pristupanju međunarodnoj konvenciji o suradnji na sigurnosti zračne plovidbe	protokol o pristupanju međunarodnoj konvenciji o suradnji na sigurnosti zračne plovidbe	MISC	50431
+eurocontrol	eurocontrol	MISC	50432
+eu	eu	LOC	6
+sud	sud	ORG	239
+europske komisije	europska komisija	ORG	1
+hrvatska	hrvatska	LOC	41
+vladom	vlada	ORG	50318
+vecernji.hr	vecernji.hr	ORG	50391

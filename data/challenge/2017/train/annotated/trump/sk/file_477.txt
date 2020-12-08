@@ -1,0 +1,21 @@
+477
+donald trump	donald trump	PER	1
+noviny.sk	noviny.sk	ORG	287
+dimondale	dimondale	LOC	288
+demokratov	demokrati	ORG	112
+američanov	američania	PER	17
+lansingu	lansingu	LOC	289
+ap	ap	ORG	81
+hillary clinton	hillary clinton	PER	3
+barack obama	barack obama	PER	16
+trump	trump	PER	1
+afroameričanov	afroameričania	PER	114
+detroit	detroit	LOC	159
+twitteri	twitter	MISC	90
+marlon marshall	marlon marshall	PER	290
+hillary	hillary	PER	3
+reuters	reuters	ORG	291
+dinalda trumpa	donald trump	PER	1
+bieleho domu	biely dom	LOC	111
+de volkskrant	de volkskrant	ORG	292
+trumpovi	trump	PER	1

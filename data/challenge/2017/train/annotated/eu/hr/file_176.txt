@@ -1,0 +1,26 @@
+176
+ministarstvo regionalnoga razvoja i fondova europske unije	ministarstvo regionalnoga razvoja i fondova europske unije	ORG	50398
+europska komisija	europska komisija	ORG	1
+hrvatskoj	hrvatska	LOC	41
+savi	sava	LOC	50399
+svilaja	svilaj	LOC	50400
+općina odžak	općina odžak	LOC	50401
+republika hrvatska	republika hrvatska	LOC	41
+bosna i hercegovina	bosna i hercegovina	LOC	299
+sporazumu između vlade republike hrvatske i vijeća ministara bosne i hercegovine	sporazum između vlade republike hrvatske i vijeća ministara bosne i hercegovine	MISC	50402
+hrvatska	hrvatska	LOC	41
+instrumenta za povezivanje europe	instrument za povezivanje europe	ORG	50403
+cef	cef	ORG	50403
+connecting europe facility	conecting europe facility	ORG	50403
+europske investicijske banke	europska investicijska banka	ORG	235
+europe	europa	LOC	9
+jadranom	jadran	LOC	50406
+bih	bih	LOC	299
+hrvatsku	hrvatska	LOC	41
+save	sava	LOC	50399
+europske unije	europska unija	LOC	6
+tomislav tolušić	tomislav tolušić	PER	50406
+osnovne mreže transeuropske prometne mreže	osnovna mreža transeuropske prometne mreže	MISC	50407
+cef-a	cef	ORG	50403
+instrument	instrument	ORG	50403
+5c- budimpešta-beli manastir-osijek-sarajevo-ploče	5c- budimpešta-beli manastir-osijek-sarajevo-ploče	LOC	50482

@@ -1,0 +1,19 @@
+295
+donald trump	donald trump	PER	1
+amerika	amerika	LOC	2
+novi radio	novi radio	ORG	40044
+donalda trumpa	donald trump	PER	1
+zda	zda	LOC	2
+the new york times	the new york times	ORG	5
+trump	trump	PER	1
+amerike	amerika	LOC	2
+japonsko	japonska	LOC	30101
+assadu	assad	PER	249
+isis	isis	ORG	121
+siriji	sirija	LOC	188
+assad	assad	PER	249
+savdske arabije	savdska arabija	LOC	40049
+islamsko državo	islamska država	ORG	121
+nato	nato	ORG	251
+edwarda snowdena	edward snowden	PER	40051
+maruša gorišek	maruša gorišek	PER	40052

@@ -1,0 +1,4 @@
+442
+donald trump	donald trump	PER	1
+trump	trump	PER	1
+donalda trumpa	donald trump	PER	1

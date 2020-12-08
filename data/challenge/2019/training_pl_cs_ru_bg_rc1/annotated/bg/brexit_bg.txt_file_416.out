@@ -1,0 +1,19 @@
+bg-416
+ЕС	ЕС	ORG	ORG-European-Union
+Лондон	Лондон	LOC	GPE-London
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Брекзит	Брекзит	EVT	EVT-Brexit
+Брекзита	Брекзит	EVT	EVT-Brexit
+Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+Барние	Барние	PER	PER-Michel-Barnier
+Ройтерс	Ройтерс	ORG	ORG-Reuters
+БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+Брюксел	Брюксел	LOC	GPE-Brussles
+Дейвис	Дейвис	PER	PER-David-Davis
+ТАСС	ТАСС	ORG	ORG-TASS-Agency
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+АП	АП	ORG	ORG-The-Associated-Press
+Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+Мей	Мей	PER	PER-Theresa-May
+Евросъюза	Евросъюз	ORG	ORG-European-Union

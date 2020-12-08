@@ -1,0 +1,13 @@
+pl-1020
+Brexit	Brexit	EVT	EVT-Brexit
+Bułgarii	Bułgaria	LOC	GPE-Bulgaria
+EUobserver	EUobserver	PRO	PRO-EUobserver
+Farm Europe	Farm Europe	ORG	ORG-Farm-Europe
+Joao Pacheco	Joao Pacheco	PER	PER-Joao-Pacheco
+Komisję Europejską	Komisja Europejska	ORG	ORG-European-Commission
+Marineła Petrowa	Marineła Petrowa	PER	PER-Marineła-Petrowa
+PE	PE	ORG	ORG-European-Parlament
+Parlament Europejski	Parlament Europejski	ORG	ORG-European-Parlament
+Rada UE	Rada UE	ORG	ORG-European-Council
+Radę UE	Rada UE	ORG	ORG-European-Council
+UE	UE	ORG	ORG-European-Union

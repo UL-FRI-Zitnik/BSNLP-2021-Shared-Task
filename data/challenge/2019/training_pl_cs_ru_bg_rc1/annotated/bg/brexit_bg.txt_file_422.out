@@ -1,0 +1,26 @@
+bg-422
+Макрон	Макрон	PER	PER-Emmanuel-Macron
+Мей	Мей	PER	PER-Theresa-May
+Брекзит	Брекзит	EVT	EVT-Brexit
+Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+лондонското Сити	Лондонско Сити	LOC	GPE-City-of-London
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+ЕС	ЕС	ORG	ORG-European-Union
+Гардиън	Гардиън	PRO	PRO-The-Guardian
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Лондон	Лондон	LOC	GPE-London
+Париж	Париж	LOC	GPE-Paris
+Кале	Кале	LOC	GPE-Calais
+Франция	Франция	LOC	GPE-France
+Европа	Европа	LOC	LOC-Europe
+Канада	Канада	LOC	GPE-Canada
+Брюксел	Брюксел	LOC	GPE-Brussles
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Туке	Туке	LOC	GPE-Le-Touquet-Paris-Plage
+Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+Ню Йорк таймс	Ню Йорк таймс	PRO	PRO-New-York-Times
+Вивиан Пертюсо	Вивиан Пертюсо	PER	PER-Vivian-Pertuso
+Френския институт по международни отношения	Френски институт по международни отношения	ORG	ORG-French-Institute-of-International-Relations
+Пертюсо	Пертюсо	PER	PER-Vivian-Pertuso
+БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+Германия	Германия	LOC	GPE-Germany

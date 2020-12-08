@@ -1,0 +1,12 @@
+428
+infospravy.sk	infospravy.sk	ORG	305
+spojených štátoch	spojené štáty	LOC	2
+američania	američania	PER	17
+donalda trumpa	donald trump	PER	1
+donaldovi trumpovi	donald trump	PER	1
+hillary clintonovú	hillary clintonová	PER	3
+donald trump	donald trump	PER	1
+trump	trump	PER	1
+hilllary clintonová	hillary clintonová	PER	3
+kongres	kongres	ORG	55
+tasr	tasr	ORG	101

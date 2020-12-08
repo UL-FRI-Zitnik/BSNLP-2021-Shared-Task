@@ -1,0 +1,52 @@
+322
+donald trump	donald trump	PER	1
+queensu	queens	LOC	125
+new york	new york	LOC	4
+miss universe	miss universe	MISC	182
+wme/img	wme/img	ORG	40191
+trump	trump	PER	1
+the apprentice	the apprentice	MISC	96
+forbes	forbes	ORG	222
+američanov	američani	PER	17
+ivano trump	ivana trump	PER	58
+donald jr.	donald jr.	PER	177
+ivanka	ivanka	PER	178
+eric	eric	PER	179
+ivane	ivana	PER	58
+marlo maples	marla maples	PER	29
+tiffany	tiffany	PER	181
+melanio trump	melania trump	PER	183
+barrona	barron	PER	185
+fox news	fox news	ORG	145
+people magazine	people magazine	ORG	40119
+washington post	washington post	ORG	144
+the art of the deal	the art of the deal	MISC	40120
+trumo	trump	PER	1
+surviving at the top	surviving at the top	MISC	40121
+fredrikom skavlanom	fredrik skavlan	PER	40007
+social networking for authors: untapped possivilities for wealth	social networking for authors: untapped possibilities for wealth	MISC	40123
+ny daily news	ny daily news	ORG	40124
+jerry useem	jerry useem	PER	40125
+what does donald trump really want	what does donald trump really want	MISC	40126
+fortune	fortune	ORG	107
+billa clintona	bill clinton	PER	135
+hardball with chris matthews	hardball with chris matthews	MISC	40128
+the new york post	the new york post	ORG	40129
+kitajce	kitajci	PER	10062
+twitter	twitter	MISC	90
+hillary clinton	hillary clinton	PER	3
+ameriko	amerika	LOC	2
+phoenixu	phoenix	LOC	353
+fox news insider	fox news insider	ORG	40133
+zda	zda	LOC	2
+el chapa	el chapo	PER	40134
+bbc	bbc	ORG	123
+texas	teksas	LOC	40199
+hillary	hillary	PER	3
+trumpova	trump	PER	1
+facebooku	facebook	MISC	40029
+awr hawkins	awr hawkins	PER	40135
+breitbart	breitbart	ORG	20612
+baracku obamu	barack obama	PER	16
+wjla	wjla	ORG	40137
+the washington post	the washington post	ORG	144

@@ -1,0 +1,26 @@
+pl-1080
+Amsterdamie	Amsterdam	LOC	GPE-Amsterdam
+BDI	BDI	ORG	ORG-BDI-Bundesverband-der-Deutschen-Industrie
+Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+DW	DW	PRO	PRO-Die-Welt
+Frankfurtu nad Menem	Frankfurt nad Menem	LOC	GPE-Frankfurt-am-Main
+Graeme Pitkethly	Graeme Pitkethly	PER	PER-Graeme-Pitkethly
+Joachim Lang	Joachim Lang	PER	PER-Joachim-Lang
+Lang	Lang	PER	PER-Joachim-Lang
+Londyn	Londyn	LOC	GPE-London
+Londynie	Londyn	LOC	GPE-London
+Niemcy	Niemcy	LOC	GPE-Germany
+Niemcy	Niemcy	PER	GPE-Germany
+Niemiec	Niemcy	LOC	GPE-Germany
+Rotterdam	Rotterdam	LOC	GPE-Rotterdam
+UE	UE	ORG	ORG-European-Union
+Unilever	Unilever	ORG	ORG-Unilever
+Unilevera	Unilever	ORG	ORG-Unilever
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wyspy	Wyspy	LOC	GPE-Great-Britain
+Związku Niemieckiego Przemysłu	Związek Niemieckiego Przemysłu	ORG	ORG-BDI-Bundesverband-der-Deutschen-Industrie
+brexicie	Brexit	EVT	EVT-Brexit
+brexit	Brexit	EVT	EVT-Brexit
+brexitem	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit

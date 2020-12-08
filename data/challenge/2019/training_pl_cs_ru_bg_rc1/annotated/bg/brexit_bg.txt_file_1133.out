@@ -1,0 +1,62 @@
+﻿bg-1133
+Брекзит	Брекзит	EVT	EVT-Brexit
+Америка на първо място	Америка на първо място	PRO	PRO-America-First
+Америка	Америка	LOC	GPE-USA
+САЩ	САЩ	LOC	GPE-USA
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Давос	Давос	LOC	GPE-Davos
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Европа	Европа	LOC	LOC-Europe
+Китай	Китай	LOC	GPE-China
+Япония	Япония	LOC	GPE-Japan
+Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+ЕС	ЕС	ORG	ORG-European-Union
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+ABC News	ABC News	PRO	PRO-ABC-News
+Световния икономически форум в Давос	Световен икономически форум в Давос	ORG	ORG-WEF
+Мей	Мей	PER	PER-Theresa-May
+Световната търговска организация	Световна търговска организация	ORG	ORG-WTO-World-Trade-Organization
+Сирия	Сирия	LOC	GPE-Syria
+Северна Корея	Северна Корея	LOC	GPE-North-Korea
+Иран	Иран	LOC	GPE-Iran
+Reuters	Reuters	ORG	ORG-Reuters
+Washington Post	Washington Post	PRO	PRO-Washington-Post
+Ларс Льоке	Ларс Льоке	PER	PER-Lars-Lokke
+Далия Грибаускайте	Далия Грибаускайте	PER	PER-Dalia-Grybauskaite
+Voice of America	Voice of America	PRO	PRO-Voice-of-America
+Борге Бренде	Борге Бренде	PER	PER-Borge-Brende
+Македония	Македония	LOC	GPE-Macedonia
+Заев	Заев	PER	PER-Zoran-Zaev
+Скопие	Скопие	LOC	GPE-Skopje
+Ципрас	Ципрас	PER	PER-Alexis-Tsipras
+Гърция	Гърция	LOC	GPE-Greece
+Адриатическо-Йонийската инициатива	Адриатическо-йонийската инициатива	ORG	ORG-Adriatic-and-Ionian-Initiative
+НАТО	НАТО	ORG	ORG-NATO
+Хамънд	Хамънд	PER	PER-Philip-Hammond
+Норвегия	Норвегия	LOC	GPE-Norway
+Лео Варадкар	Лео Варадкар	PER	PER-Leo-Varadkar
+Ирландия	Ирландия	LOC	GPE-Ireland
+Варадкар	Варадкар	PER	PER-Leo-Varadkar
+Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+Канада	Канада	LOC	GPE-Canada
+AFP	AFP	ORG	ORG-France-Presse
+Швейцария	Швейцария	LOC	GPE-Switzerland
+Цюрих	Цюрих	LOC	GPE-Zurich
+Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+Франция	Франция	LOC	GPE-France
+Politico	Politico	PRO	ORG-Politico
+Макрон	Макрон	PER	PER-Emmanuel-Macron
+The Daily Express	The Daily Express	PRO	PRO-The-Daily-Express
+Лондон	Лондон	LOC	GPE-London
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+Белият дом	Бял дом	LOC	LOC-White-House
+Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+Брюксел	Брюксел	LOC	GPE-Brussles
+британците	британци	PER	GPE-Great-Britain
+ФРГ	ФРГ	LOC	GPE-Germany
+The Times	The Times	PRO	PRO-The-Times
+Меркел	Меркел	PER	PER-Angela-Merkel
+Берлин	Берлин	LOC	GPE-Berlin
+Информационна агенция "Фокус"	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency

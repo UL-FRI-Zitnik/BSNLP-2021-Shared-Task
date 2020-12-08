@@ -1,0 +1,18 @@
+cs-1645
+Barnier	Barnier	PER	PER-Michel-Barnier
+Brexitu	brexit	EVT	EVT-Brexit
+Britové	Britové	PER	GPE-Great-Britain
+Británií	Británie	LOC	GPE-Great-Britain
+Bruselu	Brusel	LOC	GPE-Brussles
+EU	EU	ORG	ORG-European-Union
+Evropské rady	Evropská rada	ORG	ORG-European-Council
+Gibraltaru	Gibraltar	LOC	GPE-Gibraltar
+Irskem	Irsko	LOC	GPE-Ireland
+Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+Preben Aamann	Preben Aamann	PER	PER-Preben-Aamann
+Tusk	Tusk	PER	PER-Donald-Tusk
+Twitteru	Twitter	PRO	PRO-Twitter
+brexitu	brexit	EVT	EVT-Brexit
+severním Irskem	Severní Irsko	LOC	GPE-Northern-Ireland
+Španělska	Španělsko	LOC	GPE-Spain
+Španělsko	Španělsko	LOC	GPE-Spain

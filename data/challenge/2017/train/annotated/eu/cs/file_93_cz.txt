@@ -1,0 +1,14 @@
+93
+evropská komise	evropská komise	ORG	1
+česko	česko	LOC	20
+eu	eu	LOC	6
+maroš šefčovič	maroš šefčovič	PER	86
+šefčovič	šefčovič	PER	86
+evropský parlament	evropský parlament	ORG	14
+praha	prahy	LOC	87
+kovačovská	kovačovská	PER	88
+české republiky	česká republika	LOC	20
+kovačovské	kovačovská	PER	88
+nizozemsko	nizozemsko	LOC	89
+velká británie	velká británie	LOC	90
+polsko	polsko	LOC	91

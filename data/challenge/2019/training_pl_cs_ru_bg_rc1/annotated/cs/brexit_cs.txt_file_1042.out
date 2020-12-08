@@ -1,0 +1,24 @@
+cs-1042
+Bravermanová	Bravermanová	PER	PER-Suella-Braverman
+Brexit	Brexit	EVT	EVT-Brexit
+Britové	Britové	PER	GPE-Great-Britain
+Británii	Británie	LOC	GPE-Great-Britain
+Business Insider	Business Insider	PRO	PRO-Business-Insider
+Centre for European Reform	Centre for European Reform	ORG	ORG-Centre-For-European-Reform
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+EU	EU	ORG	ORG-European-Union
+Evropské unie	Evropská unie	ORG	ORG-European-Union
+Evropu	Evropa	LOC	LOC-Europe
+HN	HN	ORG	ORG-Hospodarske-noviny
+Kanady	Kanada	LOC	GPE-Canada
+Londýn	Londýn	LOC	GPE-London
+Sam Lowe	Sam Lowe	PER	PER-Sam-Lowe
+Spojené království	Spojené království	LOC	GPE-Great-Britain
+Spojenými státy	Spojené státy	LOC	GPE-USA
+Suella Bravermanová	Suella Bravermanová	PER	PER-Suella-Braverman
+Velká Británie	Velká Británie	LOC	GPE-Great-Britain
+brexitu	brexit	EVT	EVT-Brexit
+ministerstva pro brexit	ministerstvo pro brexit	ORG	ORG-Ministry-of-Brexity
+ministerstvu pro brexit	ministerstvo pro brexit	ORG	ORG-Ministry-of-Brexity
+studené války	studená válka	EVT	EVT-Cold-War
+Číny	Čína	LOC	GPE-China

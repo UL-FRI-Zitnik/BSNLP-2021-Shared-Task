@@ -1,0 +1,17 @@
+﻿54
+komisja europejska	komisja europejska	ORG	1
+programie infrastruktura i środowisko	program infrastruktura i środowisko	MISC	20220
+ministerstwo rozwoju	ministerstwo rozwoju	ORG	20221
+ke	ke	ORG	1
+brukseli	bruksela	LOC	28
+poiiś	poiiś	MISC	20220
+programu infrastruktura i środowisko	program infrastruktura i środowisko	MISC	20220
+polsce	polska	LOC	20002
+urząd zamówień publicznych	urząd zamówień publicznych	ORG	22001
+ue	ue	LOC	6
+polska	polska	LOC	20002
+komisji	komisja	ORG	1
+urzędem zamówień publicznych	urząd zamówień publicznych	ORG	22001
+uzp	uzp	ORG	20221
+instytucję audytową (ministerstwo finansów)	instytucja audytowa (ministerstwo finansów)	ORG	20222
+komisja	komisja	ORG	1

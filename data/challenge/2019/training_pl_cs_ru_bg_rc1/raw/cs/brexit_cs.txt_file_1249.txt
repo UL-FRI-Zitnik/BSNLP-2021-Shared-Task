@@ -1,0 +1,7 @@
+cs-1249
+cs
+2018-03-27
+https://zahranicni.ihned.cz/c1-66093490-data-z-facebooku-mela-velky-vliv-na-vitezstvi-brexitu-firma-aggregateiq-cerpala-z-nasich-databazi-rika-wylie-z-cambridge-analytica
+Data z Facebooku měla velký vliv na vítězství brexitu. Kampaň Vote Leave čerpala z našich databází, říká Wylie z Cambridge Analytica
+
+Wylie v úterý vypovídal před výborem pro digitální technologie, kulturu, média a sport britského parlamentu v souvislosti se skandálem kolem facebooku. Výbor chce vyslechnout osobně zakladatele sociální sítě Marka Zuckerberga, který však za sebe hodlá do Londýna poslat jen svého zástupce. Wylie v úterý řekl, že analytická společnost AggregateIQ specializující se na sociální média pracovala na softwaru zvaném Ripon, jenž byl použit při identifikaci republikánských voličů před americkými prezidentskými volbami v roce 2016. "Nyní máme hmatatelný a veřejně přístupný důkaz, že AIQ vlastně vyrobila Ripon, což je software, který zpracovával algoritmy z facebookových dat," řekl Wylie parlamentnímu výboru. Zároveň si je Wylie podle agentury AP "absolutně" jistý, že AIQ čerpala z databází Cambridge Analytica při její práci na oficiální probrexitové kampani Vote Leave, která prý měla neoprávněný přístup k datům o milionech uživatelů facebooku. "Myslím, že je neuvěřitelně rozumné tvrdit, že AIQ sehrála velmi významnou roli ve vítězství Leave," řekl Wylie a poukázal na údajnou spolupráci firem Cambridge Analytica a AggregateIQ.

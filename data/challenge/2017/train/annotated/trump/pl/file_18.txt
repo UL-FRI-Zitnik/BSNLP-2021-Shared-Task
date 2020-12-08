@@ -1,0 +1,18 @@
+﻿18
+harvard business review polska	harvard business review polska	ORG	20400
+donald trump	donald trump	PER	1
+stanów zjednoczonych	stany zjednoczone	LOC	2
+syrii	syria	LOC	188
+rosją	rosja	LOC	78
+iranem	iran	LOC	20402
+korea północna	korea północna	LOC	20013
+libia	libia	LOC	191
+ukraina	ukraina	LOC	10034
+chinami	chiny	LOC	11
+kongresu	kongres	ORG	55
+donalda trumpa	donald trump	PER	1
+irlandią północną	irlandia północna	LOC	20406
+porozumienie pokojowe z wielkiego piątku	porozumienie pokojowe z wielkiego piątku	MISC	20407
+good friday agreement	good friday agreement	MISC	20407
+negotiating the impossible	negotiating the impossible	MISC	20408
+trumpa	trump	PER	1

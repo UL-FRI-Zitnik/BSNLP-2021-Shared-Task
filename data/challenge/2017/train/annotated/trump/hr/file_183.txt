@@ -1,0 +1,18 @@
+183
+donald trump	donald trump	PER	1
+pekingu	peking	LOC	70
+iowe	iowa	LOC	30004
+terryja brandstada	terry branstad	PER	50160
+kine	kina	LOC	50393
+pekingu	peking	LOC	70
+appleom	apple	ORG	149
+sjedinjenim državama	sjedinjene države	LOC	2
+kinu	kina	LOC	50393
+tajvana	tajvan	LOC	20204
+sad	sad	LOC	2
+peking	peking	LOC	70
+tajvanom	tajvan	LOC	20204
+branstada	branstad	PER	50160
+terry brandstad	terry brandstad	PER	50160
+xi jinpinga	xi jinping	PER	40022
+trumpa	trump	PER	1

@@ -1,0 +1,35 @@
+﻿7
+donald trump	donald trump	PER	1
+fox news	fox news	ORG	145
+washington post	washington post	ORG	144
+cia	cia	ORG	64
+rosja	rosja	LOC	78
+usa	usa	ORG	2
+trump	donald trump	PER	1
+chin	chiny	LOC	11
+tajwanem	tajwan	LOC	20204
+chrl	chrl	LOC	11
+pap	pap	ORG	20206
+chiny	chiny	LOC	11
+wikileaks	wikileaks	ORG	20205
+krajowego komitetu partii demokratycznej	krajowy komitet partii demokratycznej	ORG	20207
+hillary clinton	hillary clinton	PER	3
+johnem podestą	john podesta	PER	20208
+demokraci	demokraci	ORG	112
+republikanów	republikanie	ORG	118
+donalda trumpa	donald trump	PER	1
+amerykanina	amerykanin	PER	17
+rosję	rosja	LOC	78
+john mccain	john mccain	PER	119
+londsey graham	londsey graham	PER	20212
+republikanów	republikanie	ORG	118
+chuck schumer	chuck schumer	PER	20213
+jack reed	jack reed	PER	20214
+demokratów	demokraci	ORG	112
+chinami	chiny	LOC	11
+caj ing-wen	caj ing-wen	PER	20215
+pekin	pekin	LOC	70
+tajwan	tajwan	LOC	20204
+trumpa	trump	PER	1
+caj	caj	PER	20215
+tajwanu	tajwan	LOC	20204
