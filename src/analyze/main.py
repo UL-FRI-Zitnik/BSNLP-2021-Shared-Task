@@ -85,9 +85,30 @@ def aggregate_nes(stats: dict) -> dict:
     return ne_stats
 
 
-def get_doc_len(stats: dict) -> dict:
-    
-    return {}
+def doc_info(fname: str) -> dict:
+    file_info = {}
+    with open(fname) as f:
+        lines = f.readlines()
+        file_info['id'] = lines[0].strip()
+        file_info['lang'] = lines[1].strip()
+        file_info['created'] = lines[2].strip()
+        file_info['url'] = lines[3].strip()
+        file_info['title'] = lines[4].strip()
+        content = ' '.join(lines[5:]).strip()
+        file_info['contentLength'] = len(content)
+        file_info['numWords'] = len(content.split(' '))
+    return file_info
+
+
+def get_doc_info(stats: dict) -> pd.DataFrame:
+    infos = []
+    for dataset, data in stats.items():
+        for lang, files in data['dirs']['raw'].items():
+            for file in files:
+                info = doc_info(file)
+                info['dataset'] = dataset
+                infos.append(info)
+    return pd.DataFrame(infos)
 
 
 if __name__ == '__main__':
@@ -95,10 +116,13 @@ if __name__ == '__main__':
     # print(f'Dirs = {json.dumps(dirs, indent=4)}')
     # print(f'Files = {json.dumps(files, indent=4)}')
     # print(f'Packed = {json.dumps(packed, indent=4)}')
-    with open ('./data/results/file_dump.json', 'w') as f:
+    with open('./data/results/file_dump.json', 'w') as f:
         json.dump(packed, f, indent=4)
 
-    aggregate_nes(packed)
-    with open ('./data/results/.json', 'w') as f:
-        json.dump(packed, f, indent=4)
+    # aggregated = aggregate_nes(packed)
+    # with open('./data/results/aggregated.json', 'w') as f:
+    #     json.dump(aggregated, f)
+
+    doc_infos = get_doc_info(packed)
+    doc_infos.to_csv('./data/results/doc_info.csv', index=False)
 
