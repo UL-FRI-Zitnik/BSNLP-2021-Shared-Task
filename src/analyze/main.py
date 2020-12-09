@@ -85,9 +85,9 @@ def aggregate_nes(stats: dict) -> dict:
     return ne_stats
 
 
-def doc_info(fname: str) -> dict:
+def raw_doc_info(fname: str) -> dict:
     file_info = {}
-    with open(fname) as f:
+    with open(fname,  encoding='utf-8-sig') as f:
         lines = f.readlines()
         file_info['id'] = lines[0].strip()
         file_info['lang'] = lines[1].strip()
@@ -100,15 +100,49 @@ def doc_info(fname: str) -> dict:
     return file_info
 
 
-def get_doc_info(stats: dict) -> pd.DataFrame:
-    infos = []
+def ann_doc_info(fname: str) -> dict:
+    file_info = {}
+    ne_categories = ['PER', 'ORG', 'LOC', 'EVT', 'PRO']
+    with open(fname, encoding='utf-8-sig') as f:
+        lines = f.readlines()
+        file_info['id'] = lines[0].strip()
+        df = pd.read_csv(fname, names=['Mention', 'Base', 'Category', 'clID'], skiprows=[0], sep='\t')
+        file_info['NEcount'] = len(df.index)
+        cat_counts = df['Category'].value_counts()
+        for cat in ne_categories:
+            file_info[cat] = cat_counts[cat] if cat in cat_counts else 0
+        file_info['UniqueCLIDs'] = len(df['clID'].unique())
+    return file_info
+
+
+def get_doc_info(stats: dict) -> dict:
+    dataset_raw = []
+    dataset_ann = []
     for dataset, data in stats.items():
         for lang, files in data['dirs']['raw'].items():
             for file in files:
-                info = doc_info(file)
+                info = raw_doc_info(file)
                 info['dataset'] = dataset
-                infos.append(info)
-    return pd.DataFrame(infos)
+                info['lang'] = lang
+                info['fpath'] = file
+                dataset_raw.append(info)
+        for lang, files in data['dirs']['annotated'].items():
+            for file in files:
+                info = ann_doc_info(file)
+                info['dataset'] = dataset
+                info['lang'] = lang
+                info['fpath'] = file
+                dataset_ann.append(info)
+    raw_df = pd.DataFrame(dataset_raw)
+    raw_df.to_csv("./data/results/file_raw_stats.csv")
+
+    ann_df = pd.DataFrame(dataset_ann)
+    ann_df.to_csv("./data/results/file_ne_stats.csv")
+
+    return {
+        "raw": raw_df,
+        "ann": ann_df,
+    }
 
 
 if __name__ == '__main__':
@@ -124,5 +158,6 @@ if __name__ == '__main__':
     #     json.dump(aggregated, f)
 
     doc_infos = get_doc_info(packed)
-    doc_infos.to_csv('./data/results/doc_info.csv', index=False)
+    raw_df = doc_infos['raw']
+    ann_df = doc_infos['ann']
 
