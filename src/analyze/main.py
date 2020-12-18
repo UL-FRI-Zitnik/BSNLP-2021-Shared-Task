@@ -58,6 +58,24 @@ def list_all_files(dirpath: str) -> (list, list, dict):
     return sorted(dirs), sorted(files), stats
 
 
+def list_datasets(datasets: list) -> dict:
+    dataset_files = {}
+    for dataset in datasets:
+        dataset_files[dataset] = {}
+        languages_raw = sorted(os.listdir(f'{dataset}/raw'))
+        languages_ann = sorted(os.listdir(f'{dataset}/annotated'))
+        for lang_id, lang in enumerate(languages_raw):
+            base_raw = f'{dataset}/raw/{lang}'
+            base_ann = f'{dataset}/annotated/{languages_ann[lang_id]}'
+            for r, a in zip(sorted(os.listdir(base_raw)),  sorted(os.listdir(base_ann))):
+                digits_r = ''.join([d for d in r if d.isdigit()])
+                digits_a = ''.join([d for d in r if d.isdigit()])
+                if digits_a != digits_r:
+                    raise Exception(f'NO MATCH:\n{base_raw}/{r}\n{base_ann}/{a}')
+            dataset_files[dataset][languages_ann[lang_id]] = [{'raw': f'{base_raw}/{r}', 'annotated': f'{base_ann}/{a}'} for r, a in zip(sorted(os.listdir(base_raw)),  sorted(os.listdir(base_ann)))]
+    return dataset_files
+
+
 def aggregate_nes(stats: dict) -> dict:
     ne_stats = {}
     atts = ['Mention', 'Base', 'Category', 'clID']
@@ -146,18 +164,30 @@ def get_doc_info(stats: dict) -> dict:
 
 
 if __name__ == '__main__':
-    dirs, files, packed = list_all_files("./data/challenge")
+    # dirs, files, packed = list_all_files("./data/challenge")
     # print(f'Dirs = {json.dumps(dirs, indent=4)}')
     # print(f'Files = {json.dumps(files, indent=4)}')
     # print(f'Packed = {json.dumps(packed, indent=4)}')
-    with open('./data/results/file_dump.json', 'w') as f:
-        json.dump(packed, f, indent=4)
+    # with open('./data/results/file_dump.json', 'w') as f:
+    #     json.dump(packed, f, indent=4)
 
     # aggregated = aggregate_nes(packed)
     # with open('./data/results/aggregated.json', 'w') as f:
     #     json.dump(aggregated, f)
 
-    doc_infos = get_doc_info(packed)
-    raw_df = doc_infos['raw']
-    ann_df = doc_infos['ann']
+    # doc_infos = get_doc_info(packed)
+    # raw_df = doc_infos['raw']
+    # ann_df = doc_infos['ann']
 
+    datasets = [
+        './data/challenge/2017/ec',
+        './data/challenge/2017/trump',
+        './data/challenge/2019/sample',
+        './data/challenge/2019/training',
+        './data/challenge/2019/test/nord_stream',
+        './data/challenge/2019/test/ryanair',
+    ]
+    dataset_files = list_datasets(datasets)
+    print(json.dumps(dataset_files, indent=4))
+    with open('./data/results/dataset_pairs.json', 'w') as f:
+        json.dump(dataset_files, f)
