@@ -41,7 +41,7 @@ def convert_sentences(raw_sentences, lang):
             if len(token.words) > 1:
                 print(f"MORE WORDS: {token.words}")
             tokens.append({
-                "id": token.index if lang == 'sl' else token.id,
+                "id": token.index if lang == 'sl' else token.id[0],
                 "text": ''.join([w.text for w in token.words])
             })
         sentences.append(tokens)
@@ -60,7 +60,7 @@ def split_document(document_path: str, tokenizer, lang: str):
 
 def tokenize_mention(mention: str, tokenizer, lang: str) -> list:
     # just for slo
-    tokenized = convert_sentences(tokenizer(mention).sentences, lang)[0]
+    tokenized = [i for s in convert_sentences(tokenizer(mention).sentences, lang) for i in s]
     return [t['text'] for t in tokenized]
 
 
@@ -91,12 +91,19 @@ def annotate_document(sentences: list, annotations_path: str, document_id: str, 
                 if len([r for r in all_ratio if r >= LOWEST_SIMILARITY]) != len(ann_pieces):
                     continue
                 f_ner = True
-                lemma = str(annotation["Base"]).split()
+                matched_tokens = [annotated_tokens[token_id + i]['text'] for i, _ in enumerate(ann_pieces)]
+                lemma = tokenize_mention(str(annotation["Base"]), tokenizer, lang)
                 for i, _ in enumerate(ann_pieces):
                     t = annotated_tokens[token_id + i]
                     t['ner'] = f"{'B' if f_ner else 'I'}-{annotation['Category']}"
                     if not lemma:
-                        warnings.append({"msg": "BASE FORM DOES NOT MATCH MENTION", "doc": annotations_path, "lemma": annotation['Base'], "ner": annotation['Mention']})
+                        warnings.append({
+                            "msg": "BASE FORM DOES NOT MATCH MENTION",
+                            "doc": annotations_path,
+                            "lemma": annotation['Base'],
+                            "ner": annotation['Mention'],
+                            "matched": matched_tokens
+                        })
                         print(f"[WARNING] LEMMA DOES NOT MATCH")
                         lemma = ['PAD']
                     t['lemma'] = lemma.pop(0)

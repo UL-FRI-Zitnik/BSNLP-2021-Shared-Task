@@ -6,9 +6,9 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 364,0,5,podporne,,O,
 364,0,6,sheme,,O,
 364,0,7,-,,O,
-364,0,8,Borzen,"borzen,",B-ORG,40125
-364,0,9,",",d.o.o.,I-ORG,40125
-364,0,10,d.o.o.,PAD,I-ORG,40125
+364,0,8,Borzen,borzen,B-ORG,40125
+364,0,9,",",",",I-ORG,40125
+364,0,10,d.o.o.,d.o.o.,I-ORG,40125
 364,1,1,Evropska,,O,
 364,1,2,komisija,,O,
 364,1,3,je,,O,
