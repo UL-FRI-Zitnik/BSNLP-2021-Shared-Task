@@ -1,8 +1,8 @@
 314
+večer	večer	ORG	40004
 evropska komisija	evropska komisija	ORG	1
 eu	eu	LOC	6
 svet eu	svet eu	ORG	190
-večer	večer	ORG	40004
 avstriji	avstrija	LOC	293
 nemčija	nemčija	LOC	68
 avstrija	avstrija	LOC	293
