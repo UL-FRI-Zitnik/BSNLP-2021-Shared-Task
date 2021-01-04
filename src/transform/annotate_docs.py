@@ -14,15 +14,15 @@ def split_documents(dataset_files: dict, tokenizers: dict):
     files_processed = 0
     for dataset in dataset_files:
         for lang in dataset_files[dataset]:
-            if lang != 'sl':
-                continue
+            # if lang != 'sl':
+            #     continue
             print(f'Dataset: {dataset}, Language: {lang}')
             merged_path = f'{dataset}/merged/{lang}'
             if not os.path.exists(merged_path):
                 os.mkdir(merged_path)
             for file in dataset_files[dataset][lang]:
                 sentences, document_id = split_document(file['raw'], tokenizers[lang], lang)
-                annotated_document, warns = annotate_document(sentences, file['annotated'], document_id, tokenizers[lang])
+                annotated_document, warns = annotate_document(sentences, file['annotated'], document_id, tokenizers[lang], lang)
                 warnings.extend(warns)
                 doc_name = f"{file['raw'].split('/')[-1][:-3]}csv"
                 merged_fname = f'{merged_path}/{doc_name}'
@@ -33,7 +33,7 @@ def split_documents(dataset_files: dict, tokenizers: dict):
     json.dump(warnings, open('./data/results/merge_warnings.json', 'w'), indent=4)
 
 
-def convert_sentences(raw_sentences):
+def convert_sentences(raw_sentences, lang):
     sentences = []
     for sentence in raw_sentences:
         tokens = []
@@ -41,7 +41,7 @@ def convert_sentences(raw_sentences):
             if len(token.words) > 1:
                 print(f"MORE WORDS: {token.words}")
             tokens.append({
-                "id": token.index,
+                "id": token.index if lang == 'sl' else token.id,
                 "text": ''.join([w.text for w in token.words])
             })
         sentences.append(tokens)
@@ -53,17 +53,19 @@ def split_document(document_path: str, tokenizer, lang: str):
     document_id = document_lines[0].strip()
     content = ' '.join(document_lines[4:])
     doc = tokenizer(content)
-    sentences = [sentence.to_dict() for sentence in doc.sentences] if lang != 'sl' else convert_sentences(doc.sentences)
+    # sentences = [sentence.to_dict() for sentence in doc.sentences] if lang != 'sl' else convert_sentences(doc.sentences)
+    sentences = convert_sentences(doc.sentences, lang)
     return sentences, document_id
 
 
-def tokenize_mention(mention: str, tokenizer) -> list:
+def tokenize_mention(mention: str, tokenizer, lang: str) -> list:
     # just for slo
-    tokenized = convert_sentences(tokenizer(mention).sentences)[0]
-    return [t['text'].lower() for t in tokenized]
+    tokenized = convert_sentences(tokenizer(mention).sentences, lang)[0]
+    return [t['text'] for t in tokenized]
 
 
-def annotate_document(sentences: list, annotations_path: str, document_id: str, tokenizer) -> (pd.DataFrame, list):
+def annotate_document(sentences: list, annotations_path: str, document_id: str, tokenizer, lang) -> (pd.DataFrame, list):
+    # print(f"Work on {annotations_path}")
     ann_df = pd.read_csv(annotations_path, names=['Mention', 'Base', 'Category', 'clID'], skiprows=[0], sep='\t')
     if len(ann_df['Mention'].unique()) != len(ann_df.index):
         print("Duplicate mentions!")
@@ -80,7 +82,7 @@ def annotate_document(sentences: list, annotations_path: str, document_id: str, 
             annotated_tokens.append(token)
     altered_items = 0
     for annotation in annotations:
-        ann_pieces = tokenize_mention(annotation['Mention'], tokenizer)
+        ann_pieces = tokenize_mention(annotation['Mention'], tokenizer, lang)
         matched = False
         for token_id, token in enumerate(annotated_tokens):
             first_ratio = fuzz.ratio(ann_pieces[0].lower(), token['text'].lower())
@@ -89,7 +91,7 @@ def annotate_document(sentences: list, annotations_path: str, document_id: str, 
                 if len([r for r in all_ratio if r >= LOWEST_SIMILARITY]) != len(ann_pieces):
                     continue
                 f_ner = True
-                lemma = annotation["Base"].split()
+                lemma = str(annotation["Base"]).split()
                 for i, _ in enumerate(ann_pieces):
                     t = annotated_tokens[token_id + i]
                     t['ner'] = f"{'B' if f_ner else 'I'}-{annotation['Category']}"
@@ -110,6 +112,7 @@ def annotate_document(sentences: list, annotations_path: str, document_id: str, 
                 "annotation": annotation,
             })
     if altered_items != len(annotations):
+        print(f"[WARNING] UNUSED ANNOTATIONS: {altered_items}/{len(annotations)}")
         warnings.append({
             "msg": f"ALTERED ITEMS ({altered_items}) NOT EQUAL TO ANNOTATIONS ({len(annotations)})",
             "doc": annotations_path,
