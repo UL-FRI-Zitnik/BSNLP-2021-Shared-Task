@@ -35,7 +35,7 @@ kisiliova	kisiliov	PER	203
 rusku	rusko	LOC	78
 kisiliov	kisiliov	PER	203
 ruska	rusko	LOC	78
-new york city	new york	LOC	4
+new york city	new york city	LOC	4
 manhattanu	manhattan	LOC	204
 trump tower	trump tower	LOC	205
 cbs	cbs	ORG	206

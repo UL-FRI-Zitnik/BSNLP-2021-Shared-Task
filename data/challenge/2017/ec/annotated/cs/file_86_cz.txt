@@ -8,8 +8,8 @@ bertaudová	bertaudová	PER	96
 osn	osn	ORG	99
 unhcr	unhcr	ORG	100
 evropské unie	evropská unie	LOC	6
-řecku	řecku	LOC	101
-řecko	řecku	LOC	101
+řecku	řecko	LOC	101
+řecko	řecko	LOC	101
 eu	eu	LOC	6
 aténám	atény	LOC	102
 edwardse	edwards	PER	103
