@@ -15,8 +15,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 507,1,7,Aktuálne,,O,
 507,1,8,.,,O,
 507,1,9,sk,,O,
-507,2,1,Európska,,O,
-507,2,2,komisia,,O,
+507,2,1,Európska,európska,B-ORG,1
+507,2,2,komisia,komisia,I-ORG,1
 507,2,3,si,,O,
 507,2,4,posvietila,,O,
 507,2,5,na,,O,
@@ -29,8 +29,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 507,3,5,pokuty,,O,
 507,3,6,BRUSEL,brusel,B-LOC,28
 507,3,7,-,,O,
-507,3,8,Európska,,O,
-507,3,9,komisia,,O,
+507,3,8,Európska,európska,B-ORG,1
+507,3,9,komisia,komisia,I-ORG,1
 507,3,10,(,,O,
 507,3,11,EK,ek,B-ORG,1
 507,3,12,),,O,
@@ -102,8 +102,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 507,6,3,pre,,O,
 507,6,4,hospodársku,,O,
 507,6,5,súťaž,,O,
-507,6,6,Margrethe,,O,
-507,6,7,Vestagerová,,O,
+507,6,6,Margrethe,margrethe,B-PER,35
+507,6,7,Vestagerová,vestagerová,I-PER,35
 507,6,8,uviedla,,O,
 507,6,9,",",,O,
 507,6,10,že,,O,
@@ -130,7 +130,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 507,6,31,produktov,,O,
 507,6,32,.,,O,
 507,7,1,Prešetrovanie,,O,
-507,7,2,EK,,O,
+507,7,2,EK,ek,B-ORG,1
 507,7,3,sa,,O,
 507,7,4,týkalo,,O,
 507,7,5,manipulácie,,O,
@@ -151,7 +151,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 507,8,2,banke,,O,
 507,8,3,JPMorgan,jpmorgan,B-ORG,198
 507,8,4,Chase,chase,I-ORG,198
-507,8,5,EK,,O,
+507,8,5,EK,ek,B-ORG,1
 507,8,6,udelila,,O,
 507,8,7,pokutu,,O,
 507,8,8,vo,,O,
@@ -177,7 +177,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 507,11,11,a,,O,
 507,11,12,britskú,,O,
 507,11,13,banku,,O,
-507,11,14,HSBC,,O,
+507,11,14,HSBC,hsbc,B-ORG,197
 507,11,15,komisia,,O,
 507,11,16,pokutovala,,O,
 507,11,17,sumou,,O,
@@ -192,8 +192,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 507,12,2,rámci,,O,
 507,12,3,rovnakého,,O,
 507,12,4,vyšetrovania,,O,
-507,12,5,Európska,,O,
-507,12,6,komisia,,O,
+507,12,5,Európska,európska,B-ORG,1
+507,12,6,komisia,komisia,I-ORG,1
 507,12,7,pred,,O,
 507,12,8,tromi,,O,
 507,12,9,rokmi,,O,

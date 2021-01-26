@@ -12,11 +12,11 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 329,0,11,-,,O,
 329,0,12,Drugi,drugi,B-ORG,40151
 329,0,13,svet,svet,I-ORG,40151
-329,1,1,Donald,,O,
-329,1,2,Trump,,O,
+329,1,1,Donald,donald,B-PER,1
+329,1,2,Trump,trump,I-PER,1
 329,1,3,novi,,O,
 329,1,4,predsednik,,O,
-329,1,5,ZDA,,O,
+329,1,5,ZDA,zda,B-LOC,2
 329,1,6,–,,O,
 329,1,7,zmaga,,O,
 329,1,8,populista,,O,
@@ -84,7 +84,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 329,5,1,O,,O,
 329,5,2,usodi,,O,
 329,5,3,celotnih,,O,
-329,5,4,ZDA,,O,
+329,5,4,ZDA,zda,B-LOC,2
 329,5,5,je,,O,
 329,5,6,odločilo,,O,
 329,5,7,le,,O,
@@ -121,8 +121,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 329,6,16,je,,O,
 329,6,17,varal,,O,
 329,6,18,.,,O,
-329,7,1,Donald,,O,
-329,7,2,Trump,,O,
+329,7,1,Donald,donald,B-PER,1
+329,7,2,Trump,trump,I-PER,1
 329,7,3,je,,O,
 329,7,4,uspel,,O,
 329,7,5,zmagati,,O,
@@ -163,7 +163,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 329,8,16,glasov,,O,
 329,8,17,minimalna,,O,
 329,8,18,.,,O,
-329,9,1,Hillary,,O,
+329,9,1,Hillary,hillary,B-PER,3
 329,9,2,je,,O,
 329,9,3,dobila,,O,
 329,9,4,za,,O,
@@ -191,7 +191,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 329,10,5,",",,O,
 329,10,6,ker,,O,
 329,10,7,je,,O,
-329,10,8,Hillary,,O,
+329,10,8,Hillary,hillary,B-PER,3
 329,10,9,premočno,,O,
 329,10,10,zmagala,,O,
 329,10,11,v,,O,
@@ -204,7 +204,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 329,10,18,medtem,,O,
 329,10,19,ko,,O,
 329,10,20,je,,O,
-329,10,21,Donald,,O,
+329,10,21,Donald,donald,B-PER,1
 329,10,22,marsikje,,O,
 329,10,23,zmagal,,O,
 329,10,24,z,,O,
@@ -216,8 +216,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 329,11,3,rezultatih,,O,
 329,11,4,",",,O,
 329,11,5,ima,,O,
-329,11,6,Donald,,O,
-329,11,7,Trump,,O,
+329,11,6,Donald,donald,B-PER,1
+329,11,7,Trump,trump,I-PER,1
 329,11,8,276,,O,
 329,11,9,elektorskih,,O,
 329,11,10,glasov,,O,

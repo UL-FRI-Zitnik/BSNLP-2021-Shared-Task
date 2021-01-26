@@ -7,7 +7,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 121,0,6,neměl,,O,
 121,0,7,být,,O,
 121,0,8,Donald,donald,B-PER,1
-121,0,9,Trump,trump,B-PER,1
+121,0,9,Trump,trump,I-PER,1
 121,0,10,prezidentem,,O,
 121,0,11,USA,usa,B-LOC,2
 121,0,12,|,,O,
@@ -16,8 +16,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 121,0,15,1,,O,
 121,0,16,.,,O,
 121,1,1,AROGANCE,,O,
-121,1,2,Donald,,O,
-121,1,3,Trump,,O,
+121,1,2,Donald,donald,B-PER,1
+121,1,3,Trump,trump,I-PER,1
 121,1,4,se,,O,
 121,1,5,narodil,,O,
 121,1,6,14,,O,
@@ -74,7 +74,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 121,3,10,čtyři,,O,
 121,3,11,bankroty,,O,
 121,3,12,dokázal,,O,
-121,3,13,Trump,,O,
+121,3,13,Trump,trump,B-PER,1
 121,3,14,vybudovat,,O,
 121,3,15,jedno,,O,
 121,3,16,z,,O,
@@ -186,8 +186,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 121,9,4,tom,,O,
 121,9,5,",",,O,
 121,9,6,co,,O,
-121,9,7,Donald,,O,
-121,9,8,Trump,,O,
+121,9,7,Donald,donald,B-PER,1
+121,9,8,Trump,trump,I-PER,1
 121,9,9,říká,,O,
 121,9,10,",",,O,
 121,9,11,je,,O,
@@ -221,7 +221,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 121,11,17,",",,O,
 121,11,18,že,,O,
 121,11,19,„,,O,
-121,11,20,Afroameričané,,O,
+121,11,20,Afroameričané,afroameričané,B-PER,114
 121,11,21,jsou,,O,
 121,11,22,nepřizpůsobiví,,O,
 121,11,23,a,,O,
@@ -237,7 +237,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 121,13,6,",",,O,
 121,13,7,že,,O,
 121,13,8,si,,O,
-121,13,9,Trump,,O,
+121,13,9,Trump,trump,B-PER,1
 121,13,10,celou,,O,
 121,13,11,statistiku,,O,
 121,13,12,jednoduše,,O,
@@ -271,7 +271,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 121,15,2,.,,O,
 121,15,3,RASISMUS,,O,
 121,15,4,.,,O,
-121,16,1,Trumpovy,,O,
+121,16,1,Trumpovy,trump,B-PER,1
 121,16,2,výroky,,O,
 121,16,3,směrem,,O,
 121,16,4,k,,O,
@@ -279,7 +279,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 121,16,6,",",,O,
 121,16,7,ale,,O,
 121,16,8,také,,O,
-121,16,9,Afroameričanům,,O,
+121,16,9,Afroameričanům,afroameričané,B-PER,114
 121,16,10,jsou,,O,
 121,16,11,legendární,,O,
 121,16,12,a,,O,
@@ -308,7 +308,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 121,16,35,rychlostí,,O,
 121,16,36,světla,,O,
 121,16,37,.,,O,
-121,17,1,Trump,,O,
+121,17,1,Trump,trump,B-PER,1
 121,17,2,například,,O,
 121,17,3,prohlásil,,O,
 121,17,4,",",,O,
@@ -355,7 +355,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 121,19,16,americkým,,O,
 121,19,17,občanům,,O,
 121,19,18,.,,O,
-121,20,1,Trump,,O,
+121,20,1,Trump,trump,B-PER,1
 121,20,2,také,,O,
 121,20,3,podporoval,,O,
 121,20,4,skupinu,,O,
@@ -382,7 +382,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 121,20,25,padělek,,O,
 121,20,26,.,,O,
 121,21,1,Další,,O,
-121,21,2,Trumpovo,,O,
+121,21,2,Trumpovo,trump,B-PER,1
 121,21,3,slavné,,O,
 121,21,4,prohlášení,,O,
 121,21,5,je,,O,
@@ -498,7 +498,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 121,28,9,by,,O,
 121,28,10,měl,,O,
 121,28,11,být,,O,
-121,28,12,Trump,,O,
+121,28,12,Trump,trump,B-PER,1
 121,28,13,v,,O,
 121,28,14,tichosti,,O,
 121,28,15,nahrazen,,O,
@@ -513,7 +513,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 121,29,2,.,,O,
 121,29,3,NENÁVIST,,O,
 121,29,4,.,,O,
-121,30,1,Trump,,O,
+121,30,1,Trump,trump,B-PER,1
 121,30,2,se,,O,
 121,30,3,se,,O,
 121,30,4,svým,,O,
@@ -530,7 +530,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 121,30,15,k,,O,
 121,30,16,nepříteli,,O,
 121,30,17,.,,O,
-121,31,1,Trump,,O,
+121,31,1,Trump,trump,B-PER,1
 121,31,2,je,,O,
 121,31,3,ovšem,,O,
 121,31,4,člověk,,O,
@@ -570,7 +570,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 121,33,2,",",,O,
 121,33,3,že,,O,
 121,33,4,by,,O,
-121,33,5,Trump,,O,
+121,33,5,Trump,trump,B-PER,1
 121,33,6,chtěl,,O,
 121,33,7,postavit,,O,
 121,33,8,zeď,,O,
@@ -591,7 +591,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 121,33,23,.,,O,
 121,34,1,Nelichotivě,,O,
 121,34,2,se,,O,
-121,34,3,Trump,,O,
+121,34,3,Trump,trump,B-PER,1
 121,34,4,vyjadřuje,,O,
 121,34,5,o,,O,
 121,34,6,všem,,O,
@@ -620,7 +620,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 121,35,11,své,,O,
 121,35,12,protikandidátce,,O,
 121,35,13,Hillary,hillary,B-PER,3
-121,35,14,Clintonové,clintonová,B-PER,3
+121,35,14,Clintonové,clintonová,I-PER,3
 121,35,15,jako,,O,
 121,35,16,o,,O,
 121,35,17,ďáblovi,,O,
@@ -721,8 +721,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 121,41,18,.,,O,
 121,42,1,Ne,,O,
 121,42,2,tak,,O,
-121,42,3,Donald,,O,
-121,42,4,Trump,,O,
+121,42,3,Donald,donald,B-PER,1
+121,42,4,Trump,trump,I-PER,1
 121,42,5,.,,O,
 121,43,1,A,,O,
 121,43,2,právě,,O,
@@ -730,7 +730,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 121,43,4,nezveřejnění,,O,
 121,43,5,daní,,O,
 121,43,6,je,,O,
-121,43,7,Trump,,O,
+121,43,7,Trump,trump,B-PER,1
 121,43,8,kritizován,,O,
 121,43,9,nejčastěji,,O,
 121,43,10,.,,O,
@@ -746,7 +746,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 121,45,1,Již,,O,
 121,45,2,několik,,O,
 121,45,3,týdnů,,O,
-121,45,4,Trump,,O,
+121,45,4,Trump,trump,B-PER,1
 121,45,5,hlásí,,O,
 121,45,6,probíhající,,O,
 121,45,7,audit,,O,
@@ -845,7 +845,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 121,49,9,",",,O,
 121,49,10,kterých,,O,
 121,49,11,si,,O,
-121,49,12,Trump,,O,
+121,49,12,Trump,trump,B-PER,1
 121,49,13,váží,,O,
 121,49,14,",",,O,
 121,49,15,je,,O,
@@ -863,8 +863,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 121,50,3,RUSKO,rusko,B-LOC,78
 121,50,4,.,,O,
 121,51,1,Jestli,,O,
-121,51,2,Donald,,O,
-121,51,3,Trump,,O,
+121,51,2,Donald,donald,B-PER,1
+121,51,3,Trump,trump,I-PER,1
 121,51,4,něco,,O,
 121,51,5,stroprocentně,,O,
 121,51,6,má,,O,
@@ -935,12 +935,12 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 121,55,9,často,,O,
 121,55,10,upozorňují,,O,
 121,55,11,.,,O,
-121,56,1,Trumpovy,,O,
+121,56,1,Trumpovy,trump,B-PER,1
 121,56,2,politické,,O,
 121,56,3,zkušenosti,,O,
 121,56,4,jsou,,O,
 121,56,5,proti,,O,
-121,56,6,Clintonové,,O,
+121,56,6,Clintonové,clintonová,B-PER,3
 121,56,7,naprosto,,O,
 121,56,8,zanedbatelné,,O,
 121,56,9,.,,O,
@@ -992,7 +992,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 121,59,2,té,,O,
 121,59,3,doby,,O,
 121,59,4,se,,O,
-121,59,5,Trump,,O,
+121,59,5,Trump,trump,B-PER,1
 121,59,6,jistě,,O,
 121,59,7,naučil,,O,
 121,59,8,mnohé,,O,
@@ -1012,7 +1012,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 121,61,2,druhou,,O,
 121,61,3,stranu,,O,
 121,61,4,se,,O,
-121,61,5,Trumpovi,,O,
+121,61,5,Trumpovi,trump,B-PER,1
 121,61,6,nedají,,O,
 121,61,7,upřít,,O,
 121,61,8,zkušenosti,,O,

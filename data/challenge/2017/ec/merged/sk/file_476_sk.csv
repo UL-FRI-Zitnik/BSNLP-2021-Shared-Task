@@ -12,8 +12,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 476,1,8,|,,O,
 476,1,9,Konzervatívny,konzervatívny,B-ORG,210
 476,1,10,výber,výber,I-ORG,210
-476,1,11,Európska,,O,
-476,1,12,komisia,,O,
+476,1,11,Európska,európska,B-ORG,1
+476,1,12,komisia,komisia,I-ORG,1
 476,1,13,kritizuje,,O,
 476,1,14,",",,O,
 476,1,15,že,,O,
@@ -37,8 +37,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 476,2,6,SITA,sita,B-ORG,211
 476,2,7,),,O,
 476,2,8,–,,O,
-476,2,9,Európska,,O,
-476,2,10,komisia,,O,
+476,2,9,Európska,európska,B-ORG,1
+476,2,10,komisia,komisia,I-ORG,1
 476,2,11,dnes,,O,
 476,2,12,vyhlásila,,O,
 476,2,13,",",,O,
@@ -158,7 +158,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 476,7,3,uviedla,,O,
 476,7,4,",",,O,
 476,7,5,že,,O,
-476,7,6,EK,,O,
+476,7,6,EK,ek,B-ORG,1
 476,7,7,“,,O,
 476,7,8,si,,O,
 476,7,9,je,,O,

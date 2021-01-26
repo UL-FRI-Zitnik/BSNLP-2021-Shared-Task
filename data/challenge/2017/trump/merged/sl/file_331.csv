@@ -16,7 +16,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 331,1,3,ko,,O,
 331,1,4,bo,,O,
 331,1,5,Donald,donald,B-PER,1
-331,1,6,Trump,trump,B-PER,1
+331,1,6,Trump,trump,I-PER,1
 331,1,7,prisegel,,O,
 331,1,8,kot,,O,
 331,1,9,45.,,O,
@@ -157,7 +157,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 331,7,5,iz,,O,
 331,7,6,različnih,,O,
 331,7,7,delov,,O,
-331,7,8,ZDA,,O,
+331,7,8,ZDA,zda,B-LOC,2
 331,7,9,",",,O,
 331,7,10,ki,,O,
 331,7,11,so,,O,
@@ -285,7 +285,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 331,12,12,",",,O,
 331,12,13,da,,O,
 331,12,14,namerava,,O,
-331,12,15,Trump,,O,
+331,12,15,Trump,trump,B-PER,1
 331,12,16,oziroma,,O,
 331,12,17,njegova,,O,
 331,12,18,administracija,,O,
@@ -327,7 +327,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 331,13,15,zgodilo,,O,
 331,13,16,z,,O,
 331,13,17,do,,O,
-331,13,18,zdaj,,O,
+331,13,18,zdaj,zda,B-LOC,2
 331,13,19,zbranimi,,O,
 331,13,20,podatki,,O,
 331,13,21,.,,O,
@@ -359,7 +359,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 331,14,26,.,,O,
 331,15,1,Že,,O,
 331,15,2,med,,O,
-331,15,3,Trumpovo,,O,
+331,15,3,Trumpovo,trump,B-PER,1
 331,15,4,predsedniško,,O,
 331,15,5,kampanjo,,O,
 331,15,6,je,,O,
@@ -384,9 +384,9 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 331,16,9,tudi,,O,
 331,16,10,nekdanji,,O,
 331,16,11,podpredsednik,,O,
-331,16,12,Združenih,,O,
-331,16,13,držav,,O,
-331,16,14,Amerike,,O,
+331,16,12,Združenih,združene,B-LOC,2
+331,16,13,držav,države,I-LOC,2
+331,16,14,Amerike,amerike,I-LOC,2
 331,16,15,Al,al,B-PER,20625
 331,16,16,Gore,gore,I-PER,20625
 331,16,17,in,,O,
@@ -394,7 +394,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 331,16,19,Nye,nye,I-PER,40158
 331,16,20,",",,O,
 331,16,21,so,,O,
-331,16,22,Trumpa,,O,
+331,16,22,Trumpa,trump,B-PER,1
 331,16,23,že,,O,
 331,16,24,seznanili,,O,
 331,16,25,s,,O,

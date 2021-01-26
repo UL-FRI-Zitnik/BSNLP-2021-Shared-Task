@@ -1,6 +1,6 @@
 docId,sentenceId,tokenId,text,lemma,ner,clID
 122,0,1,Donald,donald,B-PER,1
-122,0,2,Trump,trump,B-PER,1
+122,0,2,Trump,trump,I-PER,1
 122,0,3,vidí,,O,
 122,0,4,královskou,,O,
 122,0,5,aféru,,O,
@@ -45,7 +45,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 122,1,25,nahých,,O,
 122,1,26,snímků,,O,
 122,1,27,vévodkyně,,O,
-122,1,28,Kate,,O,
+122,1,28,Kate,kate,B-PER,87
 122,1,29,(,,O,
 122,1,30,31,,O,
 122,1,31,),,O,
@@ -58,8 +58,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 122,1,38,slavný,,O,
 122,1,39,americký,,O,
 122,1,40,multimilionář,,O,
-122,1,41,Donald,,O,
-122,1,42,Trump,,O,
+122,1,41,Donald,donald,B-PER,1
+122,1,42,Trump,trump,I-PER,1
 122,1,43,má,,O,
 122,1,44,zcela,,O,
 122,1,45,jiný,,O,
@@ -74,7 +74,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 122,2,7,31,,O,
 122,2,8,),,O,
 122,2,9,a,,O,
-122,2,10,Kate,,O,
+122,2,10,Kate,kate,B-PER,87
 122,2,11,během,,O,
 122,2,12,dovolené,,O,
 122,2,13,je,,O,
@@ -88,7 +88,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 122,2,21,jediným,,O,
 122,2,22,viníkem,,O,
 122,2,23,je,,O,
-122,2,24,Kate,,O,
+122,2,24,Kate,kate,B-PER,87
 122,2,25,.,,O,
 122,3,1,Bývalý,,O,
 122,3,2,manžel,,O,
@@ -98,7 +98,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 122,3,6,tvrdí,,O,
 122,3,7,:,,O,
 122,3,8,"""",,O,
-122,3,9,Kate,,O,
+122,3,9,Kate,kate,B-PER,87
 122,3,10,je,,O,
 122,3,11,skvělá,,O,
 122,3,12,",",,O,
@@ -167,7 +167,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 122,7,1,No,,O,
 122,7,2,tak,,O,
 122,7,3,",",,O,
-122,7,4,Kate,,O,
+122,7,4,Kate,kate,B-PER,87
 122,7,5,!,,O,
 122,7,6,"""",,O,
 122,7,7,.,,O,
@@ -179,7 +179,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 122,8,6,vydělávají,,O,
 122,8,7,miliony,,O,
 122,8,8,u,,O,
-122,8,9,Trumpů,,O,
+122,8,9,Trumpů,trump,B-PER,1
 122,8,10,!,,O,
 122,9,1,foto,,O,
 122,9,2,:,,O,

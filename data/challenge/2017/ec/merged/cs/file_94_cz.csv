@@ -62,8 +62,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 94,3,14,“,,O,
 94,3,15,uvedl,,O,
 94,3,16,místopředseda,,O,
-94,3,17,Evropské,,O,
-94,3,18,komise,,O,
+94,3,17,Evropské,evropská,B-ORG,1
+94,3,18,komise,komise,I-ORG,1
 94,3,19,Frans,frans,B-PER,146
 94,3,20,Timmermans,timmermans,I-PER,146
 94,3,21,",",,O,
@@ -154,7 +154,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 94,6,12,.,,O,
 94,7,1,Podle,,O,
 94,7,2,zpravodaje,,O,
-94,7,3,ČT,,O,
+94,7,3,ČT,čt,B-ORG,145
 94,7,4,v,,O,
 94,7,5,Bruselu,brusel,B-LOC,28
 94,7,6,Bohumila,bohumil,B-PER,151
@@ -169,7 +169,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 94,7,15,v,,O,
 94,7,16,Paříži,paříž,B-LOC,152
 94,7,17,a,,O,
-94,7,18,Bruselu,,O,
+94,7,18,Bruselu,brusel,B-LOC,28
 94,7,19,",",,O,
 94,7,20,ale,,O,
 94,7,21,i,,O,
@@ -192,7 +192,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 94,8,11,buď,,O,
 94,8,12,přišli,,O,
 94,8,13,do,,O,
-94,8,14,EU,,O,
+94,8,14,EU,eu,B-LOC,6
 94,8,15,nelegálně,,O,
 94,8,16,spolu,,O,
 94,8,17,s,,O,
@@ -253,8 +253,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 94,11,12,již,,O,
 94,11,13,dříve,,O,
 94,11,14,.,,O,
-94,12,1,Evropská,,O,
-94,12,2,komise,,O,
+94,12,1,Evropská,evropská,B-ORG,1
+94,12,2,komise,komise,I-ORG,1
 94,12,3,věří,,O,
 94,12,4,",",,O,
 94,12,5,že,,O,
@@ -293,7 +293,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 94,14,2,o,,O,
 94,14,3,cestu,,O,
 94,14,4,do,,O,
-94,14,5,EU,,O,
+94,14,5,EU,eu,B-LOC,6
 94,14,6,v,,O,
 94,14,7,něm,,O,
 94,14,8,budou,,O,
@@ -350,12 +350,12 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 94,16,7,dva,,O,
 94,16,8,roky,,O,
 94,16,9,bude,,O,
-94,16,10,EU,,O,
+94,16,10,EU,eu,B-LOC,6
 94,16,11,štědřejší,,O,
 94,16,12,.,,O,
 94,17,1,Její,,O,
 94,17,2,povolení,,O,
-94,17,3,ETIAS,,O,
+94,17,3,ETIAS,etias,B-MISC,63
 94,17,4,by,,O,
 94,17,5,mělo,,O,
 94,17,6,platit,,O,
@@ -369,8 +369,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 94,17,14,kdykoli,,O,
 94,17,15,přerušit,,O,
 94,17,16,.,,O,
-94,18,1,Evropská,,O,
-94,18,2,komise,,O,
+94,18,1,Evropská,evropská,B-ORG,1
+94,18,2,komise,komise,I-ORG,1
 94,18,3,by,,O,
 94,18,4,o,,O,
 94,18,5,novém,,O,
@@ -421,7 +421,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 94,22,7,",",,O,
 94,22,8,kdo,,O,
 94,22,9,do,,O,
-94,22,10,EU,,O,
+94,22,10,EU,eu,B-LOC,6
 94,22,11,míří,,O,
 94,22,12,…,,O,
 94,23,1,Čím,,O,
@@ -461,7 +461,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 94,24,26,vlády,,O,
 94,24,27,.,,O,
 94,25,1,Zavedení,,O,
-94,25,2,ETIAS,,O,
+94,25,2,ETIAS,etias,B-MISC,63
 94,25,3,podpořil,,O,
 94,25,4,také,,O,
 94,25,5,europoslanec,,O,
@@ -488,7 +488,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 94,27,6,amerických,,O,
 94,27,7,.,,O,
 94,28,1,Do,,O,
-94,28,2,Evropy,,O,
+94,28,2,Evropy,evropa,B-LOC,9
 94,28,3,proudí,,O,
 94,28,4,miliony,,O,
 94,28,5,lidí,,O,
@@ -521,7 +521,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 94,30,3,dává,,O,
 94,30,4,efektivnost,,O,
 94,30,5,amerického,,O,
-94,30,6,ESTA,,O,
+94,30,6,ESTA,esta,B-MISC,153
 94,30,7,.,,O,
 94,31,1,Současně,,O,
 94,31,2,však,,O,
@@ -539,7 +539,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 94,31,14,pokud,,O,
 94,31,15,chce,,O,
 94,31,16,být,,O,
-94,31,17,Evropa,,O,
+94,31,17,Evropa,evropa,B-LOC,9
 94,31,18,chráněna,,O,
 94,31,19,",",,O,
 94,31,20,musí,,O,
@@ -572,8 +572,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 94,33,11,.,,O,
 94,34,1,Jak,,O,
 94,34,2,připomněl,,O,
-94,34,3,Jiří,,O,
-94,34,4,Pospíšil,,O,
+94,34,3,Jiří,jiří,B-PER,156
+94,34,4,Pospíšil,pospíšil,I-PER,156
 94,34,5,",",,O,
 94,34,6,podobné,,O,
 94,34,7,opatření,,O,
@@ -604,9 +604,9 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 94,34,32,jaře,,O,
 94,34,33,.,,O,
 94,35,1,U,,O,
-94,35,2,ETIAS,,O,
+94,35,2,ETIAS,etias,B-MISC,63
 94,35,3,zatím,,O,
-94,35,4,Brusel,,O,
+94,35,4,Brusel,brusel,B-LOC,28
 94,35,5,počítá,,O,
 94,35,6,s,,O,
 94,35,7,tím,,O,

@@ -17,8 +17,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 300,1,7,izglasovala,,O,
 300,1,8,",",,O,
 300,1,9,da,,O,
-300,1,10,Donald,,O,
-300,1,11,Trump,,O,
+300,1,10,Donald,donald,B-PER,1
+300,1,11,Trump,trump,I-PER,1
 300,1,12,",",,O,
 300,1,13,»,,O,
 300,1,14,revolucionarni,,O,
@@ -84,7 +84,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 300,3,25,izdali,,O,
 300,3,26,.,,O,
 300,4,1,Mesto,,O,
-300,4,2,Kamëz,,O,
+300,4,2,Kamëz,kamëz,B-LOC,40059
 300,4,3,je,,O,
 300,4,4,sicer,,O,
 300,4,5,znano,,O,

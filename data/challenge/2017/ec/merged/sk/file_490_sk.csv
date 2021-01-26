@@ -12,10 +12,10 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 490,0,11,autorských,,O,
 490,0,12,práv,,O,
 490,0,13,-,,O,
-490,0,14,IAB,,O,
-490,0,15,Slovakia,,O,
-490,0,16,Európska,,O,
-490,0,17,komisia,,O,
+490,0,14,IAB,iab,B-ORG,212
+490,0,15,Slovakia,slovakia,I-ORG,212
+490,0,16,Európska,európska,B-ORG,1
+490,0,17,komisia,komisia,I-ORG,1
 490,0,18,zverejnila,,O,
 490,0,19,návrh,,O,
 490,0,20,nového,,O,
@@ -32,8 +32,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 490,1,5,septembra,,O,
 490,1,6,2016,,O,
 490,1,7,.,,O,
-490,2,1,Európska,,O,
-490,2,2,komisia,,O,
+490,2,1,Európska,európska,B-ORG,1
+490,2,2,komisia,komisia,I-ORG,1
 490,2,3,zverejnila,,O,
 490,2,4,14,,O,
 490,2,5,.,,O,
@@ -167,8 +167,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 490,9,37,svoje,,O,
 490,9,38,diela,,O,
 490,9,39,.,,O,
-490,10,1,IAB,,O,
-490,10,2,Slovakia,,O,
+490,10,1,IAB,iab,B-ORG,212
+490,10,2,Slovakia,slovakia,I-ORG,212
 490,10,3,",",,O,
 490,10,4,ktorej,,O,
 490,10,5,členmi,,O,
@@ -181,8 +181,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 490,10,12,prostredia,,O,
 490,10,13,",",,O,
 490,10,14,iniciatívu,,O,
-490,10,15,Európskej,,O,
-490,10,16,komisie,,O,
+490,10,15,Európskej,európska,B-ORG,1
+490,10,16,komisie,komisia,I-ORG,1
 490,10,17,v,,O,
 490,10,18,oblasti,,O,
 490,10,19,ochrany,,O,

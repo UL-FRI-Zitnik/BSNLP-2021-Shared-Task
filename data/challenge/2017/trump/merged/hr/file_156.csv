@@ -2,7 +2,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 156,0,1,Tko,,O,
 156,0,2,je,,O,
 156,0,3,Donald,donald,B-PER,1
-156,0,4,Trump,trump,B-PER,1
+156,0,4,Trump,trump,I-PER,1
 156,0,5,–,,O,
 156,0,6,neočekivani,,O,
 156,0,7,američki,,O,
@@ -96,7 +96,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 156,4,6,u,,O,
 156,4,7,kandidaturu,,O,
 156,4,8,",",,O,
-156,4,9,Trump,,O,
+156,4,9,Trump,trump,B-PER,1
 156,4,10,je,,O,
 156,4,11,bio,,O,
 156,4,12,poznat,,O,
@@ -160,7 +160,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 156,7,2,i,,O,
 156,7,3,nepredvidljiv,,O,
 156,7,4,.,,O,
-156,8,1,Trump,,O,
+156,8,1,Trump,trump,B-PER,1
 156,8,2,se,,O,
 156,8,3,u,,O,
 156,8,4,kampanji,,O,
@@ -208,8 +208,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 156,10,22,biračima,,O,
 156,10,23,”,,O,
 156,10,24,.,,O,
-156,11,1,Donald,,O,
-156,11,2,Trump,,O,
+156,11,1,Donald,donald,B-PER,1
+156,11,2,Trump,trump,I-PER,1
 156,11,3,",",,O,
 156,11,4,čovjek,,O,
 156,11,5,živopisne,,O,
@@ -280,7 +280,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 156,14,22,useljavanje,,O,
 156,14,23,i,,O,
 156,14,24,natjerati,,O,
-156,14,25,Meksiko,,O,
+156,14,25,Meksiko,meksiko,B-LOC,116
 156,14,26,da,,O,
 156,14,27,ga,,O,
 156,14,28,sam,,O,
@@ -324,8 +324,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 156,17,6,i,,O,
 156,17,7,razvodi,,O,
 156,17,8,.,,O,
-156,18,1,Donald,,O,
-156,18,2,Trump,,O,
+156,18,1,Donald,donald,B-PER,1
+156,18,2,Trump,trump,I-PER,1
 156,18,3,rođen,,O,
 156,18,4,je,,O,
 156,18,5,14.,,O,
@@ -397,7 +397,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 156,22,11,u,,O,
 156,22,12,graditeljstvu,,O,
 156,22,13,.,,O,
-156,23,1,Trump,,O,
+156,23,1,Trump,trump,B-PER,1
 156,23,2,je,,O,
 156,23,3,počeo,,O,
 156,23,4,raditi,,O,
@@ -467,7 +467,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 156,25,22,‘reality,,O,
 156,25,23,showu,,O,
 156,25,24,’,,O,
-156,26,1,Pripravnik,,O,
+156,26,1,Pripravnik,pripravnik,B-MISC,96
 156,26,2,i,,O,
 156,26,3,njegovom,,O,
 156,26,4,nastavku,,O,
@@ -511,7 +511,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 156,29,14,milijardi,,O,
 156,29,15,.,,O,
 156,30,1,Razmetljivi,,O,
-156,30,2,Trump,,O,
+156,30,2,Trump,trump,B-PER,1
 156,30,3,",",,O,
 156,30,4,koji,,O,
 156,30,5,živi,,O,

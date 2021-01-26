@@ -12,11 +12,11 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 461,0,11,Encyklopédia,,O,
 461,0,12,|,,O,
 461,0,13,Europskaunia,europskaunia,B-ORG,238
-461,0,14,Európska,,O,
-461,0,15,komisia,,O,
+461,0,14,Európska,európska,B-ORG,1
+461,0,15,komisia,komisia,I-ORG,1
 461,0,16,.,,O,
-461,1,1,Európska,,O,
-461,1,2,komisia,,O,
+461,1,1,Európska,európska,B-ORG,1
+461,1,2,komisia,komisia,I-ORG,1
 461,1,3,je,,O,
 461,1,4,politicky,,O,
 461,1,5,nezávislá,,O,
@@ -69,7 +69,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 461,4,5,správnu,,O,
 461,4,6,úlohu,,O,
 461,4,7,.,,O,
-461,5,1,EK,,O,
+461,5,1,EK,ek,B-ORG,1
 461,5,2,má,,O,
 461,5,3,na,,O,
 461,5,4,starosti,,O,
@@ -104,7 +104,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 461,7,9,alebo,,O,
 461,7,10,potrestať,,O,
 461,7,11,.,,O,
-461,8,1,EK,,O,
+461,8,1,EK,ek,B-ORG,1
 461,8,2,sa,,O,
 461,8,3,môže,,O,
 461,8,4,so,,O,
@@ -145,7 +145,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 461,10,6,.,,O,
 461,11,1,Nominácia,,O,
 461,11,2,.,,O,
-461,12,1,EK,,O,
+461,12,1,EK,ek,B-ORG,1
 461,12,2,navrhuje,,O,
 461,12,3,Rada,rada,B-ORG,190
 461,12,4,EÚ,eú,I-ORG,190
@@ -180,7 +180,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 461,13,18,.,,O,
 461,14,1,Zloženie,,O,
 461,14,2,.,,O,
-461,15,1,EK,,O,
+461,15,1,EK,ek,B-ORG,1
 461,15,2,bola,,O,
 461,15,3,spočiatku,,O,
 461,15,4,zložená,,O,
@@ -272,7 +272,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 461,20,14,.,,O,
 461,21,1,Súčasným,,O,
 461,21,2,predsedom,,O,
-461,21,3,EK,,O,
+461,21,3,EK,ek,B-ORG,1
 461,21,4,je,,O,
 461,21,5,bývalý,,O,
 461,21,6,portugalský,,O,

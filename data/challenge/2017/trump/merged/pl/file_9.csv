@@ -1,10 +1,10 @@
 docId,sentenceId,tokenId,text,lemma,ner,clID
 9,0,1,Donald,donald,B-PER,1
-9,0,2,Trump,trump,B-PER,1
+9,0,2,Trump,trump,I-PER,1
 9,0,3,rozmawiał,,O,
 9,0,4,z,,O,
 9,0,5,Alem,al,B-PER,20625
-9,0,6,Gorem,gore,B-PER,20625
+9,0,6,Gorem,gore,I-PER,20625
 9,0,7,o,,O,
 9,0,8,globalnym,,O,
 9,0,9,ociepleniu,,O,
@@ -57,8 +57,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 9,1,23,2007,,O,
 9,1,24,roku,,O,
 9,1,25,.,,O,
-9,2,1,Donald,,O,
-9,2,2,Trump,,O,
+9,2,1,Donald,donald,B-PER,1
+9,2,2,Trump,trump,I-PER,1
 9,2,3,-,,O,
 9,2,4,jak,,O,
 9,2,5,przynajmniej,,O,
@@ -125,7 +125,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 9,5,11,córka,,O,
 9,5,12,Ivanka,ivanka,B-PER,58
 9,5,13,",",,O,
-9,5,14,Gore,,O,
+9,5,14,Gore,gore,B-PER,20625
 9,5,15,powiedział,,O,
 9,5,16,",",,O,
 9,5,17,że,,O,
@@ -185,7 +185,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 9,9,4,jak,,O,
 9,9,5,podawał,,O,
 9,9,6,zespół,,O,
-9,9,7,Trumpa,,O,
+9,9,7,Trumpa,trump,B-PER,1
 9,9,8,do,,O,
 9,9,9,spraw,,O,
 9,9,10,przejęcia,,O,
@@ -198,9 +198,9 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 9,9,17,tylko,,O,
 9,9,18,starsza,,O,
 9,9,19,córka,,O,
-9,9,20,Trumpa,,O,
+9,9,20,Trumpa,trump,B-PER,1
 9,9,21,",",,O,
-9,9,22,Ivanka,,O,
+9,9,22,Ivanka,ivanka,B-PER,58
 9,9,23,",",,O,
 9,9,24,która,,O,
 9,9,25,jest,,O,
@@ -217,7 +217,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 9,10,4,jak,,O,
 9,10,5,ujawnił,,O,
 9,10,6,dziennikarzom,,O,
-9,10,7,Gore,,O,
+9,10,7,Gore,gore,B-PER,20625
 9,10,8,",",,O,
 9,10,9,większość,,O,
 9,10,10,czasu,,O,
@@ -227,7 +227,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 9,10,14,z,,O,
 9,10,15,Trumpem,trump,B-PER,1
 9,10,16,.,,O,
-9,11,1,Ivanka,,O,
+9,11,1,Ivanka,ivanka,B-PER,58
 9,11,2,",",,O,
 9,11,3,która,,O,
 9,11,4,jest,,O,
@@ -260,7 +260,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 9,12,4,że,,O,
 9,12,5,po,,O,
 9,12,6,zaprzysiężeniu,,O,
-9,12,7,Trumpa,,O,
+9,12,7,Trumpa,trump,B-PER,1
 9,12,8,na,,O,
 9,12,9,prezydenta,,O,
 9,12,10,20,,O,
@@ -278,7 +278,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 9,13,3,"""",,O,
 9,13,4,Politico,politico,B-ORG,248
 9,13,5,"""",,O,
-9,13,6,Ivanka,,O,
+9,13,6,Ivanka,ivanka,B-PER,58
 9,13,7,chce,,O,
 9,13,8,zaangażować,,O,
 9,13,9,się,,O,
@@ -320,7 +320,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 9,15,3,jak,,O,
 9,15,4,dotąd,,O,
 9,15,5,",",,O,
-9,15,6,Ivanka,,O,
+9,15,6,Ivanka,ivanka,B-PER,58
 9,15,7,nigdy,,O,
 9,15,8,publicznie,,O,
 9,15,9,nie,,O,
@@ -363,8 +363,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 9,16,11,,,O,
 9,16,12,",",,O,
 9,16,13,że,,O,
-9,16,14,Donald,,O,
-9,16,15,Trump,,O,
+9,16,14,Donald,donald,B-PER,1
+9,16,15,Trump,trump,I-PER,1
 9,16,16,nie,,O,
 9,16,17,przejmuje,,O,
 9,16,18,się,,O,
@@ -381,7 +381,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 9,17,8,Chiny,chiny,B-LOC,11
 9,17,9,i,,O,
 9,17,10,dla,,O,
-9,17,11,Chin,,O,
+9,17,11,Chin,chiny,B-LOC,11
 9,17,12,",",,O,
 9,17,13,by,,O,
 9,17,14,sprawić,,O,
@@ -403,7 +403,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 9,17,30,.,,O,
 9,18,1,Podczas,,O,
 9,18,2,kampanii,,O,
-9,18,3,Trump,,O,
+9,18,3,Trump,trump,B-PER,1
 9,18,4,zapowiedział,,O,
 9,18,5,",",,O,
 9,18,6,że,,O,
@@ -465,7 +465,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 9,18,62,.,,O,
 9,19,1,Po,,O,
 9,19,2,wyborach,,O,
-9,19,3,Trump,,O,
+9,19,3,Trump,trump,B-PER,1
 9,19,4,nie,,O,
 9,19,5,był,,O,
 9,19,6,już,,O,
@@ -476,9 +476,9 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 9,20,2,wywiadzie,,O,
 9,20,3,dla,,O,
 9,20,4,"""",,O,
-9,20,5,New,,O,
-9,20,6,York,,O,
-9,20,7,Times,,O,
+9,20,5,New,new,B-ORG,5
+9,20,6,York,york,I-ORG,5
+9,20,7,Times,times,I-ORG,5
 9,20,8,"""",,O,
 9,20,9,przyznał,,O,
 9,20,10,niedawno,,O,
@@ -511,7 +511,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 9,21,12,tej,,O,
 9,21,13,sprawie,,O,
 9,21,14,.,,O,
-9,22,1,USA,,O,
+9,22,1,USA,usa,B-LOC,2
 9,22,2,są,,O,
 9,22,3,po,,O,
 9,22,4,Chinach,chiny,B-LOC,11

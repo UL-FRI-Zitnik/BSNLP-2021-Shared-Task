@@ -280,7 +280,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 29,15,43,i,,O,
 29,15,44,dostali,,O,
 29,15,45,zgodę,,O,
-29,15,46,UE,,O,
+29,15,46,UE,ue,B-LOC,6
 29,15,47,.,,O,
 29,16,1,Wtedy,,O,
 29,16,2,bowiem,,O,
@@ -293,7 +293,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 29,16,9,przeniosą,,O,
 29,16,10,się,,O,
 29,16,11,do,,O,
-29,16,12,Polski,,O,
+29,16,12,Polski,polska,B-LOC,20002
 29,16,13,.,,O,
 29,17,1,Możliwe,,O,
 29,17,2,jest,,O,
@@ -303,7 +303,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 29,17,6,–,,O,
 29,17,7,że,,O,
 29,17,8,powiadomimy,,O,
-29,17,9,Brukselę,,O,
+29,17,9,Brukselę,bruksela,B-LOC,28
 29,17,10,o,,O,
 29,17,11,wzroście,,O,
 29,17,12,wyłudzeń,,O,
@@ -321,7 +321,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 29,18,3,ten,,O,
 29,18,4,sam,,O,
 29,18,5,–,,O,
-29,18,6,Komisja,,O,
+29,18,6,Komisja,komisja,B-ORG,1
 29,18,7,uchyli,,O,
 29,18,8,wszystkie,,O,
 29,18,9,zgody,,O,
@@ -329,8 +329,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 29,18,11,ten,,O,
 29,18,12,eksperyment,,O,
 29,18,13,.,,O,
-29,19,1,Komisja,,O,
-29,19,2,Europejska,,O,
+29,19,1,Komisja,komisja,B-ORG,1
+29,19,2,Europejska,europejska,I-ORG,1
 29,19,3,twardo,,O,
 29,19,4,bowiem,,O,
 29,19,5,podkreśla,,O,
@@ -375,7 +375,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 29,22,4,dowód,,O,
 29,22,5,na,,O,
 29,22,6,niechęć,,O,
-29,22,7,Brukseli,,O,
+29,22,7,Brukseli,bruksela,B-LOC,28
 29,22,8,do,,O,
 29,22,9,tego,,O,
 29,22,10,projektu,,O,
@@ -396,7 +396,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 29,23,3,że,,O,
 29,23,4,Czesi,czesi,B-PER,20707
 29,23,5,i,,O,
-29,23,6,Austriacy,,O,
+29,23,6,Austriacy,austriacy,B-PER,20708
 29,23,7,chcieli,,O,
 29,23,8,",",,O,
 29,23,9,aby,,O,
@@ -471,7 +471,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 29,28,5,podatku,,O,
 29,28,6,obrotowego,,O,
 29,28,7,opracował,,O,
-29,28,8,niemiecki,,O,
+29,28,8,niemiecki,niemiec,B-PER,20711
 29,28,9,przedsiębiorca,,O,
 29,28,10,Carl,carl,B-PER,20715
 29,28,11,Friedrich,friedrich,I-PER,20715

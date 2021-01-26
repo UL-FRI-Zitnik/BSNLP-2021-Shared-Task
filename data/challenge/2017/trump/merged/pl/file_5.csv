@@ -18,7 +18,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 5,2,2,środę,,O,
 5,2,3,redakcja,,O,
 5,2,4,„,,O,
-5,2,5,Time,,O,
+5,2,5,Time,time,B-ORG,126
 5,2,6,”,,O,
 5,2,7,poinformowała,,O,
 5,2,8,",",,O,
@@ -86,8 +86,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 5,5,11,?,,O,
 5,6,1,Wyzwaniem,,O,
 5,6,2,dla,,O,
-5,6,3,Donalda,,O,
-5,6,4,Trumpa,,O,
+5,6,3,Donalda,donald,B-PER,1
+5,6,4,Trumpa,trump,I-PER,1
 5,6,5,jest,,O,
 5,6,6,kwestia,,O,
 5,6,7,tego,,O,
@@ -106,7 +106,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 5,6,20,–,,O,
 5,6,21,twierdzi,,O,
 5,6,22,„,,O,
-5,6,23,Time,,O,
+5,6,23,Time,time,B-ORG,126
 5,6,24,”,,O,
 5,6,25,.,,O,
 5,7,1,Redakcja,,O,
@@ -189,7 +189,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 5,9,3,w,,O,
 5,9,4,przypadku,,O,
 5,9,5,„,,O,
-5,9,6,Time,,O,
+5,9,6,Time,time,B-ORG,126
 5,9,7,”,,O,
 5,9,8,o,,O,
 5,9,9,obiektywności,,O,
@@ -232,8 +232,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 5,11,2,nominowanych,,O,
 5,11,3,kandydatów,,O,
 5,11,4,oprócz,,O,
-5,11,5,Donalda,,O,
-5,11,6,Trumpa,,O,
+5,11,5,Donalda,donald,B-PER,1
+5,11,6,Trumpa,trump,I-PER,1
 5,11,7,znaleźli,,O,
 5,11,8,się,,O,
 5,11,9,też,,O,
@@ -257,13 +257,13 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 5,12,1,Komentarze,,O,
 5,12,2,do,,O,
 5,12,3,:,,O,
-5,12,4,Donald,,O,
-5,12,5,Trump,,O,
+5,12,4,Donald,donald,B-PER,1
+5,12,5,Trump,trump,I-PER,1
 5,12,6,Człowiekiem,,O,
 5,12,7,Roku,,O,
 5,12,8,magazynu,,O,
 5,12,9,„,,O,
-5,12,10,Time,,O,
+5,12,10,Time,time,B-ORG,126
 5,12,11,”,,O,
 5,12,12,.,,O,
 5,13,1,Uzasadnienie,,O,

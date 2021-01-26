@@ -11,7 +11,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 124,0,10,Novinky,novinky,B-ORG,92
 124,0,11,.,.,I-ORG,92
 124,1,1,cz,cz,I-ORG,92
-124,1,2,Trump,,O,
+124,1,2,Trump,trump,B-PER,1
 124,1,3,získal,,O,
 124,1,4,potřebný,,O,
 124,1,5,počet,,O,
@@ -85,6 +85,6 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 124,5,9,,,O,
 124,5,10,nehlasovali,,O,
 124,5,11,pro,,O,
-124,5,12,Donalda,,O,
-124,5,13,Trumpa,,O,
+124,5,12,Donalda,donald,B-PER,1
+124,5,13,Trumpa,trump,I-PER,1
 124,5,14,.,,O,

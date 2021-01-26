@@ -12,8 +12,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 133,0,11,Ekolist,ekolist,B-ORG,51
 133,0,12,.,.,I-ORG,51
 133,1,1,cz,cz,I-ORG,51
-133,1,2,Evropská,,O,
-133,1,3,komise,,O,
+133,1,2,Evropská,evropská,B-ORG,1
+133,1,3,komise,komise,I-ORG,1
 133,1,4,schválila,,O,
 133,1,5,režim,,O,
 133,1,6,podpory,,O,
@@ -154,7 +154,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 133,8,31,"""",,O,
 133,8,32,dodala,,O,
 133,8,33,.,,O,
-133,9,1,MPO,,O,
+133,9,1,MPO,mpo,B-ORG,10
 133,9,2,minulý,,O,
 133,9,3,týden,,O,
 133,9,4,uvedlo,,O,
@@ -219,7 +219,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 133,12,3,energetických,,O,
 133,12,4,zdrojů,,O,
 133,12,5,v,,O,
-133,12,6,Česku,,O,
+133,12,6,Česku,česko,B-LOC,20
 133,12,7,by,,O,
 133,12,8,na,,O,
 133,12,9,základě,,O,
@@ -237,9 +237,9 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 133,13,1,Kvůli,,O,
 133,13,2,chybějícímu,,O,
 133,13,3,souhlasu,,O,
-133,13,4,EK,,O,
+133,13,4,EK,ek,B-ORG,1
 133,13,5,odmítal,,O,
-133,13,6,ERÚ,,O,
+133,13,6,ERÚ,erú,B-ORG,52
 133,13,7,podporu,,O,
 133,13,8,řadu,,O,
 133,13,9,měsíců,,O,
@@ -264,9 +264,9 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 133,15,3,během,,O,
 133,15,4,nepřítomnosti,,O,
 133,15,5,předsedkyně,,O,
-133,15,6,ERÚ,,O,
+133,15,6,ERÚ,erú,B-ORG,52
 133,15,7,Aleny,alena,B-PER,53
-133,15,8,Vitáskové,vitásková,B-PER,53
+133,15,8,Vitáskové,vitásková,I-PER,53
 133,15,9,tehdejší,,O,
 133,15,10,místopředseda,,O,
 133,15,11,úřadu,,O,
@@ -275,12 +275,12 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 133,15,14,",",,O,
 133,15,15,jehož,,O,
 133,15,16,pak,,O,
-133,15,17,Vitásková,,O,
+133,15,17,Vitásková,vitásková,B-PER,53
 133,15,18,odvolala,,O,
 133,15,19,z,,O,
 133,15,20,funkce,,O,
 133,15,21,.,,O,
-133,16,1,Vitásková,,O,
+133,16,1,Vitásková,vitásková,B-PER,53
 133,16,2,už,,O,
 133,16,3,dříve,,O,
 133,16,4,uvedla,,O,
@@ -304,7 +304,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 133,17,3,zdrojům,,O,
 133,17,4,energie,,O,
 133,17,5,v,,O,
-133,17,6,Česku,,O,
+133,17,6,Česku,česko,B-LOC,20
 133,17,7,od,,O,
 133,17,8,roku,,O,
 133,17,9,2013,,O,
@@ -317,7 +317,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 133,17,16,základě,,O,
 133,17,17,cenového,,O,
 133,17,18,rozhodnutí,,O,
-133,17,19,ERÚ,,O,
+133,17,19,ERÚ,erú,B-ORG,52
 133,17,20,.,,O,
 133,18,1,Předtím,,O,
 133,18,2,ji,,O,

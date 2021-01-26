@@ -1,8 +1,18 @@
 import os
 import json
 import pandas as pd
+import sys
+import logging
 
 from collections import defaultdict
+
+
+logging.basicConfig(
+    stream=sys.stdout,
+    level=logging.DEBUG,
+    format='[%(asctime)s] {%(filename)s:%(lineno)d} %(levelname)s - %(message)s'
+)
+logger = logging.getLogger('main')
 
 
 def list_all_files(dirpath: str) -> (list, list, dict):
@@ -72,7 +82,7 @@ def list_datasets(datasets: list) -> dict:
                 digits_a = ''.join([d for d in r if d.isdigit()])
                 if digits_a != digits_r:
                     raise Exception(f'NO MATCH:\n{base_raw}/{r}\n{base_ann}/{a}')
-            dataset_files[dataset][languages_ann[lang_id]] = [{'raw': f'{base_raw}/{r}', 'annotated': f'{base_ann}/{a}'} for r, a in zip(sorted(os.listdir(base_raw)),  sorted(os.listdir(base_ann)))]
+            dataset_files[dataset][languages_ann[lang_id]] = [{'raw': f'{base_raw}/{r}', 'annotated': f'{base_ann}/{a}', 'raw_fname': r, 'raw_aname': a} for r, a in zip(sorted(os.listdir(base_raw)),  sorted(os.listdir(base_ann)))]
     return dataset_files
 
 
@@ -140,14 +150,14 @@ def get_doc_info(stats: dict) -> dict:
         for lang, files in data['dirs']['raw'].items():
             for file in files:
                 info = raw_doc_info(file)
-                info['dataset'] = dataset
+                info['dataset_dir'] = dataset
                 info['lang'] = lang
                 info['fpath'] = file
                 dataset_raw.append(info)
         for lang, files in data['dirs']['annotated'].items():
             for file in files:
                 info = ann_doc_info(file)
-                info['dataset'] = dataset
+                info['dataset_dir'] = dataset
                 info['lang'] = lang
                 info['fpath'] = file
                 dataset_ann.append(info)
@@ -182,12 +192,19 @@ if __name__ == '__main__':
     datasets = [
         './data/challenge/2017/ec',
         './data/challenge/2017/trump',
-        './data/challenge/2019/sample',
-        './data/challenge/2019/training',
-        './data/challenge/2019/test/nord_stream',
-        './data/challenge/2019/test/ryanair',
+        # 2019 data is updated for the 2021 challenge, so these are obsolete
+        # './data/challenge/2019/sample',
+        # './data/challenge/2019/training',
+        # './data/challenge/2019/test/nord_stream',
+        # './data/challenge/2019/test/ryanair',
+        './data/challenge/2021/asia_bibi',
+        './data/challenge/2021/brexit',
+        './data/challenge/2021/nord_stream',
+        './data/challenge/2021/other',
+        './data/challenge/2021/ryanair',
     ]
     dataset_files = list_datasets(datasets)
-    print(json.dumps(dataset_files, indent=4))
+    logger.info('Done.')
+    # logger.info(json.dumps(dataset_files, indent=4))
     with open('./data/results/dataset_pairs.json', 'w') as f:
-        json.dump(dataset_files, f)
+        json.dump(dataset_files, f, indent=4)

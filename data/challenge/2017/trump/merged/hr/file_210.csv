@@ -1,6 +1,6 @@
 docId,sentenceId,tokenId,text,lemma,ner,clID
 210,0,1,Donald,donald,B-PER,1
-210,0,2,Trump,trump,B-PER,1
+210,0,2,Trump,trump,I-PER,1
 210,0,3,-,,O,
 210,0,4,Crno,,O,
 210,0,5,ili,,O,
@@ -26,8 +26,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 210,2,12,sad,,O,
 210,2,13,nas,,O,
 210,2,14,čeka,,O,
-210,2,15,Donald,,O,
-210,2,16,Trump,,O,
+210,2,15,Donald,donald,B-PER,1
+210,2,16,Trump,trump,I-PER,1
 210,2,17,.,,O,
 210,3,1,Bit,,O,
 210,3,2,će,,O,
@@ -53,7 +53,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 210,3,22,javnoj,,O,
 210,3,23,sceni,,O,
 210,3,24,.,,O,
-210,4,1,Hollywood,,O,
+210,4,1,Hollywood,hollywood,B-LOC,50210
 210,4,2,voli,,O,
 210,4,3,simplificirati,,O,
 210,4,4,život,,O,
@@ -70,7 +70,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 210,4,15,tko,,O,
 210,4,16,loši,,O,
 210,4,17,.,,O,
-210,5,1,Hollywoodski,,O,
+210,5,1,Hollywoodski,hollywood,B-LOC,50210
 210,5,2,scenarist,,O,
 210,5,3,",",,O,
 210,5,4,producent,,O,
@@ -168,8 +168,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 210,7,15,starije,,O,
 210,7,16,generacije,,O,
 210,7,17,",",,O,
-210,7,18,Paul,,O,
-210,7,19,Haggis,,O,
+210,7,18,Paul,paul,B-PER,50211
+210,7,19,Haggis,haggis,I-PER,50211
 210,7,20,dio,,O,
 210,7,21,je,,O,
 210,7,22,suvremene,,O,
@@ -294,7 +294,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 210,12,9,jednim,,O,
 210,12,10,imenom,,O,
 210,12,11,zovemo,,O,
-210,12,12,Indijanci,,O,
+210,12,12,Indijanci,indijanci,B-PER,50094
 210,12,13,ili,,O,
 210,12,14,bilo,,O,
 210,12,15,koji,,O,
@@ -355,7 +355,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 210,14,6,skovan,,O,
 210,14,7,je,,O,
 210,14,8,u,,O,
-210,14,9,Americi,,O,
+210,14,9,Americi,amerika,B-LOC,2
 210,14,10,da,,O,
 210,14,11,bi,,O,
 210,14,12,se,,O,
@@ -383,7 +383,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 210,14,34,mogli,,O,
 210,14,35,.,,O,
 210,15,1,Prosječni,,O,
-210,15,2,Amerikanac,,O,
+210,15,2,Amerikanac,amerikanci,B-PER,17
 210,15,3,naučen,,O,
 210,15,4,je,,O,
 210,15,5,na,,O,
@@ -418,8 +418,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 210,16,2,tu,,O,
 210,16,3,dolazimo,,O,
 210,16,4,do,,O,
-210,16,5,Donalda,,O,
-210,16,6,Trumpa,,O,
+210,16,5,Donalda,donald,B-PER,1
+210,16,6,Trumpa,trump,I-PER,1
 210,16,7,.,,O,
 210,16,8,Čovjeka,,O,
 210,16,9,koji,,O,
@@ -524,7 +524,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 210,19,1,Oni,,O,
 210,19,2,su,,O,
 210,19,3,od,,O,
-210,19,4,Trumpa,,O,
+210,19,4,Trumpa,trump,B-PER,1
 210,19,5,čuli,,O,
 210,19,6,i,,O,
 210,19,7,vidjeli,,O,
@@ -589,7 +589,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 210,20,33,dobro,,O,
 210,20,34,Amerike,amerika,B-LOC,2
 210,20,35,.,,O,
-210,21,1,Trump,,O,
+210,21,1,Trump,trump,B-PER,1
 210,21,2,će,,O,
 210,21,3,unatoč,,O,
 210,21,4,tome,,O,
@@ -650,11 +650,11 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 210,22,2,je,,O,
 210,22,3,velika,,O,
 210,22,4,prednost,,O,
-210,22,5,Donalda,,O,
-210,22,6,Trumpa,,O,
+210,22,5,Donalda,donald,B-PER,1
+210,22,6,Trumpa,trump,I-PER,1
 210,22,7,kod,,O,
 210,22,8,prosječnih,,O,
-210,22,9,Amerikanaca,,O,
+210,22,9,Amerikanaca,amerikanci,B-PER,17
 210,22,10,što,,O,
 210,22,11,su,,O,
 210,22,12,njegove,,O,
@@ -713,7 +713,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 210,24,24,trideset,,O,
 210,24,25,godina,,O,
 210,24,26,.,,O,
-210,25,1,Trump,,O,
+210,25,1,Trump,trump,B-PER,1
 210,25,2,nije,,O,
 210,25,3,komplicirao,,O,
 210,25,4,.,,O,
@@ -721,7 +721,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 210,26,2,dakle,,O,
 210,26,3,možemo,,O,
 210,26,4,od,,O,
-210,26,5,Trumpa,,O,
+210,26,5,Trumpa,trump,B-PER,1
 210,26,6,očekivati,,O,
 210,26,7,kad,,O,
 210,26,8,sljedeće,,O,
@@ -798,7 +798,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 210,29,18,pod,,O,
 210,29,19,nečijim,,O,
 210,29,20,utjecajem,,O,
-210,29,21,Trump,,O,
+210,29,21,Trump,trump,B-PER,1
 210,29,22,značajnije,,O,
 210,29,23,odstupiti,,O,
 210,29,24,od,,O,
@@ -833,7 +833,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 210,30,26,politiku,,O,
 210,30,27,imati,,O,
 210,30,28,na,,O,
-210,30,29,Ameriku,,O,
+210,30,29,Ameriku,amerika,B-LOC,2
 210,30,30,i,,O,
 210,30,31,svijet,,O,
 210,30,32,",",,O,

@@ -10,8 +10,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 66,0,9,atak,,O,
 66,0,10,DDoS,,O,
 66,0,11,na,,O,
-66,0,12,Komisję,,O,
-66,0,13,Europejską,,O,
+66,0,12,Komisję,komisja,B-ORG,1
+66,0,13,Europejską,europejska,I-ORG,1
 66,0,14,",",,O,
 66,0,15,utrudniając,,O,
 66,0,16,tym,,O,
@@ -64,8 +64,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 66,2,21,godzin,,O,
 66,2,22,”,,O,
 66,2,23,poinformowała,,O,
-66,2,24,Komisja,,O,
-66,2,25,Europejska,,O,
+66,2,24,Komisja,komisja,B-ORG,1
+66,2,25,Europejska,europejska,I-ORG,1
 66,2,26,.,,O,
 66,3,1,Nie,,O,
 66,3,2,wiadomo,,O,
@@ -79,7 +79,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 66,3,10,DDoS,,O,
 66,3,11,w,,O,
 66,3,12,stronę,,O,
-66,3,13,KE,,O,
+66,3,13,KE,ke,B-ORG,1
 66,3,14,.,,O,
 66,4,1,Sytuacja,,O,
 66,4,2,jest,,O,

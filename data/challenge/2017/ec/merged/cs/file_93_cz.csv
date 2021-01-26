@@ -66,7 +66,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 93,3,4,energetickou,,O,
 93,3,5,unii,,O,
 93,3,6,Maroš,maroš,B-PER,86
-93,3,7,Šefčovič,šefčovič,B-PER,86
+93,3,7,Šefčovič,šefčovič,I-PER,86
 93,3,8,upozornil,,O,
 93,3,9,na,,O,
 93,3,10,to,,O,
@@ -125,7 +125,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 93,6,20,",",,O,
 93,6,21,“,,O,
 93,6,22,řekl,,O,
-93,6,23,Šefčovič,,O,
+93,6,23,Šefčovič,šefčovič,B-PER,86
 93,6,24,.,,O,
 93,7,1,Úspory,,O,
 93,7,2,40,,O,
@@ -144,7 +144,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 93,7,15,.,,O,
 93,8,1,Podle,,O,
 93,8,2,názoru,,O,
-93,8,3,Prahy,,O,
+93,8,3,Prahy,praha,B-LOC,87
 93,8,4,ale,,O,
 93,8,5,chybějí,,O,
 93,8,6,důkazy,,O,
@@ -213,7 +213,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 93,11,3,státy,,O,
 93,11,4,dnes,,O,
 93,11,5,podle,,O,
-93,11,6,Kovačovské,,O,
+93,11,6,Kovačovské,kovačovská,B-PER,88
 93,11,7,uváděly,,O,
 93,11,8,",",,O,
 93,11,9,že,,O,

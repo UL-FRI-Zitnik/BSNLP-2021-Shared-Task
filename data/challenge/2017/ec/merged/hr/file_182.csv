@@ -1,6 +1,6 @@
 docId,sentenceId,tokenId,text,lemma,ner,clID
 182,0,1,Europska,europska,B-ORG,1
-182,0,2,komisija,komisija,B-ORG,1
+182,0,2,komisija,komisija,I-ORG,1
 182,0,3,predlaže,,O,
 182,0,4,strože,,O,
 182,0,5,mjere,,O,
@@ -9,8 +9,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 182,0,8,terorizma,,O,
 182,0,9,|,,O,
 182,0,10,NACIONAL.HR,nacional.hr,B-ORG,50434
-182,0,11,Europska,,O,
-182,0,12,komisija,,O,
+182,0,11,Europska,europska,B-ORG,1
+182,0,12,komisija,komisija,I-ORG,1
 182,0,13,je,,O,
 182,0,14,u,,O,
 182,0,15,srijedu,,O,
@@ -82,8 +82,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 182,2,29,je,,O,
 182,2,30,prvi,,O,
 182,2,31,potpredsjednik,,O,
-182,2,32,Europske,,O,
-182,2,33,komisije,,O,
+182,2,32,Europske,europska,B-ORG,1
+182,2,33,komisije,komisija,I-ORG,1
 182,2,34,Frans,frans,B-PER,146
 182,2,35,Timmermans,timmermans,I-PER,146
 182,2,36,.,,O,
@@ -113,7 +113,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 182,3,24,njihovi,,O,
 182,3,25,polanovi,,O,
 182,3,26,.,,O,
-182,4,1,Komisija,,O,
+182,4,1,Komisija,komisija,B-ORG,1
 182,4,2,je,,O,
 182,4,3,predložila,,O,
 182,4,4,direktivu,,O,
@@ -160,7 +160,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 182,4,45,nacionalnim,,O,
 182,4,46,propisima,,O,
 182,4,47,.,,O,
-182,5,1,Komisija,,O,
+182,5,1,Komisija,komisija,B-ORG,1
 182,5,2,predlaže,,O,
 182,5,3,strože,,O,
 182,5,4,kontrole,,O,

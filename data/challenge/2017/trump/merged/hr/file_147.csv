@@ -1,6 +1,6 @@
 docId,sentenceId,tokenId,text,lemma,ner,clID
 147,0,1,Donald,donald,B-PER,1
-147,0,2,Trump,trump,B-PER,1
+147,0,2,Trump,trump,I-PER,1
 147,0,3,bi,,O,
 147,0,4,natjerao,,O,
 147,0,5,Apple,apple,B-ORG,149
@@ -44,8 +44,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 147,1,28,Baracka,barack,B-PER,16
 147,1,29,Obame,obama,I-PER,16
 147,1,30,.,,O,
-147,2,1,Donald,,O,
-147,2,2,Trump,,O,
+147,2,1,Donald,donald,B-PER,1
+147,2,2,Trump,trump,I-PER,1
 147,2,3,u,,O,
 147,2,4,cijeloj,,O,
 147,2,5,toj,,O,
@@ -66,7 +66,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 147,2,20,se,,O,
 147,2,21,uspio,,O,
 147,2,22,dotaknuti,,O,
-147,2,23,Applea,,O,
+147,2,23,Applea,apple,B-ORG,149
 147,2,24,iako,,O,
 147,2,25,nad,,O,
 147,2,26,time,,O,
@@ -77,7 +77,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 147,3,1,"""",,O,
 147,3,2,Natjerat,,O,
 147,3,3,ćemo,,O,
-147,3,4,Apple,,O,
+147,3,4,Apple,apple,B-ORG,149
 147,3,5,da,,O,
 147,3,6,svoja,,O,
 147,3,7,prokleta,,O,
@@ -96,7 +96,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 147,3,20,",",,O,
 147,3,21,rekao,,O,
 147,3,22,je,,O,
-147,3,23,Trump,,O,
+147,3,23,Trump,trump,B-PER,1
 147,3,24,u,,O,
 147,3,25,govoru,,O,
 147,3,26,od,,O,
@@ -115,7 +115,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 147,4,4,radna,,O,
 147,4,5,mjesta,,O,
 147,4,6,i,,O,
-147,4,7,Trump,,O,
+147,4,7,Trump,trump,B-PER,1
 147,4,8,se,,O,
 147,4,9,poveo,,O,
 147,4,10,retorikom,,O,
@@ -163,7 +163,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 147,5,13,i,,O,
 147,5,14,Meksiku,meksiko,B-LOC,152
 147,5,15,.,,O,
-147,6,1,Trumpu,,O,
+147,6,1,Trumpu,trump,B-PER,1
 147,6,2,",",,O,
 147,6,3,koji,,O,
 147,6,4,je,,O,
@@ -179,7 +179,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 147,6,14,kojim,,O,
 147,6,15,se,,O,
 147,6,16,koriste,,O,
-147,6,17,Apple,,O,
+147,6,17,Apple,apple,B-ORG,149
 147,6,18,",",,O,
 147,6,19,Microsoft,microsoft,B-ORG,152
 147,6,20,i,,O,
@@ -251,7 +251,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 147,9,13,",",,O,
 147,9,14,izjavio,,O,
 147,9,15,je,,O,
-147,9,16,Trump,,O,
+147,9,16,Trump,trump,B-PER,1
 147,9,17,.,,O,
 147,10,1,To,,O,
 147,10,2,je,,O,
@@ -318,7 +318,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 147,11,13,.,,O,
 147,12,1,Zato,,O,
 147,12,2,je,,O,
-147,12,3,Trump,,O,
+147,12,3,Trump,trump,B-PER,1
 147,12,4,dobio,,O,
 147,12,5,ovacije,,O,
 147,12,6,za,,O,
@@ -330,7 +330,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 147,12,12,(,,O,
 147,12,13,CEO,,O,
 147,12,14,),,O,
-147,12,15,Applea,,O,
+147,12,15,Applea,apple,B-ORG,149
 147,12,16,Tim,tim,B-PER,264
 147,12,17,Cook,cook,I-PER,264
 147,12,18,morat,,O,
@@ -345,7 +345,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 147,12,27,trn,,O,
 147,12,28,u,,O,
 147,12,29,oku,,O,
-147,12,30,Trumpu,,O,
+147,12,30,Trumpu,trump,B-PER,1
 147,12,31,i,,O,
 147,12,32,mogla,,O,
 147,12,33,bi,,O,
@@ -365,17 +365,17 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 147,13,4,i,,O,
 147,13,5,da,,O,
 147,13,6,nije,,O,
-147,13,7,Trump,,O,
+147,13,7,Trump,trump,B-PER,1
 147,13,8,toliko,,O,
 147,13,9,lud,,O,
 147,13,10,",",,O,
 147,13,11,trenutno,,O,
-147,13,12,Apple,,O,
+147,13,12,Apple,apple,B-ORG,149
 147,13,13,proizvodi,,O,
 147,13,14,samo,,O,
 147,13,15,Mac,mac,B-MISC,50029
 147,13,16,Pro,pro,I-MISC,50029
 147,13,17,računala,,O,
 147,13,18,u,,O,
-147,13,19,SAD-u,,O,
+147,13,19,SAD-u,sad,B-LOC,2
 147,13,20,.,,O,

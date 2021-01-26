@@ -1,6 +1,6 @@
 docId,sentenceId,tokenId,text,lemma,ner,clID
 119,0,1,Donald,donald,B-PER,1
-119,0,2,Trump,trump,B-PER,1
+119,0,2,Trump,trump,I-PER,1
 119,0,3,:,,O,
 119,0,4,Nespokojený,,O,
 119,0,5,—,,O,
@@ -12,8 +12,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 119,1,5,",",,O,
 119,1,6,když,,O,
 119,1,7,se,,O,
-119,1,8,Donald,,O,
-119,1,9,Trump,,O,
+119,1,8,Donald,donald,B-PER,1
+119,1,9,Trump,trump,I-PER,1
 119,1,10,vyhoupl,,O,
 119,1,11,do,,O,
 119,1,12,čela,,O,
@@ -48,7 +48,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 119,2,11,mi,,O,
 119,2,12,názory,,O,
 119,2,13,.,,O,
-119,3,1,Trump,,O,
+119,3,1,Trump,trump,B-PER,1
 119,3,2,je,,O,
 119,3,3,známý,,O,
 119,3,4,jako,,O,

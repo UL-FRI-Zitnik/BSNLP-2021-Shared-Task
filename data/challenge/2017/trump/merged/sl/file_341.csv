@@ -9,7 +9,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 341,0,8,|,,O,
 341,0,9,Planet.si,planet.si,B-ORG,40187
 341,1,1,Revija,,O,
-341,1,2,Time,,O,
+341,1,2,Time,time,B-ORG,126
 341,1,3,je,,O,
 341,1,4,že,,O,
 341,1,5,90.,,O,
@@ -23,8 +23,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 341,2,4,izvoljeni,,O,
 341,2,5,predsednik,,O,
 341,2,6,ZDA,zda,B-LOC,2
-341,2,7,Donald,,O,
-341,2,8,Trump,,O,
+341,2,7,Donald,donald,B-PER,1
+341,2,8,Trump,trump,I-PER,1
 341,2,9,.,,O,
 341,3,1,V,,O,
 341,3,2,reviji,,O,
@@ -55,8 +55,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 341,4,5,odgovoril,,O,
 341,4,6,čas,,O,
 341,4,7,.,,O,
-341,5,1,Donald,,O,
-341,5,2,Trump,,O,
+341,5,1,Donald,donald,B-PER,1
+341,5,2,Trump,trump,I-PER,1
 341,5,3,(,,O,
 341,5,4,Foto,,O,
 341,5,5,:,,O,
@@ -64,7 +64,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 341,5,7,),,O,
 341,5,8,V,,O,
 341,5,9,reviji,,O,
-341,5,10,Time,,O,
+341,5,10,Time,time,B-ORG,126
 341,5,11,so,,O,
 341,5,12,uvodoma,,O,
 341,5,13,pojasnili,,O,
@@ -103,9 +103,9 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 341,6,21,.,,O,
 341,7,1,Izvoljeni,,O,
 341,7,2,predsednik,,O,
-341,7,3,ZDA,,O,
-341,7,4,Donald,,O,
-341,7,5,Trump,,O,
+341,7,3,ZDA,zda,B-LOC,2
+341,7,4,Donald,donald,B-PER,1
+341,7,5,Trump,trump,I-PER,1
 341,7,6,je,,O,
 341,7,7,prejem,,O,
 341,7,8,naziva,,O,
@@ -129,7 +129,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 341,8,5,na,,O,
 341,8,6,izjavo,,O,
 341,8,7,revije,,O,
-341,8,8,Time,,O,
+341,8,8,Time,time,B-ORG,126
 341,8,9,",",,O,
 341,8,10,da,,O,
 341,8,11,je,,O,
@@ -147,7 +147,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 341,9,5,sam,,O,
 341,9,6,ni,,O,
 341,9,7,razdelil,,O,
-341,9,8,ZDA,,O,
+341,9,8,ZDA,zda,B-LOC,2
 341,9,9,",",,O,
 341,9,10,“,,O,
 341,9,11,obstaja,,O,
@@ -161,7 +161,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 341,9,19,presegli,,O,
 341,9,20,.,,O,
 341,10,1,Revija,,O,
-341,10,2,Time,,O,
+341,10,2,Time,time,B-ORG,126
 341,10,3,že,,O,
 341,10,4,od,,O,
 341,10,5,leta,,O,
@@ -208,7 +208,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 341,12,6,osebnosti,,O,
 341,12,7,leta,,O,
 341,12,8,revije,,O,
-341,12,9,Time,,O,
+341,12,9,Time,time,B-ORG,126
 341,12,10,tudi,,O,
 341,12,11,Adolf,adolf,B-PER,20608
 341,12,12,Hitler,hitler,I-PER,20608

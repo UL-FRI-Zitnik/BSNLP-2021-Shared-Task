@@ -63,7 +63,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 113,3,18,velký,,O,
 113,3,19,ohlas,,O,
 113,3,20,.,,O,
-113,4,1,Trumpovo,,O,
+113,4,1,Trumpovo,trump,B-PER,1
 113,4,2,zvolení,,O,
 113,4,3,je,,O,
 113,4,4,tedy,,O,
@@ -89,7 +89,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 113,5,17,pisatelů,,O,
 113,5,18,o,,O,
 113,5,19,zablokování,,O,
-113,5,20,Trumpova,,O,
+113,5,20,Trumpova,trump,B-PER,1
 113,5,21,vítězného,,O,
 113,5,22,tažení,,O,
 113,5,23,.,,O,
@@ -176,7 +176,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 113,11,21,útoky,,O,
 113,11,22,ve,,O,
 113,11,23,prospěch,,O,
-113,11,24,Trumpa,,O,
+113,11,24,Trumpa,trump,B-PER,1
 113,11,25,.,,O,
 113,12,1,Důkazy,,O,
 113,12,2,o,,O,
@@ -221,7 +221,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 113,14,5,bude,,O,
 113,14,6,hlasovat,,O,
 113,14,7,proti,,O,
-113,14,8,Trumpovi,,O,
+113,14,8,Trumpovi,trump,B-PER,1
 113,14,9,jen,,O,
 113,14,10,jeden,,O,
 113,14,11,.,,O,
@@ -239,7 +239,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 113,16,2,by,,O,
 113,16,3,se,,O,
 113,16,4,podařilo,,O,
-113,16,5,Trumpa,,O,
+113,16,5,Trumpa,trump,B-PER,1
 113,16,6,zablokovat,,O,
 113,16,7,",",,O,
 113,16,8,však,,O,
@@ -272,7 +272,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 113,18,7,důvodu,,O,
 113,18,8,zvedne,,O,
 113,18,9,pro,,O,
-113,18,10,Trumpa,,O,
+113,18,10,Trumpa,trump,B-PER,1
 113,18,11,ruku,,O,
 113,18,12,",",,O,
 113,18,13,i,,O,

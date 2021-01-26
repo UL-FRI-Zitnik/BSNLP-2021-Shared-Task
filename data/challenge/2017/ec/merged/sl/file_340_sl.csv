@@ -9,8 +9,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 340,0,8,okvira,,O,
 340,0,9,elektronskih,,O,
 340,0,10,komunikacij,,O,
-340,1,1,Evropska,,O,
-340,1,2,komisija,,O,
+340,1,1,Evropska,evropska,B-ORG,1
+340,1,2,komisija,komisija,I-ORG,1
 340,1,3,je,,O,
 340,1,4,objavila,,O,
 340,1,5,predlog,,O,
@@ -52,8 +52,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 340,2,1,Glede,,O,
 340,2,2,na,,O,
 340,2,3,načrte,,O,
-340,2,4,Evropske,,O,
-340,2,5,komisije,,O,
+340,2,4,Evropske,evropska,B-ORG,1
+340,2,5,komisije,komisija,I-ORG,1
 340,2,6,bi,,O,
 340,2,7,lahko,,O,
 340,2,8,države,,O,
@@ -92,8 +92,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 340,4,1,Poleg,,O,
 340,4,2,direktive,,O,
 340,4,3,je,,O,
-340,4,4,Evropska,,O,
-340,4,5,komisija,,O,
+340,4,4,Evropska,evropska,B-ORG,1
+340,4,5,komisija,komisija,I-ORG,1
 340,4,6,predstavila,,O,
 340,4,7,tudi,,O,
 340,4,8,ločena,,O,
@@ -127,7 +127,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 340,5,25,vsem,,O,
 340,5,26,gospodinjstvom,,O,
 340,5,27,po,,O,
-340,5,28,Evropi,,O,
+340,5,28,Evropi,evropa,B-LOC,9
 340,5,29,omogočili,,O,
 340,5,30,višje,,O,
 340,5,31,internetne,,O,
@@ -145,7 +145,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 340,5,43,pristojnosti,,O,
 340,5,44,tako,,O,
 340,5,45,za,,O,
-340,5,46,BEREC,,O,
+340,5,46,BEREC,berec,B-ORG,40081
 340,5,47,kot,,O,
 340,5,48,za,,O,
 340,5,49,nacionalne,,O,
@@ -159,14 +159,14 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 340,6,5,in,in,I-ORG,40083
 340,6,6,storitve,storitve,I-ORG,40083
 340,6,7,Republike,republike,I-ORG,40083
-340,6,8,Slovenije,slovenija,B-LOC,295
+340,6,8,Slovenije,slovenije,I-ORG,40083
 340,6,9,Stegne,stegne,B-LOC,40084
 340,6,10,7,,O,
 340,6,11,",",,O,
 340,6,12,1000,,O,
 340,6,13,Ljubljana,ljubljana,B-LOC,40061
 340,6,14,",",,O,
-340,6,15,Slovenija,,O,
+340,6,15,Slovenija,slovenija,B-LOC,295
 340,6,16,T,,O,
 340,6,17,:,,O,
 340,6,18,01,,O,

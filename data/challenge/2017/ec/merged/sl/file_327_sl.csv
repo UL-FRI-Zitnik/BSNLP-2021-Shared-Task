@@ -28,10 +28,10 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 327,1,11,Tusk,tusk,I-PER,10062
 327,1,12,in,,O,
 327,1,13,predsednik,,O,
-327,1,14,Evropske,,O,
-327,1,15,komisije,,O,
+327,1,14,Evropske,evropska,B-ORG,1
+327,1,15,komisije,komisija,I-ORG,1
 327,1,16,Jean-Claude,jean-claude,B-PER,48
-327,1,17,Juncker,juncker,B-PER,48
+327,1,17,Juncker,juncker,I-PER,48
 327,1,18,",",,O,
 327,1,19,ki,,O,
 327,1,20,so,,O,
@@ -51,7 +51,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 327,1,34,teroristični,,O,
 327,1,35,napad,,O,
 327,1,36,v,,O,
-327,1,37,Nici,,O,
+327,1,37,Nici,nica,B-LOC,240
 327,1,38,.,,O,
 327,2,1,Poudarili,,O,
 327,2,2,so,,O,
@@ -121,7 +121,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 327,3,24,ljudje,,O,
 327,3,25,.,,O,
 327,4,1,Predsednik,,O,
-327,4,2,Juncker,,O,
+327,4,2,Juncker,juncker,B-PER,48
 327,4,3,je,,O,
 327,4,4,v,,O,
 327,4,5,ločeni,,O,
@@ -138,8 +138,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 327,4,16,lahko,,O,
 327,4,17,računa,,O,
 327,4,18,na,,O,
-327,4,19,Evropsko,,O,
-327,4,20,komisijo,,O,
+327,4,19,Evropsko,evropska,B-ORG,1
+327,4,20,komisijo,komisija,I-ORG,1
 327,4,21,",",,O,
 327,4,22,ki,,O,
 327,4,23,se,,O,
@@ -174,8 +174,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 327,5,18,Nica,nica,B-LOC,240
 327,5,19,.,,O,
 327,6,1,Pri,,O,
-327,6,2,Evropski,,O,
-327,6,3,komisiji,,O,
+327,6,2,Evropski,evropska,B-ORG,1
+327,6,3,komisiji,komisija,I-ORG,1
 327,6,4,v,,O,
 327,6,5,Bruslju,bruselj,B-LOC,28
 327,6,6,so,,O,

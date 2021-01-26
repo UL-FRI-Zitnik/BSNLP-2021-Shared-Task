@@ -1,6 +1,6 @@
 docId,sentenceId,tokenId,text,lemma,ner,clID
 179,0,1,Europska,europska,B-ORG,1
-179,0,2,komisija,komisija,B-ORG,1
+179,0,2,komisija,komisija,I-ORG,1
 179,0,3,najavila,,O,
 179,0,4,strategiju,,O,
 179,0,5,o,,O,
@@ -8,16 +8,16 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 179,0,7,životinja,,O,
 179,0,8,-,,O,
 179,0,9,EU,eu,B-LOC,6
-179,1,1,Europska,,O,
-179,1,2,komisija,,O,
+179,1,1,Europska,europska,B-ORG,1
+179,1,2,komisija,komisija,I-ORG,1
 179,1,3,najavila,,O,
 179,1,4,strategiju,,O,
 179,1,5,o,,O,
 179,1,6,dobrobiti,,O,
 179,1,7,životinja,,O,
 179,1,8,.,,O,
-179,2,1,Europska,,O,
-179,2,2,komisija,,O,
+179,2,1,Europska,europska,B-ORG,1
+179,2,2,komisija,komisija,I-ORG,1
 179,2,3,novim,,O,
 179,2,4,planom,,O,
 179,2,5,želi,,O,
@@ -25,7 +25,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 179,2,7,rupe,,O,
 179,2,8,u,,O,
 179,2,9,zakonima,,O,
-179,2,10,EU,,O,
+179,2,10,EU,eu,B-LOC,6
 179,2,11,u,,O,
 179,2,12,vezi,,O,
 179,2,13,s,,O,
@@ -44,7 +44,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 179,2,26,kupuju,,O,
 179,2,27,.,,O,
 179,3,1,Zakoni,,O,
-179,3,2,EU,,O,
+179,3,2,EU,eu,B-LOC,6
 179,3,3,u,,O,
 179,3,4,vezi,,O,
 179,3,5,s,,O,
@@ -82,7 +82,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 179,4,21,skladu,,O,
 179,4,22,sa,,O,
 179,4,23,standardima,,O,
-179,4,24,EU,,O,
+179,4,24,EU,eu,B-LOC,6
 179,4,25,.,,O,
 179,5,1,Uzgajivači,,O,
 179,5,2,u,,O,
@@ -95,7 +95,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 179,5,9,konkurentski,,O,
 179,5,10,zakinutima,,O,
 179,5,11,.,,O,
-179,6,1,Komisija,,O,
+179,6,1,Komisija,komisija,B-ORG,1
 179,6,2,namjerava,,O,
 179,6,3,krenuti,,O,
 179,6,4,s,,O,
@@ -125,7 +125,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 179,7,14,se,,O,
 179,7,15,traže,,O,
 179,7,16,zakonima,,O,
-179,7,17,EU,,O,
+179,7,17,EU,eu,B-LOC,6
 179,7,18,.,,O,
 179,8,1,Kupcima,,O,
 179,8,2,će,,O,
@@ -147,7 +147,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 179,9,3,razumljivija,,O,
 179,9,4,pravila,,O,
 179,9,5,.,,O,
-179,10,1,Komisija,,O,
+179,10,1,Komisija,komisija,B-ORG,1
 179,10,2,u,,O,
 179,10,3,sklopu,,O,
 179,10,4,strategije,,O,
@@ -255,7 +255,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 179,15,8,o,,O,
 179,15,9,visokim,,O,
 179,15,10,standardima,,O,
-179,15,11,EU,,O,
+179,15,11,EU,eu,B-LOC,6
 179,15,12,za,,O,
 179,15,13,dobrobit,,O,
 179,15,14,životinja,,O,
@@ -329,7 +329,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 179,19,11,iz,,O,
 179,19,12,inozemstva,,O,
 179,19,13,",",,O,
-179,19,14,EU,,O,
+179,19,14,EU,eu,B-LOC,6
 179,19,15,vrijednosti,,O,
 179,19,16,glede,,O,
 179,19,17,smjetaja,,O,
@@ -354,7 +354,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 179,20,3,istraživanja,,O,
 179,20,4,.,,O,
 179,21,1,Diljem,,O,
-179,21,2,EU,,O,
+179,21,2,EU,eu,B-LOC,6
 179,21,3,bit,,O,
 179,21,4,će,,O,
 179,21,5,rairena,,O,

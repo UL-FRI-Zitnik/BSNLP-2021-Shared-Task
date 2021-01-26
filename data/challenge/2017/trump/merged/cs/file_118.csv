@@ -2,7 +2,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 118,0,1,Potvrzeno,,O,
 118,0,2,:,,O,
 118,0,3,Donald,donald,B-PER,1
-118,0,4,Trump,trump,B-PER,1
+118,0,4,Trump,trump,I-PER,1
 118,0,5,bude,,O,
 118,0,6,prezidentem,,O,
 118,0,7,USA,usa,B-LOC,2
@@ -13,8 +13,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 118,0,12,něj,,O,
 118,0,13,270,,O,
 118,0,14,volitelů,,O,
-118,0,15,Donald,,O,
-118,0,16,Trump,,O,
+118,0,15,Donald,donald,B-PER,1
+118,0,16,Trump,trump,I-PER,1
 118,0,17,dnes,,O,
 118,0,18,získal,,O,
 118,0,19,více,,O,
@@ -44,7 +44,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 118,2,2,funkce,,O,
 118,2,3,nastoupí,,O,
 118,2,4,republikán,,O,
-118,2,5,Trump,,O,
+118,2,5,Trump,trump,B-PER,1
 118,2,6,jako,,O,
 118,2,7,45,,O,
 118,2,8,.,,O,
@@ -95,7 +95,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 118,5,5,jasné,,O,
 118,5,6,",",,O,
 118,5,7,že,,O,
-118,5,8,Trump,,O,
+118,5,8,Trump,trump,B-PER,1
 118,5,9,získal,,O,
 118,5,10,počet,,O,
 118,5,11,hlasů,,O,
@@ -111,7 +111,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 118,6,5,z,,O,
 118,6,6,počátku,,O,
 118,6,7,listopadu,,O,
-118,6,8,Trump,,O,
+118,6,8,Trump,trump,B-PER,1
 118,6,9,získal,,O,
 118,6,10,306,,O,
 118,6,11,volitelů,,O,
@@ -130,7 +130,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 118,8,4,ale,,O,
 118,8,5,po,,O,
 118,8,6,celých,,O,
-118,8,7,USA,,O,
+118,8,7,USA,usa,B-LOC,2
 118,8,8,demonstrovala,,O,
 118,8,9,a,,O,
 118,8,10,vyzývala,,O,

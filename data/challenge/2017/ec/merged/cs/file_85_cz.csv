@@ -11,8 +11,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 85,0,10,vnitra,vnitra,I-ORG,92
 85,0,11,České,české,I-ORG,92
 85,0,12,republiky,republiky,I-ORG,92
-85,0,13,Evropská,,O,
-85,0,14,komise,,O,
+85,0,13,Evropská,evropská,B-ORG,1
+85,0,14,komise,komise,I-ORG,1
 85,0,15,vydala,,O,
 85,0,16,Akční,,O,
 85,0,17,plán,,O,
@@ -66,10 +66,10 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 85,2,12,minulého,,O,
 85,2,13,roku,,O,
 85,2,14,vydala,,O,
-85,2,15,Evropská,,O,
-85,2,16,komise,,O,
+85,2,15,Evropská,evropská,B-ORG,1
+85,2,16,komise,komise,I-ORG,1
 85,2,17,.,,O,
-85,3,1,EU,,O,
+85,3,1,EU,eu,B-LOC,6
 85,3,2,tak,,O,
 85,3,3,nastínila,,O,
 85,3,4,své,,O,
@@ -123,7 +123,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 85,6,15,50,,O,
 85,6,16,%,,O,
 85,6,17,občanů,,O,
-85,6,18,EU,,O,
+85,6,18,EU,eu,B-LOC,6
 85,6,19,a,,O,
 85,6,20,80,,O,
 85,6,21,%,,O,
@@ -214,7 +214,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 85,11,3,administrativní,,O,
 85,11,4,zátěže,,O,
 85,11,5,pak,,O,
-85,11,6,EK,,O,
+85,11,6,EK,ek,B-ORG,1
 85,11,7,vychází,,O,
 85,11,8,z,,O,
 85,11,9,myšlenky,,O,
@@ -245,7 +245,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 85,12,16,veřejné,,O,
 85,12,17,správy,,O,
 85,12,18,.,,O,
-85,13,1,EK,,O,
+85,13,1,EK,ek,B-ORG,1
 85,13,2,dále,,O,
 85,13,3,usiluje,,O,
 85,13,4,",",,O,
@@ -278,7 +278,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 85,13,31,kteréhokoli,,O,
 85,13,32,místa,,O,
 85,13,33,v,,O,
-85,13,34,EU,,O,
+85,13,34,EU,eu,B-LOC,6
 85,13,35,nezávisle,,O,
 85,13,36,na,,O,
 85,13,37,původním,,O,

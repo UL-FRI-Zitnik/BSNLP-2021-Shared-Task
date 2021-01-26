@@ -68,8 +68,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 54,3,21,znacznie,,O,
 54,3,22,przekroczona,,O,
 54,3,23,.,,O,
-54,4,1,Komisja,,O,
-54,4,2,Europejska,,O,
+54,4,1,Komisja,komisja,B-ORG,1
+54,4,2,Europejska,europejska,I-ORG,1
 54,4,3,czasowo,,O,
 54,4,4,wstrzymała,,O,
 54,4,5,refundację,,O,
@@ -79,7 +79,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 54,4,9,i,i,I-MISC,20220
 54,4,10,Środowisko,środowisko,I-MISC,20220
 54,4,11,(,,O,
-54,4,12,POIiŚ,,O,
+54,4,12,POIiŚ,poiiś,B-MISC,20220
 54,4,13,),,O,
 54,4,14,z,,O,
 54,4,15,uwagi,,O,
@@ -143,7 +143,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 54,6,1,Polska,polska,B-LOC,20002
 54,6,2,wprowadziła,,O,
 54,6,3,zalecenia,,O,
-54,6,4,Komisji,,O,
+54,6,4,Komisji,komisja,B-ORG,1
 54,6,5,.,,O,
 54,7,1,Podpisano,,O,
 54,7,2,porozumienia,,O,
@@ -170,7 +170,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 54,8,5,",",,O,
 54,8,6,na,,O,
 54,8,7,prośbę,,O,
-54,8,8,KE,,O,
+54,8,8,KE,ke,B-ORG,1
 54,8,9,",",,O,
 54,8,10,zweryfikowane,,O,
 54,8,11,przez,,O,
@@ -191,7 +191,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 54,9,8,2016,,O,
 54,9,9,r,,O,
 54,9,10,.,,O,
-54,10,1,Komisja,,O,
+54,10,1,Komisja,komisja,B-ORG,1
 54,10,2,w,,O,
 54,10,3,ramach,,O,
 54,10,4,płatności,,O,
@@ -204,7 +204,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 54,10,11,zaliczek,,O,
 54,10,12,),,O,
 54,10,13,przekazała,,O,
-54,10,14,Polsce,,O,
+54,10,14,Polsce,polska,B-LOC,20002
 54,10,15,974,,O,
 54,10,16,mln,,O,
 54,10,17,euro,,O,
@@ -226,7 +226,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 54,11,2,ze,,O,
 54,11,3,wszystkich,,O,
 54,11,4,krajów,,O,
-54,11,5,UE,,O,
+54,11,5,UE,ue,B-LOC,6
 54,11,6,.,,O,
 54,12,1,Biorąc,,O,
 54,12,2,pod,,O,
@@ -238,7 +238,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 54,12,8,",",,O,
 54,12,9,,,O,
 54,12,10,z,,O,
-54,12,11,Brukseli,,O,
+54,12,11,Brukseli,bruksela,B-LOC,28
 54,12,12,609,,O,
 54,12,13,mln,,O,
 54,12,14,euro,,O,
@@ -251,7 +251,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 54,12,21,czele,,O,
 54,12,22,stawki,,O,
 54,12,23,w,,O,
-54,12,24,UE,,O,
+54,12,24,UE,ue,B-LOC,6
 54,12,25,.,,O,
 54,13,1,W,,O,
 54,13,2,połowie,,O,
@@ -286,7 +286,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 54,14,17,pośród,,O,
 54,14,18,28,,O,
 54,14,19,krajów,,O,
-54,14,20,UE,,O,
+54,14,20,UE,ue,B-LOC,6
 54,14,21,.,,O,
 54,15,1,Teraz,,O,
 54,15,2,mamy,,O,

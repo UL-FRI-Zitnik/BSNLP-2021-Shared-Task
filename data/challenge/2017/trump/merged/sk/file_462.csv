@@ -234,8 +234,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 462,18,8,.,,O,
 462,19,1,Realitní,,O,
 462,19,2,magnát,,O,
-462,19,3,Donald,,O,
-462,19,4,Trump,,O,
+462,19,3,Donald,donald,B-PER,1
+462,19,4,Trump,trump,I-PER,1
 462,19,5,vám,,O,
 462,19,6,ukáže,,O,
 462,19,7,",",,O,

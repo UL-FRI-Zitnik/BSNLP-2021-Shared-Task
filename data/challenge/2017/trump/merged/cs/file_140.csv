@@ -1,6 +1,6 @@
 docId,sentenceId,tokenId,text,lemma,ner,clID
 140,0,1,Donald,donald,B-PER,1
-140,0,2,Trump,trump,B-PER,1
+140,0,2,Trump,trump,I-PER,1
 140,0,3,:,,O,
 140,0,4,Z,,O,
 140,0,5,rodiny,,O,
@@ -18,7 +18,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 140,2,3,se,,O,
 140,2,4,z,,O,
 140,2,5,malého,,O,
-140,2,6,Donalda,,O,
+140,2,6,Donalda,donald,B-PER,1
 140,2,7,prezident,,O,
 140,2,8,stal,,O,
 140,2,9,.,,O,
@@ -36,8 +36,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 140,3,12,.,,O,
 140,4,1,Jenže,,O,
 140,4,2,život,,O,
-140,4,3,Donalda,,O,
-140,4,4,Trumpa,trump,B-PER,1
+140,4,3,Donalda,donald,B-PER,1
+140,4,4,Trumpa,trump,I-PER,1
 140,4,5,(,,O,
 140,4,6,70,,O,
 140,4,7,),,O,
@@ -92,8 +92,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 140,6,13,října,,O,
 140,6,14,1885,,O,
 140,6,15,do,,O,
-140,6,16,Spojených,,O,
-140,6,17,států,,O,
+140,6,16,Spojených,spojené,B-LOC,2
+140,6,17,států,státy,I-LOC,2
 140,6,18,.,,O,
 140,7,1,Zřejmě,,O,
 140,7,2,ho,,O,
@@ -142,7 +142,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 140,9,1,1946,,O,
 140,9,2,:,,O,
 140,9,3,Zrození,,O,
-140,9,4,Donalda,,O,
+140,9,4,Donalda,donald,B-PER,1
 140,10,1,Na,,O,
 140,10,2,svět,,O,
 140,10,3,v,,O,
@@ -166,7 +166,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 140,10,21,Trumpovi,trump,B-PER,1
 140,10,22,dávají,,O,
 140,10,23,jméno,,O,
-140,10,24,Donald,,O,
+140,10,24,Donald,donald,B-PER,1
 140,10,25,.,,O,
 140,11,1,Původně,,O,
 140,11,2,ale,,O,
@@ -184,7 +184,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 140,12,3,Školní,,O,
 140,12,4,potížista,,O,
 140,12,5,Mladý,,O,
-140,12,6,Trump,,O,
+140,12,6,Trump,trump,B-PER,1
 140,12,7,studuje,,O,
 140,12,8,na,,O,
 140,12,9,škole,,O,
@@ -198,7 +198,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 140,12,17,v,,O,
 140,12,18,jeho,,O,
 140,12,19,rodném,,O,
-140,12,20,Queensu,,O,
+140,12,20,Queensu,queens,B-LOC,125
 140,12,21,.,,O,
 140,13,1,Jenže,,O,
 140,13,2,má,,O,
@@ -253,7 +253,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 140,16,4,u,,O,
 140,16,5,táty,,O,
 140,16,6,Další,,O,
-140,16,7,Trumpovy,,O,
+140,16,7,Trumpovy,trump,B-PER,1
 140,16,8,kroky,,O,
 140,16,9,pak,,O,
 140,16,10,směřovaly,,O,
@@ -272,7 +272,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 140,16,23,finančnictví,,O,
 140,16,24,.,,O,
 140,17,1,Ač,,O,
-140,17,2,Trump,,O,
+140,17,2,Trump,trump,B-PER,1
 140,17,3,nyní,,O,
 140,17,4,tvrdí,,O,
 140,17,5,",",,O,
@@ -318,7 +318,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 140,19,6,.,,O,
 140,19,7,.,,O,
 140,19,8,.,,O,
-140,20,1,Trump,,O,
+140,20,1,Trump,trump,B-PER,1
 140,20,2,získává,,O,
 140,20,3,úvěr,,O,
 140,20,4,a,,O,
@@ -375,7 +375,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 140,24,2,:,,O,
 140,24,3,První,,O,
 140,24,4,manželka,,O,
-140,24,5,Trump,,O,
+140,24,5,Trump,trump,B-PER,1
 140,24,6,říká,,O,
 140,24,7,ANO,,O,
 140,24,8,československé,,O,
@@ -445,7 +445,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 140,27,10,Kč,,O,
 140,27,11,a,,O,
 140,27,12,s,,O,
-140,27,13,Donaldem,,O,
+140,27,13,Donaldem,donald,B-PER,1
 140,27,14,se,,O,
 140,27,15,dodnes,,O,
 140,27,16,přátelí,,O,
@@ -458,7 +458,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 140,29,2,roce,,O,
 140,29,3,1989,,O,
 140,29,4,se,,O,
-140,29,5,Trump,,O,
+140,29,5,Trump,trump,B-PER,1
 140,29,6,seznamuje,,O,
 140,29,7,s,,O,
 140,29,8,herečkou,,O,
@@ -502,7 +502,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 140,31,3,Kupuje,,O,
 140,31,4,Miss,miss,B-ORG,182
 140,31,5,Universe,universe,I-ORG,182
-140,31,6,Trump,,O,
+140,31,6,Trump,trump,B-PER,1
 140,31,7,sice,,O,
 140,31,8,ovládá,,O,
 140,31,9,hotely,,O,
@@ -540,7 +540,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 140,33,3,Třetí,,O,
 140,33,4,manželka,,O,
 140,33,5,Aktuální,,O,
-140,33,6,Trumpova,,O,
+140,33,6,Trumpova,trump,B-PER,1
 140,33,7,manželka,,O,
 140,33,8,se,,O,
 140,33,9,jmenuje,,O,
@@ -591,7 +591,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 140,37,4,.,,O,
 140,37,5,červen,,O,
 140,37,6,a,,O,
-140,37,7,Trump,,O,
+140,37,7,Trump,trump,B-PER,1
 140,37,8,formálně,,O,
 140,37,9,oznamuje,,O,
 140,37,10,",",,O,
@@ -617,8 +617,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 140,38,13,nečekaný,,O,
 140,38,14,úspěch,,O,
 140,38,15,.,,O,
-140,39,1,Republikánskou,,O,
-140,39,2,stranu,,O,
+140,39,1,Republikánskou,republikánská,B-ORG,118
+140,39,2,stranu,strana,I-ORG,118
 140,39,3,nakonec,,O,
 140,39,4,rozdělil,,O,
 140,39,5,tak,,O,
@@ -667,7 +667,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 140,42,1,Bílý,,O,
 140,42,2,dům,,O,
 140,42,3,",",,O,
-140,42,4,Trump,,O,
+140,42,4,Trump,trump,B-PER,1
 140,42,5,složí,,O,
 140,42,6,prezidentský,,O,
 140,42,7,slib,,O,

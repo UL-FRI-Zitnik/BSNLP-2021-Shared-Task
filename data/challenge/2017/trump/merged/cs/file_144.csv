@@ -4,13 +4,13 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 144,0,3,dnes,,O,
 144,0,4,stojí,,O,
 144,0,5,Donald,donald,B-PER,1
-144,0,6,Trump,trump,B-PER,1
+144,0,6,Trump,trump,I-PER,1
 144,0,7,?,,O,
 144,1,1,V,,O,
 144,1,2,pondělí,,O,
 144,1,3,vystoupil,,O,
-144,1,4,Donald,,O,
-144,1,5,Trump,,O,
+144,1,4,Donald,donald,B-PER,1
+144,1,5,Trump,trump,I-PER,1
 144,1,6,na,,O,
 144,1,7,shromáždění,,O,
 144,1,8,v,,O,
@@ -24,7 +24,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 144,2,2,připomněl,,O,
 144,2,3,nedávnou,,O,
 144,2,4,historii,,O,
-144,2,5,Detroitu,,O,
+144,2,5,Detroitu,detroit,B-LOC,159
 144,2,6,",",,O,
 144,2,7,kdysi,,O,
 144,2,8,automobilového,,O,
@@ -63,7 +63,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 144,2,41,průvan,,O,
 144,2,42,.,,O,
 144,3,1,„,,O,
-144,3,2,Detroit,,O,
+144,3,2,Detroit,detroit,B-LOC,159
 144,3,3,je,,O,
 144,3,4,živým,,O,
 144,3,5,",",,O,
@@ -101,7 +101,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 144,4,21,“,,O,
 144,4,22,—,,O,
 144,4,23,řekl,,O,
-144,4,24,Trump,,O,
+144,4,24,Trump,trump,B-PER,1
 144,4,25,.,,O,
 144,5,1,Trumpův,trump,B-PER,1
 144,5,2,nástin,,O,
@@ -153,7 +153,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 144,6,29,pohne,,O,
 144,6,30,kupředu,,O,
 144,6,31,.,,O,
-144,7,1,Trump,,O,
+144,7,1,Trump,trump,B-PER,1
 144,7,2,navrhuje,,O,
 144,7,3,zjednodušení,,O,
 144,7,4,daňového,,O,
@@ -182,7 +182,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 144,8,4,daňových,,O,
 144,8,5,kategorií,,O,
 144,8,6,navrhuje,,O,
-144,8,7,Trump,,O,
+144,8,7,Trump,trump,B-PER,1
 144,8,8,3,,O,
 144,8,9,:,,O,
 144,8,10,12,,O,
@@ -219,7 +219,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 144,10,6,podniky,,O,
 144,10,7,.,,O,
 144,11,1,V,,O,
-144,11,2,Hillaryně,,O,
+144,11,2,Hillaryně,hillary,B-PER,3
 144,11,3,návrhu,,O,
 144,11,4,by,,O,
 144,11,5,malé,,O,
@@ -241,7 +241,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 144,12,10,",",,O,
 144,12,11,které,,O,
 144,12,12,podle,,O,
-144,12,13,Trumpa,,O,
+144,12,13,Trumpa,trump,B-PER,1
 144,12,14,dusí,,O,
 144,12,15,americkou,,O,
 144,12,16,tvořivost,,O,
@@ -263,7 +263,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 144,13,8,naše,,O,
 144,13,9,heslo“,,O,
 144,13,10,—,,O,
-144,13,11,Amerika,,O,
+144,13,11,Amerika,amerika,B-LOC,2
 144,13,12,zbavená,,O,
 144,13,13,okovů,,O,
 144,13,14,vládních,,O,
@@ -365,9 +365,9 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 144,18,5,a,,O,
 144,18,6,začít,,O,
 144,18,7,věřit,,O,
-144,18,8,Americe,,O,
+144,18,8,Americe,amerika,B-LOC,2
 144,18,9,.,,O,
-144,19,1,Trump,,O,
+144,19,1,Trump,trump,B-PER,1
 144,19,2,to,,O,
 144,19,3,bude,,O,
 144,19,4,mít,,O,
@@ -425,7 +425,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 144,21,8,úředníků,,O,
 144,21,9,",",,O,
 144,21,10,obviňujících,,O,
-144,21,11,Trumpa,,O,
+144,21,11,Trumpa,trump,B-PER,1
 144,21,12,z,,O,
 144,21,13,totální,,O,
 144,21,14,nekompetence,,O,
@@ -437,7 +437,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 144,21,20,existenci,,O,
 144,21,21,USA,usa,B-LOC,2
 144,21,22,.,,O,
-144,22,1,Trump,,O,
+144,22,1,Trump,trump,B-PER,1
 144,22,2,reagoval,,O,
 144,22,3,intuitivně,,O,
 144,22,4,",",,O,
@@ -484,7 +484,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 144,25,1,V,,O,
 144,25,2,těchto,,O,
 144,25,3,dnech,,O,
-144,25,4,Trump,,O,
+144,25,4,Trump,trump,B-PER,1
 144,25,5,ještě,,O,
 144,25,6,ztrácí,,O,
 144,25,7,—,,O,
@@ -493,8 +493,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 144,25,10,12,,O,
 144,25,11,%,,O,
 144,25,12,za,,O,
-144,25,13,Hillary,,O,
-144,25,14,Clintonovou,,O,
+144,25,13,Hillary,hillary,B-PER,3
+144,25,14,Clintonovou,clintonová,I-PER,3
 144,25,15,",",,O,
 144,25,16,a,,O,
 144,25,17,to,,O,
@@ -524,7 +524,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 144,27,13,vizí,,O,
 144,27,14,vytočit,,O,
 144,27,15,cholerickou,,O,
-144,27,16,Hillary,,O,
+144,27,16,Hillary,hillary,B-PER,3
 144,27,17,",",,O,
 144,27,18,může,,O,
 144,27,19,výsledek,,O,
@@ -539,7 +539,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 144,28,6,.,,O,
 144,29,1,Píše,,O,
 144,29,2,z,,O,
-144,29,3,Emeriky,,O,
+144,29,3,Emeriky,amerika,B-LOC,2
 144,29,4,pan,,O,
 144,29,5,Dušan,dušan,B-PER,161
 144,29,6,Neumann,neumann,I-PER,161

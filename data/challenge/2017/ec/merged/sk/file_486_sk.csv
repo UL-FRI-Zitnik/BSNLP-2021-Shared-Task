@@ -16,12 +16,12 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 486,1,3,.,,O,
 486,1,4,októbra,,O,
 486,1,5,(,,O,
-486,1,6,WebNoviny,,O,
-486,1,7,.sk,,O,
+486,1,6,WebNoviny,webnoviny,B-ORG,274
+486,1,7,.sk,.sk,I-ORG,274
 486,1,8,),,O,
 486,1,9,-,,O,
-486,1,10,Európska,,O,
-486,1,11,komisia,,O,
+486,1,10,Európska,európska,B-ORG,1
+486,1,11,komisia,komisia,I-ORG,1
 486,1,12,(,,O,
 486,1,13,EK,ek,B-ORG,1
 486,1,14,),,O,
@@ -98,7 +98,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 486,4,1,V,,O,
 486,4,2,prípade,,O,
 486,4,3,zavedenia,,O,
-486,4,4,CCCTB,,O,
+486,4,4,CCCTB,ccctb,B-MISC,275
 486,4,5,budú,,O,
 486,4,6,mať,,O,
 486,4,7,spoločnosti,,O,
@@ -113,7 +113,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 486,4,16,zisku,,O,
 486,4,17,v,,O,
 486,4,18,celej,,O,
-486,4,19,EÚ,,O,
+486,4,19,EÚ,eú,B-LOC,6
 486,4,20,.,,O,
 486,5,1,Firmy,,O,
 486,5,2,by,,O,
@@ -158,7 +158,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 486,7,8,sú,,O,
 486,7,9,súčasťou,,O,
 486,7,10,návrhu,,O,
-486,7,11,CCCTB,,O,
+486,7,11,CCCTB,ccctb,B-MISC,275
 486,7,12,",",,O,
 486,7,13,keďže,,O,
 486,7,14,tie,,O,
@@ -182,7 +182,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 486,8,8,SR,sr,B-LOC,125
 486,8,9,.,,O,
 486,9,1,Podpredseda,,O,
-486,9,2,EK,,O,
+486,9,2,EK,ek,B-ORG,1
 486,9,3,a,,O,
 486,9,4,komisár,,O,
 486,9,5,pre,,O,
@@ -191,7 +191,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 486,9,8,sociálny,,O,
 486,9,9,dialóg,,O,
 486,9,10,Valdis,valdis,B-PER,276
-486,9,11,Dombrovskis,dombrovskis,B-PER,276
+486,9,11,Dombrovskis,dombrovskis,I-PER,276
 486,9,12,konštatoval,,O,
 486,9,13,",",,O,
 486,9,14,že,,O,
@@ -231,10 +231,10 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 486,10,20,kapitálových,,O,
 486,10,21,trhov,,O,
 486,10,22,v,,O,
-486,10,23,EÚ,,O,
+486,10,23,EÚ,eú,B-LOC,6
 486,10,24,",",,O,
 486,10,25,spresnil,,O,
-486,10,26,Dombrovskis,,O,
+486,10,26,Dombrovskis,dombrovskis,B-PER,276
 486,10,27,.,,O,
 486,11,1,Návrh,,O,
 486,11,2,reaguje,,O,
@@ -245,7 +245,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 486,11,7,občanov,,O,
 486,11,8,Obnoveným,,O,
 486,11,9,návrhom,,O,
-486,11,10,CCCTB,,O,
+486,11,10,CCCTB,ccctb,B-MISC,275
 486,11,11,komisia,,O,
 486,11,12,reaguje,,O,
 486,11,13,naraz,,O,
@@ -272,7 +272,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 486,12,3,(,,O,
 486,12,4,v,,O,
 486,12,5,rámci,,O,
-486,12,6,EÚ,,O,
+486,12,6,EÚ,eú,B-LOC,6
 486,12,7,),,O,
 486,12,8,potrebujú,,O,
 486,12,9,jednoduchšie,,O,
@@ -301,7 +301,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 486,13,20,.,,O,
 486,14,1,Proces,,O,
 486,14,2,zavádzania,,O,
-486,14,3,CCCTB,,O,
+486,14,3,CCCTB,ccctb,B-MISC,275
 486,14,4,plánuje,,O,
 486,14,5,komisia,,O,
 486,14,6,rozdeliť,,O,

@@ -173,8 +173,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 439,9,2,sa,,O,
 439,9,3,priamo,,O,
 439,9,4,v,,O,
-439,9,5,Bielom,,O,
-439,9,6,dome,,O,
+439,9,5,Bielom,biely,B-LOC,111
+439,9,6,dome,dom,I-LOC,111
 439,9,7,a,,O,
 439,9,8,simulovalo,,O,
 439,9,9,sériu,,O,
@@ -205,8 +205,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 439,10,19,.,,O,
 439,11,1,Bezpečnostní,,O,
 439,11,2,experti,,O,
-439,11,3,Barackovi,,O,
-439,11,4,Obamovi,,O,
+439,11,3,Barackovi,barack,B-PER,16
+439,11,4,Obamovi,obama,I-PER,16
 439,11,5,a,,O,
 439,11,6,jeho,,O,
 439,11,7,poradcom,,O,
@@ -228,8 +228,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 439,12,7,pokračovať,,O,
 439,12,8,a,,O,
 439,12,9,pre,,O,
-439,12,10,Donalda,,O,
-439,12,11,Trumpa,,O,
+439,12,10,Donalda,donald,B-PER,1
+439,12,11,Trumpa,trump,I-PER,1
 439,12,12,pripravil,,O,
 439,12,13,dve,,O,
 439,12,14,cvičenia,,O,
@@ -244,8 +244,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 439,13,8,na,,O,
 439,13,9,január,,O,
 439,13,10,.,,O,
-439,14,1,Biely,,O,
-439,14,2,dom,,O,
+439,14,1,Biely,biely,B-LOC,111
+439,14,2,dom,dom,I-LOC,111
 439,14,3,zatiaľ,,O,
 439,14,4,neuviedol,,O,
 439,14,5,",",,O,
@@ -258,8 +258,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 439,14,12,",",,O,
 439,14,13,respektíve,,O,
 439,14,14,ako,,O,
-439,14,15,Donald,,O,
-439,14,16,Trump,,O,
+439,14,15,Donald,donald,B-PER,1
+439,14,16,Trump,trump,I-PER,1
 439,14,17,na,,O,
 439,14,18,pozvánku,,O,
 439,14,19,na,,O,
@@ -301,7 +301,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 439,15,33,pracovného,,O,
 439,15,34,dňa,,O,
 439,15,35,.,,O,
-439,16,1,Trump,,O,
+439,16,1,Trump,trump,B-PER,1
 439,16,2,argumentoval,,O,
 439,16,3,tým,,O,
 439,16,4,",",,O,

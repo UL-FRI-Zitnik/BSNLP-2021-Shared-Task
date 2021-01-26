@@ -3,7 +3,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 332,0,2,tedna,,O,
 332,0,3,:,,O,
 332,0,4,Donald,donald,B-PER,1
-332,0,5,Trump,trump,B-PER,1
+332,0,5,Trump,trump,I-PER,1
 332,0,6,Torek,,O,
 332,0,7,ob,,O,
 332,0,8,petih,,O,
@@ -31,8 +31,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 332,1,22,zmago,,O,
 332,1,23,republikanskega,,O,
 332,1,24,kandidata,,O,
-332,1,25,Donalda,,O,
-332,1,26,Trumpa,,O,
+332,1,25,Donalda,donald,B-PER,1
+332,1,26,Trumpa,trump,I-PER,1
 332,1,27,.,,O,
 332,2,1,Burna,,O,
 332,2,2,kampanja,,O,
@@ -81,7 +81,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 332,2,45,ZDA,zda,B-LOC,2
 332,2,46,),,O,
 332,2,47,.,,O,
-332,3,1,Trump,,O,
+332,3,1,Trump,trump,B-PER,1
 332,3,2,se,,O,
 332,3,3,je,,O,
 332,3,4,na,,O,
@@ -111,7 +111,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 332,3,28,",",,O,
 332,3,29,v,,O,
 332,3,30,stališčih,,O,
-332,3,31,Clintonove,,O,
+332,3,31,Clintonove,clintonova,B-PER,3
 332,3,32,pa,,O,
 332,3,33,je,,O,
 332,3,34,bilo,,O,
@@ -120,7 +120,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 332,3,37,zaostritve,,O,
 332,3,38,odnosov,,O,
 332,3,39,med,,O,
-332,3,40,ZDA,,O,
+332,3,40,ZDA,zda,B-LOC,2
 332,3,41,in,,O,
 332,3,42,Rusijo,rusija,B-LOC,78
 332,3,43,.,,O,
@@ -152,8 +152,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 332,5,5,težnji,,O,
 332,5,6,po,,O,
 332,5,7,zmagi,,O,
-332,5,8,Hillary,,O,
-332,5,9,Clinton,,O,
+332,5,8,Hillary,hillary,B-PER,3
+332,5,9,Clinton,clinton,I-PER,3
 332,5,10,",",,O,
 332,5,11,so,,O,
 332,5,12,elektorski,,O,
@@ -161,13 +161,13 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 332,5,14,odločili,,O,
 332,5,15,v,,O,
 332,5,16,prid,,O,
-332,5,17,Donalda,,O,
-332,5,18,Trumpa,,O,
+332,5,17,Donalda,donald,B-PER,1
+332,5,18,Trumpa,trump,I-PER,1
 332,5,19,",",,O,
 332,5,20,kar,,O,
 332,5,21,je,,O,
 332,5,22,v,,O,
-332,5,23,ZDA,,O,
+332,5,23,ZDA,zda,B-LOC,2
 332,5,24,vzbudilo,,O,
 332,5,25,vale,,O,
 332,5,26,protestov,,O,
@@ -244,7 +244,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 332,6,32,je,,O,
 332,6,33,tradicija,,O,
 332,6,34,",",,O,
-332,6,35,Trump,,O,
+332,6,35,Trump,trump,B-PER,1
 332,6,36,poleg,,O,
 332,6,37,predsedniškega,,O,
 332,6,38,stolčka,,O,
@@ -393,7 +393,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 332,10,38,ki,,O,
 332,10,39,jih,,O,
 332,10,40,je,,O,
-332,10,41,Trump,,O,
+332,10,41,Trump,trump,B-PER,1
 332,10,42,v,,O,
 332,10,43,svojih,,O,
 332,10,44,govorih,,O,
@@ -433,7 +433,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 332,12,1,V,,O,
 332,12,2,svoji,,O,
 332,12,3,retoriki,,O,
-332,12,4,Trump,,O,
+332,12,4,Trump,trump,B-PER,1
 332,12,5,še,,O,
 332,12,6,vedno,,O,
 332,12,7,vztraja,,O,
@@ -510,7 +510,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 332,14,12,",",,O,
 332,14,13,četudi,,O,
 332,14,14,je,,O,
-332,14,15,Trump,,O,
+332,14,15,Trump,trump,B-PER,1
 332,14,16,v,,O,
 332,14,17,svoji,,O,
 332,14,18,kampanji,,O,
@@ -570,7 +570,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 332,15,14,ki,,O,
 332,15,15,ji,,O,
 332,15,16,je,,O,
-332,15,17,Trump,,O,
+332,15,17,Trump,trump,B-PER,1
 332,15,18,grozil,,O,
 332,15,19,s,,O,
 332,15,20,popolno,,O,
@@ -622,10 +622,10 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 332,16,15,umika,,O,
 332,16,16,.,,O,
 332,17,1,Z,,O,
-332,17,2,Obamacare,,O,
+332,17,2,Obamacare,obamacare,B-MISC,21404
 332,17,3,se,,O,
 332,17,4,je,,O,
-332,17,5,Trump,,O,
+332,17,5,Trump,trump,B-PER,1
 332,17,6,sicer,,O,
 332,17,7,podrobneje,,O,
 332,17,8,seznanil,,O,
@@ -664,8 +664,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 332,19,6,volitev,,O,
 332,19,7,",",,O,
 332,19,8,zmaga,,O,
-332,19,9,Donalda,,O,
-332,19,10,Trumpa,,O,
+332,19,9,Donalda,donald,B-PER,1
+332,19,10,Trumpa,trump,I-PER,1
 332,19,11,in,,O,
 332,19,12,ognjen,,O,
 332,19,13,odziv,,O,
@@ -716,7 +716,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 332,21,8,",",,O,
 332,21,9,kaj,,O,
 332,21,10,od,,O,
-332,21,11,Trumpa,,O,
+332,21,11,Trumpa,trump,B-PER,1
 332,21,12,pričakovati,,O,
 332,21,13,",",,O,
 332,21,14,pri,,O,
@@ -823,7 +823,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 332,25,25,superiornosti,,O,
 332,25,26,.,,O,
 332,26,1,Da,,O,
-332,26,2,Trump,,O,
+332,26,2,Trump,trump,B-PER,1
 332,26,3,ni,,O,
 332,26,4,del,,O,
 332,26,5,esteblišmenta,,O,

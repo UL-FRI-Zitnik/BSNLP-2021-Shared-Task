@@ -17,7 +17,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 346,0,16,držav,,O,
 346,0,17,članic,,O,
 346,0,18,Evropske,evropska,B-LOC,6
-346,0,19,unije,unija,B-LOC,6
+346,0,19,unije,unija,I-LOC,6
 346,0,20,ali,,O,
 346,0,21,partnerskih,,O,
 346,0,22,držav,,O,
@@ -34,7 +34,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 346,0,33,financirajo,,O,
 346,0,34,iz,,O,
 346,0,35,instrumentov,,O,
-346,0,36,Unije,,O,
+346,0,36,Unije,unija,B-LOC,6
 346,0,37,|,,O,
 346,0,38,Razvojni,razvojni,B-ORG,40085
 346,0,39,center,center,I-ORG,40085
@@ -48,8 +48,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 346,1,6,",",,O,
 346,1,7,ki,,O,
 346,1,8,jih,,O,
-346,1,9,Evropska,,O,
-346,1,10,komisija,,O,
+346,1,9,Evropska,evropska,B-ORG,1
+346,1,10,komisija,komisija,I-ORG,1
 346,1,11,razpisuje,,O,
 346,1,12,za,,O,
 346,1,13,nevladne,,O,
@@ -57,8 +57,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 346,1,15,iz,,O,
 346,1,16,držav,,O,
 346,1,17,članic,,O,
-346,1,18,Evropske,,O,
-346,1,19,unije,,O,
+346,1,18,Evropske,evropska,B-LOC,6
+346,1,19,unije,unija,I-LOC,6
 346,1,20,ali,,O,
 346,1,21,partnerskih,,O,
 346,1,22,držav,,O,
@@ -75,7 +75,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 346,1,33,financirajo,,O,
 346,1,34,iz,,O,
 346,1,35,instrumentov,,O,
-346,1,36,Unije,,O,
+346,1,36,Unije,unija,B-LOC,6
 346,1,37,za,,O,
 346,1,38,leto,,O,
 346,1,39,2016.,,O,
@@ -92,8 +92,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 346,2,11,",",,O,
 346,2,12,ki,,O,
 346,2,13,jih,,O,
-346,2,14,Evropska,,O,
-346,2,15,komisija,,O,
+346,2,14,Evropska,evropska,B-ORG,1
+346,2,15,komisija,komisija,I-ORG,1
 346,2,16,razpisuje,,O,
 346,2,17,za,,O,
 346,2,18,nevladne,,O,
@@ -101,8 +101,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 346,2,20,iz,,O,
 346,2,21,držav,,O,
 346,2,22,članic,,O,
-346,2,23,Evropske,,O,
-346,2,24,unije,,O,
+346,2,23,Evropske,evropska,B-LOC,6
+346,2,24,unije,unija,I-LOC,6
 346,2,25,ali,,O,
 346,2,26,partnerskih,,O,
 346,2,27,držav,,O,
@@ -120,7 +120,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 346,2,39,iz,,O,
 346,2,40,naslednjih,,O,
 346,2,41,instrumentov,,O,
-346,2,42,Unije,,O,
+346,2,42,Unije,unija,B-LOC,6
 346,2,43,(,,O,
 346,2,44,v,,O,
 346,2,45,nadaljnjem,,O,
@@ -154,9 +154,9 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 346,2,73,in,in,I-MISC,40088
 346,2,74,partnerstva,partnerstva,I-MISC,40088
 346,2,75,oziroma,,O,
-346,2,76,Evropski,,O,
-346,2,77,instrument,,O,
-346,2,78,sosedstva,,O,
+346,2,76,Evropski,evropski,B-MISC,40088
+346,2,77,instrument,instrument,I-MISC,40088
+346,2,78,sosedstva,sosedstva,I-MISC,40088
 346,2,79,(,,O,
 346,2,80,ENI,eni,B-MISC,40088
 346,2,81,),,O,

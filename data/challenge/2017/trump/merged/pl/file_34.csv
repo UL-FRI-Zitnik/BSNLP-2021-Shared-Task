@@ -52,7 +52,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 34,8,2,TEŻ,,O,
 34,8,3,|,,O,
 34,8,4,EKIPA,,O,
-34,8,5,TRUMPA,,O,
+34,8,5,TRUMPA,trump,B-PER,1
 34,8,6,RODZI,,O,
 34,8,7,SIĘ,,O,
 34,8,8,W,,O,
@@ -66,9 +66,9 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 34,9,6,BĘDĄ,,O,
 34,9,7,WKRÓTCE,,O,
 34,9,8,RZĄDZIĆ,,O,
-34,9,9,USA,,O,
-34,10,1,Donald,,O,
-34,10,2,Trump,,O,
+34,9,9,USA,usa,B-LOC,2
+34,10,1,Donald,donald,B-PER,1
+34,10,2,Trump,trump,I-PER,1
 34,10,3,rzeczywiście,,O,
 34,10,4,stanowi,,O,
 34,10,5,zagadkę,,O,
@@ -185,8 +185,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 34,16,11,dobrym,,O,
 34,16,12,guście,,O,
 34,16,13,.,,O,
-34,17,1,Donald,,O,
-34,17,2,Trump,,O,
+34,17,1,Donald,donald,B-PER,1
+34,17,2,Trump,trump,I-PER,1
 34,17,3,bez,,O,
 34,17,4,zbędnych,,O,
 34,17,5,ceregieli,,O,
@@ -239,8 +239,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 34,19,2,Jakim,,O,
 34,19,3,człowiekiem,,O,
 34,19,4,jest,,O,
-34,19,5,Donald,,O,
-34,19,6,Trump,,O,
+34,19,5,Donald,donald,B-PER,1
+34,19,6,Trump,trump,I-PER,1
 34,19,7,?,,O,
 34,20,1,Kimś,,O,
 34,20,2,naprawdę,,O,
@@ -324,7 +324,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 34,23,16,-,,O,
 34,23,17,mówi,,O,
 34,23,18,Mark,mark,B-PER,21202
-34,23,19,Singer,singer,B-PER,21202
+34,23,19,Singer,singer,I-PER,21202
 34,23,20,dziennikarz,,O,
 34,23,21,",",,O,
 34,23,22,publicysta,,O,
@@ -361,7 +361,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 34,24,22,”,,O,
 34,24,23,.,,O,
 34,25,1,-,,O,
-34,25,2,Trump,,O,
+34,25,2,Trump,trump,B-PER,1
 34,25,3,powiedział,,O,
 34,25,4,kiedyś,,O,
 34,25,5,:,,O,
@@ -387,7 +387,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 34,27,12,”,,O,
 34,27,13,-,,O,
 34,27,14,wspomina,,O,
-34,27,15,Singer,,O,
+34,27,15,Singer,singer,B-PER,21202
 34,27,16,.,,O,
 34,28,1,Jednak,,O,
 34,28,2,wydaje,,O,
@@ -405,7 +405,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 34,28,14,„,,O,
 34,28,15,podstawową,,O,
 34,28,16,zagadkę,,O,
-34,28,17,Trumpa,,O,
+34,28,17,Trumpa,trump,B-PER,1
 34,28,18,”,,O,
 34,28,19,nie,,O,
 34,28,20,„,,O,
@@ -420,7 +420,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 34,28,29,przyszłych,,O,
 34,28,30,Woodwardsów,woodwardsi,B-PER,21206
 34,28,31,i,,O,
-34,28,32,Bernsteinów,bernstein,B-PER,21207
+34,28,32,Bernsteinów,bernsteinowie,B-PER,21207
 34,28,33,",",,O,
 34,28,34,którzy,,O,
 34,28,35,przez,,O,
@@ -440,7 +440,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 34,29,4,że,,O,
 34,29,5,Woodward,woodward,B-PER,21206
 34,29,6,i,,O,
-34,29,7,Bernstein,,O,
+34,29,7,Bernstein,bernsteinowie,B-PER,21207
 34,29,8,to,,O,
 34,29,9,legendy,,O,
 34,29,10,amerykańskiego,,O,
@@ -464,7 +464,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 34,30,16,-,,O,
 34,30,17,polityczny,,O,
 34,30,18,skandal,,O,
-34,30,19,Ameryki,,O,
+34,30,19,Ameryki,ameryka,B-LOC,2
 34,30,20,XX,,O,
 34,30,21,wieku,,O,
 34,30,22,.,,O,
@@ -480,8 +480,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 34,31,10,.,,O,
 34,32,1,Gdy,,O,
 34,32,2,teraz,,O,
-34,32,3,Donald,,O,
-34,32,4,Trump,,O,
+34,32,3,Donald,donald,B-PER,1
+34,32,4,Trump,trump,I-PER,1
 34,32,5,przygotowuje,,O,
 34,32,6,się,,O,
 34,32,7,do,,O,
@@ -522,7 +522,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 34,34,1,Dlaczego,,O,
 34,34,2,?,,O,
 34,35,1,Bo,,O,
-34,35,2,Trump,,O,
+34,35,2,Trump,trump,B-PER,1
 34,35,3,jest,,O,
 34,35,4,dokładnie,,O,
 34,35,5,tym,,O,
@@ -539,8 +539,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 34,37,1,CZYTAJ,,O,
 34,37,2,TEŻ,,O,
 34,37,3,|,,O,
-34,37,4,DONALD,,O,
-34,37,5,TRUMP,,O,
+34,37,4,DONALD,donald,B-PER,1
+34,37,5,TRUMP,trump,I-PER,1
 34,37,6,:,,O,
 34,37,7,PRASA,,O,
 34,37,8,CHCIAŁA,,O,

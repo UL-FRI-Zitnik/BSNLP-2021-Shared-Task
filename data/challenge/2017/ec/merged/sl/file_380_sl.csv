@@ -4,7 +4,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 380,0,3,STROKOVNIH,strokovnih,I-ORG,40136
 380,0,4,ŠOL,šol,I-ORG,40136
 380,0,5,REPUBLIKE,republike,I-ORG,40136
-380,0,6,SLOVENIJE,slovenija,B-LOC,295
+380,0,6,SLOVENIJE,slovenije,I-ORG,40136
 380,0,7,–,,O,
 380,0,8,Evropska,evropska,B-ORG,1
 380,0,9,komisija,komisija,I-ORG,1
@@ -23,8 +23,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 380,1,7,zadeve,zadeve,I-ORG,108
 380,1,8,in,in,I-ORG,108
 380,1,9,vključevanje,vključevanje,I-ORG,108
-380,1,10,Evropske,,O,
-380,1,11,komisije,,O,
+380,1,10,Evropske,evropska,B-ORG,1
+380,1,11,komisije,komisija,I-ORG,1
 380,1,12,je,,O,
 380,1,13,v,,O,
 380,1,14,Bratislavi,bratislavi,B-LOC,226
@@ -98,7 +98,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 380,4,10,na,,O,
 380,4,11,višjih,,O,
 380,4,12,stopnjah,,O,
-380,4,13,EOK,,O,
+380,4,13,EOK,eok,B-MISC,40140
 380,4,14,tako,,O,
 380,4,15,znotraj,,O,
 380,4,16,kot,,O,
@@ -138,7 +138,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 380,5,31,na,,O,
 380,5,32,stopnji,,O,
 380,5,33,5,,O,
-380,5,34,EOK,,O,
+380,5,34,EOK,eok,B-MISC,40140
 380,5,35,.,,O,
 380,6,1,Prav,,O,
 380,6,2,tako,,O,
@@ -159,7 +159,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 380,6,17,6,,O,
 380,6,18,in,,O,
 380,6,19,7,,O,
-380,6,20,EOK,,O,
+380,6,20,EOK,eok,B-MISC,40140
 380,6,21,.,,O,
 380,7,1,Na,,O,
 380,7,2,začetki,,O,
@@ -303,7 +303,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 380,11,31,Britanija,britanija,I-LOC,90
 380,11,32,.,,O,
 380,12,1,V,,O,
-380,12,2,Sloveniji,,O,
+380,12,2,Sloveniji,slovenija,B-LOC,295
 380,12,3,razmišljajo,,O,
 380,12,4,o,,O,
 380,12,5,uvedbi,,O,
@@ -326,7 +326,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 380,13,11,znotraj,,O,
 380,13,12,stopnje,,O,
 380,13,13,5,,O,
-380,13,14,EOK,,O,
+380,13,14,EOK,eok,B-MISC,40140
 380,13,15,",",,O,
 380,13,16,ki,,O,
 380,13,17,pa,,O,
@@ -370,17 +370,17 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 380,14,21,primeri,,O,
 380,14,22,Švedske,švedska,B-LOC,10113
 380,14,23,",",,O,
-380,14,24,Avstrije,,O,
+380,14,24,Avstrije,avstrija,B-LOC,293
 380,14,25,",",,O,
-380,14,26,Nemčije,,O,
+380,14,26,Nemčije,nemčija,B-LOC,68
 380,14,27,in,,O,
-380,14,28,Madžarske,,O,
+380,14,28,Madžarske,madžarska,B-LOC,294
 380,14,29,.,,O,
 380,15,1,V,,O,
 380,15,2,primeru,,O,
-380,15,3,Švedske,,O,
+380,15,3,Švedske,švedska,B-LOC,10113
 380,15,4,in,,O,
-380,15,5,Madžarske,,O,
+380,15,5,Madžarske,madžarska,B-LOC,294
 380,15,6,je,,O,
 380,15,7,sama,,O,
 380,15,8,izvedba,,O,
@@ -398,7 +398,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 380,15,20,.,,O,
 380,16,1,V,,O,
 380,16,2,primeru,,O,
-380,16,3,Avstrije,,O,
+380,16,3,Avstrije,avstrija,B-LOC,293
 380,16,4,gre,,O,
 380,16,5,za,,O,
 380,16,6,odpiranje,,O,
@@ -414,7 +414,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 380,16,16,.,,O,
 380,17,1,V,,O,
 380,17,2,primeru,,O,
-380,17,3,Nemčije,,O,
+380,17,3,Nemčije,nemčija,B-LOC,68
 380,17,4,pa,,O,
 380,17,5,gre,,O,
 380,17,6,za,,O,
@@ -467,8 +467,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 380,19,1,V,,O,
 380,19,2,namen,,O,
 380,19,3,promocije,,O,
-380,19,4,Evropska,,O,
-380,19,5,komisija,,O,
+380,19,4,Evropska,evropska,B-ORG,1
+380,19,5,komisija,komisija,I-ORG,1
 380,19,6,aktivno,,O,
 380,19,7,pripravlja,,O,
 380,19,8,prvi,,O,

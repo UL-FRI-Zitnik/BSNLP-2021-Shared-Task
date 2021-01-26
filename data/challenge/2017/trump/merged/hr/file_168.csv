@@ -1,6 +1,6 @@
 docId,sentenceId,tokenId,text,lemma,ner,clID
 168,0,1,Donald,donald,B-PER,1
-168,0,2,Trump,trump,B-PER,1
+168,0,2,Trump,trump,I-PER,1
 168,0,3,potvrđen,,O,
 168,0,4,za,,O,
 168,0,5,republikanskog,,O,
@@ -20,8 +20,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 168,1,9,Clevelandu,cleveland,B-LOC,158
 168,1,10,službeno,,O,
 168,1,11,imenovali,,O,
-168,1,12,Donalda,,O,
-168,1,13,Trumpa,,O,
+168,1,12,Donalda,donald,B-PER,1
+168,1,13,Trumpa,trump,I-PER,1
 168,1,14,za,,O,
 168,1,15,kandidata,,O,
 168,1,16,za,,O,
@@ -58,7 +58,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 168,2,16,Yorka,york,I-LOC,4
 168,2,17,daje,,O,
 168,2,18,potporu,,O,
-168,2,19,Trumpu,,O,
+168,2,19,Trumpu,trump,B-PER,1
 168,2,20,",",,O,
 168,2,21,što,,O,
 168,2,22,mu,,O,
@@ -83,7 +83,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 168,2,41,rezultatima,,O,
 168,2,42,predizbora,,O,
 168,2,43,.,,O,
-168,3,1,Trump,,O,
+168,3,1,Trump,trump,B-PER,1
 168,3,2,je,,O,
 168,3,3,pobijedio,,O,
 168,3,4,s,,O,
@@ -147,7 +147,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 168,4,29,športskoj,,O,
 168,4,30,dvorani,,O,
 168,4,31,u,,O,
-168,4,32,Clevelandu,,O,
+168,4,32,Clevelandu,cleveland,B-LOC,158
 168,4,33,.,,O,
 168,5,1,Izaslanstva,,O,
 168,5,2,50,,O,
@@ -178,7 +178,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 168,5,27,neoporezivanju,,O,
 168,5,28,prihoda,,O,
 168,5,29,(,,O,
-168,5,30,Florida,,O,
+168,5,30,Florida,florida,B-LOC,99
 168,5,31,",",,O,
 168,5,32,New,new,B-LOC,30078
 168,5,33,Hampshire,hampshire,I-LOC,30078
@@ -188,8 +188,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 168,6,2,nalaže,,O,
 168,6,3,tradicija,,O,
 168,6,4,",",,O,
-168,6,5,Donald,,O,
-168,6,6,Trump,,O,
+168,6,5,Donald,donald,B-PER,1
+168,6,6,Trump,trump,I-PER,1
 168,6,7,nije,,O,
 168,6,8,u,,O,
 168,6,9,utorak,,O,

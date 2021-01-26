@@ -1,12 +1,12 @@
 docId,sentenceId,tokenId,text,lemma,ner,clID
 160,0,1,Donald,donald,B-PER,1
-160,0,2,Trump,trump,B-PER,1
+160,0,2,Trump,trump,I-PER,1
 160,0,3,glumio,,O,
 160,0,4,je,,O,
 160,0,5,u,,O,
 160,0,6,porniću,,O,
-160,0,7,Donald,,O,
-160,0,8,Trump,,O,
+160,0,7,Donald,donald,B-PER,1
+160,0,8,Trump,trump,I-PER,1
 160,0,9,pojavio,,O,
 160,0,10,se,,O,
 160,0,11,u,,O,
@@ -24,7 +24,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 160,1,7,scenu,,O,
 160,1,8,u,,O,
 160,1,9,kojoj,,O,
-160,1,10,Trump,,O,
+160,1,10,Trump,trump,B-PER,1
 160,1,11,",",,O,
 160,1,12,u,,O,
 160,1,13,društvu,,O,
@@ -42,7 +42,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 160,1,25,na,,O,
 160,1,26,kojoj,,O,
 160,1,27,piše,,O,
-160,1,28,Playboy,,O,
+160,1,28,Playboy,playboy,B-ORG,50079
 160,1,29,.,,O,
 160,2,1,“,,O,
 160,2,2,Ljepota,,O,
@@ -60,10 +60,10 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 160,2,14,”,,O,
 160,2,15,",",,O,
 160,2,16,kaže,,O,
-160,2,17,Trump,,O,
+160,2,17,Trump,trump,B-PER,1
 160,2,18,ekipi,,O,
 160,2,19,iz,,O,
-160,2,20,Playboya,,O,
+160,2,20,Playboya,playboy,B-ORG,50079
 160,2,21,koja,,O,
 160,2,22,je,,O,
 160,2,23,došla,,O,
@@ -110,7 +110,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 160,4,7,su,,O,
 160,4,8,ljudi,,O,
 160,4,9,iz,,O,
-160,4,10,Playboya,,O,
+160,4,10,Playboya,playboy,B-ORG,50079
 160,4,11,putovali,,O,
 160,4,12,SAD-om,sad,B-LOC,2
 160,4,13,i,,O,
@@ -123,7 +123,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 160,4,20,zečicom,,O,
 160,4,21,godine,,O,
 160,4,22,.,,O,
-160,5,1,Trump,,O,
+160,5,1,Trump,trump,B-PER,1
 160,5,2,je,,O,
 160,5,3,u,,O,
 160,5,4,toj,,O,
@@ -140,7 +140,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 160,6,3,pogledati,,O,
 160,7,1,Podsjetimo,,O,
 160,7,2,",",,O,
-160,7,3,Trump,,O,
+160,7,3,Trump,trump,B-PER,1
 160,7,4,je,,O,
 160,7,5,nedavno,,O,
 160,7,6,optužio,,O,

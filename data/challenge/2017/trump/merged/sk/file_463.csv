@@ -43,8 +43,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 463,3,5,aj,,O,
 463,3,6,dobre,,O,
 463,3,7,známy,,O,
-463,3,8,Donald,,O,
-463,3,9,Trump,,O,
+463,3,8,Donald,donald,B-PER,1
+463,3,9,Trump,trump,I-PER,1
 463,3,10,",",,O,
 463,3,11,ktorého,,O,
 463,3,12,bohatstvo,,O,
@@ -56,8 +56,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 463,3,18,Ameriky,amerika,B-LOC,2
 463,3,19,.,,O,
 463,4,1,Meno,,O,
-463,4,2,Donald,,O,
-463,4,3,Trump,,O,
+463,4,2,Donald,donald,B-PER,1
+463,4,3,Trump,trump,I-PER,1
 463,4,4,sa,,O,
 463,4,5,preslávilo,,O,
 463,4,6,po,,O,
@@ -130,7 +130,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 463,7,3,.,,O,
 463,8,1,Podľa,,O,
 463,8,2,slovFreda,,O,
-463,8,3,Trumpa,,O,
+463,8,3,Trumpa,trump,B-PER,1
 463,8,4,",",,O,
 463,8,5,Donaldovho,,O,
 463,8,6,otca,,O,
@@ -173,7 +173,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 463,10,3,štúdia,,O,
 463,10,4,ekonómie,,O,
 463,10,5,začal,,O,
-463,10,6,Donald,,O,
+463,10,6,Donald,donald,B-PER,1
 463,10,7,pracovať,,O,
 463,10,8,v,,O,
 463,10,9,otcovej,,O,
@@ -192,7 +192,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 463,11,2,nej,,O,
 463,11,3,uskutočnil,,O,
 463,11,4,mladý,,O,
-463,11,5,Donald,,O,
+463,11,5,Donald,donald,B-PER,1
 463,11,6,svoj,,O,
 463,11,7,prvý,,O,
 463,11,8,väčší,,O,
@@ -219,7 +219,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 463,13,1,Vlastná,,O,
 463,13,2,cesta,,O,
 463,13,3,.,,O,
-463,14,1,Donald,,O,
+463,14,1,Donald,donald,B-PER,1
 463,14,2,sa,,O,
 463,14,3,v,,O,
 463,14,4,otcovej,,O,
@@ -250,7 +250,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 463,15,14,bola,,O,
 463,15,15,odlišná,,O,
 463,15,16,.,,O,
-463,16,1,Donald,,O,
+463,16,1,Donald,donald,B-PER,1
 463,16,2,vstúpil,,O,
 463,16,3,na,,O,
 463,16,4,trh,,O,
@@ -287,7 +287,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 463,17,11,bohatstva,,O,
 463,17,12,.,,O,
 463,18,1,Najznámejšie,,O,
-463,18,2,Trumpove,,O,
+463,18,2,Trumpove,trump,B-PER,1
 463,18,3,stavby,,O,
 463,18,4,:,,O,
 463,18,5,Trump,trump,B-LOC,205
@@ -314,7 +314,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 463,22,6,kasína,,O,
 463,22,7,.,,O,
 463,23,1,Súčasťou,,O,
-463,23,2,Trumpovej,,O,
+463,23,2,Trumpovej,trump,B-PER,1
 463,23,3,finančnej,,O,
 463,23,4,stratégie,,O,
 463,23,5,bola,,O,
@@ -382,7 +382,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 463,27,3,šoubiznise,,O,
 463,27,4,.,,O,
 463,28,1,Najväčšia,,O,
-463,28,2,Trumpova,,O,
+463,28,2,Trumpova,trump,B-PER,1
 463,28,3,sláva,,O,
 463,28,4,vzišla,,O,
 463,28,5,z,,O,
@@ -461,8 +461,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 463,32,3,nebolo,,O,
 463,32,4,ani,,O,
 463,32,5,u,,O,
-463,32,6,Donalda,,O,
-463,32,7,Trumpa,,O,
+463,32,6,Donalda,donald,B-PER,1
+463,32,7,Trumpa,trump,I-PER,1
 463,32,8,",",,O,
 463,32,9,veď,,O,
 463,32,10,aj,,O,

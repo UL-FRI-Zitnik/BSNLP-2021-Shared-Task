@@ -1,6 +1,6 @@
 docId,sentenceId,tokenId,text,lemma,ner,clID
 70,0,1,Donald,donald,B-PER,1
-70,0,2,Trump,trump,B-PER,1
+70,0,2,Trump,trump,I-PER,1
 70,0,3,w,,O,
 70,0,4,Białym,biały,B-LOC,111
 70,0,5,Domu,dom,I-LOC,111
@@ -38,15 +38,15 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 70,1,29,prezydenckiej,,O,
 70,1,30,administracji,,O,
 70,1,31,.,,O,
-70,2,1,Trump,,O,
+70,2,1,Trump,trump,B-PER,1
 70,2,2,poinformował,,O,
 70,2,3,",",,O,
 70,2,4,że,,O,
 70,2,5,będzie,,O,
 70,2,6,mieszkał,,O,
 70,2,7,w,,O,
-70,2,8,Białym,,O,
-70,2,9,Domu,,O,
+70,2,8,Białym,biały,B-LOC,111
+70,2,9,Domu,dom,I-LOC,111
 70,2,10,",",,O,
 70,2,11,a,,O,
 70,2,12,jego,,O,
@@ -156,8 +156,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 70,9,7,-elekt,,O,
 70,9,8,właśnie,,O,
 70,9,9,w,,O,
-70,9,10,Trump,,O,
-70,9,11,Tower,,O,
+70,9,10,Trump,trump,B-LOC,205
+70,9,11,Tower,tower,I-LOC,205
 70,9,12,spędza,,O,
 70,9,13,większość,,O,
 70,9,14,czasu,,O,
@@ -190,7 +190,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 70,11,2,prezydenckich,,O,
 70,11,3,dzieci,,O,
 70,11,4,.,,O,
-70,12,1,Trump,,O,
+70,12,1,Trump,trump,B-PER,1
 70,12,2,nie,,O,
 70,12,3,będzie,,O,
 70,12,4,pierwszym,,O,
@@ -263,7 +263,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 70,16,2,nadzieję,,O,
 70,16,3,",",,O,
 70,16,4,że,,O,
-70,16,5,Barron,,O,
+70,16,5,Barron,barron,B-PER,185
 70,16,6,nie,,O,
 70,16,7,będzie,,O,
 70,16,8,musiał,,O,
@@ -292,7 +292,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 70,16,31,ich,,O,
 70,16,32,córeczkę,,O,
 70,16,33,",",,O,
-70,16,34,Chelsea,,O,
+70,16,34,Chelsea,chelsea,B-PER,21504
 70,16,35,jej,,O,
 70,16,36,",",,O,
 70,16,37,zdaje,,O,
@@ -300,7 +300,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 70,16,39,",",,O,
 70,16,40,było,,O,
 70,16,41,?,,O,
-70,17,1,Melania,,O,
+70,17,1,Melania,melania,B-PER,183
 70,17,2,tylek,,O,
 70,17,3,sprzedala,,O,
 70,17,4,b.drogo,,O,

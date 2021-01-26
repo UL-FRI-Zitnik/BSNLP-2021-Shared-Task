@@ -1,6 +1,6 @@
 docId,sentenceId,tokenId,text,lemma,ner,clID
 177,0,1,Europska,europska,B-ORG,1
-177,0,2,komisija,komisija,B-ORG,1
+177,0,2,komisija,komisija,I-ORG,1
 177,0,3,uvodi,,O,
 177,0,4,antidampinške,,O,
 177,0,5,carine,,O,
@@ -9,8 +9,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 177,0,8,proizvode,,O,
 177,0,9,od,,O,
 177,0,10,čelika,,O,
-177,0,11,Europska,,O,
-177,0,12,Komisija,,O,
+177,0,11,Europska,europska,B-ORG,1
+177,0,12,Komisija,komisija,I-ORG,1
 177,0,13,odlučila,,O,
 177,0,14,je,,O,
 177,0,15,uvesti,,O,
@@ -90,7 +90,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 177,2,21,šteta,,O,
 177,2,22,na,,O,
 177,2,23,tržištu,,O,
-177,2,24,EU,,O,
+177,2,24,EU,eu,B-LOC,6
 177,2,25,mogla,,O,
 177,2,26,materijalizirati,,O,
 177,2,27,.,,O,
@@ -140,7 +140,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 177,5,2,koja,,O,
 177,5,3,je,,O,
 177,5,4,provela,,O,
-177,5,5,Komisija,,O,
+177,5,5,Komisija,komisija,B-ORG,1
 177,5,6,potvrdila,,O,
 177,5,7,su,,O,
 177,5,8,kako,,O,
@@ -161,7 +161,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 177,6,2,bi,,O,
 177,6,3,proizvođačima,,O,
 177,6,4,u,,O,
-177,6,5,EU,,O,
+177,6,5,EU,eu,B-LOC,6
 177,6,6,omogućila,,O,
 177,6,7,potreban,,O,
 177,6,8,"""",,O,
@@ -169,7 +169,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 177,6,10,za,,O,
 177,6,11,disanje,,O,
 177,6,12,"""",,O,
-177,6,13,Komisija,,O,
+177,6,13,Komisija,komisija,B-ORG,1
 177,6,14,je,,O,
 177,6,15,uvela,,O,
 177,6,16,antidampinške,,O,
@@ -212,14 +212,14 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 177,7,14,štetu,,O,
 177,7,15,na,,O,
 177,7,16,tržištu,,O,
-177,7,17,EU,,O,
+177,7,17,EU,eu,B-LOC,6
 177,7,18,.,,O,
 177,8,1,U,,O,
 177,8,2,narednih,,O,
 177,8,3,će,,O,
 177,8,4,šest,,O,
 177,8,5,mjeseci,,O,
-177,8,6,Komisija,,O,
+177,8,6,Komisija,komisija,B-ORG,1
 177,8,7,odlučiti,,O,
 177,8,8,hoće,,O,
 177,8,9,li,,O,
@@ -233,7 +233,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 177,8,17,nekoliko,,O,
 177,8,18,godina,,O,
 177,8,19,.,,O,
-177,9,1,Komisija,,O,
+177,9,1,Komisija,komisija,B-ORG,1
 177,9,2,će,,O,
 177,9,3,u,,O,
 177,9,4,tom,,O,
@@ -255,7 +255,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 177,9,20,koje,,O,
 177,9,21,su,,O,
 177,9,22,u,,O,
-177,9,23,EU,,O,
+177,9,23,EU,eu,B-LOC,6
 177,9,24,uvezene,,O,
 177,9,25,od,,O,
 177,9,26,kolovoza,,O,
@@ -321,9 +321,9 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 177,12,18,proizvode,,O,
 177,12,19,podrijetlom,,O,
 177,12,20,iz,,O,
-177,12,21,Kine,,O,
+177,12,21,Kine,kina,B-LOC,12
 177,12,22,.,,O,
-177,13,1,Komisija,,O,
+177,13,1,Komisija,komisija,B-ORG,1
 177,13,2,također,,O,
 177,13,3,provodi,,O,
 177,13,4,još,,O,
@@ -346,7 +346,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 177,13,21,zaštitne,,O,
 177,13,22,mjere,,O,
 177,13,23,.,,O,
-177,14,1,Komisija,,O,
+177,14,1,Komisija,komisija,B-ORG,1
 177,14,2,nastoji,,O,
 177,14,3,koristiti,,O,
 177,14,4,rspoložive,,O,
@@ -408,7 +408,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 177,16,1,To,,O,
 177,16,2,bi,,O,
 177,16,3,omogućilo,,O,
-177,16,4,EU,,O,
+177,16,4,EU,eu,B-LOC,6
 177,16,5,da,,O,
 177,16,6,može,,O,
 177,16,7,propisati,,O,
@@ -420,7 +420,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 177,16,13,.,,O,
 177,17,1,Istovremeno,,O,
 177,17,2,",",,O,
-177,17,3,Komisija,,O,
+177,17,3,Komisija,komisija,B-ORG,1
 177,17,4,postojano,,O,
 177,17,5,radi,,O,
 177,17,6,na,,O,
@@ -482,8 +482,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 177,18,37,globalnoj,,O,
 177,18,38,razini,,O,
 177,18,39,.,,O,
-177,19,1,Europska,,O,
-177,19,2,unija,,O,
+177,19,1,Europska,europska,B-LOC,6
+177,19,2,unija,unija,I-LOC,6
 177,19,3,",",,O,
 177,19,4,kao,,O,
 177,19,5,i,,O,
@@ -526,7 +526,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 177,20,8,okvirom,,O,
 177,20,9,i,,O,
 177,20,10,pravilima,,O,
-177,20,11,EU,,O,
+177,20,11,EU,eu,B-LOC,6
 177,20,12,.,,O,
 177,21,1,Poštujući,,O,
 177,21,2,propisana,,O,
@@ -546,7 +546,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 177,21,16,ove,,O,
 177,21,17,godine,,O,
 177,21,18,",",,O,
-177,21,19,Komisija,,O,
+177,21,19,Komisija,komisija,B-ORG,1
 177,21,20,nastoji,,O,
 177,21,21,očuvati,,O,
 177,21,22,radna,,O,
@@ -663,7 +663,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 177,24,37,teške,,O,
 177,24,38,mehanizacije,,O,
 177,24,39,.,,O,
-177,25,1,Kina,,O,
+177,25,1,Kina,kina,B-LOC,12
 177,25,2,kaže,,O,
 177,25,3,da,,O,
 177,25,4,su,,O,
@@ -672,7 +672,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 177,25,7,koje,,O,
 177,25,8,je,,O,
 177,25,9,uvela,,O,
-177,25,10,EU,,O,
+177,25,10,EU,eu,B-LOC,6
 177,25,11,nepoštene,,O,
 177,25,12,.,,O,
 177,26,1,Kinesko,,O,
@@ -691,15 +691,15 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 177,26,14,mjera,,O,
 177,26,15,koje,,O,
 177,26,16,je,,O,
-177,26,17,Europska,,O,
-177,26,18,unija,,O,
+177,26,17,Europska,europska,B-LOC,6
+177,26,18,unija,unija,I-LOC,6
 177,26,19,donijela,,O,
 177,26,20,za,,O,
 177,26,21,proizvode,,O,
 177,26,22,od,,O,
 177,26,23,čelika,,O,
 177,26,24,iz,,O,
-177,26,25,Kine,,O,
+177,26,25,Kine,kina,B-LOC,12
 177,26,26,.,,O,
 177,27,1,Smatra,,O,
 177,27,2,da,,O,
@@ -717,7 +717,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 177,28,3,istraživanja,,O,
 177,28,4,koje,,O,
 177,28,5,koristi,,O,
-177,28,6,EU,,O,
+177,28,6,EU,eu,B-LOC,6
 177,28,7,u,,O,
 177,28,8,praksi,,O,
 177,28,9,su,,O,
@@ -820,5 +820,5 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 177,31,16,",",,O,
 177,31,17,zaključuju,,O,
 177,31,18,iz,,O,
-177,31,19,Kine,,O,
+177,31,19,Kine,kina,B-LOC,12
 177,31,20,.,,O,

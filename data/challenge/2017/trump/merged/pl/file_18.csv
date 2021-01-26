@@ -6,7 +6,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 18,0,5,-,,O,
 18,0,6,Czego,,O,
 18,0,7,Donald,donald,B-PER,1
-18,0,8,Trump,trump,B-PER,1
+18,0,8,Trump,trump,I-PER,1
 18,0,9,nie,,O,
 18,0,10,wie,,O,
 18,0,11,o,,O,
@@ -133,8 +133,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 18,4,38,prezydent,,O,
 18,4,39,.,,O,
 18,5,1,Podejście,,O,
-18,5,2,Donalda,,O,
-18,5,3,Trumpa,,O,
+18,5,2,Donalda,donald,B-PER,1
+18,5,3,Trumpa,trump,I-PER,1
 18,5,4,do,,O,
 18,5,5,sztuki,,O,
 18,5,6,negocjacji,,O,
@@ -499,7 +499,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 18,18,17,podejście,,O,
 18,18,18,i,,O,
 18,18,19,temperament,,O,
-18,18,20,Trumpa,,O,
+18,18,20,Trumpa,trump,B-PER,1
 18,18,21,sprzyjają,,O,
 18,18,22,przetrwaniu,,O,
 18,18,23,(,,O,

@@ -94,8 +94,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 122,3,28,není,,O,
 122,3,29,),,O,
 122,3,30,.,,O,
-122,4,1,Evropská,,O,
-122,4,2,komise,,O,
+122,4,1,Evropská,evropská,B-ORG,1
+122,4,2,komise,komise,I-ORG,1
 122,4,3,totiž,,O,
 122,4,4,plánuje,,O,
 122,4,5,",",,O,
@@ -118,8 +118,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 122,4,22,nových,,O,
 122,4,23,automobilech,,O,
 122,4,24,.,,O,
-122,5,1,Evropská,,O,
-122,5,2,komise,,O,
+122,5,1,Evropská,evropská,B-ORG,1
+122,5,2,komise,komise,I-ORG,1
 122,5,3,obvinila,,O,
 122,5,4,Facebook,facebook,B-ORG,55
 122,5,5,z,,O,
@@ -127,7 +127,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 122,5,7,",",,O,
 122,5,8,že,,O,
 122,5,9,úředníkům,,O,
-122,5,10,EU,,O,
+122,5,10,EU,eu,B-LOC,6
 122,5,11,předal,,O,
 122,5,12,zkreslené,,O,
 122,5,13,informace,,O,
@@ -142,7 +142,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 122,5,22,Whats,,O,
 122,6,1,App,,O,
 122,6,2,.,,O,
-122,6,3,Facebooku,,O,
+122,6,3,Facebooku,facebook,B-ORG,55
 122,6,4,hrozí,,O,
 122,6,5,pokuta,,O,
 122,6,6,ve,,O,
@@ -157,8 +157,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 122,6,15,milionů,,O,
 122,6,16,USD,,O,
 122,6,17,.,,O,
-122,7,1,Evropská,,O,
-122,7,2,komise,,O,
+122,7,1,Evropská,evropská,B-ORG,1
+122,7,2,komise,komise,I-ORG,1
 122,7,3,spustila,,O,
 122,7,4,nové,,O,
 122,7,5,centrální,,O,
@@ -211,8 +211,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 122,9,10,Praze,praha,B-LOC,87
 122,9,11,",",,O,
 122,9,12,byl,,O,
-122,9,13,Evropskou,,O,
-122,9,14,komisí,,O,
+122,9,13,Evropskou,evropská,B-ORG,1
+122,9,14,komisí,komise,I-ORG,1
 122,9,15,oficiálně,,O,
 122,9,16,spuštěn,,O,
 122,9,17,.,,O,
@@ -249,8 +249,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 122,11,7,Sanyo,,O,
 122,11,8,dostaly,,O,
 122,11,9,od,,O,
-122,11,10,Evropské,,O,
-122,11,11,komise,,O,
+122,11,10,Evropské,evropská,B-ORG,1
+122,11,11,komise,komise,I-ORG,1
 122,11,12,pokutu,,O,
 122,11,13,v,,O,
 122,11,14,celkové,,O,
@@ -293,7 +293,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 122,12,11,ve,,O,
 122,12,12,členských,,O,
 122,12,13,státech,,O,
-122,12,14,EU,,O,
+122,12,14,EU,eu,B-LOC,6
 122,12,15,celkově,,O,
 122,12,16,1,,O,
 122,12,17,",",,O,
@@ -312,8 +312,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 122,13,5,výstupů,,O,
 122,13,6,společného,,O,
 122,13,7,projektu,,O,
-122,13,8,Evropské,,O,
-122,13,9,komise,,O,
+122,13,8,Evropské,evropská,B-ORG,1
+122,13,9,komise,komise,I-ORG,1
 122,13,10,a,,O,
 122,13,11,asociace,,O,
 122,13,12,Digitaleurope,digitaleurope,B-ORG,124
@@ -325,8 +325,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 122,13,18,pracovní,,O,
 122,13,19,místa,,O,
 122,13,20,.,,O,
-122,14,1,Evropská,,O,
-122,14,2,komise,,O,
+122,14,1,Evropská,evropská,B-ORG,1
+122,14,2,komise,komise,I-ORG,1
 122,14,3,schválila,,O,
 122,14,4,záměr,,O,
 122,14,5,společnosti,,O,
@@ -365,8 +365,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 122,15,22,poměrně,,O,
 122,15,23,slušné,,O,
 122,15,24,.,,O,
-122,16,1,Evropská,,O,
-122,16,2,komise,,O,
+122,16,1,Evropská,evropská,B-ORG,1
+122,16,2,komise,komise,I-ORG,1
 122,16,3,Slovensku,slovensko,B-LOC,125
 122,16,4,odblokovala,,O,
 122,16,5,čtyři,,O,
@@ -397,7 +397,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 122,17,14,informatizaci,,O,
 122,17,15,.,,O,
 122,18,1,Americký,,O,
-122,18,2,Microsoft,,O,
+122,18,2,Microsoft,microsoft,B-ORG,25
 122,18,3,nabídl,,O,
 122,18,4,Evropské,evropská,B-ORG,1
 122,18,5,komisi,komise,I-ORG,1
@@ -408,7 +408,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 122,18,10,profesní,,O,
 122,18,11,sociální,,O,
 122,18,12,sítě,,O,
-122,18,13,LinkedIn,,O,
+122,18,13,LinkedIn,linkedin,B-ORG,26
 122,18,14,.,,O,
 122,19,1,Antimonopolní,,O,
 122,19,2,odbor,,O,
@@ -418,9 +418,9 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 122,19,6,týkající,,O,
 122,19,7,se,,O,
 122,19,8,přidružení,,O,
-122,19,9,LinkedInu,,O,
+122,19,9,LinkedInu,linkedin,B-ORG,26
 122,19,10,k,,O,
-122,19,11,Microsoftu,,O,
+122,19,11,Microsoftu,microsoft,B-ORG,25
 122,19,12,a,,O,
 122,19,13,získání,,O,
 122,19,14,jeho,,O,

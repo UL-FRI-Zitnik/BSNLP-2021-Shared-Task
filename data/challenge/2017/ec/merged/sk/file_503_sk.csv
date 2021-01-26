@@ -20,7 +20,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 503,1,8,v,,O,
 503,1,9,členských,,O,
 503,1,10,štátoch,,O,
-503,1,11,EÚ,,O,
+503,1,11,EÚ,eú,B-LOC,6
 503,1,12,.,,O,
 503,2,1,Taktiež,,O,
 503,2,2,zastupuje,,O,
@@ -37,11 +37,11 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 503,3,4,je,,O,
 503,3,5,spravovateľom,,O,
 503,3,6,rozpočtu,,O,
-503,3,7,EÚ,,O,
+503,3,7,EÚ,eú,B-LOC,6
 503,3,8,.,,O,
 503,4,1,Na,,O,
 503,4,2,čele,,O,
-503,4,3,EK,,O,
+503,4,3,EK,ek,B-ORG,1
 503,4,4,je,,O,
 503,4,5,predseda,,O,
 503,4,6,(,,O,
@@ -77,11 +77,11 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 503,5,15,komisie,komisia,I-ORG,1
 503,5,16,a,,O,
 503,5,17,potvrdení,,O,
-503,5,18,Európskym,,O,
-503,5,19,parlamentom,,O,
+503,5,18,Európskym,európsky,B-ORG,14
+503,5,19,parlamentom,parlament,I-ORG,14
 503,5,20,.,,O,
 503,6,1,Orgánom,,O,
-503,6,2,EK,,O,
+503,6,2,EK,ek,B-ORG,1
 503,6,3,sa,,O,
 503,6,4,rozdeľuje,,O,
 503,6,5,do,,O,

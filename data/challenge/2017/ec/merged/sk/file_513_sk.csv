@@ -40,7 +40,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 513,3,8,zbraní,,O,
 513,3,9,v,,O,
 513,3,10,rámci,,O,
-513,3,11,EÚ,,O,
+513,3,11,EÚ,eú,B-LOC,6
 513,3,12,",",,O,
 513,3,13,umožniť,,O,
 513,3,14,lepšie,,O,
@@ -69,7 +69,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 513,4,1,Predseda,,O,
 513,4,2,EK,ek,B-ORG,1
 513,4,3,Jean-Claude,jean-claude,B-PER,48
-513,4,4,Juncker,juncker,B-PER,48
+513,4,4,Juncker,juncker,I-PER,48
 513,4,5,v,,O,
 513,4,6,tejto,,O,
 513,4,7,súvislosti,,O,
@@ -133,11 +133,11 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 513,6,24,kontroly,,O,
 513,6,25,zbraní,,O,
 513,6,26,v,,O,
-513,6,27,EÚ,,O,
+513,6,27,EÚ,eú,B-LOC,6
 513,6,28,",",,O,
 513,6,29,"""",,O,
 513,6,30,uviedol,,O,
-513,6,31,Juncker,,O,
+513,6,31,Juncker,juncker,B-PER,48
 513,6,32,v,,O,
 513,6,33,správe,,O,
 513,6,34,pre,,O,
@@ -148,14 +148,14 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 513,7,3,dohoda,,O,
 513,7,4,medzi,,O,
 513,7,5,inštitúciami,,O,
-513,7,6,EÚ,,O,
+513,7,6,EÚ,eú,B-LOC,6
 513,7,7,zachováva,,O,
 513,7,8,väčšinu,,O,
 513,7,9,z,,O,
 513,7,10,toho,,O,
 513,7,11,",",,O,
 513,7,12,čo,,O,
-513,7,13,EK,,O,
+513,7,13,EK,ek,B-ORG,1
 513,7,14,pôvodne,,O,
 513,7,15,navrhovala,,O,
 513,7,16,.,,O,
@@ -287,7 +287,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 513,12,14,súčasnou,,O,
 513,12,15,situáciou,,O,
 513,12,16,",",,O,
-513,12,17,EK,,O,
+513,12,17,EK,ek,B-ORG,1
 513,12,18,oznámila,,O,
 513,12,19,",",,O,
 513,12,20,že,,O,
@@ -297,7 +297,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 513,12,24,kompromis,,O,
 513,12,25,.,,O,
 513,13,1,Podľa,,O,
-513,13,2,EK,,O,
+513,13,2,EK,ek,B-ORG,1
 513,13,3,nová,,O,
 513,13,4,smernica,,O,
 513,13,5,o,,O,

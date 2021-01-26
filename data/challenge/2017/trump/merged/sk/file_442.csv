@@ -22,7 +22,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 442,0,21,povie,,O,
 442,0,22,meno,,O,
 442,0,23,Donlad,,O,
-442,0,24,Trump,,O,
+442,0,24,Trump,trump,B-PER,1
 442,0,25,?,,O,
 442,1,1,Ja,,O,
 442,1,2,vplyvom,,O,
@@ -115,8 +115,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 442,4,3,je,,O,
 442,4,4,v,,O,
 442,4,5,skutočnosti,,O,
-442,4,6,Donald,,O,
-442,4,7,Trump,,O,
+442,4,6,Donald,donald,B-PER,1
+442,4,7,Trump,trump,I-PER,1
 442,4,8,?,,O,
 442,5,1,Veľmi,,O,
 442,5,2,rada,,O,
@@ -165,8 +165,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 442,7,13,kde,,O,
 442,7,14,bolo,,O,
 442,7,15,meno,,O,
-442,7,16,Donald,,O,
-442,7,17,Trump,,O,
+442,7,16,Donald,donald,B-PER,1
+442,7,17,Trump,trump,I-PER,1
 442,7,18,",",,O,
 442,7,19,ale,,O,
 442,7,20,čo,,O,
@@ -177,7 +177,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 442,7,25,bol,,O,
 442,7,26,nadpis,,O,
 442,7,27,",",,O,
-442,7,28,TRUMP,,O,
+442,7,28,TRUMP,trump,B-PER,1
 442,7,29,NIKDY,,O,
 442,7,30,SA,,O,
 442,7,31,NEVZDÁVAJ,,O,
@@ -311,7 +311,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 442,14,14,vybrala,,O,
 442,14,15,som,,O,
 442,14,16,knižku,,O,
-442,14,17,TRUMP,,O,
+442,14,17,TRUMP,trump,B-PER,1
 442,14,18,NIKDY,,O,
 442,14,19,SA,,O,
 442,14,20,NEVZDÁVAJ,,O,
@@ -341,8 +341,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 442,15,23,dve,,O,
 442,15,24,knižky,,O,
 442,15,25,od,,O,
-442,15,26,Donalda,,O,
-442,15,27,Trumpa,,O,
+442,15,26,Donalda,donald,B-PER,1
+442,15,27,Trumpa,trump,I-PER,1
 442,15,28,vo,,O,
 442,15,29,forme,,O,
 442,15,30,e-knihy,,O,
@@ -367,8 +367,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 442,16,9,kto,,O,
 442,16,10,je,,O,
 442,16,11,vlastne,,O,
-442,16,12,Donald,,O,
-442,16,13,Trump,,O,
+442,16,12,Donald,donald,B-PER,1
+442,16,13,Trump,trump,I-PER,1
 442,16,14,.,,O,
 442,17,1,To,,O,
 442,17,2,",",,O,

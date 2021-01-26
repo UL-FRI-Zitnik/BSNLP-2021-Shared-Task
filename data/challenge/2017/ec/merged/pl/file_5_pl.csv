@@ -25,9 +25,9 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 5,2,6,chronić,,O,
 5,2,7,interesy,,O,
 5,2,8,całej,,O,
-5,2,9,unii,,O,
+5,2,9,unii,unia,B-LOC,6
 5,2,10,.,,O,
-5,3,1,Komisja,,O,
+5,3,1,Komisja,komisja,B-ORG,1
 5,3,2,przygotowuje,,O,
 5,3,3,wnioski,,O,
 5,3,4,dotyczące,,O,
@@ -53,7 +53,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 5,4,15,.,,O,
 5,5,1,W,,O,
 5,5,2,skład,,O,
-5,5,3,Komisji,,O,
+5,5,3,Komisji,komisja,B-ORG,1
 5,5,4,wchodzi,,O,
 5,5,5,28,,O,
 5,5,6,komisarzy,,O,
@@ -104,7 +104,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 5,9,4,w,,O,
 5,9,5,każdym,,O,
 5,9,6,państwie,,O,
-5,9,7,UE,,O,
+5,9,7,UE,ue,B-LOC,6
 5,9,8,oraz,,O,
 5,9,9,delegaturami,,O,
 5,9,10,w,,O,
@@ -115,7 +115,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 5,9,15,.,,O,
 5,10,1,Termin,,O,
 5,10,2,„,,O,
-5,10,3,Komisja,,O,
+5,10,3,Komisja,komisja,B-ORG,1
 5,10,4,”,,O,
 5,10,5,może,,O,
 5,10,6,być,,O,
@@ -132,12 +132,12 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 5,10,17,całej,,O,
 5,10,18,instytucji,,O,
 5,10,19,.,,O,
-5,11,1,Komisja,,O,
+5,11,1,Komisja,komisja,B-ORG,1
 5,11,2,nadzoruje,,O,
 5,11,3,i,,O,
 5,11,4,wdraża,,O,
 5,11,5,politykę,,O,
-5,11,6,UE,,O,
+5,11,6,UE,ue,B-LOC,6
 5,11,7,w,,O,
 5,11,8,poszczególnych,,O,
 5,11,9,obszarach,,O,
@@ -155,7 +155,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 5,11,21,",",,O,
 5,11,22,zarządzanie,,O,
 5,11,23,budżetem,,O,
-5,11,24,UE,,O,
+5,11,24,UE,ue,B-LOC,6
 5,11,25,i,,O,
 5,11,26,rozdzielanie,,O,
 5,11,27,środków,,O,
@@ -163,7 +163,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 5,11,29,",",,O,
 5,11,30,egzekwowanie,,O,
 5,11,31,prawa,,O,
-5,11,32,UE,,O,
+5,11,32,UE,ue,B-LOC,6
 5,11,33,(,,O,
 5,11,34,wraz,,O,
 5,11,35,z,,O,
@@ -172,7 +172,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 5,11,38,),,O,
 5,11,39,",",,O,
 5,11,40,reprezentowanie,,O,
-5,11,41,UE,,O,
+5,11,41,UE,ue,B-LOC,6
 5,11,42,na,,O,
 5,11,43,arenie,,O,
 5,11,44,międzynarodowej,,O,
@@ -183,7 +183,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 5,12,4,komisarzy,,O,
 5,12,5,jest,,O,
 5,12,6,przewodniczący,,O,
-5,12,7,Komisji,,O,
+5,12,7,Komisji,komisja,B-ORG,1
 5,12,8,.,,O,
 5,13,1,Obecnym,,O,
 5,13,2,przewodniczącym,,O,
@@ -205,7 +205,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 5,14,3,Rada,rada,B-ORG,42
 5,14,4,Europejska,europejska,I-ORG,42
 5,14,5,.,,O,
-5,15,1,Rada,,O,
+5,15,1,Rada,rada,B-ORG,42
 5,15,2,powołuje,,O,
 5,15,3,również,,O,
 5,15,4,pozostałych,,O,
@@ -222,14 +222,14 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 5,16,4,być,,O,
 5,16,5,zatwierdzone,,O,
 5,16,6,przez,,O,
-5,16,7,Parlament,,O,
-5,16,8,Europejski,,O,
+5,16,7,Parlament,parlament,B-ORG,14
+5,16,8,Europejski,europejski,I-ORG,14
 5,16,9,.,,O,
 5,17,1,To,,O,
 5,17,2,właśnie,,O,
 5,17,3,przed,,O,
 5,17,4,nim,,O,
-5,17,5,Komisja,,O,
+5,17,5,Komisja,komisja,B-ORG,1
 5,17,6,odpowiada,,O,
 5,17,7,politycznie,,O,
 5,17,8,",",,O,

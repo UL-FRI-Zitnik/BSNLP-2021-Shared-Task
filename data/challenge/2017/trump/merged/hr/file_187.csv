@@ -1,7 +1,7 @@
 docId,sentenceId,tokenId,text,lemma,ner,clID
 187,0,1,Zašto,,O,
 187,0,2,Donald,donald,B-PER,1
-187,0,3,Trump,trump,B-PER,1
+187,0,3,Trump,trump,I-PER,1
 187,0,4,ne,,O,
 187,0,5,smije,,O,
 187,0,6,biti,,O,
@@ -28,8 +28,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 187,3,1,Nikako,,O,
 187,3,2,.,,O,
 187,4,1,Vrijednost,,O,
-187,4,2,Donalda,,O,
-187,4,3,Trumpa,,O,
+187,4,2,Donalda,donald,B-PER,1
+187,4,3,Trumpa,trump,I-PER,1
 187,4,4,je,,O,
 187,4,5,navodno,,O,
 187,4,6,9,,O,
@@ -74,7 +74,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 187,5,17,cool,,O,
 187,5,18,",",,O,
 187,5,19,što,,O,
-187,5,20,Trump,,O,
+187,5,20,Trump,trump,B-PER,1
 187,5,21,nikako,,O,
 187,5,22,nije,,O,
 187,5,23,.,,O,
@@ -168,8 +168,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 187,10,11,za,,O,
 187,10,12,kameo-ulogu,,O,
 187,10,13,dobiješ,,O,
-187,10,14,Zlatnu,,O,
-187,10,15,malinu,,O,
+187,10,14,Zlatnu,zlatna,B-MISC,50189
+187,10,15,malinu,malina,I-MISC,50189
 187,10,16,",",,O,
 187,10,17,trebaš,,O,
 187,10,18,skočiti,,O,
@@ -389,7 +389,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 187,22,14,kaže,,O,
 187,22,15,da,,O,
 187,22,16,je,,O,
-187,22,17,Obama,,O,
+187,22,17,Obama,obama,B-PER,16
 187,22,18,rođen,,O,
 187,22,19,u,,O,
 187,22,20,Honoluluu,honolulu,B-LOC,50196
@@ -409,7 +409,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 187,23,9,te,,O,
 187,23,10,priče,,O,
 187,23,11,",",,O,
-187,23,12,Trump,,O,
+187,23,12,Trump,trump,B-PER,1
 187,23,13,je,,O,
 187,23,14,toliko,,O,
 187,23,15,zakuhao,,O,
@@ -421,7 +421,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 187,23,21,morala,,O,
 187,23,22,javno,,O,
 187,23,23,izdati,,O,
-187,23,24,Obamin,,O,
+187,23,24,Obamin,obama,B-PER,16
 187,23,25,rodni,,O,
 187,23,26,list,,O,
 187,23,27,.,,O,
@@ -431,11 +431,11 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 187,24,4,tog,,O,
 187,24,5,poteza,,O,
 187,24,6,",",,O,
-187,24,7,Trump,,O,
+187,24,7,Trump,trump,B-PER,1
 187,24,8,nije,,O,
 187,24,9,povjerovao,,O,
 187,24,10,u,,O,
-187,24,11,Obaminu,,O,
+187,24,11,Obaminu,obama,B-PER,16
 187,24,12,nacionalnost,,O,
 187,24,13,.,,O,
 187,25,1,Neki,,O,
@@ -514,7 +514,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 187,32,5,s,,O,
 187,32,6,Tironijem,tironi,B-PER,50198
 187,32,7,?,,O,
-187,33,1,Trump,,O,
+187,33,1,Trump,trump,B-PER,1
 187,33,2,je,,O,
 187,33,3,zvijezda,,O,
 187,33,4,reality,,O,
@@ -583,7 +583,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 187,36,1,Moramo,,O,
 187,36,2,dodati,,O,
 187,36,3,kako,,O,
-187,36,4,Trump,,O,
+187,36,4,Trump,trump,B-PER,1
 187,36,5,od,,O,
 187,36,6,TV,,O,
 187,36,7,mreže,,O,
@@ -655,7 +655,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 187,41,2,bankrotiraju,,O,
 187,41,3,",",,O,
 187,41,4,a,,O,
-187,41,5,Trump,,O,
+187,41,5,Trump,trump,B-PER,1
 187,41,6,je,,O,
 187,41,7,netaknut,,O,
 187,41,8,.,,O,
@@ -718,7 +718,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 187,46,2,lipnja,,O,
 187,46,3,je,,O,
 187,46,4,u,,O,
-187,46,5,Trump,,O,
+187,46,5,Trump,trump,B-PER,1
 187,46,6,tornju,,O,
 187,46,7,najavio,,O,
 187,46,8,kako,,O,
@@ -785,7 +785,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 187,49,6,toliko,,O,
 187,49,7,keša,,O,
 187,49,8,kao,,O,
-187,49,9,Donald,,O,
+187,49,9,Donald,donald,B-PER,1
 187,49,10,.,,O,
 187,50,1,Nije,,O,
 187,50,2,zaboravio,,O,

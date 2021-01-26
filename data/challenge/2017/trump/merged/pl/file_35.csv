@@ -1,6 +1,6 @@
 docId,sentenceId,tokenId,text,lemma,ner,clID
 35,0,1,Donald,donald,B-PER,1
-35,0,2,Trump,trump,B-PER,1
+35,0,2,Trump,trump,I-PER,1
 35,0,3,wygrał,,O,
 35,0,4,także,,O,
 35,0,5,w,,O,
@@ -23,8 +23,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 35,2,6,głosów,,O,
 35,2,7,kandydat,,O,
 35,2,8,Republikanów,republikanie,B-ORG,118
-35,2,9,Donald,,O,
-35,2,10,Trump,,O,
+35,2,9,Donald,donald,B-PER,1
+35,2,10,Trump,trump,I-PER,1
 35,2,11,pokonał,,O,
 35,2,12,kandydatkę,,O,
 35,2,13,Demokratów,demokraci,B-ORG,112
@@ -35,7 +35,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 35,2,18,prezydenckich,,O,
 35,2,19,w,,O,
 35,2,20,stanie,,O,
-35,2,21,Michigan,,O,
+35,2,21,Michigan,michigan,B-LOC,214
 35,2,22,-,,O,
 35,2,23,podały,,O,
 35,2,24,w,,O,
@@ -56,7 +56,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 35,4,3,na,,O,
 35,4,4,procenty,,O,
 35,4,5,przewaga,,O,
-35,4,6,Trumpa,,O,
+35,4,6,Trumpa,trump,B-PER,1
 35,4,7,wynosi,,O,
 35,4,8,zaledwie,,O,
 35,4,9,"0,2",,O,
@@ -65,7 +65,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 35,4,12,proc,,O,
 35,4,13,.,,O,
 35,5,1,Na,,O,
-35,5,2,Trumpa,,O,
+35,5,2,Trumpa,trump,B-PER,1
 35,5,3,głosowało,,O,
 35,5,4,"47,5",,O,
 35,5,5,proc,,O,
@@ -73,13 +73,13 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 35,5,7,",",,O,
 35,5,8,a,,O,
 35,5,9,na,,O,
-35,5,10,Clinton,,O,
+35,5,10,Clinton,clinton,B-PER,3
 35,5,11,-,,O,
 35,5,12,"47,3",,O,
 35,5,13,proc,,O,
 35,5,14,.,,O,
 35,5,15,mieszkańców,,O,
-35,5,16,Michigan,,O,
+35,5,16,Michigan,michigan,B-LOC,214
 35,5,17,.,,O,
 35,6,1,Ale,,O,
 35,6,2,zgodnie,,O,
@@ -87,7 +87,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 35,6,4,regułami,,O,
 35,6,5,wyborów,,O,
 35,6,6,zwycięstwo,,O,
-35,6,7,Trumpa,,O,
+35,6,7,Trumpa,trump,B-PER,1
 35,6,8,oznacza,,O,
 35,6,9,",",,O,
 35,6,10,że,,O,
@@ -109,7 +109,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 35,7,2,oznacza,,O,
 35,7,3,",",,O,
 35,7,4,że,,O,
-35,7,5,Trump,,O,
+35,7,5,Trump,trump,B-PER,1
 35,7,6,zdobył,,O,
 35,7,7,w,,O,
 35,7,8,wyborach,,O,
@@ -118,7 +118,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 35,7,11,elektorskich,,O,
 35,7,12,",",,O,
 35,7,13,a,,O,
-35,7,14,Clinton,,O,
+35,7,14,Clinton,clinton,B-PER,3
 35,7,15,-,,O,
 35,7,16,232,,O,
 35,7,17,.,,O,
@@ -143,7 +143,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 35,9,2,policzenie,,O,
 35,9,3,głosów,,O,
 35,9,4,w,,O,
-35,9,5,Michigan,,O,
+35,9,5,Michigan,michigan,B-LOC,214
 35,9,6,",",,O,
 35,9,7,jednym,,O,
 35,9,8,z,,O,
@@ -164,7 +164,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 35,10,4,całego,,O,
 35,10,5,kraju,,O,
 35,10,6,przewaga,,O,
-35,10,7,Clinton,,O,
+35,10,7,Clinton,clinton,B-PER,3
 35,10,8,nad,,O,
 35,10,9,Trumpem,,O,
 35,10,10,wyniosła,,O,
@@ -187,7 +187,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 35,11,12,dane,,O,
 35,11,13,",",,O,
 35,11,14,na,,O,
-35,11,15,Clinton,,O,
+35,11,15,Clinton,clinton,B-PER,3
 35,11,16,głosowało,,O,
 35,11,17,ponad,,O,
 35,11,18,"64,66",,O,
@@ -196,7 +196,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 35,11,21,",",,O,
 35,11,22,a,,O,
 35,11,23,na,,O,
-35,11,24,Trumpa,,O,
+35,11,24,Trumpa,trump,B-PER,1
 35,11,25,ponad,,O,
 35,11,26,"62,42",,O,
 35,11,27,mln,,O,
@@ -238,9 +238,9 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 35,13,22,innych,,O,
 35,13,23,kandydatów,,O,
 35,13,24,niż,,O,
-35,13,25,Trump,,O,
+35,13,25,Trump,trump,B-PER,1
 35,13,26,i,,O,
-35,13,27,Clinton,,O,
+35,13,27,Clinton,clinton,B-PER,3
 35,13,28,.,,O,
 35,14,1,Ostatni,,O,
 35,14,2,raz,,O,
@@ -248,7 +248,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 35,14,4,",",,O,
 35,14,5,gdy,,O,
 35,14,6,kandydat,,O,
-35,14,7,Demokratów,,O,
+35,14,7,Demokratów,demokraci,B-ORG,112
 35,14,8,dostał,,O,
 35,14,9,więcej,,O,
 35,14,10,głosów,,O,
@@ -321,7 +321,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 35,16,33,także,,O,
 35,16,34,w,,O,
 35,16,35,stanach,,O,
-35,16,36,Michigan,,O,
+35,16,36,Michigan,michigan,B-LOC,214
 35,16,37,i,,O,
 35,16,38,Pensylwania,pensylwania,B-LOC,22002
 35,16,39,.,,O,
@@ -329,8 +329,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 35,17,2,starania,,O,
 35,17,3,poparł,,O,
 35,17,4,sztab,,O,
-35,17,5,Hilary,,O,
-35,17,6,Clinton,,O,
+35,17,5,Hilary,hillary,B-PER,3
+35,17,6,Clinton,clinton,I-PER,3
 35,17,7,.,,O,
 35,18,1,Sil,,O,
 35,18,2,/,,O,

@@ -84,8 +84,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 43,3,1,W,,O,
 43,3,2,tej,,O,
 43,3,3,sytuacji,,O,
-43,3,4,Komisja,,O,
-43,3,5,Europejska,,O,
+43,3,4,Komisja,komisja,B-ORG,1
+43,3,5,Europejska,europejska,I-ORG,1
 43,3,6,przygotowała,,O,
 43,3,7,na,,O,
 43,3,8,2017,,O,
@@ -211,7 +211,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 43,8,1,W,,O,
 43,8,2,tym,,O,
 43,8,3,celu,,O,
-43,8,4,KE,,O,
+43,8,4,KE,ke,B-ORG,1
 43,8,5,chce,,O,
 43,8,6,m.in,,O,
 43,8,7,.,,O,
@@ -256,9 +256,9 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 43,9,8,niesie,,O,
 43,9,9,za,,O,
 43,9,10,sobą,,O,
-43,9,11,AMR,,O,
+43,9,11,AMR,amr,B-MISC,20120
 43,9,12,",",,O,
-43,9,13,UE,,O,
+43,9,13,UE,ue,B-LOC,6
 43,9,14,przejęła,,O,
 43,9,15,dominującą,,O,
 43,9,16,rolę,,O,
@@ -293,7 +293,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 43,11,15,w,,O,
 43,11,16,walce,,O,
 43,11,17,z,,O,
-43,11,18,AMR,,O,
+43,11,18,AMR,amr,B-MISC,20120
 43,11,19,",",,O,
 43,11,20,w,,O,
 43,11,21,2017,,O,
@@ -337,7 +337,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 43,12,22,-,,O,
 43,12,23,zapowiedział,,O,
 43,12,24,komisarz,,O,
-43,12,25,UE,,O,
+43,12,25,UE,ue,B-LOC,6
 43,12,26,ds,,O,
 43,12,27,.,,O,
 43,12,28,zdrowia,,O,
@@ -364,7 +364,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 43,13,15,niesie,,O,
 43,13,16,za,,O,
 43,13,17,sobą,,O,
-43,13,18,AMR,,O,
+43,13,18,AMR,amr,B-MISC,20120
 43,13,19,.,,O,
 43,14,1,Konsekwencją,,O,
 43,14,2,jest,,O,

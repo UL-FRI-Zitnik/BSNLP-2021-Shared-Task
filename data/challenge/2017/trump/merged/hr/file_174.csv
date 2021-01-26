@@ -70,9 +70,9 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 174,2,5,teroristički,,O,
 174,2,6,napadi,,O,
 174,2,7,u,,O,
-174,2,8,Turskoj,,O,
+174,2,8,Turskoj,turska,B-LOC,10038
 174,2,9,",",,O,
-174,2,10,Švicarskoj,,O,
+174,2,10,Švicarskoj,švicarska,B-LOC,50130
 174,2,11,i,,O,
 174,2,12,Njemačkoj,njemačka,B-LOC,75
 174,2,13,i,,O,
@@ -91,8 +91,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 174,3,8,–,,O,
 174,3,9,napisao,,O,
 174,3,10,je,,O,
-174,3,11,Donald,,O,
-174,3,12,Trump,,O,
+174,3,11,Donald,donald,B-PER,1
+174,3,12,Trump,trump,I-PER,1
 174,3,13,kojeg,,O,
 174,3,14,su,,O,
 174,3,15,netom,,O,
@@ -116,7 +116,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 174,4,7,o,,O,
 174,4,8,tragediji,,O,
 174,4,9,u,,O,
-174,4,10,Berlinu,,O,
+174,4,10,Berlinu,berlin,B-LOC,317
 174,4,11,:,,O,
 174,4,12,–,,O,
 174,4,13,N,,O,
@@ -132,7 +132,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 174,4,23,terorističkog,,O,
 174,4,24,napada,,O,
 174,4,25,u,,O,
-174,4,26,Berlinu,,O,
+174,4,26,Berlinu,berlin,B-LOC,317
 174,4,27,.,,O,
 174,5,1,Nevini,,O,
 174,5,2,civili,,O,

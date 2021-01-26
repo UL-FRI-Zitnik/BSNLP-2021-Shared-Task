@@ -10,7 +10,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 209,1,5,zemlju,,O,
 209,1,6,ako,,O,
 209,1,7,Donald,donald,B-PER,1
-209,1,8,Trump,trump,B-PER,1
+209,1,8,Trump,trump,I-PER,1
 209,1,9,bude,,O,
 209,1,10,izabran,,O,
 209,1,11,za,,O,
@@ -33,7 +33,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 209,2,16,se,,O,
 209,2,17,preseliti,,O,
 209,2,18,u,,O,
-209,2,19,Španjolsku,,O,
+209,2,19,Španjolsku,španjolska,B-LOC,50471
 209,2,20,",",,O,
 209,2,21,ili,,O,
 209,2,22,već,,O,
@@ -44,7 +44,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 209,3,3,pojmiti,,O,
 209,3,4,da,,O,
 209,3,5,bi,,O,
-209,3,6,Trump,,O,
+209,3,6,Trump,trump,B-PER,1
 209,3,7,mogao,,O,
 209,3,8,pobijediti,,O,
 209,3,9,",",,O,
@@ -55,8 +55,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 209,3,14,",",,O,
 209,3,15,rekla,,O,
 209,3,16,je,,O,
-209,3,17,Amy,,O,
-209,3,18,Schumer,,O,
+209,3,17,Amy,amy,B-PER,50206
+209,3,18,Schumer,schumer,I-PER,50206
 209,3,19,",",,O,
 209,3,20,te,,O,
 209,3,21,dodala,,O,
@@ -78,7 +78,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 209,4,7,tko,,O,
 209,4,8,ne,,O,
 209,4,9,voli,,O,
-209,4,10,Hillary,,O,
+209,4,10,Hillary,hillary,B-PER,3
 209,4,11,",",,O,
 209,4,12,a,,O,
 209,4,13,da,,O,
@@ -142,7 +142,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 209,7,14,",",,O,
 209,7,15,negodovala,,O,
 209,7,16,je,,O,
-209,7,17,Schumer,,O,
+209,7,17,Schumer,schumer,B-PER,50206
 209,7,18,u,,O,
 209,7,19,razgovoru,,O,
 209,7,20,za,,O,
@@ -259,7 +259,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 209,15,25,",",,O,
 209,15,26,objasnila,,O,
 209,15,27,je,,O,
-209,15,28,Schumer,,O,
+209,15,28,Schumer,schumer,B-PER,50206
 209,15,29,.,,O,
 209,16,1,Prošloga,,O,
 209,16,2,tjedna,,O,
@@ -267,7 +267,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 209,16,4,nastupu,,O,
 209,16,5,u,,O,
 209,16,6,Švedskoj,švedska,B-LOC,41000
-209,17,1,Schumer,,O,
+209,17,1,Schumer,schumer,B-PER,50206
 209,17,2,je,,O,
 209,17,3,",",,O,
 209,17,4,nakon,,O,
@@ -310,8 +310,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 209,18,4,puta,,O,
 209,18,5,da,,O,
 209,18,6,se,,O,
-209,18,7,Amy,,O,
-209,18,8,Schumer,,O,
+209,18,7,Amy,amy,B-PER,50206
+209,18,8,Schumer,schumer,I-PER,50206
 209,18,9,susrela,,O,
 209,18,10,sa,,O,
 209,18,11,seksizmom,,O,

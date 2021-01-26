@@ -1,6 +1,6 @@
 docId,sentenceId,tokenId,text,lemma,ner,clID
 211,0,1,DONALD,donald,B-PER,1
-211,0,2,TRUMP,trump,B-PER,1
+211,0,2,TRUMP,trump,I-PER,1
 211,0,3,:,,O,
 211,0,4,Teroristi,,O,
 211,0,5,moraju,,O,
@@ -41,7 +41,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 211,2,15,”,,O,
 211,2,16,",napisao",,O,
 211,2,17,je,,O,
-211,2,18,Trump,,O,
+211,2,18,Trump,trump,B-PER,1
 211,2,19,u,,O,
 211,2,20,izjavi,,O,
 211,2,21,koju,,O,
@@ -100,7 +100,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 211,5,14,u,,O,
 211,5,15,izjavi,,O,
 211,5,16,.,,O,
-211,6,1,Trump,,O,
+211,6,1,Trump,trump,B-PER,1
 211,6,2,se,,O,
 211,6,3,oglasio,,O,
 211,6,4,i,,O,

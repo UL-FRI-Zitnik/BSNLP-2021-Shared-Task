@@ -67,8 +67,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 434,5,6,ostatnom,,O,
 434,5,7,čase,,O,
 434,5,8,magnát,,O,
-434,5,9,Donald,,O,
-434,5,10,Trump,,O,
+434,5,9,Donald,donald,B-PER,1
+434,5,10,Trump,trump,I-PER,1
 434,5,11,pripisuje,,O,
 434,5,12,",",,O,
 434,5,13,ho,,O,
@@ -172,12 +172,12 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 434,8,19,“,,O,
 434,8,20,hovorí,,O,
 434,8,21,Julien,julien,B-PER,394
-434,8,22,Marcilly,marcilly,B-PER,394
+434,8,22,Marcilly,marcilly,I-PER,394
 434,8,23,",",,O,
 434,8,24,hlavný,,O,
 434,8,25,ekonóm,,O,
 434,8,26,spoločnosti,,O,
-434,8,27,Coface,,O,
+434,8,27,Coface,coface,B-ORG,392
 434,8,28,",",,O,
 434,8,29,globálneho,,O,
 434,8,30,lídra,,O,
@@ -201,8 +201,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 434,10,4,vo,,O,
 434,10,5,voľbách,,O,
 434,10,6,vyhrá,,O,
-434,10,7,Donald,,O,
-434,10,8,Trump,,O,
+434,10,7,Donald,donald,B-PER,1
+434,10,8,Trump,trump,I-PER,1
 434,10,9,je,,O,
 434,10,10,vysoká,,O,
 434,10,11,.,,O,
@@ -250,7 +250,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 434,12,6,ďaleko,,O,
 434,12,7,zaostali,,O,
 434,12,8,.,,O,
-434,13,1,Trump,,O,
+434,13,1,Trump,trump,B-PER,1
 434,13,2,tak,,O,
 434,13,3,vyhral,,O,
 434,13,4,v,,O,
@@ -287,8 +287,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 434,14,26,získal,,O,
 434,14,27,nomináciu,,O,
 434,14,28,za,,O,
-434,14,29,Republikánsku,,O,
-434,14,30,stranu,,O,
+434,14,29,Republikánsku,republikánska,B-ORG,118
+434,14,30,stranu,strana,I-ORG,118
 434,14,31,.,,O,
 434,15,1,Hoci,,O,
 434,15,2,podľa,,O,
@@ -311,8 +311,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 434,15,19,pokiaľ,,O,
 434,15,20,ide,,O,
 434,15,21,o,,O,
-434,15,22,Hilary,,O,
-434,15,23,Clintonovú,,O,
+434,15,22,Hilary,hillary,B-PER,3
+434,15,23,Clintonovú,clintonová,I-PER,3
 434,15,24,",",,O,
 434,15,25,ktorá,,O,
 434,15,26,je,,O,
@@ -332,7 +332,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 434,17,3,",",,O,
 434,17,4,ak,,O,
 434,17,5,by,,O,
-434,17,6,Trump,,O,
+434,17,6,Trump,trump,B-PER,1
 434,17,7,vyhral,,O,
 434,17,8,",",,O,
 434,17,9,mohla,,O,
@@ -349,7 +349,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 434,17,20,",",,O,
 434,17,21,“,,O,
 434,17,22,varuje,,O,
-434,17,23,Marcilly,,O,
+434,17,23,Marcilly,marcilly,B-PER,394
 434,17,24,.,,O,
 434,18,1,A,,O,
 434,18,2,to,,O,
@@ -364,8 +364,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 434,19,5,niektorí,,O,
 434,19,6,kandidáti,,O,
 434,19,7,",",,O,
-434,19,8,Donalda,,O,
-434,19,9,Trumpa,,O,
+434,19,8,Donalda,donald,B-PER,1
+434,19,9,Trumpa,trump,I-PER,1
 434,19,10,nevynímajúc,,O,
 434,19,11,",",,O,
 434,19,12,snažia,,O,
@@ -415,11 +415,11 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 434,20,22,“,,O,
 434,20,23,konštatuje,,O,
 434,20,24,ekonóm,,O,
-434,20,25,Coface,,O,
+434,20,25,Coface,coface,B-ORG,392
 434,20,26,.,,O,
 434,21,1,Rovnako,,O,
 434,21,2,sa,,O,
-434,21,3,Trump,,O,
+434,21,3,Trump,trump,B-PER,1
 434,21,4,podľa,,O,
 434,21,5,neho,,O,
 434,21,6,ukazuje,,O,
@@ -458,8 +458,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 434,23,1,Ak,,O,
 434,23,2,by,,O,
 434,23,3,sa,,O,
-434,23,4,Donald,,O,
-434,23,5,Trump,,O,
+434,23,4,Donald,donald,B-PER,1
+434,23,5,Trump,trump,I-PER,1
 434,23,6,stal,,O,
 434,23,7,prezidentom,,O,
 434,23,8,a,,O,
@@ -485,7 +485,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 434,23,28,verejného,,O,
 434,23,29,dlhu,,O,
 434,23,30,.,,O,
-434,24,1,Trump,,O,
+434,24,1,Trump,trump,B-PER,1
 434,24,2,plánuje,,O,
 434,24,3,osekať,,O,
 434,24,4,tak,,O,
@@ -517,7 +517,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 434,25,17,Police,police,I-ORG,399
 434,25,18,Center,center,I-ORG,399
 434,25,19,by,,O,
-434,25,20,Trumpov,,O,
+434,25,20,Trumpov,trump,B-PER,1
 434,25,21,daňový,,O,
 434,25,22,plán,,O,
 434,25,23,mohol,,O,
@@ -538,8 +538,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 434,25,38,",",,O,
 434,25,39,“,,O,
 434,25,40,hovorí,,O,
-434,25,41,Julien,,O,
-434,25,42,Marcilly,,O,
+434,25,41,Julien,julien,B-PER,394
+434,25,42,Marcilly,marcilly,I-PER,394
 434,25,43,.,,O,
 434,26,1,Tvrdé,,O,
 434,26,2,vyhlásenia,,O,
@@ -553,7 +553,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 434,27,4,nárast,,O,
 434,27,5,protekcionizmu,,O,
 434,27,6,.,,O,
-434,28,1,Trump,,O,
+434,28,1,Trump,trump,B-PER,1
 434,28,2,mal,,O,
 434,28,3,už,,O,
 434,28,4,napríklad,,O,
@@ -562,7 +562,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 434,28,7,vyhlásenie,,O,
 434,28,8,smerom,,O,
 434,28,9,k,,O,
-434,28,10,Číne,,O,
+434,28,10,Číne,čína,B-LOC,11
 434,28,11,.,,O,
 434,29,1,Podľa,,O,
 434,29,2,The,the,B-ORG,5
@@ -623,7 +623,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 434,33,14,“,,O,
 434,33,15,konštatuje,,O,
 434,33,16,ekonóm,,O,
-434,33,17,Coface,,O,
+434,33,17,Coface,coface,B-ORG,392
 434,33,18,.,,O,
 434,34,1,Napríklad,,O,
 434,34,2,na,,O,
@@ -751,8 +751,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 434,36,62,",",,O,
 434,36,63,“,,O,
 434,36,64,zdôrazňuje,,O,
-434,36,65,Julien,,O,
-434,36,66,Marcilly,,O,
+434,36,65,Julien,julien,B-PER,394
+434,36,66,Marcilly,marcilly,I-PER,394
 434,36,67,.,,O,
 434,37,1,Hocako,,O,
 434,37,2,",",,O,
@@ -764,8 +764,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 434,37,8,",",,O,
 434,37,9,ak,,O,
 434,37,10,by,,O,
-434,37,11,Donald,,O,
-434,37,12,Trump,,O,
+434,37,11,Donald,donald,B-PER,1
+434,37,12,Trump,trump,I-PER,1
 434,37,13,neurobil,,O,
 434,37,14,to,,O,
 434,37,15,",",,O,
@@ -803,5 +803,5 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 434,39,15,delení,,O,
 434,39,16,moci,,O,
 434,39,17,v,,O,
-434,39,18,USA,,O,
+434,39,18,USA,usa,B-LOC,2
 434,39,19,.,,O,

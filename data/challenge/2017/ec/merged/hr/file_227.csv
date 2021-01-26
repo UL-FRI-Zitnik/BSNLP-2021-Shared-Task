@@ -27,8 +27,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 227,1,22,uvoz,,O,
 227,1,23,kulturnih,,O,
 227,1,24,dobara,,O,
-227,1,25,Europska,,O,
-227,1,26,komisija,,O,
+227,1,25,Europska,europska,B-ORG,1
+227,1,26,komisija,komisija,I-ORG,1
 227,1,27,poslala,,O,
 227,1,28,poziv,,O,
 227,1,29,za,,O,
@@ -51,8 +51,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 227,2,1,12.12.2016,,O,
 227,2,2,.,,O,
 227,2,3,-,,O,
-227,2,4,Europska,,O,
-227,2,5,komisija,,O,
+227,2,4,Europska,europska,B-ORG,1
+227,2,5,komisija,komisija,I-ORG,1
 227,2,6,je,,O,
 227,2,7,29.,,O,
 227,2,8,listopada,,O,
@@ -153,8 +153,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 227,3,43,batine,,O,
 227,3,44,.,,O,
 227,4,1,Time,,O,
-227,4,2,Europska,,O,
-227,4,3,komisija,,O,
+227,4,2,Europska,europska,B-ORG,1
+227,4,3,komisija,komisija,I-ORG,1
 227,4,4,",",,O,
 227,4,5,kao,,O,
 227,4,6,odgovor,,O,
@@ -210,8 +210,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 227,5,18,pripreme,,O,
 227,5,19,zakonskih,,O,
 227,5,20,prijedloga,,O,
-227,5,21,Europske,,O,
-227,5,22,komisije,,O,
+227,5,21,Europske,europska,B-ORG,1
+227,5,22,komisije,komisija,I-ORG,1
 227,5,23,.,,O,
 227,6,1,Miljenja,,O,
 227,6,2,se,,O,

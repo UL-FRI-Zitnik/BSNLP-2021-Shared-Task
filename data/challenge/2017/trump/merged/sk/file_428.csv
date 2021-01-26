@@ -22,7 +22,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 428,2,4,nemajú,,O,
 428,2,5,radi,,O,
 428,2,6,Donalda,donald,B-PER,1
-428,2,7,Trumpa,trump,B-PER,1
+428,2,7,Trumpa,trump,I-PER,1
 428,2,8,",",,O,
 428,2,9,stále,,O,
 428,2,10,dúfajú,,O,
@@ -75,8 +75,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 428,5,10,volieb,,O,
 428,5,11,sa,,O,
 428,5,12,stal,,O,
-428,5,13,Donald,,O,
-428,5,14,Trump,,O,
+428,5,13,Donald,donald,B-PER,1
+428,5,14,Trump,trump,I-PER,1
 428,5,15,.,,O,
 428,6,1,Hlasy,,O,
 428,6,2,voličov,,O,
@@ -97,7 +97,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 428,6,17,tých,,O,
 428,6,18,získal,,O,
 428,6,19,viac,,O,
-428,6,20,Trump,,O,
+428,6,20,Trump,trump,B-PER,1
 428,6,21,.,,O,
 428,7,1,Voliteľov,,O,
 428,7,2,je,,O,
@@ -220,7 +220,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 428,15,7,vážne,,O,
 428,15,8,.,,O,
 428,16,1,Mnohí,,O,
-428,16,2,Američania,,O,
+428,16,2,Američania,američania,B-PER,17
 428,16,3,dúfajú,,O,
 428,16,4,",",,O,
 428,16,5,že,,O,
@@ -235,8 +235,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 428,17,1,Niektorým,,O,
 428,17,2,sa,,O,
 428,17,3,nepáči,,O,
-428,17,4,Donald,,O,
-428,17,5,Trump,,O,
+428,17,4,Donald,donald,B-PER,1
+428,17,5,Trump,trump,I-PER,1
 428,17,6,",",,O,
 428,17,7,iní,,O,
 428,17,8,kritizujú,,O,
@@ -247,8 +247,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 428,18,2,tým,,O,
 428,18,3,",",,O,
 428,18,4,že,,O,
-428,18,5,Hilllary,,O,
-428,18,6,Clintonová,,O,
+428,18,5,Hilllary,hillary,B-PER,3
+428,18,6,Clintonová,clintonová,I-PER,3
 428,18,7,získala,,O,
 428,18,8,o,,O,
 428,18,9,takmer,,O,
@@ -265,8 +265,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 428,18,20,byť,,O,
 428,18,21,prezidentkou,,O,
 428,18,22,.,,O,
-428,19,1,Donald,,O,
-428,19,2,Trump,,O,
+428,19,1,Donald,donald,B-PER,1
+428,19,2,Trump,trump,I-PER,1
 428,19,3,získal,,O,
 428,19,4,306,,O,
 428,19,5,z,,O,

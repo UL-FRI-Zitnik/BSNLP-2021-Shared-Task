@@ -1,6 +1,6 @@
 docId,sentenceId,tokenId,text,lemma,ner,clID
 152,0,1,Donald,donald,B-PER,1
-152,0,2,Trump,trump,B-PER,1
+152,0,2,Trump,trump,I-PER,1
 152,0,3,prezentirao,,O,
 152,0,4,svoj,,O,
 152,0,5,vinski,,O,
@@ -15,7 +15,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 152,1,8,je,,O,
 152,1,9,svoju,,O,
 152,1,10,paletu,,O,
-152,1,11,Trump,,O,
+152,1,11,Trump,trump,B-PER,1
 152,1,12,vina,,O,
 152,1,13,novinarima,,O,
 152,1,14,nakon,,O,
@@ -130,7 +130,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 152,6,18,program,,O,
 152,6,19,.,,O,
 152,7,1,Prije,,O,
-152,7,2,Trumpa,,O,
+152,7,2,Trumpa,trump,B-PER,1
 152,7,3,radio,,O,
 152,7,4,je,,O,
 152,7,5,u,,O,
@@ -218,7 +218,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 152,10,15,.,,O,
 152,11,1,Danas,,O,
 152,11,2,u,,O,
-152,11,3,Virginiji,,O,
+152,11,3,Virginiji,virginia,B-LOC,50021
 152,11,4,radi,,O,
 152,11,5,više,,O,
 152,11,6,od,,O,
@@ -290,7 +290,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 152,15,4,nije.,,O,
 152,15,5,“,,O,
 152,15,6,",",,O,
-152,15,7,Trump,,O,
+152,15,7,Trump,trump,B-PER,1
 152,15,8,je,,O,
 152,15,9,pokazao,,O,
 152,15,10,i,,O,

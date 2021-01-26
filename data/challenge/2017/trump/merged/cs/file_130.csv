@@ -47,8 +47,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 130,1,17,plynu,,O,
 130,1,18,chlubit,,O,
 130,1,19,prezident,,O,
-130,1,20,Donald,,O,
-130,1,21,Trump,,O,
+130,1,20,Donald,donald,B-PER,1
+130,1,21,Trump,trump,I-PER,1
 130,1,22,.,,O,
 130,2,1,Jeho,,O,
 130,2,2,protikandidát,,O,
@@ -145,7 +145,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 130,6,20,.,,O,
 130,7,1,Prezident,,O,
 130,7,2,Barack,barack,B-PER,16
-130,7,3,Obama,obama,B-PER,16
+130,7,3,Obama,obama,I-PER,16
 130,7,4,sice,,O,
 130,7,5,možná,,O,
 130,7,6,vstoupí,,O,
@@ -181,7 +181,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 130,7,36,břidlicový,,O,
 130,7,37,boom,,O,
 130,7,38,.,,O,
-130,8,1,Obama,,O,
+130,8,1,Obama,obama,B-PER,16
 130,8,2,toho,,O,
 130,8,3,ostatně,,O,
 130,8,4,obratně,,O,

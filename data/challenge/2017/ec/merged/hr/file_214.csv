@@ -19,8 +19,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 214,1,5,za,za,I-ORG,50494
 214,1,6,medijsku,medijsku,I-ORG,50494
 214,1,7,kulturu,kulturu,I-ORG,50494
-214,1,8,Europska,,O,
-214,1,9,komisija,,O,
+214,1,8,Europska,europska,B-ORG,1
+214,1,9,komisija,komisija,I-ORG,1
 214,1,10,danas,,O,
 214,1,11,je,,O,
 214,1,12,odobrila,,O,

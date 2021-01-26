@@ -20,7 +20,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 465,1,7,hospodársku,,O,
 465,1,8,súťaž,,O,
 465,1,9,Margrethe,margrethe,B-PER,35
-465,2,1,Vestagerovú,vestagerová,B-PER,35
+465,2,1,Vestagerovú,vestagerová,I-PER,35
 465,2,2,na,,O,
 465,2,3,preskúmanie,,O,
 465,2,4,štátnej,,O,
@@ -33,10 +33,10 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 465,2,11,plánuje,,O,
 465,2,12,poskytnúť,,O,
 465,2,13,spoločnosti,,O,
-465,2,14,Váhostav,,O,
+465,2,14,Váhostav,váhostav,B-ORG,217
 465,2,15,.,,O,
-465,3,1,Európska,,O,
-465,3,2,komisia,,O,
+465,3,1,Európska,európska,B-ORG,1
+465,3,2,komisia,komisia,I-ORG,1
 465,3,3,potvrdila,,O,
 465,3,4,",",,O,
 465,3,5,že,,O,
@@ -47,7 +47,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 465,3,10,zaoberať,,O,
 465,3,11,.,,O,
 465,4,1,Reštrukturalizácia,,O,
-465,4,2,Váhostavu,,O,
+465,4,2,Váhostavu,váhostav,B-ORG,217
 465,4,3,vzbudzuje,,O,
 465,4,4,podozrenia,,O,
 465,4,5,nielen,,O,
@@ -114,7 +114,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 465,7,5,o,,O,
 465,7,6,príchode,,O,
 465,7,7,na,,O,
-465,7,8,Slovensko,,O,
+465,7,8,Slovensko,slovensko,B-LOC,125
 465,7,9,môžu,,O,
 465,7,10,byť,,O,
 465,7,11,zneistení,,O,
@@ -133,7 +133,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 465,8,1,Preto,,O,
 465,8,2,som,,O,
 465,8,3,komisárke,,O,
-465,8,4,Vestagerovej,,O,
+465,8,4,Vestagerovej,vestagerová,B-PER,35
 465,8,5,zaslal,,O,
 465,8,6,na,,O,
 465,8,7,posúdenie,,O,
@@ -164,7 +164,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 465,10,5,eurofondov,,O,
 465,10,6,",",,O,
 465,10,7,vystavuje,,O,
-465,10,8,Slovensko,,O,
+465,10,8,Slovensko,slovensko,B-LOC,125
 465,10,9,hrozbe,,O,
 465,10,10,medzinárodných,,O,
 465,10,11,arbitráží,,O,
@@ -223,5 +223,5 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 465,12,20,iné,,O,
 465,12,21,riešenie,,O,
 465,12,22,problému,,O,
-465,12,23,Váhstavu,,O,
+465,12,23,Váhstavu,váhostav,B-ORG,217
 465,12,24,.,,O,

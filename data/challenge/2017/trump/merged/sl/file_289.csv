@@ -19,14 +19,14 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 289,2,5,predsedniških,,O,
 289,2,6,volitev,,O,
 289,2,7,v,,O,
-289,2,8,ZDA,,O,
+289,2,8,ZDA,zda,B-LOC,2
 289,2,9,New,new,B-LOC,4
 289,2,10,York,york,I-LOC,4
 289,2,11,",",,O,
 289,2,12,19.,,O,
 289,2,13,decembra,,O,
 289,2,14,(,,O,
-289,2,15,STA,,O,
+289,2,15,STA,sta,B-ORG,40011
 289,2,16,),,O,
 289,2,17,-,,O,
 289,2,18,V,,O,
@@ -50,7 +50,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 289,2,36,predsednika,,O,
 289,2,37,in,,O,
 289,2,38,podpredsednika,,O,
-289,2,39,ZDA,,O,
+289,2,39,ZDA,zda,B-LOC,2
 289,2,40,.,,O,
 289,3,1,V,,O,
 289,3,2,teoriji,,O,
@@ -70,7 +70,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 289,3,16,kot,,O,
 289,3,17,republikanca,,O,
 289,3,18,Donalda,donald,B-PER,1
-289,3,19,Trumpa,trump,B-PER,1
+289,3,19,Trumpa,trump,I-PER,1
 289,3,20,in,,O,
 289,3,21,Mika,mike,B-PER,120
 289,3,22,Penca,pence,I-PER,120
@@ -97,7 +97,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 289,4,13,zagotoviti,,O,
 289,4,14,",",,O,
 289,4,15,da,,O,
-289,4,16,ZDA,,O,
+289,4,16,ZDA,zda,B-LOC,2
 289,4,17,ostanejo,,O,
 289,4,18,zveza,,O,
 289,4,19,bolj,,O,
@@ -131,7 +131,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 289,5,1,Veliko,,O,
 289,5,2,komentatorjev,,O,
 289,5,3,v,,O,
-289,5,4,ZDA,,O,
+289,5,4,ZDA,zda,B-LOC,2
 289,5,5,danes,,O,
 289,5,6,pravi,,O,
 289,5,7,",",,O,
@@ -155,8 +155,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 289,5,25,",",,O,
 289,5,26,kot,,O,
 289,5,27,je,,O,
-289,5,28,Donald,,O,
-289,5,29,Trump,,O,
+289,5,28,Donald,donald,B-PER,1
+289,5,29,Trump,trump,I-PER,1
 289,5,30,.,,O,
 289,6,1,Sistem,,O,
 289,6,2,je,,O,
@@ -174,8 +174,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 289,6,14,primeru,,O,
 289,6,15,potrebe,,O,
 289,6,16,v,,O,
-289,6,17,Belo,,O,
-289,6,18,hišo,,O,
+289,6,17,Belo,bela,B-LOC,111
+289,6,18,hišo,hiša,I-LOC,111
 289,6,19,poslali,,O,
 289,6,20,nekoga,,O,
 289,6,21,drugega,,O,
@@ -209,7 +209,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 289,8,7,270,,O,
 289,8,8,elektorjev,,O,
 289,8,9,in,,O,
-289,8,10,Trump,,O,
+289,8,10,Trump,trump,B-PER,1
 289,8,11,jih,,O,
 289,8,12,je,,O,
 289,8,13,osvojil,,O,
@@ -359,7 +359,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 289,13,40,tem,,O,
 289,13,41,primeru,,O,
 289,13,42,odpovedali,,O,
-289,13,43,Clintonovi,,O,
+289,13,43,Clintonovi,clintonova,B-PER,3
 289,13,44,.,,O,
 289,14,1,Želeli,,O,
 289,14,2,so,,O,
@@ -384,7 +384,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 289,15,4,",",,O,
 289,15,5,da,,O,
 289,15,6,bo,,O,
-289,15,7,Trump,,O,
+289,15,7,Trump,trump,B-PER,1
 289,15,8,20.,,O,
 289,15,9,januarja,,O,
 289,15,10,2017,,O,
@@ -392,5 +392,5 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 289,15,12,kot,,O,
 289,15,13,45.,,O,
 289,15,14,predsednik,,O,
-289,15,15,ZDA,,O,
+289,15,15,ZDA,zda,B-LOC,2
 289,15,16,.,,O,

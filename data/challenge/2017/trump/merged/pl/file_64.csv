@@ -2,15 +2,15 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 64,0,1,Wiadomości,,O,
 64,0,2,-,,O,
 64,0,3,Donald,donald,B-PER,1
-64,0,4,Trump,trump,B-PER,1
+64,0,4,Trump,trump,I-PER,1
 64,0,5,prędzej,,O,
 64,0,6,zaszkodzi,,O,
 64,0,7,",",,O,
 64,0,8,niż,,O,
 64,0,9,pomoże,,O,
 64,0,10,węglowi,,O,
-64,0,11,Donald,,O,
-64,0,12,Trump,,O,
+64,0,11,Donald,donald,B-PER,1
+64,0,12,Trump,trump,I-PER,1
 64,0,13,prędzej,,O,
 64,0,14,zaszkodzi,,O,
 64,0,15,",",,O,
@@ -21,8 +21,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 64,1,1,Prezydent,,O,
 64,1,2,elekt,,O,
 64,1,3,USA,usa,B-LOC,2
-64,1,4,Donald,,O,
-64,1,5,Trump,,O,
+64,1,4,Donald,donald,B-PER,1
+64,1,5,Trump,trump,I-PER,1
 64,1,6,po,,O,
 64,1,7,wygranych,,O,
 64,1,8,wyborach,,O,
@@ -73,7 +73,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 64,3,13,jakoś,,O,
 64,3,14,pomóc,,O,
 64,3,15,.,,O,
-64,4,1,Trump,,O,
+64,4,1,Trump,trump,B-PER,1
 64,4,2,powszechnie,,O,
 64,4,3,uważany,,O,
 64,4,4,jest,,O,
@@ -116,14 +116,14 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 64,6,11,w,,O,
 64,6,12,kampanii,,O,
 64,6,13,wyborczej,,O,
-64,6,14,Trump,,O,
+64,6,14,Trump,trump,B-PER,1
 64,6,15,obiecywał,,O,
 64,6,16,ocalić,,O,
 64,6,17,.,,O,
 64,7,1,Dla,,O,
 64,7,2,węgla,,O,
 64,7,3,w,,O,
-64,7,4,USA,,O,
+64,7,4,USA,usa,B-LOC,2
 64,7,5,przewaga,,O,
 64,7,6,konkurencyjna,,O,
 64,7,7,gazu,,O,
@@ -134,7 +134,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 64,7,12,przytłaczająca,,O,
 64,7,13,.,,O,
 64,8,1,Jeżeli,,O,
-64,8,2,Trump,,O,
+64,8,2,Trump,trump,B-PER,1
 64,8,3,złagodzi,,O,
 64,8,4,restrykcje,,O,
 64,8,5,środowiskowe,,O,
@@ -165,7 +165,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 64,9,18,.,,O,
 64,10,1,Być,,O,
 64,10,2,może,,O,
-64,10,3,Trump,,O,
+64,10,3,Trump,trump,B-PER,1
 64,10,4,będzie,,O,
 64,10,5,chciał,,O,
 64,10,6,przeforsować,,O,
@@ -324,7 +324,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 64,18,22,elektrowni,,O,
 64,18,23,węglowych,,O,
 64,18,24,w,,O,
-64,18,25,USA,,O,
+64,18,25,USA,usa,B-LOC,2
 64,18,26,.,,O,
 64,19,1,Zaskarżony,,O,
 64,19,2,przez,,O,
@@ -336,7 +336,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 64,19,8,w,,O,
 64,19,9,sądzie,,O,
 64,19,10,.,,O,
-64,20,1,Trump,,O,
+64,20,1,Trump,trump,B-PER,1
 64,20,2,zapowiadał,,O,
 64,20,3,oczywiście,,O,
 64,20,4,",",,O,
@@ -407,7 +407,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 64,24,1,Po,,O,
 64,24,2,ostatnim,,O,
 64,24,3,wyroku,,O,
-64,24,4,CPP,,O,
+64,24,4,CPP,cpp,B-MISC,21003
 64,24,5,",",,O,
 64,24,6,nawet,,O,
 64,24,7,okrojony,,O,
@@ -486,7 +486,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 64,28,13,wynik,,O,
 64,28,14,batalii,,O,
 64,28,15,o,,O,
-64,28,16,CPP,,O,
+64,28,16,CPP,cpp,B-MISC,21003
 64,28,17,",",,O,
 64,28,18,mniejszym,,O,
 64,28,19,ryzykiem,,O,
@@ -503,7 +503,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 64,29,1,Pozostaje,,O,
 64,29,2,jeszcze,,O,
 64,29,3,stosunek,,O,
-64,29,4,Trumpa,,O,
+64,29,4,Trumpa,trump,B-PER,1
 64,29,5,do,,O,
 64,29,6,OZE,oze,B-ORG,21004
 64,29,7,.,,O,
@@ -594,7 +594,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 64,34,4,nowej,,O,
 64,34,5,administracji,,O,
 64,34,6,do,,O,
-64,34,7,OZE,,O,
+64,34,7,OZE,oze,B-ORG,21004
 64,34,8,trzeba,,O,
 64,34,9,będzie,,O,
 64,34,10,więc,,O,
@@ -630,7 +630,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 64,36,8,argument,,O,
 64,36,9,",",,O,
 64,36,10,jakim,,O,
-64,36,11,Trump,,O,
+64,36,11,Trump,trump,B-PER,1
 64,36,12,,,O,
 64,36,13,wytłumaczyć,,O,
 64,36,14,zmianę,,O,
@@ -638,7 +638,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 64,36,16,–,,O,
 64,36,17,w,,O,
 64,36,18,końcu,,O,
-64,36,19,OZE,,O,
+64,36,19,OZE,oze,B-ORG,21004
 64,36,20,produkują,,O,
 64,36,21,energię,,O,
 64,36,22,w,,O,

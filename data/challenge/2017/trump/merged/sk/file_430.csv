@@ -6,7 +6,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 430,0,5,sa,,O,
 430,0,6,stal,,O,
 430,0,7,Donald,donald,B-PER,1
-430,0,8,Trump,trump,B-PER,1
+430,0,8,Trump,trump,I-PER,1
 430,0,9,–,,O,
 430,0,10,Priekopník,,O,
 430,0,11,Približne,,O,
@@ -54,7 +54,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 430,1,21,Donaldom,donald,B-PER,1
 430,1,22,Trumpom,trump,I-PER,1
 430,1,23,.,,O,
-430,2,1,Trump,,O,
+430,2,1,Trump,trump,B-PER,1
 430,2,2,sa,,O,
 430,2,3,stal,,O,
 430,2,4,víťazom,,O,
@@ -102,7 +102,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 430,3,12,čo,,O,
 430,3,13,bude,,O,
 430,3,14,môcť,,O,
-430,3,15,Trump,,O,
+430,3,15,Trump,trump,B-PER,1
 430,3,16,20,,O,
 430,3,17,.,,O,
 430,3,18,januára,,O,
@@ -115,8 +115,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 430,3,25,Obamu,obama,I-PER,16
 430,3,26,.,,O,
 430,4,1,Republikán,,O,
-430,4,2,Donald,,O,
-430,4,3,Trump,,O,
+430,4,2,Donald,donald,B-PER,1
+430,4,3,Trump,trump,I-PER,1
 430,4,4,bude,,O,
 430,4,5,v,,O,
 430,4,6,poradí,,O,

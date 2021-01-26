@@ -72,7 +72,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 41,3,29,Francji,francja,B-LOC,241
 41,3,30,.,,O,
 41,4,1,Szef,,O,
-41,4,2,MSWiA,,O,
+41,4,2,MSWiA,mswia,B-ORG,20100
 41,4,3,podkreślił,,O,
 41,4,4,",",,O,
 41,4,5,że,,O,
@@ -116,8 +116,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 41,6,4,tego,,O,
 41,6,5,",",,O,
 41,6,6,że,,O,
-41,6,7,Komisja,,O,
-41,6,8,Europejska,,O,
+41,6,7,Komisja,komisja,B-ORG,1
+41,6,8,Europejska,europejska,I-ORG,1
 41,6,9,wycofuje,,O,
 41,6,10,się,,O,
 41,6,11,z,,O,
@@ -127,8 +127,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 41,6,15,–,,O,
 41,6,16,podkreślił,,O,
 41,6,17,minister,,O,
-41,6,18,Mariusz,,O,
-41,6,19,Błaszczak,,O,
+41,6,18,Mariusz,mariusz,B-PER,20104
+41,6,19,Błaszczak,błaszczak,I-PER,20104
 41,6,20,oraz,,O,
 41,6,21,dodał,,O,
 41,6,22,",",,O,
@@ -209,7 +209,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 41,9,22,minister,,O,
 41,9,23,.,,O,
 41,10,1,Szef,,O,
-41,10,2,MSWiA,,O,
+41,10,2,MSWiA,mswia,B-ORG,20100
 41,10,3,przyznał,,O,
 41,10,4,również,,O,
 41,10,5,",",,O,
@@ -254,11 +254,11 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 41,11,19,–,,O,
 41,11,20,podkreślił,,O,
 41,11,21,minister,,O,
-41,11,22,Mariusz,,O,
-41,11,23,Błaszczak,,O,
+41,11,22,Mariusz,mariusz,B-PER,20104
+41,11,23,Błaszczak,błaszczak,I-PER,20104
 41,11,24,.,,O,
 41,12,1,Szef,,O,
-41,12,2,MSWiA,,O,
+41,12,2,MSWiA,mswia,B-ORG,20100
 41,12,3,był,,O,
 41,12,4,gościem,,O,
 41,12,5,Radiowej,radiowa,B-ORG,20101

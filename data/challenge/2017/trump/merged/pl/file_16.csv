@@ -4,7 +4,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 16,0,3,",",,O,
 16,0,4,że,,O,
 16,0,5,Donald,donald,B-PER,1
-16,0,6,Trump,trump,B-PER,1
+16,0,6,Trump,trump,I-PER,1
 16,0,7,to,,O,
 16,0,8,potomek,,O,
 16,0,9,Piastów,piastowie,B-PER,20300
@@ -59,9 +59,9 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 16,2,7,wywód,,O,
 16,2,8,macierzystej,,O,
 16,2,9,linii,,O,
-16,2,10,D,,O,
-16,2,11,.,,O,
-16,2,12,Trumpa,,O,
+16,2,10,D,d,B-PER,1
+16,2,11,.,.,I-PER,1
+16,2,12,Trumpa,trump,I-PER,1
 16,2,13,.,,O,
 16,3,1,Jeżeli,,O,
 16,3,2,ten,,O,
@@ -71,7 +71,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 16,3,6,",",,O,
 16,3,7,to,,O,
 16,3,8,prezydent,,O,
-16,3,9,Trump,,O,
+16,3,9,Trump,trump,B-PER,1
 16,3,10,jest,,O,
 16,3,11,krewnym,,O,
 16,3,12,króla,,O,
@@ -87,5 +87,5 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 16,3,22,jest,,O,
 16,3,23,potomkiem,,O,
 16,3,24,dynastii,,O,
-16,3,25,Piastów,,O,
+16,3,25,Piastów,piastowie,B-PER,20300
 16,3,26,.,,O,

@@ -30,7 +30,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 337,1,18,pridelovalcev,,O,
 337,1,19,terana,,O,
 337,1,20,Boris,boris,B-PER,40060
-337,1,21,Lisjak,lisjak,B-PER,40060
+337,1,21,Lisjak,lisjak,I-PER,40060
 337,1,22,je,,O,
 337,1,23,na,,O,
 337,1,24,novinarski,,O,
@@ -101,7 +101,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 337,6,3,",",,O,
 337,6,4,da,,O,
 337,6,5,so,,O,
-337,6,6,Kraševci,,O,
+337,6,6,Kraševci,kraševci,B-PER,40059
 337,6,7,preživeli,,O,
 337,6,8,25,,O,
 337,6,9,let,,O,
@@ -111,7 +111,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 337,6,13,pa,,O,
 337,6,14,jih,,O,
 337,6,15,hoče,,O,
-337,6,16,EU,,O,
+337,6,16,EU,eu,B-LOC,6
 337,6,17,uničiti,,O,
 337,6,18,.,,O,
 337,7,1,"""",,O,
@@ -130,7 +130,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 337,7,14,"""",,O,
 337,7,15,je,,O,
 337,7,16,dejal,,O,
-337,7,17,Lisjak,,O,
+337,7,17,Lisjak,lisjak,B-PER,40060
 337,7,18,.,,O,
 337,8,1,Enolog,,O,
 337,8,2,Miran,miran,B-PER,40062
@@ -181,7 +181,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 337,9,21,je,,O,
 337,9,22,dodal,,O,
 337,9,23,.,,O,
-337,10,1,Komisija,,O,
+337,10,1,Komisija,komisija,B-ORG,1
 337,10,2,zato,,O,
 337,10,3,po,,O,
 337,10,4,navedbah,,O,
@@ -193,7 +193,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 337,10,10,bi,,O,
 337,10,11,bilo,,O,
 337,10,12,treba,,O,
-337,10,13,Hrvaški,,O,
+337,10,13,Hrvaški,hrvaška,B-LOC,41
 337,10,14,ob,,O,
 337,10,15,jasnih,,O,
 337,10,16,pogojih,,O,
@@ -244,8 +244,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 337,12,2,primer,,O,
 337,12,3,",",,O,
 337,12,4,"""",,O,
-337,12,5,Hrvatska,,O,
-337,12,6,Istra,,O,
+337,12,5,Hrvatska,hrvatska,B-LOC,40066
+337,12,6,Istra,istra,I-LOC,40066
 337,12,7,"""",,O,
 337,12,8,bi,,O,
 337,12,9,moralo,,O,
@@ -288,7 +288,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 337,14,2,za,,O,
 337,14,3,kmetijstvo,,O,
 337,14,4,Dejan,dejan,B-PER,40067
-337,14,5,Židan,židan,B-PER,40067
+337,14,5,Židan,židan,I-PER,40067
 337,14,6,",",,O,
 337,14,7,ki,,O,
 337,14,8,je,,O,
@@ -310,7 +310,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 337,14,24,procesa,,O,
 337,14,25,za,,O,
 337,14,26,izjemo,,O,
-337,14,27,Hrvaški,,O,
+337,14,27,Hrvaški,hrvaška,B-LOC,41
 337,14,28,pri,,O,
 337,14,29,teranu,,O,
 337,14,30,uporabila,,O,
@@ -321,7 +321,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 337,14,35,tudi,,O,
 337,14,36,tožbo,,O,
 337,14,37,proti,,O,
-337,14,38,komisiji,,O,
+337,14,38,komisiji,komisija,B-ORG,1
 337,14,39,pred,,O,
 337,14,40,evropskim,,O,
 337,14,41,sodiščem,,O,
@@ -334,12 +334,12 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 337,15,6,se,,O,
 337,15,7,maje,,O,
 337,15,8,ugled,,O,
-337,15,9,Evropske,,O,
-337,15,10,komisije,,O,
+337,15,9,Evropske,evropska,B-ORG,1
+337,15,10,komisije,komisija,I-ORG,1
 337,15,11,v,,O,
-337,15,12,Sloveniji,,O,
+337,15,12,Sloveniji,slovenija,B-LOC,295
 337,15,13,.,,O,
-337,16,1,Slovenija,,O,
+337,16,1,Slovenija,slovenija,B-LOC,295
 337,16,2,ne,,O,
 337,16,3,more,,O,
 337,16,4,pristati,,O,
@@ -358,13 +358,13 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 337,16,17,novinarski,,O,
 337,16,18,konferenci,,O,
 337,16,19,dejal,,O,
-337,16,20,Židan,,O,
+337,16,20,Židan,židan,B-PER,40067
 337,16,21,in,,O,
 337,16,22,navedel,,O,
 337,16,23,",",,O,
 337,16,24,da,,O,
 337,16,25,je,,O,
-337,16,26,komisija,,O,
+337,16,26,komisija,komisija,B-ORG,1
 337,16,27,s,,O,
 337,16,28,takšno,,O,
 337,16,29,potezo,,O,
@@ -390,7 +390,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 337,17,16,pristopnih,,O,
 337,17,17,pogajanj,,O,
 337,17,18,",",,O,
-337,17,19,Hrvaška,,O,
+337,17,19,Hrvaška,hrvaška,B-LOC,41
 337,17,20,pa,,O,
 337,17,21,v,,O,
 337,17,22,tistem,,O,
@@ -406,7 +406,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 337,17,32,teran,,O,
 337,17,33,.,,O,
 337,18,1,Tudi,,O,
-337,18,2,Slovenija,,O,
+337,18,2,Slovenija,slovenija,B-LOC,295
 337,18,3,je,,O,
 337,18,4,izjema,,O,
 337,18,5,pri,,O,
@@ -429,7 +429,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 337,19,13,",",,O,
 337,19,14,tudi,,O,
 337,19,15,za,,O,
-337,19,16,Slovenijo,,O,
+337,19,16,Slovenijo,slovenija,B-LOC,295
 337,19,17,.,,O,
 337,20,1,Doslej,,O,
 337,20,2,je,,O,
@@ -459,7 +459,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 337,20,26,v,,O,
 337,20,27,Nemčiji,nemčija,B-LOC,68
 337,20,28,.,,O,
-337,21,1,Slovenija,,O,
+337,21,1,Slovenija,slovenija,B-LOC,295
 337,21,2,ima,,O,
 337,21,3,podobno,,O,
 337,21,4,izjemo,,O,

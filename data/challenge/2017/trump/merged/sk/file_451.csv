@@ -2,7 +2,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 451,0,1,ENERGIE-PORTAL.SK,,O,
 451,0,2,|,,O,
 451,0,3,Donald,donald,B-PER,1
-451,0,4,Trump,trump,B-PER,1
+451,0,4,Trump,trump,I-PER,1
 451,0,5,bojuje,,O,
 451,0,6,s,,O,
 451,0,7,veternými,,O,
@@ -12,8 +12,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 451,1,2,Americký,,O,
 451,1,3,prezidentský,,O,
 451,1,4,kandidát,,O,
-451,2,1,Donald,,O,
-451,2,2,Trump,,O,
+451,2,1,Donald,donald,B-PER,1
+451,2,2,Trump,trump,I-PER,1
 451,2,3,sa,,O,
 451,2,4,mal,,O,
 451,2,5,v,,O,
@@ -76,7 +76,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 451,7,18,roku,,O,
 451,7,19,2013,,O,
 451,7,20,.,,O,
-451,8,1,Trump,,O,
+451,8,1,Trump,trump,B-PER,1
 451,8,2,odvtedy,,O,
 451,8,3,bojuje,,O,
 451,8,4,proti,,O,
@@ -92,7 +92,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 451,9,7,v,,O,
 451,9,8,Londýne,londýn,B-LOC,270
 451,9,9,-,,O,
-451,9,10,Trump,,O,
+451,9,10,Trump,trump,B-PER,1
 451,9,11,tak,,O,
 451,9,12,už,,O,
 451,9,13,tretíkrát,,O,

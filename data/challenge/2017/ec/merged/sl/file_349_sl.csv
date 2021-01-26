@@ -1,6 +1,6 @@
 docId,sentenceId,tokenId,text,lemma,ner,clID
 349,0,1,Evropska,evropska,B-ORG,1
-349,0,2,komisija,komisija,B-ORG,1
+349,0,2,komisija,komisija,I-ORG,1
 349,0,3,je,,O,
 349,0,4,članicam,,O,
 349,0,5,že,,O,
@@ -21,8 +21,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 349,1,11,zares,,O,
 349,1,12,",",,O,
 349,1,13,je,,O,
-349,1,14,evropska,,O,
-349,1,15,komisija,,O,
+349,1,14,evropska,evropska,B-ORG,1
+349,1,15,komisija,komisija,I-ORG,1
 349,1,16,že,,O,
 349,1,17,20.,,O,
 349,1,18,julija,,O,
@@ -67,7 +67,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 349,1,57,letom,,O,
 349,1,58,1990.,,O,
 349,2,1,»,,O,
-349,2,2,Komisija,,O,
+349,2,2,Komisija,komisija,B-ORG,1
 349,2,3,je,,O,
 349,2,4,predlagala,,O,
 349,2,5,zavezujoče,,O,
@@ -132,10 +132,10 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 349,4,27,«,,O,
 349,4,28,je,,O,
 349,4,29,za,,O,
-349,4,30,Dnevnik,,O,
+349,4,30,Dnevnik,dnevnik,B-ORG,40022
 349,4,31,povedala,,O,
 349,4,32,predstavnica,,O,
-349,4,33,komisije,,O,
+349,4,33,komisije,komisija,B-ORG,1
 349,4,34,Nicole,nicole,B-PER,40099
 349,4,35,Bockstaller,bockstaller,I-PER,40099
 349,4,36,.,,O,
@@ -247,7 +247,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 349,9,1,Le,,O,
 349,9,2,tako,,O,
 349,9,3,bo,,O,
-349,9,4,EU,,O,
+349,9,4,EU,eu,B-LOC,6
 349,9,5,lahko,,O,
 349,9,6,izpolnila,,O,
 349,9,7,svojo,,O,

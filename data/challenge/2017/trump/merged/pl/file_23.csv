@@ -1,6 +1,6 @@
 docId,sentenceId,tokenId,text,lemma,ner,clID
 23,0,1,Donald,donald,B-PER,1
-23,0,2,Trump,trump,B-PER,1
+23,0,2,Trump,trump,I-PER,1
 23,0,3,nie,,O,
 23,0,4,zrezygnuje,,O,
 23,0,5,z,,O,
@@ -13,8 +13,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 23,0,12,wykonawczym,,O,
 23,0,13,w,,O,
 23,0,14,NBC,nbc,B-ORG,97
-23,0,15,Donald,,O,
-23,0,16,Trump,,O,
+23,0,15,Donald,donald,B-PER,1
+23,0,16,Trump,trump,I-PER,1
 23,0,17,dla,,O,
 23,0,18,Białego,biay,B-LOC,111
 23,0,19,Domu,dom,I-LOC,111
@@ -33,15 +33,15 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 23,1,7,wykonawczym,,O,
 23,1,8,programu,,O,
 23,1,9,telewizji,,O,
-23,1,10,NBC,,O,
+23,1,10,NBC,nbc,B-ORG,97
 23,1,11,-,,O,
 23,1,12,"""",,O,
 23,1,13,Celebrity,celebrity,B-MISC,20552
 23,1,14,Apprentice,apprentice,I-MISC,20552
 23,1,15,"""",,O,
 23,1,16,.,,O,
-23,2,1,Donald,,O,
-23,2,2,Trump,,O,
+23,2,1,Donald,donald,B-PER,1
+23,2,2,Trump,trump,I-PER,1
 23,2,3,był,,O,
 23,2,4,zaangażowany,,O,
 23,2,5,w,,O,
@@ -81,7 +81,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 23,4,6,gospodarzem,,O,
 23,4,7,będzie,,O,
 23,4,8,Arnold,arnold,B-PER,20553
-23,4,9,Schwarzenegger,schwarzenegger,B-PER,20553
+23,4,9,Schwarzenegger,schwarzenegger,I-PER,20553
 23,4,10,.,,O,
 23,5,1,Prezydent,,O,
 23,5,2,elekt,,O,
@@ -93,7 +93,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 23,5,8,wykonawczego,,O,
 23,5,9,.,,O,
 23,6,1,Nazwisko,,O,
-23,6,2,Trumpa,,O,
+23,6,2,Trumpa,trump,B-PER,1
 23,6,3,pojawi,,O,
 23,6,4,się,,O,
 23,6,5,w,,O,
@@ -110,7 +110,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 23,6,16,-,,O,
 23,6,17,a,,O,
 23,6,18,przed,,O,
-23,6,19,Schwarzeneggerem,,O,
+23,6,19,Schwarzeneggerem,schwarzenegger,B-PER,20553
 23,6,20,.,,O,
 23,7,1,Kwestią,,O,
 23,7,2,problematyczną,,O,
@@ -163,8 +163,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 23,10,10,charytatywne,,O,
 23,10,11,.,,O,
 23,11,1,"""",,O,
-23,11,2,Celebrity,,O,
-23,11,3,Apprentice,,O,
+23,11,2,Celebrity,celebrity,B-MISC,20552
+23,11,3,Apprentice,apprentice,I-MISC,20552
 23,11,4,"""",,O,
 23,11,5,to,,O,
 23,11,6,show,,O,
@@ -188,8 +188,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 23,11,24,.,,O,
 23,12,1,Programy,,O,
 23,12,2,stworzył,,O,
-23,12,3,Mark,,O,
-23,12,4,Burnett,,O,
+23,12,3,Mark,mark,B-PER,20554
+23,12,4,Burnett,burnett,I-PER,20554
 23,12,5,.,,O,
 23,13,1,Autor,,O,
 23,13,2,:,,O,

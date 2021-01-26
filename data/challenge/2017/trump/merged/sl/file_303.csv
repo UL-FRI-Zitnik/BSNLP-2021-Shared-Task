@@ -9,12 +9,12 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 303,0,8,Time,time,B-ORG,126
 303,0,9,je,,O,
 303,0,10,Donald,donald,B-PER,1
-303,0,11,Trump,trump,B-PER,1
+303,0,11,Trump,trump,I-PER,1
 303,1,1,Novoizvoljeni,,O,
 303,1,2,ameriški,,O,
 303,1,3,predsednik,,O,
-303,1,4,Donald,,O,
-303,1,5,Trump,,O,
+303,1,4,Donald,donald,B-PER,1
+303,1,5,Trump,trump,I-PER,1
 303,1,6,je,,O,
 303,1,7,osebnost,,O,
 303,1,8,leta,,O,
@@ -23,7 +23,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 303,1,11,izboru,,O,
 303,1,12,ameriške,,O,
 303,1,13,revije,,O,
-303,1,14,Time,,O,
+303,1,14,Time,time,B-ORG,126
 303,1,15,.,,O,
 303,2,1,Ustvarjalci,,O,
 303,2,2,revije,,O,
@@ -88,8 +88,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 303,5,1,"""",,O,
 303,5,2,Izziv,,O,
 303,5,3,za,,O,
-303,5,4,Donalda,,O,
-303,5,5,Trumpa,trump,B-PER,1
+303,5,4,Donalda,donald,B-PER,1
+303,5,5,Trumpa,trump,I-PER,1
 303,5,6,je,,O,
 303,5,7,",",,O,
 303,5,8,kako,,O,
@@ -106,7 +106,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 303,5,19,dodala,,O,
 303,5,20,.,,O,
 303,6,1,Revija,,O,
-303,6,2,Time,,O,
+303,6,2,Time,time,B-ORG,126
 303,6,3,izpostavlja,,O,
 303,6,4,predvsem,,O,
 303,6,5,spektakularno,,O,
@@ -188,13 +188,13 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 303,8,24,leta,,O,
 303,8,25,.,,O,
 303,8,26,"""",,O,
-303,8,27,Trumpova,,O,
+303,8,27,Trumpova,trump,B-PER,1
 303,8,28,podoba,,O,
 303,8,29,krasi,,O,
 303,8,30,tudi,,O,
 303,8,31,naslovnico,,O,
 303,8,32,revije,,O,
-303,8,33,Time,,O,
+303,8,33,Time,time,B-ORG,126
 303,8,34,",",,O,
 303,8,35,pri,,O,
 303,8,36,čemer,,O,
@@ -207,7 +207,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 303,8,43,držav,države,I-LOC,2
 303,8,44,Amerike,amerike,I-LOC,2
 303,8,45,.,,O,
-303,9,1,Trump,,O,
+303,9,1,Trump,trump,B-PER,1
 303,9,2,je,,O,
 303,9,3,prejem,,O,
 303,9,4,naziva,,O,
@@ -247,7 +247,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 303,10,16,Obamo,obama,I-PER,16
 303,10,17,.,,O,
 303,11,1,Revija,,O,
-303,11,2,Time,,O,
+303,11,2,Time,time,B-ORG,126
 303,11,3,že,,O,
 303,11,4,od,,O,
 303,11,5,leta,,O,
@@ -293,7 +293,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 303,13,6,osebnosti,,O,
 303,13,7,leta,,O,
 303,13,8,revije,,O,
-303,13,9,Time,,O,
+303,13,9,Time,time,B-ORG,126
 303,13,10,tudi,,O,
 303,13,11,Adolf,adolf,B-PER,20608
 303,13,12,Hitler,hitler,I-PER,20608
@@ -322,7 +322,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 303,14,8,osebnost,,O,
 303,14,9,leta,,O,
 303,14,10,tudi,,O,
-303,14,11,Trumpova,,O,
+303,14,11,Trumpova,trump,B-PER,1
 303,14,12,tekmica,,O,
 303,14,13,na,,O,
 303,14,14,predsedniških,,O,
@@ -340,7 +340,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 303,14,26,Beyonce,beyonce,B-PER,20104
 303,14,27,.,,O,
 303,15,1,Pri,,O,
-303,15,2,Time,,O,
+303,15,2,Time,time,B-ORG,126
 303,15,3,so,,O,
 303,15,4,na,,O,
 303,15,5,koncu,,O,

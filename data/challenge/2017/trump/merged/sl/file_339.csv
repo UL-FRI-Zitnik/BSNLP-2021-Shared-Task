@@ -4,7 +4,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 339,0,3,leta,,O,
 339,0,4,je,,O,
 339,0,5,Donald,donald,B-PER,1
-339,0,6,Trump,trump,B-PER,1
+339,0,6,Trump,trump,I-PER,1
 339,0,7,|,,O,
 339,0,8,Prvi,,O,
 339,0,9,interaktivni,,O,
@@ -26,8 +26,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 339,1,10,novoizvoljenega,,O,
 339,1,11,ameriškega,,O,
 339,1,12,predsednika,,O,
-339,1,13,Donalda,,O,
-339,1,14,Trumpa,trump,B-PER,1
+339,1,13,Donalda,donald,B-PER,1
+339,1,14,Trumpa,trump,I-PER,1
 339,1,15,",",,O,
 339,1,16,ki,,O,
 339,1,17,je,,O,
@@ -52,7 +52,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 339,2,9,",",,O,
 339,2,10,da,,O,
 339,2,11,je,,O,
-339,2,12,Trump,,O,
+339,2,12,Trump,trump,B-PER,1
 339,2,13,na,,O,
 339,2,14,novo,,O,
 339,2,15,napisal,,O,
@@ -165,7 +165,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 339,5,24,leta,,O,
 339,5,25,.,,O,
 339,5,26,"""",,O,
-339,5,27,Trumpova,,O,
+339,5,27,Trumpova,trump,B-PER,1
 339,5,28,podoba,,O,
 339,5,29,je,,O,
 339,5,30,tudi,,O,
@@ -184,7 +184,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 339,5,43,držav,države,I-LOC,2
 339,5,44,Amerike,amerike,I-LOC,2
 339,5,45,.,,O,
-339,6,1,Trump,,O,
+339,6,1,Trump,trump,B-PER,1
 339,6,2,je,,O,
 339,6,3,v,,O,
 339,6,4,odzivu,,O,
@@ -229,7 +229,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 339,7,4,so,,O,
 339,7,5,bili,,O,
 339,7,6,poleg,,O,
-339,7,7,Trumpa,,O,
+339,7,7,Trumpa,trump,B-PER,1
 339,7,8,še,,O,
 339,7,9,demokratska,,O,
 339,7,10,predsedniška,,O,
@@ -263,7 +263,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 339,7,38,pevka,,O,
 339,7,39,Beyonce,beyonce,B-PER,20104
 339,7,40,.,,O,
-339,8,1,Trump,,O,
+339,8,1,Trump,trump,B-PER,1
 339,8,2,je,,O,
 339,8,3,bil,,O,
 339,8,4,sicer,,O,

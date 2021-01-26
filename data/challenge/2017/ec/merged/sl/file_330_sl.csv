@@ -1,8 +1,8 @@
 docId,sentenceId,tokenId,text,lemma,ner,clID
 330,0,1,Evropska,evropska,B-ORG,1
 330,0,2,komisija,komisija,I-ORG,1
-330,1,1,Evropski,,O,
-330,1,2,komisiji,,O,
+330,1,1,Evropski,evropska,B-ORG,1
+330,1,2,komisiji,komisija,I-ORG,1
 330,1,3,včasih,,O,
 330,1,4,rečejo,,O,
 330,1,5,motor,,O,
@@ -35,8 +35,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 330,1,32,Evropskemu,evropski,B-ORG,42
 330,1,33,svetu,svet,I-ORG,42
 330,1,34,.,,O,
-330,2,1,Evropska,,O,
-330,2,2,komisija,,O,
+330,2,1,Evropska,evropska,B-ORG,1
+330,2,2,komisija,komisija,I-ORG,1
 330,2,3,ima,,O,
 330,2,4,v,,O,
 330,2,5,EU,eu,B-LOC,6
@@ -45,8 +45,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 330,2,8,zakonodajne,,O,
 330,2,9,pobude,,O,
 330,2,10,.,,O,
-330,3,1,Evropska,,O,
-330,3,2,komisija,,O,
+330,3,1,Evropska,evropska,B-ORG,1
+330,3,2,komisija,komisija,I-ORG,1
 330,3,3,tudi,,O,
 330,3,4,preverja,,O,
 330,3,5,",",,O,
@@ -76,8 +76,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 330,4,9,Sodiščem,sodišče,B-ORG,239
 330,4,10,EU,eu,I-ORG,239
 330,4,11,.,,O,
-330,5,1,Evropska,,O,
-330,5,2,komisija,,O,
+330,5,1,Evropska,evropska,B-ORG,1
+330,5,2,komisija,komisija,I-ORG,1
 330,5,3,poleg,,O,
 330,5,4,tega,,O,
 330,5,5,še,,O,
@@ -94,8 +94,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 330,5,16,tretjimi,,O,
 330,5,17,državami,,O,
 330,5,18,.,,O,
-330,6,1,Evropsko,,O,
-330,6,2,komisijo,,O,
+330,6,1,Evropsko,evropska,B-ORG,1
+330,6,2,komisijo,komisija,I-ORG,1
 330,6,3,sestavlja,,O,
 330,6,4,28,,O,
 330,6,5,članov,,O,
@@ -119,8 +119,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 330,8,1,SPBR,spbr,B-ORG,40045
 330,8,2,spremlja,,O,
 330,8,3,delo,,O,
-330,8,4,Evropske,,O,
-330,8,5,komisije,,O,
+330,8,4,Evropske,evropska,B-ORG,1
+330,8,5,komisije,komisija,I-ORG,1
 330,8,6,in,,O,
 330,8,7,je,,O,
 330,8,8,z,,O,
@@ -143,7 +143,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 330,10,4,pri,pri,I-ORG,40045
 330,10,5,EU,eu,I-ORG,40045
 330,10,6,(,,O,
-330,10,7,SPBR,,O,
+330,10,7,SPBR,spbr,B-ORG,40045
 330,10,8,),,O,
 330,10,9,Rue,rue,B-LOC,40046
 330,10,10,du,du,I-LOC,40046
@@ -168,7 +168,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 330,11,14,6301,,O,
 330,11,15,E,,O,
 330,11,16,:,,O,
-330,11,17,spbr,,O,
+330,11,17,spbr,spbr,B-ORG,40045
 330,11,18,(,,O,
 330,11,19,at,,O,
 330,11,20,),,O,

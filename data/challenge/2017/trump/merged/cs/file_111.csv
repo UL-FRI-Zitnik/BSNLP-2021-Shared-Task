@@ -1,7 +1,7 @@
 docId,sentenceId,tokenId,text,lemma,ner,clID
 111,0,1,Jak,,O,
 111,0,2,Donald,donald,B-PER,1
-111,0,3,Trump,trump,B-PER,1
+111,0,3,Trump,trump,I-PER,1
 111,0,4,vidí,,O,
 111,0,5,vědu,,O,
 111,0,6,?,,O,
@@ -30,8 +30,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 111,1,23,",",,O,
 111,1,24,by,,O,
 111,1,25,chtěl,,O,
-111,1,26,Donald,,O,
-111,1,27,Trump,,O,
+111,1,26,Donald,donald,B-PER,1
+111,1,27,Trump,trump,I-PER,1
 111,1,28,ukončit,,O,
 111,1,29,všechny,,O,
 111,1,30,federální,,O,
@@ -82,7 +82,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 111,3,21,zkoumání,,O,
 111,3,22,Země,,O,
 111,3,23,.,,O,
-111,4,1,Trump,,O,
+111,4,1,Trump,trump,B-PER,1
 111,4,2,také,,O,
 111,4,3,prohlásil,,O,
 111,4,4,",",,O,
@@ -102,8 +102,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 111,5,4,1,,O,
 111,5,5,",",,O,
 111,5,6,2013,,O,
-111,5,7,Donald,,O,
-111,5,8,Trump,,O,
+111,5,7,Donald,donald,B-PER,1
+111,5,8,Trump,trump,I-PER,1
 111,5,9,reprezentuje,,O,
 111,5,10,klasické,,O,
 111,5,11,postoje,,O,
@@ -135,8 +135,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 111,7,13,zdrojů,,O,
 111,7,14,energie,,O,
 111,7,15,",",,O,
-111,7,16,Donald,,O,
-111,7,17,Trump,,O,
+111,7,16,Donald,donald,B-PER,1
+111,7,17,Trump,trump,I-PER,1
 111,7,18,by,,O,
 111,7,19,spíše,,O,
 111,7,20,otevřel,,O,
@@ -176,8 +176,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 111,9,2,nezávislost,,O,
 111,9,3,",",,O,
 111,9,4,kterou,,O,
-111,9,5,Donald,,O,
-111,9,6,Trump,,O,
+111,9,5,Donald,donald,B-PER,1
+111,9,6,Trump,trump,I-PER,1
 111,9,7,prosazuje,,O,
 111,9,8,",",,O,
 111,9,9,je,,O,

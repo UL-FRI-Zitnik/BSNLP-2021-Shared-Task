@@ -90,7 +90,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 59,2,35,wydziału,,O,
 59,2,36,ds,,O,
 59,2,37,.,,O,
-59,2,38,Polski,,O,
+59,2,38,Polski,polska,B-LOC,20002
 59,2,39,",",,O,
 59,2,40,Czech,czechy,B-LOC,20
 59,2,41,i,,O,
@@ -160,8 +160,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 59,5,25,",",,O,
 59,5,26,który,,O,
 59,5,27,w,,O,
-59,5,28,DG,,O,
-59,5,29,REGIO,,O,
+59,5,28,DG,dg,B-ORG,107
+59,5,29,REGIO,regio,I-ORG,107
 59,5,30,odpowiada,,O,
 59,5,31,za,,O,
 59,5,32,tego,,O,
@@ -177,7 +177,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 59,6,4,tej,,O,
 59,6,5,części,,O,
 59,6,6,naszego,,O,
-59,6,7,RPO,,O,
+59,6,7,RPO,rpo,B-MISC,20261
 59,6,8,",",,O,
 59,6,9,która,,O,
 59,6,10,jest,,O,
@@ -197,7 +197,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 59,7,6,jak,,O,
 59,7,7,przebiega,,O,
 59,7,8,wdrażanie,,O,
-59,7,9,RPO,,O,
+59,7,9,RPO,rpo,B-MISC,20261
 59,7,10,",",,O,
 59,7,11,KE,ke,B-ORG,1
 59,7,12,podczas,,O,

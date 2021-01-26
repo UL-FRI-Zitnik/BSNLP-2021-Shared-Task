@@ -5,7 +5,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 103,0,4,Může,,O,
 103,0,5,být,,O,
 103,0,6,Donald,donald,B-PER,1
-103,0,7,Trump,trump,B-PER,1
+103,0,7,Trump,trump,I-PER,1
 103,0,8,prezidentem,,O,
 103,0,9,?,,O,
 103,1,1,|,,O,
@@ -95,7 +95,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 103,6,20,svoji,,O,
 103,6,21,pozici,,O,
 103,6,22,.,,O,
-103,7,1,Trump,,O,
+103,7,1,Trump,trump,B-PER,1
 103,7,2,se,,O,
 103,7,3,sice,,O,
 103,7,4,zavázal,,O,
@@ -128,7 +128,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 103,7,31,.,,O,
 103,8,1,Když,,O,
 103,8,2,je,,O,
-103,8,3,Trump,,O,
+103,8,3,Trump,trump,B-PER,1
 103,8,4,tázán,,O,
 103,8,5,",",,O,
 103,8,6,jak,,O,
@@ -225,7 +225,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 103,12,2,se,,O,
 103,12,3,netýká,,O,
 103,12,4,pouze,,O,
-103,12,5,Trumpa,,O,
+103,12,5,Trumpa,trump,B-PER,1
 103,12,6,",",,O,
 103,12,7,ale,,O,
 103,12,8,v,,O,
@@ -237,7 +237,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 103,12,14,Bernieho,bernie,B-PER,7
 103,12,15,Sanderse,sanders,I-PER,7
 103,12,16,.,,O,
-103,13,1,Trump,,O,
+103,13,1,Trump,trump,B-PER,1
 103,13,2,sice,,O,
 103,13,3,často,,O,
 103,13,4,říká,,O,
@@ -304,7 +304,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 103,16,14,spoustu,,O,
 103,16,15,zkušeností,,O,
 103,16,16,.,,O,
-103,17,1,Babiš,,O,
+103,17,1,Babiš,babiš,B-PER,9
 103,17,2,sice,,O,
 103,17,3,přetváří,,O,
 103,17,4,systém,,O,
@@ -322,7 +322,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 103,17,16,bylo,,O,
 103,17,17,možné,,O,
 103,17,18,v,,O,
-103,17,19,Trumpově,,O,
+103,17,19,Trumpově,trump,B-PER,1
 103,17,20,případě,,O,
 103,17,21,v,,O,
 103,17,22,Americe,amerika,B-LOC,2

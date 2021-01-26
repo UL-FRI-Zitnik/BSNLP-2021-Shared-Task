@@ -11,8 +11,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 455,0,10,rady,rada,I-ORG,42
 455,0,11,pre,,O,
 455,0,12,inovácie,,O,
-455,0,13,Európska,,O,
-455,0,14,komisia,,O,
+455,0,13,Európska,európska,B-ORG,1
+455,0,14,komisia,komisia,I-ORG,1
 455,0,15,vyzýva,,O,
 455,0,16,najúspešnejsích,,O,
 455,0,17,a,,O,
@@ -33,8 +33,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 455,0,32,pre,,O,
 455,0,33,koncepciu,,O,
 455,0,34,novovznikajúcej,,O,
-455,0,35,Európskej,,O,
-455,0,36,rady,,O,
+455,0,35,Európskej,európska,B-ORG,42
+455,0,36,rady,rada,I-ORG,42
 455,0,37,pre,,O,
 455,0,38,inovácie,,O,
 455,0,39,(,,O,
@@ -45,7 +45,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 455,1,3,EIC,eic,B-ORG,187
 455,1,4,),,O,
 455,1,5,.,,O,
-455,2,1,Európsky,,O,
+455,2,1,Európsky,európa,B-LOC,9
 455,2,2,komisár,,O,
 455,2,3,pre,,O,
 455,2,4,výskum,,O,

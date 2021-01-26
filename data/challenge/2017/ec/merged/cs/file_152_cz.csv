@@ -11,8 +11,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 152,0,10,ducha,,O,
 152,0,11,|,,O,
 152,0,12,MPO,mpo,B-MISC,10
-152,0,13,Evropská,,O,
-152,0,14,komise,,O,
+152,0,13,Evropská,evropská,B-ORG,1
+152,0,14,komise,komise,I-ORG,1
 152,0,15,zahájila,,O,
 152,0,16,veřejné,,O,
 152,0,17,konzultace,,O,
@@ -96,7 +96,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 152,3,11,:,,O,
 152,3,12,zatímco,,O,
 152,3,13,v,,O,
-152,3,14,EU,,O,
+152,3,14,EU,eu,B-LOC,6
 152,3,15,má,,O,
 152,3,16,zájem,,O,
 152,3,17,podnikat,,O,
@@ -120,7 +120,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 152,3,35,71,,O,
 152,3,36,%,,O,
 152,3,37,.,,O,
-152,4,1,Komise,,O,
+152,4,1,Komise,komise,B-ORG,1
 152,4,2,proto,,O,
 152,4,3,hledá,,O,
 152,4,4,nápady,,O,
@@ -187,7 +187,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 152,6,7,rozvoj,,O,
 152,6,8,podnikání,,O,
 152,6,9,v,,O,
-152,6,10,EU,,O,
+152,6,10,EU,eu,B-LOC,6
 152,6,11,jsou,,O,
 152,6,12,rámcové,,O,
 152,6,13,podmínky,,O,
@@ -239,8 +239,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 152,8,13,",",,O,
 152,8,14,který,,O,
 152,8,15,slíbila,,O,
-152,8,16,Evropská,,O,
-152,8,17,komise,,O,
+152,8,16,Evropská,evropská,B-ORG,1
+152,8,17,komise,komise,I-ORG,1
 152,8,18,vydat,,O,
 152,8,19,na,,O,
 152,8,20,podzim,,O,
@@ -258,8 +258,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 152,9,9,dispozici,,O,
 152,9,10,na,,O,
 152,9,11,stránkách,,O,
-152,9,12,Evropské,,O,
-152,9,13,komise,,O,
+152,9,12,Evropské,evropská,B-ORG,1
+152,9,13,komise,komise,I-ORG,1
 152,9,14,.,,O,
 152,10,1,Vaše,,O,
 152,10,2,příspěvky,,O,
@@ -272,7 +272,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 152,10,9,Váš,,O,
 152,10,10,hlas,,O,
 152,10,11,v,,O,
-152,10,12,Evropě,,O,
+152,10,12,Evropě,evropa,B-LOC,9
 152,10,13,"""",,O,
 152,10,14,a,,O,
 152,10,15,zpracovány,,O,
@@ -281,6 +281,6 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 152,10,18,zprávy,,O,
 152,10,19,a,,O,
 152,10,20,vyjádření,,O,
-152,10,21,Evropské,,O,
-152,10,22,komise,,O,
+152,10,21,Evropské,evropská,B-ORG,1
+152,10,22,komise,komise,I-ORG,1
 152,10,23,.,,O,

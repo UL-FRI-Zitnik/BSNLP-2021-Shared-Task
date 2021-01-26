@@ -92,7 +92,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 350,2,34,politik,,O,
 350,2,35,.,,O,
 350,3,1,Podpredsednik,,O,
-350,3,2,Komisije,,O,
+350,3,2,Komisije,komisija,B-ORG,1
 350,3,3,in,,O,
 350,3,4,evropski,,O,
 350,3,5,komisar,,O,
@@ -182,7 +182,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 350,6,13,da,,O,
 350,6,14,so,,O,
 350,6,15,predlogi,,O,
-350,6,16,komisije,,O,
+350,6,16,komisije,komisija,B-ORG,1
 350,6,17,močna,,O,
 350,6,18,spodbuda,,O,
 350,6,19,trgu,,O,
@@ -284,8 +284,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 350,9,1,Oblikovanje,,O,
 350,9,2,stališča,,O,
 350,9,3,na,,O,
-350,9,4,Svetu,,O,
-350,9,5,EU,,O,
+350,9,4,Svetu,svet,B-ORG,190
+350,9,5,EU,eu,I-ORG,190
 350,9,6,pomeni,,O,
 350,9,7,pogajanja,,O,
 350,9,8,med,,O,
@@ -363,8 +363,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 350,12,7,zastavile,,O,
 350,12,8,same,,O,
 350,12,9,",",,O,
-350,12,10,Evropska,,O,
-350,12,11,komisija,,O,
+350,12,10,Evropska,evropska,B-ORG,1
+350,12,11,komisija,komisija,I-ORG,1
 350,12,12,pa,,O,
 350,12,13,bo,,O,
 350,12,14,skozi,,O,
@@ -381,7 +381,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 350,12,25,ciljev,,O,
 350,12,26,na,,O,
 350,12,27,ravni,,O,
-350,12,28,EU,,O,
+350,12,28,EU,eu,B-LOC,6
 350,12,29,dosegel,,O,
 350,12,30,vsaj,,O,
 350,12,31,27,,O,
@@ -393,7 +393,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 350,12,37,URE,,O,
 350,12,38,do,,O,
 350,12,39,2030.,,O,
-350,13,1,Slovenija,,O,
+350,13,1,Slovenija,slovenija,B-LOC,295
 350,13,2,si,,O,
 350,13,3,bo,,O,
 350,13,4,prizadevala,,O,
@@ -417,7 +417,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 350,14,9,doseganja,,O,
 350,14,10,ciljev,,O,
 350,14,11,2030,,O,
-350,14,12,Slovenija,,O,
+350,14,12,Slovenija,slovenija,B-LOC,295
 350,14,13,pozdravlja,,O,
 350,14,14,",",,O,
 350,14,15,pri,,O,
@@ -464,7 +464,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 350,15,20,",",,O,
 350,15,21,da,,O,
 350,15,22,je,,O,
-350,15,23,Slovenija,,O,
+350,15,23,Slovenija,slovenija,B-LOC,295
 350,15,24,že,,O,
 350,15,25,leta,,O,
 350,15,26,2014,,O,
@@ -480,10 +480,10 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 350,16,3,na,,O,
 350,16,4,področju,,O,
 350,16,5,delovanja,,O,
-350,16,6,EU,,O,
+350,16,6,EU,eu,B-LOC,6
 350,16,7,energetskega,,O,
 350,16,8,trga,,O,
-350,16,9,Slovenija,,O,
+350,16,9,Slovenija,slovenija,B-LOC,295
 350,16,10,ocenjuje,,O,
 350,16,11,kot,,O,
 350,16,12,dobrodošlo,,O,
@@ -493,7 +493,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 350,16,16,ukrepe,,O,
 350,16,17,.,,O,
 350,17,1,Za,,O,
-350,17,2,Slovenijo,,O,
+350,17,2,Slovenijo,slovenija,B-LOC,295
 350,17,3,bo,,O,
 350,17,4,posebej,,O,
 350,17,5,pomembno,,O,
@@ -552,8 +552,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 350,19,8,podrobneje,,O,
 350,19,9,preučilo,,O,
 350,19,10,predloge,,O,
-350,19,11,Evropske,,O,
-350,19,12,komisije,,O,
+350,19,11,Evropske,evropska,B-ORG,1
+350,19,12,komisije,komisija,I-ORG,1
 350,19,13,in,,O,
 350,19,14,oblikovalo,,O,
 350,19,15,stališča,,O,

@@ -56,7 +56,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 119,4,1,Při,,O,
 119,4,2,cestách,,O,
 119,4,3,do,,O,
-119,4,4,EU,,O,
+119,4,4,EU,eu,B-LOC,6
 119,4,5,by,,O,
 119,4,6,se,,O,
 119,4,7,týkal,,O,
@@ -78,8 +78,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 119,4,23,korun,,O,
 119,4,24,),,O,
 119,4,25,.,,O,
-119,5,1,Evropská,,O,
-119,5,2,unie,,O,
+119,5,1,Evropská,evropská,B-LOC,6
+119,5,2,unie,unie,I-LOC,6
 119,5,3,si,,O,
 119,5,4,od,,O,
 119,5,5,chystaného,,O,
@@ -134,8 +134,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 119,6,22,tuto,,O,
 119,6,23,problematiku,,O,
 119,6,24,.,,O,
-119,7,1,Evropská,,O,
-119,7,2,komise,,O,
+119,7,1,Evropská,evropská,B-ORG,1
+119,7,2,komise,komise,I-ORG,1
 119,7,3,věří,,O,
 119,7,4,",",,O,
 119,7,5,že,,O,
@@ -165,7 +165,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 119,9,2,o,,O,
 119,9,3,cestu,,O,
 119,9,4,do,,O,
-119,9,5,EU,,O,
+119,9,5,EU,eu,B-LOC,6
 119,9,6,v,,O,
 119,9,7,něm,,O,
 119,9,8,budou,,O,
@@ -216,7 +216,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 119,11,3,cestě,,O,
 119,11,4,do,,O,
 119,11,5,zemí,,O,
-119,11,6,EU,,O,
+119,11,6,EU,eu,B-LOC,6
 119,11,7,",",,O,
 119,11,8,za,,O,
 119,11,9,které,,O,
@@ -235,8 +235,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 119,11,22,pět,,O,
 119,11,23,let,,O,
 119,11,24,.,,O,
-119,12,1,Evropská,,O,
-119,12,2,komise,,O,
+119,12,1,Evropská,evropská,B-ORG,1
+119,12,2,komise,komise,I-ORG,1
 119,12,3,by,,O,
 119,12,4,o,,O,
 119,12,5,něm,,O,
@@ -245,8 +245,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 119,12,8,již,,O,
 119,12,9,dnes,,O,
 119,12,10,.,,O,
-119,13,1,SECURITY,,O,
-119,13,2,magazín,,O,
+119,13,1,SECURITY,security,B-ORG,58
+119,13,2,magazín,magazín,I-ORG,58
 119,13,3,je,,O,
 119,13,4,ve,,O,
 119,13,5,své,,O,
@@ -267,8 +267,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 119,13,20,roku,,O,
 119,13,21,1994,,O,
 119,13,22,.,,O,
-119,14,1,SECURITY,,O,
-119,14,2,magazín,,O,
+119,14,1,SECURITY,security,B-ORG,58
+119,14,2,magazín,magazín,I-ORG,58
 119,14,3,se,,O,
 119,14,4,orientuje,,O,
 119,14,5,především,,O,
@@ -321,8 +321,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 119,16,2,a,,O,
 119,16,3,informace,,O,
 119,16,4,v,,O,
-119,16,5,SECURITY,,O,
-119,16,6,magazínu,,O,
+119,16,5,SECURITY,security,B-ORG,58
+119,16,6,magazínu,magazín,I-ORG,58
 119,16,7,jsou,,O,
 119,16,8,ale,,O,
 119,16,9,určeny,,O,
@@ -349,8 +349,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 119,16,30,její,,O,
 119,16,31,specifika,,O,
 119,16,32,.,,O,
-119,17,1,SECURITY,,O,
-119,17,2,magazín,,O,
+119,17,1,SECURITY,security,B-ORG,58
+119,17,2,magazín,magazín,I-ORG,58
 119,17,3,chce,,O,
 119,17,4,tradiční,,O,
 119,17,5,spoluprací,,O,

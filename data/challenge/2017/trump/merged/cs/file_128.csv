@@ -1,6 +1,6 @@
 docId,sentenceId,tokenId,text,lemma,ner,clID
 128,0,1,Donald,donald,B-PER,1
-128,0,2,Trump,trump,B-PER,1
+128,0,2,Trump,trump,I-PER,1
 128,0,3,je,,O,
 128,0,4,osobností,,O,
 128,0,5,roku,,O,
@@ -15,10 +15,10 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 128,1,2,roku,,O,
 128,1,3,podle,,O,
 128,1,4,časopisu,,O,
-128,1,5,Time,,O,
+128,1,5,Time,time,B-ORG,126
 128,1,6,:,,O,
-128,1,7,Donald,,O,
-128,1,8,Trump,,O,
+128,1,7,Donald,donald,B-PER,1
+128,1,8,Trump,trump,I-PER,1
 128,1,9,Foto,,O,
 128,1,10,:,,O,
 128,1,11,",",,O,
@@ -28,8 +28,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 128,2,1,ČTK,čtk,B-ORG,129
 128,2,2,/,,O,
 128,2,3,AP,ap,B-ORG,81
-128,2,4,Donald,,O,
-128,2,5,Trump,,O,
+128,2,4,Donald,donald,B-PER,1
+128,2,5,Trump,trump,I-PER,1
 128,2,6,-,,O,
 128,2,7,zvolený,,O,
 128,2,8,prezident,,O,
@@ -41,7 +41,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 128,2,14,roku,,O,
 128,2,15,podle,,O,
 128,2,16,časopisu,,O,
-128,2,17,Time,,O,
+128,2,17,Time,time,B-ORG,126
 128,2,18,.,,O,
 128,3,1,O,,O,
 128,3,2,jmenování,,O,
@@ -71,7 +71,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 128,4,12,",",,O,
 128,4,13,"""",,O,
 128,4,14,reagoval,,O,
-128,4,15,Trump,,O,
+128,4,15,Trump,trump,B-PER,1
 128,4,16,v,,O,
 128,4,17,rozhovoru,,O,
 128,4,18,se,,O,
@@ -124,7 +124,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 128,6,13,Američané,američané,B-PER,17
 128,6,14,rozděleni,,O,
 128,6,15,.,,O,
-128,7,1,Trump,,O,
+128,7,1,Trump,trump,B-PER,1
 128,7,2,podle,,O,
 128,7,3,šéfredaktorky,,O,
 128,7,4,zaskočil,,O,
@@ -144,10 +144,10 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 128,7,18,politický,,O,
 128,7,19,systém,,O,
 128,7,20,.,,O,
-128,8,1,Donald,,O,
-128,8,2,Trump,,O,
+128,8,1,Donald,donald,B-PER,1
+128,8,2,Trump,trump,I-PER,1
 128,8,3,is,,O,
-128,8,4,TIME,,O,
+128,8,4,TIME,time,B-ORG,126
 128,8,5,',,O,
 128,8,6,s,,O,
 128,8,7,Person,,O,
@@ -156,10 +156,10 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 128,8,10,Year,,O,
 128,8,11,2016,,O,
 128,8,12,—,,O,
-128,8,13,TIME,,O,
+128,8,13,TIME,time,B-ORG,126
 128,8,14,(,,O,
 128,8,15,@,,O,
-128,8,16,TIME,,O,
+128,8,16,TIME,time,B-ORG,126
 128,8,17,),,O,
 128,8,18,7,,O,
 128,8,19,.,,O,
@@ -193,7 +193,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 128,8,47,.,,O,
 128,9,1,Loni,,O,
 128,9,2,si,,O,
-128,9,3,Time,,O,
+128,9,3,Time,time,B-ORG,126
 128,9,4,jako,,O,
 128,9,5,osobnost,,O,
 128,9,6,roku,,O,

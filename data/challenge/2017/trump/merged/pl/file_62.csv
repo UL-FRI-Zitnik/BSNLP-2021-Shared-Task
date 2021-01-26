@@ -12,12 +12,12 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 62,0,11,Sport,,O,
 62,0,12,Prezydent,,O,
 62,0,13,elekt,,O,
-62,0,14,Donald,,O,
-62,0,15,Trump,,O,
+62,0,14,Donald,donald,B-PER,1
+62,0,15,Trump,trump,I-PER,1
 62,0,16,popiera,,O,
 62,0,17,kandydaturę,,O,
-62,0,18,Los,,O,
-62,0,19,Angeles,,O,
+62,0,18,Los,los,B-LOC,21301
+62,0,19,Angeles,angeles,I-LOC,21301
 62,0,20,do,,O,
 62,0,21,organizacji,,O,
 62,0,22,igrzysk,igrzyska,B-MISC,21300
@@ -66,8 +66,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 62,1,29,kalifornijskiej,,O,
 62,1,30,metropolii,,O,
 62,1,31,.,,O,
-62,2,1,Los,,O,
-62,2,2,Angeles,,O,
+62,2,1,Los,los,B-LOC,21301
+62,2,2,Angeles,angeles,I-LOC,21301
 62,2,3,organizowało,,O,
 62,2,4,igrzyska,,O,
 62,2,5,już,,O,

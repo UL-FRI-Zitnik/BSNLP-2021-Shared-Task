@@ -22,8 +22,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 483,1,6,TASR,tasr,B-ORG,195
 483,1,7,),,O,
 483,1,8,-,,O,
-483,1,9,Európska,,O,
-483,1,10,komisia,,O,
+483,1,9,Európska,európska,B-ORG,1
+483,1,10,komisia,komisia,I-ORG,1
 483,1,11,(,,O,
 483,1,12,EK,ek,B-ORG,1
 483,1,13,),,O,
@@ -93,14 +93,14 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 483,3,20,"""",,O,
 483,3,21,vyhlásila,,O,
 483,3,22,v,,O,
-483,3,23,Bruseli,,O,
+483,3,23,Bruseli,brusel,B-LOC,28
 483,3,24,komisárka,,O,
-483,3,25,EÚ,,O,
+483,3,25,EÚ,eú,B-LOC,6
 483,3,26,pre,,O,
 483,3,27,hospodársku,,O,
 483,3,28,súťaž,,O,
 483,3,29,Margrethe,margrethe,B-PER,35
-483,3,30,Vestagerová,vestagerová,B-PER,35
+483,3,30,Vestagerová,vestagerová,I-PER,35
 483,3,31,.,,O,
 483,4,1,Ostatné,,O,
 483,4,2,banky,,O,
@@ -163,5 +163,5 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 483,6,16,Euribor,,O,
 483,6,17,",",,O,
 483,6,18,dodala,,O,
-483,6,19,Vestagerová,,O,
+483,6,19,Vestagerová,vestagerová,B-PER,35
 483,6,20,.,,O,

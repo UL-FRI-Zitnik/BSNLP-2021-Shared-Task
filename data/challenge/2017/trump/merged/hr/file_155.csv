@@ -1,6 +1,6 @@
 docId,sentenceId,tokenId,text,lemma,ner,clID
 155,0,1,Donald,donald,B-PER,1
-155,0,2,Trump,trump,B-PER,1
+155,0,2,Trump,trump,I-PER,1
 155,0,3,pao,,O,
 155,0,4,na,,O,
 155,0,5,listi,,O,
@@ -14,8 +14,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 155,1,6,je,,O,
 155,1,7,republikanskoga,,O,
 155,1,8,kandidata,,O,
-155,1,9,Donalda,,O,
-155,1,10,Trumpa,trump,B-PER,1
+155,1,9,Donalda,donald,B-PER,1
+155,1,10,Trumpa,trump,I-PER,1
 155,1,11,za,,O,
 155,1,12,800,,O,
 155,1,13,milijuna,,O,
@@ -63,7 +63,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 155,2,18,u,,O,
 155,2,19,ožujku,,O,
 155,2,20,.,,O,
-155,3,1,Trump,,O,
+155,3,1,Trump,trump,B-PER,1
 155,3,2,je,,O,
 155,3,3,trenutno,,O,
 155,3,4,156.,,O,
@@ -71,14 +71,14 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 155,3,6,popisu,,O,
 155,3,7,400,,O,
 155,3,8,najbogatijih,,O,
-155,3,9,Amerikanaca,,O,
+155,3,9,Amerikanaca,amerikanci,B-PER,17
 155,3,10,",",,O,
 155,3,11,koji,,O,
 155,3,12,predvodi,,O,
 155,3,13,suosnivač,,O,
 155,3,14,Microsofta,microsoft,B-ORG,152
 155,3,15,Bill,bill,B-PER,40074
-155,3,16,Gates,gates,B-PER,40074
+155,3,16,Gates,gates,I-PER,40074
 155,3,17,",",,O,
 155,3,18,čije,,O,
 155,3,19,je,,O,
@@ -96,7 +96,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 155,3,31,81,,O,
 155,3,32,milijardu,,O,
 155,3,33,.,,O,
-155,4,1,Gates,,O,
+155,4,1,Gates,gates,B-PER,40074
 155,4,2,je,,O,
 155,4,3,na,,O,
 155,4,4,prvome,,O,
@@ -106,7 +106,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 155,4,8,godinu,,O,
 155,4,9,zaredom,,O,
 155,4,10,.,,O,
-155,5,1,Trump,,O,
+155,5,1,Trump,trump,B-PER,1
 155,5,2,je,,O,
 155,5,3,na,,O,
 155,5,4,kampanju,,O,
@@ -187,10 +187,10 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 155,7,26,ovrha,,O,
 155,7,27,",",,O,
 155,7,28,piše,,O,
-155,7,29,Forbes,,O,
+155,7,29,Forbes,forbes,B-ORG,222
 155,7,30,.,,O,
 155,8,1,Pojedinosti,,O,
-155,8,2,Trumpova,,O,
+155,8,2,Trumpova,trump,B-PER,1
 155,8,3,bogatstva,,O,
 155,8,4,nisu,,O,
 155,8,5,u,,O,
@@ -206,7 +206,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 155,9,7,predsjedničkih,,O,
 155,9,8,kandidata,,O,
 155,9,9,",",,O,
-155,9,10,Trump,,O,
+155,9,10,Trump,trump,B-PER,1
 155,9,11,je,,O,
 155,9,12,odbio,,O,
 155,9,13,objaviti,,O,

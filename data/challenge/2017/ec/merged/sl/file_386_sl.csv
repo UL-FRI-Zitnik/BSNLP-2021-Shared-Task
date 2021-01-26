@@ -85,8 +85,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 386,2,38,.,,O,
 386,3,1,Zdaj,,O,
 386,3,2,je,,O,
-386,3,3,evropska,,O,
-386,3,4,komisija,,O,
+386,3,3,evropska,evropska,B-ORG,1
+386,3,4,komisija,komisija,I-ORG,1
 386,3,5,predstavila,,O,
 386,3,6,osnutek,,O,
 386,3,7,pravil,,O,
@@ -409,8 +409,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 386,17,5,popolnoma,,O,
 386,17,6,nepošten,,O,
 386,17,7,.,,O,
-386,18,1,Evropski,,O,
-386,18,2,parlament,,O,
+386,18,1,Evropski,evropski,B-ORG,14
+386,18,2,parlament,parlament,I-ORG,14
 386,18,3,je,,O,
 386,18,4,izglasoval,,O,
 386,18,5,konec,,O,
@@ -439,8 +439,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 386,19,15,pa,,O,
 386,19,16,naj,,O,
 386,19,17,bi,,O,
-386,19,18,evropska,,O,
-386,19,19,komisija,,O,
+386,19,18,evropska,evropska,B-ORG,1
+386,19,19,komisija,komisija,I-ORG,1
 386,19,20,predstavila,,O,
 386,19,21,15.,,O,
 386,19,22,decembra,,O,

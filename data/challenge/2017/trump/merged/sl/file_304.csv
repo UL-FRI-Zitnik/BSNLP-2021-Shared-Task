@@ -1,6 +1,6 @@
 docId,sentenceId,tokenId,text,lemma,ner,clID
 304,0,1,Donald,donald,B-PER,1
-304,0,2,Trump,trump,B-PER,1
+304,0,2,Trump,trump,I-PER,1
 304,0,3,(,,O,
 304,0,4,zaskrbljujoče,,O,
 304,0,5,),,O,
@@ -8,8 +8,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 304,0,7,pojma,,O,
 304,0,8,o,,O,
 304,0,9,tehnologiji,,O,
-304,1,1,Donald,,O,
-304,1,2,Trump,,O,
+304,1,1,Donald,donald,B-PER,1
+304,1,2,Trump,trump,I-PER,1
 304,1,3,je,,O,
 304,1,4,novi,,O,
 304,1,5,predsednik,,O,
@@ -76,8 +76,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 304,5,12,Računalniških,računalniške,B-MISC,40071
 304,5,13,novic,novice,I-MISC,40071
 304,5,14,:,,O,
-304,5,15,Donald,,O,
-304,5,16,Trump,,O,
+304,5,15,Donald,donald,B-PER,1
+304,5,16,Trump,trump,I-PER,1
 304,5,17,ni,,O,
 304,5,18,največji,,O,
 304,5,19,ljubitelj,,O,
@@ -145,13 +145,13 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 304,8,33,",",,O,
 304,8,34,novi,,O,
 304,8,35,predsednik,,O,
-304,8,36,ZDA,,O,
+304,8,36,ZDA,zda,B-LOC,2
 304,8,37,ne,,O,
 304,8,38,zna,,O,
 304,8,39,uporabljati,,O,
 304,8,40,računalnika,,O,
 304,8,41,.,,O,
-304,9,1,Trumpu,,O,
+304,9,1,Trumpu,trump,B-PER,1
 304,9,2,celo,,O,
 304,9,3,očitajo,,O,
 304,9,4,",",,O,
@@ -164,7 +164,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 304,9,11,dela,,O,
 304,9,12,v,,O,
 304,9,13,korist,,O,
-304,9,14,ZDA,,O,
+304,9,14,ZDA,zda,B-LOC,2
 304,9,15,",",,O,
 304,9,16,kar,,O,
 304,9,17,pa,,O,
@@ -202,7 +202,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 304,10,11,bi,,O,
 304,10,12,se,,O,
 304,10,13,recimo,,O,
-304,10,14,Trump,,O,
+304,10,14,Trump,trump,B-PER,1
 304,10,15,uperil,,O,
 304,10,16,proti,,O,
 304,10,17,tem,,O,
@@ -226,7 +226,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 304,11,13,njegove,,O,
 304,11,14,politike,,O,
 304,11,15,.,,O,
-304,12,1,Trump,,O,
+304,12,1,Trump,trump,B-PER,1
 304,12,2,je,,O,
 304,12,3,po,,O,
 304,12,4,pisanju,,O,
@@ -306,7 +306,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 304,15,4,",",,O,
 304,15,5,to,,O,
 304,15,6,je,,O,
-304,15,7,zdaj,,O,
+304,15,7,zdaj,zda,B-LOC,2
 304,15,8,vprašanje,,O,
 304,15,9,kajne,,O,
 304,15,10,?,,O,
@@ -366,7 +366,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 304,17,8,nekaj,,O,
 304,17,9,o,,O,
 304,17,10,čem,,O,
-304,17,11,Trump,,O,
+304,17,11,Trump,trump,B-PER,1
 304,17,12,meni,,O,
 304,17,13,",",,O,
 304,17,14,da,,O,
@@ -391,7 +391,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 304,18,7,izjavo,,O,
 304,18,8,",",,O,
 304,18,9,kjer,,O,
-304,18,10,Trump,,O,
+304,18,10,Trump,trump,B-PER,1
 304,18,11,najverjetneje,,O,
 304,18,12,skuša,,O,
 304,18,13,govoriti,,O,
@@ -422,7 +422,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 304,19,7,to,,O,
 304,19,8,",",,O,
 304,19,9,da,,O,
-304,19,10,Trump,,O,
+304,19,10,Trump,trump,B-PER,1
 304,19,11,ne,,O,
 304,19,12,ve,,O,
 304,19,13,kaj,,O,
@@ -435,7 +435,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 304,19,20,gre,,O,
 304,19,21,za,,O,
 304,19,22,(,,O,
-304,19,23,zdaj,,O,
+304,19,23,zdaj,zda,B-LOC,2
 304,19,24,že,,O,
 304,19,25,),,O,
 304,19,26,predsednika,,O,
@@ -471,7 +471,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 304,20,11,prinesla,,O,
 304,20,12,za,,O,
 304,20,13,politiko,,O,
-304,20,14,ZDA,,O,
+304,20,14,ZDA,zda,B-LOC,2
 304,20,15,",",,O,
 304,20,16,vendar,,O,
 304,20,17,bodo,,O,
@@ -495,7 +495,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 304,21,5,tehnološkega,,O,
 304,21,6,aspekta,,O,
 304,21,7,prihodnosti,,O,
-304,21,8,ZDA,,O,
+304,21,8,ZDA,zda,B-LOC,2
 304,21,9,in,,O,
 304,21,10,v,,O,
 304,21,11,bistvu,,O,

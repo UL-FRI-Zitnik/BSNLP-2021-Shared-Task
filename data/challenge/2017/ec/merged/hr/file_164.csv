@@ -16,8 +16,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 164,0,15,osobna,,O,
 164,0,16,prezaduženost,,O,
 164,0,17,",",,O,
-164,0,18,Europska,,O,
-164,0,19,komisija,,O,
+164,0,18,Europska,europska,B-ORG,1
+164,0,19,komisija,komisija,I-ORG,1
 164,0,20,predložila,,O,
 164,0,21,je,,O,
 164,0,22,sustav,,O,
@@ -315,8 +315,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 164,10,19,financijske,,O,
 164,10,20,pismenosti,,O,
 164,10,21,",",,O,
-164,10,22,Europska,,O,
-164,10,23,komisija,,O,
+164,10,22,Europska,europska,B-ORG,1
+164,10,23,komisija,komisija,I-ORG,1
 164,10,24,navodi,,O,
 164,10,25,razvoj,,O,
 164,10,26,individualne,,O,
@@ -731,13 +731,13 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 164,27,15,uspješno,,O,
 164,27,16,posluje,,O,
 164,27,17,u,,O,
-164,27,18,Belgiji,,O,
+164,27,18,Belgiji,belgija,B-LOC,10120
 164,27,19,.,,O,
 164,28,1,Svaki,,O,
 164,28,2,vjerovnik,,O,
 164,28,3,uplaćuje,,O,
 164,28,4,u,,O,
-164,28,5,Fond,,O,
+164,28,5,Fond,fond,B-ORG,50358
 164,28,6,u,,O,
 164,28,7,skladu,,O,
 164,28,8,s,,O,

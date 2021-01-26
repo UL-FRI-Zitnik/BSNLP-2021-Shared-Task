@@ -10,8 +10,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 314,0,9,na,,O,
 314,0,10,notranjih,,O,
 314,0,11,mejah,,O,
-314,1,1,Evropska,,O,
-314,1,2,komisija,,O,
+314,1,1,Evropska,evropska,B-ORG,1
+314,1,2,komisija,komisija,I-ORG,1
 314,1,3,je,,O,
 314,1,4,danes,,O,
 314,1,5,predlagala,,O,
@@ -71,7 +71,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 314,3,6,izvajajo,,O,
 314,3,7,Nemčija,nemčija,B-LOC,68
 314,3,8,",",,O,
-314,3,9,Avstrija,,O,
+314,3,9,Avstrija,avstrija,B-LOC,293
 314,3,10,",",,O,
 314,3,11,Švedska,švedska,B-LOC,10113
 314,3,12,",",,O,
@@ -79,7 +79,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 314,3,14,in,,O,
 314,3,15,Norveška,norveška,B-LOC,10058
 314,3,16,.,,O,
-314,4,1,Avstrija,,O,
+314,4,1,Avstrija,avstrija,B-LOC,293
 314,4,2,med,,O,
 314,4,3,drugim,,O,
 314,4,4,izvaja,,O,
@@ -139,8 +139,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 314,7,11,tri,,O,
 314,7,12,mesece,,O,
 314,7,13,.,,O,
-314,8,1,Svet,,O,
-314,8,2,EU,,O,
+314,8,1,Svet,svet,B-ORG,190
+314,8,2,EU,eu,I-ORG,190
 314,8,3,mora,,O,
 314,8,4,namreč,,O,
 314,8,5,do,,O,
@@ -240,8 +240,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 314,12,19,dejal,,O,
 314,12,20,prvi,,O,
 314,12,21,podpredsednik,,O,
-314,12,22,Evropske,,O,
-314,12,23,komisije,,O,
+314,12,22,Evropske,evropska,B-ORG,1
+314,12,23,komisije,komisija,I-ORG,1
 314,12,24,Frans,frans,B-PER,146
 314,12,25,Timmermans,timmermans,I-PER,146
 314,12,26,.,,O,
@@ -294,7 +294,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 314,14,22,za,,O,
 314,14,23,migracije,,O,
 314,14,24,Dimitris,dimitris,B-PER,62
-314,14,25,Avramopulos,avramopulos,B-PER,62
+314,14,25,Avramopulos,avramopulos,I-PER,62
 314,14,26,.,,O,
 314,15,1,Med,,O,
 314,15,2,temi,,O,
@@ -326,7 +326,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 314,16,3,to,,O,
 314,16,4,po,,O,
 314,16,5,besedah,,O,
-314,16,6,Avramopulosa,,O,
+314,16,6,Avramopulosa,avramopulos,B-PER,62
 314,16,7,ni,,O,
 314,16,8,dovolj,,O,
 314,16,9,.,,O,

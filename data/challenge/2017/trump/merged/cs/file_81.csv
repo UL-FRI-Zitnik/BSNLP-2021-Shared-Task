@@ -1,6 +1,6 @@
 docId,sentenceId,tokenId,text,lemma,ner,clID
 81,0,1,Donald,donald,B-PER,1
-81,0,2,Trump,trump,B-PER,1
+81,0,2,Trump,trump,I-PER,1
 81,0,3,versus,,O,
 81,0,4,Queen,queen,B-ORG,153
 81,0,5,|,,O,
@@ -37,10 +37,10 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 81,1,24,v,,O,
 81,1,25,používání,,O,
 81,1,26,skladeb,,O,
-81,1,27,Queen,,O,
+81,1,27,Queen,queen,B-ORG,153
 81,1,28,.,,O,
 81,2,1,„,,O,
-81,2,2,Queen,,O,
+81,2,2,Queen,queen,B-ORG,153
 81,2,3,si,,O,
 81,2,4,nepřejí,,O,
 81,2,5,",",,O,
@@ -74,7 +74,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 81,3,12,USA,usa,B-LOC,2
 81,3,13,.,,O,
 81,4,1,Pan,,O,
-81,4,2,Trump,,O,
+81,4,2,Trump,trump,B-PER,1
 81,4,3,ani,,O,
 81,4,4,nikdo,,O,
 81,4,5,další,,O,
@@ -101,7 +101,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 81,5,6,volební,,O,
 81,5,7,kampaně,,O,
 81,5,8,pana,,O,
-81,5,9,Trumpa,,O,
+81,5,9,Trumpa,trump,B-PER,1
 81,5,10,.,,O,
 81,5,11,“,,O,
 81,6,1,Tak,,O,
@@ -132,7 +132,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 81,7,12,se,,O,
 81,7,13,stará,,O,
 81,7,14,o,,O,
-81,7,15,Queen,,O,
+81,7,15,Queen,queen,B-ORG,153
 81,7,16,a,,O,
 81,7,17,jejich,,O,
 81,7,18,hudbu,,O,

@@ -45,8 +45,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 38,3,16,polskim,,O,
 38,3,17,rządem,,O,
 38,3,18,a,,O,
-38,3,19,Komisją,,O,
-38,3,20,Europejską,,O,
+38,3,19,Komisją,komisja,B-ORG,1
+38,3,20,Europejską,europejska,I-ORG,1
 38,3,21,.,,O,
 38,4,1,Jak,,O,
 38,4,2,dowiedziała,,O,
@@ -95,7 +95,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 38,6,10,-,,O,
 38,6,11,powiedział,,O,
 38,6,12,.,,O,
-38,7,1,Polska,,O,
+38,7,1,Polska,polska,B-LOC,20002
 38,7,2,ma,,O,
 38,7,3,czas,,O,
 38,7,4,do,,O,

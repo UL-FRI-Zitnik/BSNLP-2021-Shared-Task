@@ -5,10 +5,10 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 438,0,4,Citáty,,O,
 438,0,5,od,,O,
 438,0,6,Donald,donald,B-PER,1
-438,0,7,Trump,trump,B-PER,1
+438,0,7,Trump,trump,I-PER,1
 438,0,8,Citáty,,O,
-438,0,9,Donald,,O,
-438,0,10,Trump,,O,
+438,0,9,Donald,donald,B-PER,1
+438,0,10,Trump,trump,I-PER,1
 438,0,11,(,,O,
 438,0,12,*,,O,
 438,0,13,14,,O,
@@ -42,7 +42,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 438,1,11,zaoberá,,O,
 438,1,12,nehnuteľnosťami,,O,
 438,1,13,.,,O,
-438,2,1,Trump,,O,
+438,2,1,Trump,trump,B-PER,1
 438,2,2,je,,O,
 438,2,3,tiež,,O,
 438,2,4,zakladateľom,,O,
@@ -65,8 +65,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 438,3,2,zoznamu,,O,
 438,3,3,Forbes,forbes,B-MISC,95
 438,3,4,400,400,I-MISC,95
-438,3,5,Donald,,O,
-438,3,6,Trump,,O,
+438,3,5,Donald,donald,B-PER,1
+438,3,6,Trump,trump,I-PER,1
 438,3,7,je,,O,
 438,3,8,dnes,,O,
 438,3,9,134,,O,
@@ -92,7 +92,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 438,4,14,",",,O,
 438,4,15,sa,,O,
 438,4,16,stal,,O,
-438,4,17,Trump,,O,
+438,4,17,Trump,trump,B-PER,1
 438,4,18,ešte,,O,
 438,4,19,slávnejším,,O,
 438,4,20,.,,O,
@@ -118,6 +118,6 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 438,7,7,jedného,,O,
 438,7,8,muža,,O,
 438,7,9,!,,O,
-438,8,1,Donald,,O,
-438,8,2,Trump,,O,
+438,8,1,Donald,donald,B-PER,1
+438,8,2,Trump,trump,I-PER,1
 438,8,3,.,,O,

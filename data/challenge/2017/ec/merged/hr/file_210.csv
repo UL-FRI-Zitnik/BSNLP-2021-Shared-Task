@@ -150,7 +150,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 210,5,10,izlaze,,O,
 210,5,11,iz,,O,
 210,5,12,sjevernog,,O,
-210,5,13,Jadrana,,O,
+210,5,13,Jadrana,jadran,B-LOC,50405
 210,5,14,što,,O,
 210,5,15,uzrokuje,,O,
 210,5,16,povećanje,,O,
@@ -171,7 +171,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 210,7,5,se,,O,
 210,7,6,diljem,,O,
 210,7,7,sjevernog,,O,
-210,7,8,Jadrana,,O,
+210,7,8,Jadrana,jadran,B-LOC,50405
 210,7,9,",",,O,
 210,7,10,što,,O,
 210,7,11,dovodi,,O,
@@ -215,7 +215,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 210,9,5,izlova,,O,
 210,9,6,inćuna,,O,
 210,9,7,na,,O,
-210,9,8,Jadranu,,O,
+210,9,8,Jadranu,jadran,B-LOC,50405
 210,9,9,na,,O,
 210,9,10,temelju,,O,
 210,9,11,meteoroloških,,O,

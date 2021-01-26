@@ -14,8 +14,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 383,1,3,29.,,O,
 383,1,4,decembra,,O,
 383,1,5,-,,O,
-383,1,6,Evropska,,O,
-383,1,7,komisija,,O,
+383,1,6,Evropska,evropska,B-ORG,1
+383,1,7,komisija,komisija,I-ORG,1
 383,1,8,je,,O,
 383,1,9,vladi,,O,
 383,1,10,v,,O,
@@ -53,7 +53,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 383,2,11,so,,O,
 383,2,12,potrdili,,O,
 383,2,13,v,,O,
-383,2,14,Bruslju,,O,
+383,2,14,Bruslju,bruselj,B-LOC,28
 383,2,15,.,,O,
 383,3,1,Dodali,,O,
 383,3,2,so,,O,

@@ -6,8 +6,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 57,0,5,Rozwoju,rozwoju,I-ORG,20230
 57,0,6,Systemu,systemu,I-ORG,20230
 57,0,7,Edukacji,edukacji,I-ORG,20230
-57,0,8,Komisja,,O,
-57,0,9,Europejska,,O,
+57,0,8,Komisja,komisja,B-ORG,1
+57,0,9,Europejska,europejska,I-ORG,1
 57,0,10,chce,,O,
 57,0,11,zwiększyć,,O,
 57,0,12,wsparcie,,O,

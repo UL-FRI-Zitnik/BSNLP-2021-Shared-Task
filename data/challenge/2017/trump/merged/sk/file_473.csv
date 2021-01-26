@@ -1,6 +1,6 @@
 docId,sentenceId,tokenId,text,lemma,ner,clID
 473,0,1,Donald,donald,B-PER,1
-473,0,2,Trump,trump,B-PER,1
+473,0,2,Trump,trump,I-PER,1
 473,0,3,si,,O,
 473,0,4,zavaril,,O,
 473,0,5,.,,O,
@@ -29,8 +29,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 473,2,15,a,,O,
 473,2,16,realitného,,O,
 473,2,17,magnáta,,O,
-473,2,18,Donalda,,O,
-473,2,19,Trumpa,,O,
+473,2,18,Donalda,donald,B-PER,1
+473,2,19,Trumpa,trump,I-PER,1
 473,2,20,",",,O,
 473,2,21,jedného,,O,
 473,2,22,z,,O,
@@ -67,7 +67,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 473,3,19,učiteľka,,O,
 473,3,20,práva,,O,
 473,3,21,Kimberlé,kimberlé,B-PER,297
-473,3,22,Crenshawová,crenshawová,B-PER,297
+473,3,22,Crenshawová,crenshawová,I-PER,297
 473,3,23,.,,O,
 473,4,1,Podpísali,,O,
 473,4,2,ju,,O,
@@ -97,7 +97,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 473,5,3,",",,O,
 473,5,4,zbavme,,O,
 473,5,5,sa,,O,
-473,5,6,Trumpa,,O,
+473,5,6,Trumpa,trump,B-PER,1
 473,5,7,.,,O,
 473,6,1,Nutnosť,,O,
 473,6,2,spustiť,,O,
@@ -108,14 +108,14 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 473,6,7,Stop,,O,
 473,6,8,Hate,,O,
 473,6,9,Dump,,O,
-473,6,10,Trump,,O,
+473,6,10,Trump,trump,B-PER,1
 473,6,11,(,,O,
 473,6,12,Stop,,O,
 473,6,13,nenávisti,,O,
 473,6,14,",",,O,
 473,6,15,zbavme,,O,
 473,6,16,sa,,O,
-473,6,17,Trumpa,,O,
+473,6,17,Trumpa,trump,B-PER,1
 473,6,18,),,O,
 473,6,19,",",,O,
 473,6,20,zdôvodnili,,O,
@@ -134,7 +134,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 473,6,33,situácii,,O,
 473,6,34,",",,O,
 473,6,35,keď,,O,
-473,6,36,Trump,,O,
+473,6,36,Trump,trump,B-PER,1
 473,6,37,úspešne,,O,
 473,6,38,pokračuje,,O,
 473,6,39,vo,,O,
@@ -160,7 +160,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 473,7,4,už,,O,
 473,7,5,(,,O,
 473,7,6,od,,O,
-473,7,7,Trumpa,,O,
+473,7,7,Trumpa,trump,B-PER,1
 473,7,8,),,O,
 473,7,9,nenávistnú,,O,
 473,7,10,a,,O,
@@ -203,9 +203,9 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 473,9,4,",",,O,
 473,9,5,"""",,O,
 473,9,6,uviedla,,O,
-473,9,7,Crenshawová,,O,
+473,9,7,Crenshawová,crenshawová,B-PER,297
 473,9,8,.,,O,
-473,10,1,Trump,,O,
+473,10,1,Trump,trump,B-PER,1
 473,10,2,od,,O,
 473,10,3,začiatku,,O,
 473,10,4,predvolebnej,,O,
@@ -286,7 +286,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 473,13,5,85.513,,O,
 473,13,6,ľudí,,O,
 473,13,7,.,,O,
-473,14,1,Trump,,O,
+473,14,1,Trump,trump,B-PER,1
 473,14,2,prakticky,,O,
 473,14,3,od,,O,
 473,14,4,začiatku,,O,
@@ -313,7 +313,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 473,14,25,Mexika,mexiko,B-LOC,116
 473,14,26,žijúcich,,O,
 473,14,27,v,,O,
-473,14,28,USA,,O,
+473,14,28,USA,usa,B-LOC,2
 473,14,29,tvoria,,O,
 473,14,30,zločinci,,O,
 473,14,31,a,,O,
@@ -338,7 +338,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 473,15,17,vstupe,,O,
 473,15,18,na,,O,
 473,15,19,územie,,O,
-473,15,20,USA,,O,
+473,15,20,USA,usa,B-LOC,2
 473,15,21,.,,O,
 473,16,1,Tento,,O,
 473,16,2,svoj,,O,

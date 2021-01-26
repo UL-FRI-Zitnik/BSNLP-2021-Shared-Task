@@ -38,8 +38,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 305,4,1,Leta,,O,
 305,4,2,2016,,O,
 305,4,3,je,,O,
-305,4,4,Donald,,O,
-305,4,5,Trumph,,O,
+305,4,4,Donald,donald,B-PER,1
+305,4,5,Trumph,trumph,I-PER,1
 305,4,6,zmagal,,O,
 305,4,7,na,,O,
 305,4,8,predsedniških,,O,
@@ -64,7 +64,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 305,6,12,saj,,O,
 305,6,13,je,,O,
 305,6,14,imel,,O,
-305,6,15,Donald,,O,
+305,6,15,Donald,donald,B-PER,1
 305,6,16,oz.,,O,
 305,6,17,Disneyland,disneyland,B-LOC,40078
 305,6,18,do,,O,
@@ -140,7 +140,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 305,10,11,",",,O,
 305,10,12,ko,,O,
 305,10,13,vlada,,O,
-305,10,14,Donald,,O,
+305,10,14,Donald,donald,B-PER,1
 305,10,15,",",,O,
 305,10,16,je,,O,
 305,10,17,idealna,,O,
@@ -171,7 +171,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 305,11,18,zadolžil,,O,
 305,11,19,tebe,,O,
 305,11,20,",",,O,
-305,11,21,Transfer,,O,
+305,11,21,Transfer,transfer,B-PER,40083
 305,11,22,.,,O,
 305,12,1,In,,O,
 305,12,2,ne,,O,
@@ -204,7 +204,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 305,14,5,nalogo,,O,
 305,14,6,.,,O,
 305,14,7,"""",,O,
-305,14,8,Transfer,,O,
+305,14,8,Transfer,transfer,B-PER,40083
 305,14,9,je,,O,
 305,14,10,prišel,,O,
 305,14,11,malo,,O,
@@ -222,8 +222,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 305,14,23,počeli,,O,
 305,14,24,?,,O,
 305,14,25,"""",,O,
-305,14,26,Joe,,O,
-305,14,27,Boe,,O,
+305,14,26,Joe,joe,B-PER,40081
+305,14,27,Boe,boe,I-PER,40081
 305,14,28,je,,O,
 305,14,29,odgovoril,,O,
 305,14,30,:,,O,

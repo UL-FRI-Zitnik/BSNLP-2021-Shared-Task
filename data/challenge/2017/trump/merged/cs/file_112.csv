@@ -4,7 +4,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 112,0,3,má,,O,
 112,0,4,rád,,O,
 112,0,5,Donald,donald,B-PER,1
-112,0,6,Trump,trump,B-PER,1
+112,0,6,Trump,trump,I-PER,1
 112,0,7,?,,O,
 112,1,1,Mrkněte,,O,
 112,1,2,",",,O,
@@ -30,8 +30,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 112,2,14,Hillary,hillary,B-PER,3
 112,2,15,Clintonovou,clintonová,I-PER,3
 112,2,16,porazil,,O,
-112,2,17,Donald,,O,
-112,2,18,Trump,,O,
+112,2,17,Donald,donald,B-PER,1
+112,2,18,Trump,trump,I-PER,1
 112,2,19,.,,O,
 112,3,1,Známý,,O,
 112,3,2,miliardář,,O,
@@ -66,7 +66,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 112,4,11,čím,,O,
 112,4,12,jezdil,,O,
 112,4,13,.,,O,
-112,5,1,Trump,,O,
+112,5,1,Trump,trump,B-PER,1
 112,5,2,ve,,O,
 112,5,3,své,,O,
 112,5,4,předvolební,,O,
@@ -131,7 +131,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 112,8,12,aktuálním,,O,
 112,8,13,Phantomu,phantom,B-MISC,20
 112,8,14,.,,O,
-112,9,1,Trump,,O,
+112,9,1,Trump,trump,B-PER,1
 112,9,2,se,,O,
 112,9,3,přitom,,O,
 112,9,4,nevozí,,O,
@@ -153,7 +153,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 112,10,5,Lamborghini,lamborghini,B-MISC,21
 112,10,6,Diablo,diablo,I-MISC,21
 112,10,7,VT,vt,I-MISC,21
-112,10,8,Roadster,roadster,B-MISC,32
+112,10,8,Roadster,roadster,I-MISC,21
 112,10,9,z,,O,
 112,10,10,roku,,O,
 112,10,11,1997,,O,
@@ -171,7 +171,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 112,10,23,.,,O,
 112,11,1,Modře,,O,
 112,11,2,zbarvený,,O,
-112,11,3,roadster,,O,
+112,11,3,roadster,roadster,B-MISC,32
 112,11,4,s,,O,
 112,11,5,pohonem,,O,
 112,11,6,všech,,O,
@@ -210,11 +210,11 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 112,12,10,německé,,O,
 112,12,11,gran,,O,
 112,12,12,turismo,,O,
-112,12,13,Mercedes,mercedes,B-ORG,24
+112,12,13,Mercedes,mercedes,B-MISC,23
 112,12,14,-,-,I-MISC,23
 112,12,15,Benz,benz,I-MISC,23
 112,12,16,SLR,slr,I-MISC,23
-112,12,17,McLaren,mclaren,B-ORG,25
+112,12,17,McLaren,mclaren,I-MISC,23
 112,12,18,",",,O,
 112,12,19,které,,O,
 112,12,20,rovněž,,O,
@@ -235,9 +235,9 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 112,13,5,speciál,,O,
 112,13,6,vyvinutý,,O,
 112,13,7,společně,,O,
-112,13,8,Mercedesem,,O,
+112,13,8,Mercedesem,mercedes,B-ORG,24
 112,13,9,a,,O,
-112,13,10,McLarenem,,O,
+112,13,10,McLarenem,mclaren,B-ORG,25
 112,13,11,pohání,,O,
 112,13,12,kompresorový,,O,
 112,13,13,osmiválec,,O,
@@ -249,8 +249,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 112,13,19,litru,,O,
 112,13,20,.,,O,
 112,14,1,O,,O,
-112,14,2,Mercedesu,,O,
-112,14,3,Trump,,O,
+112,14,2,Mercedesu,mercedes,B-ORG,24
+112,14,3,Trump,trump,B-PER,1
 112,14,4,mimochodem,,O,
 112,14,5,prohlásil,,O,
 112,14,6,",",,O,
@@ -323,7 +323,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 112,17,20,korun,,O,
 112,17,21,.,,O,
 112,18,1,V,,O,
-112,18,2,Trumpově,,O,
+112,18,2,Trumpově,trump,B-PER,1
 112,18,3,sbírce,,O,
 112,18,4,najdeme,,O,
 112,18,5,ale,,O,
@@ -342,10 +342,10 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 112,19,7,jmenovitě,,O,
 112,19,8,elektrický,,O,
 112,19,9,sporťák,,O,
-112,19,10,Roadster,,O,
+112,19,10,Roadster,roadster,B-MISC,32
 112,19,11,",",,O,
 112,19,12,nebo,,O,
-112,19,13,Cadillac,cadillac,B-MISC,82
+112,19,13,Cadillac,cadillac,B-MISC,33
 112,19,14,Escalade,escalade,I-MISC,33
 112,19,15,",",,O,
 112,19,16,který,,O,
@@ -359,7 +359,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 112,19,24,oblíben,,O,
 112,19,25,.,,O,
 112,20,1,Sám,,O,
-112,20,2,Trump,,O,
+112,20,2,Trump,trump,B-PER,1
 112,20,3,na,,O,
 112,20,4,premiéře,,O,
 112,20,5,aktuální,,O,
@@ -368,7 +368,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 112,20,8,roce,,O,
 112,20,9,2015,,O,
 112,20,10,pracovníky,,O,
-112,20,11,Cadillacu,,O,
+112,20,11,Cadillacu,cadillac,B-MISC,82
 112,20,12,pochválil,,O,
 112,20,13,a,,O,
 112,20,14,prohlásil,,O,
@@ -384,7 +384,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 112,21,2,tímto,,O,
 112,21,3,výrobcem,,O,
 112,21,4,přitom,,O,
-112,21,5,Trump,,O,
+112,21,5,Trump,trump,B-PER,1
 112,21,6,pojí,,O,
 112,21,7,zajímavý,,O,
 112,21,8,vztah,,O,
@@ -408,7 +408,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 112,21,26,jeho,,O,
 112,21,27,jméno,,O,
 112,21,28,.,,O,
-112,22,1,Cadillac,,O,
+112,22,1,Cadillac,cadillac,B-MISC,82
 112,22,2,skutečně,,O,
 112,22,3,postavil,,O,
 112,22,4,dva,,O,
@@ -420,7 +420,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 112,22,10,nebo,,O,
 112,22,11,televizí,,O,
 112,22,12,",",,O,
-112,22,13,Trump,,O,
+112,22,13,Trump,trump,B-PER,1
 112,22,14,si,,O,
 112,22,15,ale,,O,
 112,22,16,nakonec,,O,
@@ -488,7 +488,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 112,24,2,funkci,,O,
 112,24,3,prezidenta,,O,
 112,24,4,ale,,O,
-112,24,5,Trump,,O,
+112,24,5,Trump,trump,B-PER,1
 112,24,6,bude,,O,
 112,24,7,jezdit,,O,
 112,24,8,jiným,,O,
@@ -522,7 +522,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 112,25,11,spolu,,O,
 112,25,12,s,,O,
 112,25,13,inaugurací,,O,
-112,25,14,Trumpa,,O,
+112,25,14,Trumpa,trump,B-PER,1
 112,25,15,v,,O,
 112,25,16,lednu,,O,
 112,25,17,2017,,O,
@@ -553,7 +553,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 112,27,4,měl,,O,
 112,27,5,nést,,O,
 112,27,6,znaky,,O,
-112,27,7,Cadillacu,,O,
+112,27,7,Cadillacu,cadillac,B-MISC,82
 112,27,8,",",,O,
 112,27,9,čemuž,,O,
 112,27,10,nasvědčují,,O,
@@ -586,7 +586,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 112,29,4,ochrana,,O,
 112,29,5,posádky,,O,
 112,29,6,",",,O,
-112,29,7,Bestie,,O,
+112,29,7,Bestie,bestie,B-MISC,37
 112,29,8,dostane,,O,
 112,29,9,pancéřovanou,,O,
 112,29,10,karoserii,,O,

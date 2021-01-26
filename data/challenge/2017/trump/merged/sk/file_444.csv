@@ -1,14 +1,14 @@
 docId,sentenceId,tokenId,text,lemma,ner,clID
 444,0,1,Donald,donald,B-PER,1
-444,0,2,Trump,trump,B-PER,1
+444,0,2,Trump,trump,I-PER,1
 444,0,3,si,,O,
 444,0,4,vybral,,O,
 444,0,5,ministrov,,O,
 444,0,6,|,,O,
 444,0,7,Nový,nový,B-ORG,252
 444,0,8,Čas,čas,I-ORG,252
-444,0,9,Donald,,O,
-444,0,10,Trump,,O,
+444,0,9,Donald,donald,B-PER,1
+444,0,10,Trump,trump,I-PER,1
 444,0,11,chce,,O,
 444,0,12,za,,O,
 444,0,13,nového,,O,
@@ -25,7 +25,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 444,0,24,politického,,O,
 444,0,25,sponzora,,O,
 444,0,26,Stevena,steven,B-PER,253
-444,0,27,Mnuchina,mnuchin,B-PER,253
+444,0,27,Mnuchina,mnuchin,I-PER,253
 444,0,28,.,,O,
 444,1,1,Napísala,,O,
 444,1,2,to,,O,
@@ -45,7 +45,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 444,2,2,nomináciu,,O,
 444,2,3,by,,O,
 444,2,4,mal,,O,
-444,2,5,Trump,,O,
+444,2,5,Trump,trump,B-PER,1
 444,2,6,oficiálne,,O,
 444,2,7,oznámiť,,O,
 444,2,8,v,,O,
@@ -53,7 +53,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 444,2,10,.,,O,
 444,3,1,Päťdesiattriročný,,O,
 444,3,2,finančník,,O,
-444,4,1,Mnuchin,,O,
+444,4,1,Mnuchin,mnuchin,B-PER,253
 444,4,2,bez,,O,
 444,4,3,predchádzajúcich,,O,
 444,4,4,skúseností,,O,
@@ -87,7 +87,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 444,6,3,obdobia,,O,
 444,6,4,sa,,O,
 444,6,5,podľa,,O,
-444,6,6,AP,,O,
+444,6,6,AP,ap,B-ORG,81
 444,6,7,zblížil,,O,
 444,6,8,s,,O,
 444,6,9,Trumpom,trump,B-PER,1
@@ -95,7 +95,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 444,6,11,jeho,,O,
 444,6,12,rodinou,,O,
 444,6,13,.,,O,
-444,7,1,Trump,,O,
+444,7,1,Trump,trump,B-PER,1
 444,7,2,si,,O,
 444,7,3,ďalej,,O,
 444,7,4,z,,O,

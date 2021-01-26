@@ -11,7 +11,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 117,0,10,blamáží,,O,
 117,0,11,.,,O,
 117,1,1,Donald,donald,B-PER,1
-117,1,2,Trump,trump,B-PER,1
+117,1,2,Trump,trump,I-PER,1
 117,1,3,má,,O,
 117,1,4,po,,O,
 117,1,5,přepočtu,,O,
@@ -22,7 +22,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 117,1,10,více,,O,
 117,1,11,!,,O,
 117,2,1,A,,O,
-117,2,2,Trump,,O,
+117,2,2,Trump,trump,B-PER,1
 117,2,3,udělá,,O,
 117,2,4,z,,O,
 117,2,5,Putinova,putin,B-PER,63
@@ -47,7 +47,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 117,5,6,jak,,O,
 117,5,7,mohou,,O,
 117,5,8,být,,O,
-117,5,9,USA,,O,
+117,5,9,USA,usa,B-LOC,2
 117,5,10,finanční,,O,
 117,5,11,vazalové,,O,
 117,5,12,Číny,čína,B-LOC,11
@@ -79,7 +79,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 117,7,17,subjekty,,O,
 117,7,18,",",,O,
 117,7,19,občané,,O,
-117,7,20,USA,,O,
+117,7,20,USA,usa,B-LOC,2
 117,7,21,",",,O,
 117,7,22,US,us,B-LOC,2
 117,7,23,penzijní,,O,
@@ -157,10 +157,10 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 117,11,13,2000,,O,
 117,11,14,",",,O,
 117,11,15,když,,O,
-117,11,16,Čína,,O,
+117,11,16,Čína,čína,B-LOC,11
 117,11,17,dostala,,O,
 117,11,18,od,,O,
-117,11,19,USA,,O,
+117,11,19,USA,usa,B-LOC,2
 117,11,20,doložku,,O,
 117,11,21,nejvyšších,,O,
 117,11,22,výhod,,O,
@@ -174,7 +174,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 117,12,7,bezcelním,,O,
 117,12,8,režimu,,O,
 117,12,9,do,,O,
-117,12,10,USA,,O,
+117,12,10,USA,usa,B-LOC,2
 117,12,11,prakticky,,O,
 117,12,12,veškeré,,O,
 117,12,13,komerční,,O,
@@ -188,13 +188,13 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 117,12,21,.,,O,
 117,13,1,Jinými,,O,
 117,13,2,slovy,,O,
-117,13,3,Čína,,O,
+117,13,3,Čína,čína,B-LOC,11
 117,13,4,za,,O,
 117,13,5,své,,O,
 117,13,6,zboží,,O,
 117,13,7,dovážené,,O,
 117,13,8,do,,O,
-117,13,9,USA,,O,
+117,13,9,USA,usa,B-LOC,2
 117,13,10,musí,,O,
 117,13,11,akceptovat,,O,
 117,13,12,americký,,O,
@@ -206,10 +206,10 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 117,13,18,.,,O,
 117,14,1,Když,,O,
 117,14,2,by,,O,
-117,14,3,Čína,,O,
+117,14,3,Čína,čína,B-LOC,11
 117,14,4,hodila,,O,
 117,14,5,na,,O,
-117,14,6,USA,,O,
+117,14,6,USA,usa,B-LOC,2
 117,14,7,třeba,,O,
 117,14,8,jen,,O,
 117,14,9,„křivý,,O,
@@ -228,14 +228,14 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 117,14,22,okamžitě,,O,
 117,14,23,zavřít,,O,
 117,14,24,.,,O,
-117,15,1,Čína,,O,
+117,15,1,Čína,čína,B-LOC,11
 117,15,2,proto,,O,
 117,15,3,potřebuje,,O,
 117,15,4,více,,O,
-117,15,5,USA,,O,
+117,15,5,USA,usa,B-LOC,2
 117,15,6,",",,O,
 117,15,7,než,,O,
-117,15,8,USA,,O,
+117,15,8,USA,usa,B-LOC,2
 117,15,9,potřebují,,O,
 117,15,10,Čínu,čína,B-LOC,11
 117,15,11,.,,O,
@@ -252,7 +252,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 117,17,7,z,,O,
 117,17,8,jiných,,O,
 117,17,9,zemí,,O,
-117,17,10,Asie,,O,
+117,17,10,Asie,asie,B-LOC,72
 117,17,11,nebo,,O,
 117,17,12,z,,O,
 117,17,13,Evropy,evropa,B-LOC,73
@@ -263,7 +263,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 117,17,18,roli,,O,
 117,17,19,výrobních,,O,
 117,17,20,kapacit,,O,
-117,17,21,Číny,,O,
+117,17,21,Číny,čína,B-LOC,11
 117,17,22,",",,O,
 117,17,23,bohužel,,O,
 117,17,24,",",,O,
@@ -319,7 +319,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 117,21,4,nepůjčila,,O,
 117,21,5,přímo,,O,
 117,21,6,od,,O,
-117,21,7,FEDu,,O,
+117,21,7,FEDu,fed,B-ORG,71
 117,21,8,?,,O,
 117,22,1,Pokud,,O,
 117,22,2,se,,O,
@@ -339,7 +339,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 117,22,16,ale,,O,
 117,22,17,je,,O,
 117,22,18,nástrojem,,O,
-117,22,19,USA,,O,
+117,22,19,USA,usa,B-LOC,2
 117,22,20,pro,,O,
 117,22,21,ovládání,,O,
 117,22,22,cizích,,O,
@@ -357,13 +357,13 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 117,22,34,na,,O,
 117,22,35,trzích,,O,
 117,22,36,v,,O,
-117,22,37,USA,,O,
+117,22,37,USA,usa,B-LOC,2
 117,22,38,.,,O,
 117,23,1,Všichni,,O,
 117,23,2,chtějí,,O,
 117,23,3,prodávat,,O,
 117,23,4,na,,O,
-117,23,5,US,,O,
+117,23,5,US,us,B-LOC,2
 117,23,6,trhu,,O,
 117,23,7,",",,O,
 117,23,8,protože,,O,
@@ -398,7 +398,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 117,26,4,musí,,O,
 117,26,5,spotřebovat,,O,
 117,26,6,.,,O,
-117,27,1,USA,,O,
+117,27,1,USA,usa,B-LOC,2
 117,27,2,fungují,,O,
 117,27,3,jako,,O,
 117,27,4,spotřební,,O,
@@ -468,7 +468,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 117,32,6,fungovat,,O,
 117,32,7,bez,,O,
 117,32,8,účasti,,O,
-117,32,9,USA,,O,
+117,32,9,USA,usa,B-LOC,2
 117,32,10,(,,O,
 117,32,11,spotřebních,,O,
 117,32,12,plic,,O,
@@ -493,7 +493,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 117,33,9,.,.,I-ORG,79
 117,33,10,rádiu,rádio,I-ORG,79
 117,33,11,.,,O,
-117,34,1,Čína,,O,
+117,34,1,Čína,čína,B-LOC,11
 117,34,2,je,,O,
 117,34,3,v,,O,
 117,34,4,pozici,,O,
@@ -507,7 +507,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 117,35,3,ekonomika,,O,
 117,35,4,stojí,,O,
 117,35,5,na,,O,
-117,35,6,US,,O,
+117,35,6,US,us,B-LOC,2
 117,35,7,dolaru,,O,
 117,35,8,a,,O,
 117,35,9,americkém,,O,
@@ -517,7 +517,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 117,36,1,Ohrožení,,O,
 117,36,2,dovozu,,O,
 117,36,3,do,,O,
-117,36,4,USA,,O,
+117,36,4,USA,usa,B-LOC,2
 117,36,5,a,,O,
 117,36,6,zablokování,,O,
 117,36,7,americké,,O,
@@ -529,7 +529,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 117,36,13,větší,,O,
 117,36,14,paseku,,O,
 117,36,15,v,,O,
-117,36,16,Pekingu,,O,
+117,36,16,Pekingu,peking,B-LOC,70
 117,36,17,než,,O,
 117,36,18,vodíkové,,O,
 117,36,19,bomby,,O,
@@ -541,7 +541,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 117,37,5,prošel,,O,
 117,37,6,Brexit,brexit,B-MISC,80
 117,37,7,",",,O,
-117,37,8,Čína,,O,
+117,37,8,Čína,čína,B-LOC,11
 117,37,9,okamžitě,,O,
 117,37,10,zpanikařila,,O,
 117,37,11,",",,O,
@@ -556,7 +556,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 117,37,20,.,,O,
 117,38,1,No,,O,
 117,38,2,proč,,O,
-117,38,3,asi,,O,
+117,38,3,asi,asie,B-LOC,72
 117,38,4,taková,,O,
 117,38,5,reakce,,O,
 117,38,6,?,,O,
@@ -564,7 +564,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 117,39,2,si,,O,
 117,39,3,na,,O,
 117,39,4,inauguraci,,O,
-117,39,5,Trumpa,,O,
+117,39,5,Trumpa,trump,B-PER,1
 117,39,6,a,,O,
 117,39,7,sledujte,,O,
 117,39,8,čínský,,O,

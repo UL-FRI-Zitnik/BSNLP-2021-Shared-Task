@@ -5,7 +5,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 297,0,4,imajo,,O,
 297,0,5,skupnega,,O,
 297,0,6,Donald,donald,B-PER,1
-297,0,7,Trump,trumpi,B-PER,1
+297,0,7,Trump,trump,I-PER,1
 297,0,8,",",,O,
 297,0,9,prevarantski,,O,
 297,0,10,guru,,O,
@@ -276,7 +276,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 297,24,5,problem,,O,
 297,24,6,",",,O,
 297,24,7,če,,O,
-297,24,8,Donald,,O,
+297,24,8,Donald,donald,B-PER,1
 297,24,9,pritiska,,O,
 297,24,10,na,,O,
 297,24,11,psihološka,,O,
@@ -333,7 +333,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 297,29,14,vidi,,O,
 297,29,15,",",,O,
 297,29,16,da,,O,
-297,29,17,Donald,,O,
+297,29,17,Donald,donald,B-PER,1
 297,29,18,govori,,O,
 297,29,19,neumnosti,,O,
 297,29,20,.,,O,
@@ -383,8 +383,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 297,32,13,»,,O,
 297,32,14,ker,,O,
 297,32,15,je,,O,
-297,32,16,Donald,,O,
-297,32,17,Trump,,O,
+297,32,16,Donald,donald,B-PER,1
+297,32,17,Trump,trump,I-PER,1
 297,32,18,«,,O,
 297,32,19,.,,O,
 297,33,1,No,,O,
@@ -443,8 +443,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 297,35,8,kakšno,,O,
 297,35,9,zvezo,,O,
 297,35,10,ima,,O,
-297,35,11,Donald,,O,
-297,35,12,Trump,,O,
+297,35,11,Donald,donald,B-PER,1
+297,35,12,Trump,trump,I-PER,1
 297,35,13,in,,O,
 297,35,14,njegov,,O,
 297,35,15,nastop,,O,
@@ -815,7 +815,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 297,51,1,Joseph,joseph,B-PER,40056
 297,51,2,Goebbels,goebbels,I-PER,40056
 297,51,3,",",,O,
-297,51,4,Hitlerjev,,O,
+297,51,4,Hitlerjev,hitler,B-PER,20608
 297,51,5,minister,,O,
 297,51,6,za,,O,
 297,51,7,propagando,,O,
@@ -896,9 +896,9 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 297,58,3,s,,O,
 297,58,4,pridom,,O,
 297,58,5,izkoriščajo,,O,
-297,58,6,Hitlerji,,O,
+297,58,6,Hitlerji,hitlerji,B-PER,20608
 297,58,7,",",,O,
-297,58,8,Trumpi,,O,
+297,58,8,Trumpi,trumpi,B-PER,1
 297,58,9,",",,O,
 297,58,10,guruji,,O,
 297,58,11,in,,O,

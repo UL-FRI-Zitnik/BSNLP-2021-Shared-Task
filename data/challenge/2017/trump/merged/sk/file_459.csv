@@ -131,7 +131,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 459,10,13,o,,O,
 459,10,14,bezprostrednom,,O,
 459,10,15,ohrození,,O,
-459,10,16,Slovenska,,O,
+459,10,16,Slovenska,slovensko,B-LOC,259
 459,10,17,nemáme,,O,
 459,10,18,.,,O,
 459,11,1,R,r,B-PER,321
@@ -203,7 +203,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 459,17,11,na,,O,
 459,17,12,celom,,O,
 459,17,13,území,,O,
-459,17,14,Slovenska,,O,
+459,17,14,Slovenska,slovensko,B-LOC,259
 459,17,15,.,,O,
 459,18,1,V,v,B-PER,63
 459,18,2,.,.,I-PER,63

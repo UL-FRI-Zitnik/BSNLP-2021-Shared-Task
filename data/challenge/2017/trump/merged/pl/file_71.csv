@@ -1,6 +1,6 @@
 docId,sentenceId,tokenId,text,lemma,ner,clID
 71,0,1,Donald,donald,B-PER,1
-71,0,2,Trump,trump,B-PER,1
+71,0,2,Trump,trump,I-PER,1
 71,0,3,tworzy,,O,
 71,0,4,radę,,O,
 71,0,5,gospodarczą,,O,
@@ -94,8 +94,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 71,8,17,do,,O,
 71,8,18,rady,,O,
 71,8,19,gospodarczej,,O,
-71,8,20,Donalda,,O,
-71,8,21,Trumpa,,O,
+71,8,20,Donalda,donald,B-PER,1
+71,8,21,Trumpa,trump,I-PER,1
 71,8,22,",",,O,
 71,8,23,by,,O,
 71,8,24,doradzać,,O,
@@ -118,7 +118,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 71,9,11,jakikolwiek,,O,
 71,9,12,wpływ,,O,
 71,9,13,na,,O,
-71,9,14,Trumpa,,O,
+71,9,14,Trumpa,trump,B-PER,1
 71,9,15,.,,O,
 71,10,1,Tego,,O,
 71,10,2,nikt,,O,
@@ -211,17 +211,17 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 71,15,4,-,,O,
 71,15,5,oceniała,,O,
 71,15,6,decyzję,,O,
-71,15,7,Trumpa,,O,
-71,15,8,Magda,,O,
-71,15,9,Gacyk,,O,
+71,15,7,Trumpa,trump,B-PER,1
+71,15,8,Magda,magda,B-PER,21013
+71,15,9,Gacyk,gacyk,I-PER,21013
 71,15,10,.,,O,
 71,16,1,"""",,O,
 71,16,2,BRONIĄ,,O,
 71,16,3,GO,,O,
 71,16,4,ARGUMENTY,,O,
 71,16,5,"""",,O,
-71,16,6,Artur,,O,
-71,16,7,Kiełbasiński,,O,
+71,16,6,Artur,artur,B-PER,21016
+71,16,7,Kiełbasiński,kiełbasiński,I-PER,21016
 71,16,8,zwrócił,,O,
 71,16,9,uwagę,,O,
 71,16,10,na,,O,
@@ -245,7 +245,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 71,16,28,gospodarczych,,O,
 71,16,29,.,,O,
 71,17,1,-,,O,
-71,17,2,Trump,,O,
+71,17,2,Trump,trump,B-PER,1
 71,17,3,od,,O,
 71,17,4,dawna,,O,
 71,17,5,mówi,,O,
@@ -316,7 +316,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 71,21,13,więc,,O,
 71,21,14,za,,O,
 71,21,15,planami,,O,
-71,21,16,Trumpa,,O,
+71,21,16,Trumpa,trump,B-PER,1
 71,21,17,stoją,,O,
 71,21,18,argumenty,,O,
 71,21,19,ekonomiczne,,O,
@@ -329,8 +329,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 71,22,6,zaproszeni,,O,
 71,22,7,akurat,,O,
 71,22,8,przedstawiciele,,O,
-71,22,9,Doliny,,O,
-71,22,10,Krzemowej,,O,
+71,22,9,Doliny,dolina,B-LOC,147
+71,22,10,Krzemowej,krzemowa,I-LOC,147
 71,22,11,",",,O,
 71,22,12,oznacza,,O,
 71,22,13,otwarcie,,O,
@@ -351,7 +351,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 71,23,1,ZDRADZENI,,O,
 71,23,2,WYBORCY,,O,
 71,23,3,.,,O,
-71,24,1,Trump,,O,
+71,24,1,Trump,trump,B-PER,1
 71,24,2,przed,,O,
 71,24,3,wyborami,,O,
 71,24,4,optował,,O,
@@ -426,6 +426,6 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 71,27,20,-,,O,
 71,27,21,zwrócił,,O,
 71,27,22,uwagę,,O,
-71,27,23,Maciej,,O,
-71,27,24,Goniszewski,,O,
+71,27,23,Maciej,maciej,B-PER,21014
+71,27,24,Goniszewski,goniszewski,I-PER,21014
 71,27,25,.,,O,

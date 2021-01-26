@@ -8,8 +8,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 464,0,7,proti,,O,
 464,0,8,falšovaniu,,O,
 464,0,9,dokladov,,O,
-464,0,10,Európska,,O,
-464,0,11,komisia,,O,
+464,0,10,Európska,európska,B-ORG,1
+464,0,11,komisia,komisia,I-ORG,1
 464,0,12,navrhla,,O,
 464,0,13,opatrenia,,O,
 464,0,14,na,,O,
@@ -51,12 +51,12 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 464,4,3,.,,O,
 464,4,4,decembra,,O,
 464,4,5,(,,O,
-464,4,6,TASR,,O,
+464,4,6,TASR,tasr,B-ORG,195
 464,4,7,),,O,
-464,5,1,Európska,,O,
-464,5,2,komisia,,O,
+464,5,1,Európska,európska,B-ORG,1
+464,5,2,komisia,komisia,I-ORG,1
 464,5,3,(,,O,
-464,5,4,EK,,O,
+464,5,4,EK,ek,B-ORG,1
 464,5,5,),,O,
 464,5,6,dnes,,O,
 464,5,7,prijala,,O,
@@ -75,7 +75,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 464,5,20,cestovných,,O,
 464,5,21,dokladov,,O,
 464,5,22,.,,O,
-464,6,1,EK,,O,
+464,6,1,EK,ek,B-ORG,1
 464,6,2,tým,,O,
 464,6,3,chce,,O,
 464,6,4,prispieť,,O,
@@ -116,7 +116,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 464,7,17,.,,O,
 464,8,1,Akčný,,O,
 464,8,2,plán,,O,
-464,8,3,EK,,O,
+464,8,3,EK,ek,B-ORG,1
 464,8,4,navrhuje,,O,
 464,8,5,členským,,O,
 464,8,6,tátom,,O,
@@ -160,7 +160,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 464,9,8,vydané,,O,
 464,9,9,členskými,,O,
 464,9,10,tátmi,,O,
-464,9,11,EÚ,,O,
+464,9,11,EÚ,eú,B-LOC,6
 464,9,12,občanom,,O,
 464,9,13,Únie,,O,
 464,9,14,a,,O,
@@ -168,7 +168,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 464,9,16,tátov,,O,
 464,9,17,.,,O,
 464,10,1,Členovia,,O,
-464,10,2,EÚ,,O,
+464,10,2,EÚ,eú,B-LOC,6
 464,10,3,nesú,,O,
 464,10,4,naďalej,,O,
 464,10,5,plnú,,O,
@@ -197,7 +197,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 464,12,3,sa,,O,
 464,12,4,vyjadril,,O,
 464,12,5,Julian,julian,B-PER,280
-464,12,6,King,king,B-PER,280
+464,12,6,King,king,I-PER,280
 464,12,7,",",,O,
 464,12,8,eurokomisár,,O,
 464,12,9,pre,,O,
@@ -218,7 +218,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 464,13,12,nepozorovane,,O,
 464,13,13,cestovať,,O,
 464,13,14,po,,O,
-464,13,15,EÚ,,O,
+464,13,15,EÚ,eú,B-LOC,6
 464,13,16,.,,O,
 464,14,1,Viacero,,O,
 464,14,2,naich,,O,
@@ -258,7 +258,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 464,15,14,",",,O,
 464,15,15,"""",,O,
 464,15,16,uviedol,,O,
-464,15,17,King,,O,
+464,15,17,King,king,B-PER,280
 464,15,18,.,,O,
 464,16,1,Akčný,,O,
 464,16,2,plán,,O,
@@ -268,7 +268,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 464,16,6,tyroch,,O,
 464,16,7,oblastiach,,O,
 464,16,8,.,,O,
-464,17,1,EK,,O,
+464,17,1,EK,ek,B-ORG,1
 464,17,2,tvrdí,,O,
 464,17,3,",",,O,
 464,17,4,že,,O,
@@ -324,7 +324,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 464,17,54,vzorových,,O,
 464,17,55,dokumentov,,O,
 464,17,56,.,,O,
-464,18,1,EK,,O,
+464,18,1,EK,ek,B-ORG,1
 464,18,2,apeluje,,O,
 464,18,3,na,,O,
 464,18,4,Európsky,európsky,B-ORG,14
@@ -332,7 +332,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 464,18,6,a,,O,
 464,18,7,členské,,O,
 464,18,8,táty,,O,
-464,18,9,EÚ,,O,
+464,18,9,EÚ,eú,B-LOC,6
 464,18,10,",",,O,
 464,18,11,aby,,O,
 464,18,12,prijali,,O,

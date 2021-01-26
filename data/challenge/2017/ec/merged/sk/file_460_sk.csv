@@ -13,8 +13,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 460,0,12,pre,pre,I-ORG,220
 460,0,13,zdravotnú,zdravotnú,I-ORG,220
 460,0,14,politiku,politiku,I-ORG,220
-460,0,15,Európska,,O,
-460,0,16,komisia,,O,
+460,0,15,Európska,európska,B-ORG,1
+460,0,16,komisia,komisia,I-ORG,1
 460,0,17,(,,O,
 460,0,18,EK,ek,B-ORG,1
 460,0,19,),,O,
@@ -48,12 +48,12 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 460,3,2,Policy,policy,I-ORG,220
 460,4,1,Institute,institute,I-ORG,220
 460,4,2,(,,O,
-460,4,3,HPI,,O,
+460,4,3,HPI,hpi,B-ORG,220
 460,4,4,),,O,
 460,4,5,sa,,O,
 460,4,6,s,,O,
 460,4,7,hodnotením,,O,
-460,4,8,EK,,O,
+460,4,8,EK,ek,B-ORG,1
 460,4,9,stotožňuje,,O,
 460,4,10,.,,O,
 460,5,1,Správa,,O,
@@ -123,7 +123,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 460,5,65,000,,O,
 460,5,66,obyvateľov,,O,
 460,5,67,",",,O,
-460,5,68,Eurostat,,O,
+460,5,68,Eurostat,eurostat,B-ORG,221
 460,5,69,),,O,
 460,6,1,Komisia,,O,
 460,6,2,považuje,,O,
@@ -136,7 +136,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 460,6,9,opakovane,,O,
 460,6,10,upozorňuje,,O,
 460,6,11,aj,,O,
-460,6,12,HPI,,O,
+460,6,12,HPI,hpi,B-ORG,220
 460,6,13,:,,O,
 460,6,14,prieťahy,,O,
 460,6,15,pri,,O,

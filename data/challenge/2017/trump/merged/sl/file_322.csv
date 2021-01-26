@@ -2,12 +2,12 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 322,0,1,Kdo,,O,
 322,0,2,je,,O,
 322,0,3,Donald,donald,B-PER,1
-322,0,4,Trump,trump,B-PER,1
+322,0,4,Trump,trump,I-PER,1
 322,0,5,?,,O,
 322,0,6,-,,O,
 322,0,7,zurnal24,,O,
-322,1,1,Donald,,O,
-322,1,2,Trump,,O,
+322,1,1,Donald,donald,B-PER,1
+322,1,2,Trump,trump,I-PER,1
 322,1,3,se,,O,
 322,1,4,je,,O,
 322,1,5,rodil,,O,
@@ -70,7 +70,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 322,4,21,IMG,img,I-ORG,40191
 322,4,22,.,,O,
 322,5,1,Čeprav,,O,
-322,5,2,Trump,,O,
+322,5,2,Trump,trump,B-PER,1
 322,5,3,ni,,O,
 322,5,4,nikoli,,O,
 322,5,5,razglasil,,O,
@@ -132,7 +132,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 322,6,29,normalno,,O,
 322,6,30,delovali,,O,
 322,6,31,.,,O,
-322,7,1,Trump,,O,
+322,7,1,Trump,trump,B-PER,1
 322,7,2,je,,O,
 322,7,3,takrat,,O,
 322,7,4,dejal,,O,
@@ -175,7 +175,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 322,8,22,ki,,O,
 322,8,23,ga,,O,
 322,8,24,je,,O,
-322,8,25,Trump,,O,
+322,8,25,Trump,trump,B-PER,1
 322,8,26,gostil,,O,
 322,8,27,in,,O,
 322,8,28,produciral,,O,
@@ -203,7 +203,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 322,9,21,najbogatejših,,O,
 322,9,22,Američanov,američani,B-PER,17
 322,9,23,.,,O,
-322,10,1,Trump,,O,
+322,10,1,Trump,trump,B-PER,1
 322,10,2,je,,O,
 322,10,3,bil,,O,
 322,10,4,poročen,,O,
@@ -260,7 +260,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 322,13,13,sina,,O,
 322,13,14,Barrona,barron,B-PER,185
 322,13,15,.,,O,
-322,14,1,Trump,,O,
+322,14,1,Trump,trump,B-PER,1
 322,14,2,je,,O,
 322,14,3,tudi,,O,
 322,14,4,že,,O,
@@ -273,7 +273,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 322,15,3,svojih,,O,
 322,15,4,izjavah,,O,
 322,15,5,.,,O,
-322,16,1,Trump,,O,
+322,16,1,Trump,trump,B-PER,1
 322,16,2,je,,O,
 322,16,3,skozi,,O,
 322,16,4,svojo,,O,
@@ -423,7 +423,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 322,25,12,.,,O,
 322,25,13,"""",,O,
 322,25,14,(,,O,
-322,25,15,Trump,,O,
+322,25,15,Trump,trump,B-PER,1
 322,25,16,:,,O,
 322,25,17,The,the,B-MISC,40120
 322,25,18,Art,art,I-MISC,40120
@@ -532,8 +532,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 322,27,27,Vse,,O,
 322,27,28,ženske,,O,
 322,27,29,na,,O,
-322,27,30,The,,O,
-322,27,31,Apprentice,,O,
+322,27,30,The,the,B-MISC,96
+322,27,31,Apprentice,apprentice,I-MISC,96
 322,27,32,so,,O,
 322,27,33,se,,O,
 322,27,34,spogledovale,,O,
@@ -669,7 +669,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 322,33,23,ustvarili,,O,
 322,33,24,Kitajce,kitajci,B-PER,10062
 322,33,25,za,,O,
-322,33,26,Kitajce,,O,
+322,33,26,Kitajce,kitajci,B-PER,10062
 322,33,27,",",,O,
 322,33,28,da,,O,
 322,33,29,bi,,O,
@@ -714,7 +714,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 322,34,14,?,,O,
 322,34,15,"""",,O,
 322,34,16,(,,O,
-322,34,17,Twitter,,O,
+322,34,17,Twitter,twitter,B-MISC,90
 322,34,18,",",,O,
 322,34,19,7.,,O,
 322,34,20,maj,,O,
@@ -735,12 +735,12 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 322,34,35,da,,O,
 322,34,36,lahko,,O,
 322,34,37,zadovolji,,O,
-322,34,38,Ameriko,,O,
+322,34,38,Ameriko,amerika,B-LOC,2
 322,34,39,?,,O,
 322,34,40,"""",,O,
 322,34,41,(,,O,
-322,34,42,Donald,,O,
-322,34,43,Trump,,O,
+322,34,42,Donald,donald,B-PER,1
+322,34,43,Trump,trump,I-PER,1
 322,34,44,v,,O,
 322,34,45,tvitu,,O,
 322,34,46,",",,O,
@@ -814,7 +814,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 322,34,114,!,,O,
 322,34,115,"""",,O,
 322,34,116,(,,O,
-322,34,117,Twitter,,O,
+322,34,117,Twitter,twitter,B-MISC,90
 322,34,118,",",,O,
 322,34,119,12.,,O,
 322,34,120,julij,,O,
@@ -845,8 +845,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 322,34,145,nominacijo,,O,
 322,34,146,…,,O,
 322,34,147,[,,O,
-322,34,148,Hillary,,O,
-322,34,149,Clinton,,O,
+322,34,148,Hillary,hillary,B-PER,3
+322,34,149,Clinton,clinton,I-PER,3
 322,34,150,],,O,
 322,34,151,je,,O,
 322,34,152,z,,O,
@@ -873,8 +873,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 322,35,13,"""",,O,
 322,35,14,(,,O,
 322,35,15,»,,O,
-322,35,16,Donald,,O,
-322,35,17,Trump,,O,
+322,35,16,Donald,donald,B-PER,1
+322,35,17,Trump,trump,I-PER,1
 322,35,18,tours,,O,
 322,35,19,Mexican,,O,
 322,35,20,border,,O,
@@ -889,7 +889,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 322,35,29,2015,,O,
 322,35,30,),,O,
 322,35,31,"""",,O,
-322,35,32,Hillary,,O,
+322,35,32,Hillary,hillary,B-PER,3
 322,35,33,je,,O,
 322,35,34,dejala,,O,
 322,35,35,",",,O,
@@ -930,10 +930,10 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 322,36,29,citirana,,O,
 322,36,30,v,,O,
 322,36,31,»,,O,
-322,36,32,Trump,,O,
+322,36,32,Trump,trump,B-PER,1
 322,36,33,:,,O,
-322,36,34,Hillary,,O,
-322,36,35,Clinton,,O,
+322,36,34,Hillary,hillary,B-PER,3
+322,36,35,Clinton,clinton,I-PER,3
 322,36,36,Should,,O,
 322,36,37,Disarm,,O,
 322,36,38,Her,,O,

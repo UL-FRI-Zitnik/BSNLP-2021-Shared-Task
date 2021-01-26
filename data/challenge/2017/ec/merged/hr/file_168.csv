@@ -54,8 +54,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 168,1,48,Europske,europska,B-LOC,6
 168,1,49,unije,unija,I-LOC,6
 168,1,50,.,,O,
-168,2,1,Europska,,O,
-168,2,2,komisija,,O,
+168,2,1,Europska,europska,B-ORG,1
+168,2,2,komisija,komisija,I-ORG,1
 168,2,3,je,,O,
 168,2,4,također,,O,
 168,2,5,definisalo,,O,
@@ -88,7 +88,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 168,3,17,propisuje,,O,
 168,3,18,da,,O,
 168,3,19,"""",,O,
-168,3,20,Unija,,O,
+168,3,20,Unija,unija,B-LOC,6
 168,3,21,će,,O,
 168,3,22,doprinijeti,,O,
 168,3,23,zaštiti,,O,
@@ -129,8 +129,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 168,4,8,najavila,,O,
 168,4,9,da,,O,
 168,4,10,će,,O,
-168,4,11,Europska,,O,
-168,4,12,komisija,,O,
+168,4,11,Europska,europska,B-ORG,1
+168,4,12,komisija,komisija,I-ORG,1
 168,4,13,izraditi,,O,
 168,4,14,"""",,O,
 168,4,15,interaktivnu,,O,

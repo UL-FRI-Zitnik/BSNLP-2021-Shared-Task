@@ -14,8 +14,8 @@ def split_documents(dataset_files: dict, tokenizers: dict):
     files_processed = 0
     for dataset in dataset_files:
         for lang in dataset_files[dataset]:
-            # if lang != 'sl':
-            #     continue
+            if lang == 'sl':
+                continue
             print(f'Dataset: {dataset}, Language: {lang}')
             merged_path = f'{dataset}/merged/{lang}'
             if not os.path.exists(merged_path):
@@ -64,14 +64,31 @@ def tokenize_mention(mention: str, tokenizer, lang: str) -> list:
     return [t['text'] for t in tokenized]
 
 
+def sort_by_mention_length(data: pd.DataFrame) -> pd.DataFrame:
+    sorted_vals = data['Mention'].str.len().sort_values().index
+    return data.reindex(sorted_vals).reset_index(drop=True)
+
+
 def annotate_document(sentences: list, annotations_path: str, document_id: str, tokenizer, lang) -> (pd.DataFrame, list):
     # print(f"Work on {annotations_path}")
-    ann_df = pd.read_csv(annotations_path, names=['Mention', 'Base', 'Category', 'clID'], skiprows=[0], sep='\t')
+    try:
+        anns = pd.read_csv(annotations_path, names=['Mention', 'Base', 'Category', 'clID'], skiprows=[0], sep='\t')
+    except:
+        print(f"CAN'T LOAD {annotations_path}")
+        return pd.DataFrame(), []
+    # a hack to first look for shorter matches if mentions
+    # are substrings, e.g. komisija vs Evropska Komisija
+    ann_df = sort_by_mention_length(anns)
+
+    warnings = []
     if len(ann_df['Mention'].unique()) != len(ann_df.index):
         print("Duplicate mentions!")
+        warnings.append({
+            "msg": "Duplicate mentions found!",
+            "doc": annotations_path,
+        })
     annotations = ann_df.to_dict('records')
     annotated_tokens = []
-    warnings = []
     for sent_id, sentence in enumerate(sentences):
         for token in sentence:
             token['ner'] = 'O'
@@ -80,13 +97,16 @@ def annotate_document(sentences: list, annotations_path: str, document_id: str, 
             token['sentenceId'] = sent_id
             token['docId'] = document_id
             annotated_tokens.append(token)
-    altered_items = 0
+
+    used_annotations = 0
     for annotation in annotations:
         ann_pieces = tokenize_mention(annotation['Mention'], tokenizer, lang)
-        matched = False
+        matched = 0
         for token_id, token in enumerate(annotated_tokens):
             first_ratio = fuzz.ratio(ann_pieces[0].lower(), token['text'].lower())
             if first_ratio >= LOWEST_SIMILARITY:
+                if token_id + len(ann_pieces) > len(annotated_tokens):
+                    continue
                 all_ratio = [fuzz.ratio(ann.lower(), annotated_tokens[token_id + i]['text'].lower()) for i, ann in enumerate(ann_pieces)]
                 if len([r for r in all_ratio if r >= LOWEST_SIMILARITY]) != len(ann_pieces):
                     continue
@@ -109,21 +129,21 @@ def annotate_document(sentences: list, annotations_path: str, document_id: str, 
                     t['lemma'] = lemma.pop(0)
                     t['clID'] = annotation["clID"]
                     f_ner = False if f_ner else f_ner
-                altered_items += 1
-                matched = True
-                break
-        if not matched:
+                matched += 1
+        if matched == 0:
             warnings.append({
                 "msg": "Annotation not matched!",
                 "doc": annotations_path,
                 "annotation": annotation,
             })
-    if altered_items != len(annotations):
-        print(f"[WARNING] UNUSED ANNOTATIONS: {altered_items}/{len(annotations)}")
+        used_annotations += 1 if matched > 0 else 0
+
+    if used_annotations != len(annotations):
+        print(f"[WARNING] UNUSED ANNOTATIONS: {used_annotations}/{len(annotations)}")
         warnings.append({
-            "msg": f"ALTERED ITEMS ({altered_items}) NOT EQUAL TO ANNOTATIONS ({len(annotations)})",
+            "msg": f"ALTERED ITEMS ({used_annotations}) NOT EQUAL TO ANNOTATIONS ({len(annotations)})",
             "doc": annotations_path,
-            "num_altered": altered_items,
+            "num_altered": used_annotations,
             "num_annotations": len(annotations)
         })
     sentence_df = pd.DataFrame(annotated_tokens)

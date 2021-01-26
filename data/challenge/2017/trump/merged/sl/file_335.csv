@@ -1,6 +1,6 @@
 docId,sentenceId,tokenId,text,lemma,ner,clID
 335,0,1,Donald,donald,B-PER,1
-335,0,2,Trump,trump,B-PER,1
+335,0,2,Trump,trump,I-PER,1
 335,0,3,napovedal,,O,
 335,0,4,vojno,,O,
 335,0,5,vsem,,O,
@@ -15,8 +15,8 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 335,1,1,Republikanski,,O,
 335,1,2,predsedniški,,O,
 335,1,3,kandidat,,O,
-335,1,4,Donald,,O,
-335,1,5,Trump,,O,
+335,1,4,Donald,donald,B-PER,1
+335,1,5,Trump,trump,I-PER,1
 335,1,6,je,,O,
 335,1,7,v,,O,
 335,1,8,torek,,O,
@@ -44,7 +44,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 335,1,30,iz,,O,
 335,1,31,Arizone,arizona,B-LOC,341
 335,1,32,Johnom,john,B-PER,119
-335,1,33,McCainom,mccain,B-PER,119
+335,1,33,McCainom,mccain,I-PER,119
 335,1,34,",",,O,
 335,1,35,za,,O,
 335,1,36,katerega,,O,
@@ -70,7 +70,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 335,2,9,na,,O,
 335,2,10,katerem,,O,
 335,2,11,se,,O,
-335,2,12,Trump,,O,
+335,2,12,Trump,trump,B-PER,1
 335,2,13,hvali,,O,
 335,2,14,",",,O,
 335,2,15,da,,O,
@@ -114,7 +114,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 335,3,11,tekme,,O,
 335,3,12,.,,O,
 335,4,1,Paul,paul,B-PER,40171
-335,4,2,Ryan,ryan,B-PER,40171
+335,4,2,Ryan,ryan,I-PER,40171
 335,4,3,ni,,O,
 335,4,4,šel,,O,
 335,4,5,tako,,O,
@@ -127,7 +127,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 335,4,12,povedal,,O,
 335,4,13,",",,O,
 335,4,14,da,,O,
-335,4,15,Trumpa,,O,
+335,4,15,Trumpa,trump,B-PER,1
 335,4,16,ne,,O,
 335,4,17,bo,,O,
 335,4,18,več,,O,
@@ -161,7 +161,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 335,4,46,bianco,,O,
 335,4,47,menice,,O,
 335,4,48,.,,O,
-335,5,1,Ryan,,O,
+335,5,1,Ryan,ryan,B-PER,40171
 335,5,2,torej,,O,
 335,5,3,meni,,O,
 335,5,4,",",,O,
@@ -188,10 +188,10 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 335,6,14,New,new,B-LOC,20833
 335,6,15,Jerseyja,jersey,I-LOC,20833
 335,6,16,Chrisa,chris,B-PER,40175
-335,6,17,Christieja,christie,B-PER,40175
+335,6,17,Christieja,christie,I-PER,40175
 335,6,18,",",,O,
 335,6,19,ki,,O,
-335,6,20,Trumpa,,O,
+335,6,20,Trumpa,trump,B-PER,1
 335,6,21,še,,O,
 335,6,22,vedno,,O,
 335,6,23,podpira,,O,
@@ -209,7 +209,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 335,6,35,v,,O,
 335,6,36,petek,,O,
 335,6,37,.,,O,
-335,7,1,Christie,,O,
+335,7,1,Christie,christie,B-PER,40175
 335,7,2,je,,O,
 335,7,3,za,,O,
 335,7,4,newyorški,,O,
@@ -239,7 +239,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 335,8,1,Vendar,,O,
 335,8,2,pa,,O,
 335,8,3,ga,,O,
-335,8,4,Trump,,O,
+335,8,4,Trump,trump,B-PER,1
 335,8,5,ni,,O,
 335,8,6,poslušal,,O,
 335,8,7,",",,O,
@@ -261,7 +261,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 335,8,23,naj,,O,
 335,8,24,preneha,,O,
 335,8,25,.,,O,
-335,9,1,Trump,,O,
+335,9,1,Trump,trump,B-PER,1
 335,9,2,se,,O,
 335,9,3,je,,O,
 335,9,4,opravičil,,O,
@@ -296,7 +296,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 335,10,11,športni,,O,
 335,10,12,slačilnici,,O,
 335,10,13,.,,O,
-335,11,1,Christie,,O,
+335,11,1,Christie,christie,B-PER,40175
 335,11,2,je,,O,
 335,11,3,politično,,O,
 335,11,4,dovolj,,O,
@@ -330,7 +330,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 335,11,32,šele,,O,
 335,11,33,bori,,O,
 335,11,34,.,,O,
-335,12,1,Trump,,O,
+335,12,1,Trump,trump,B-PER,1
 335,12,2,je,,O,
 335,12,3,ubral,,O,
 335,12,4,svojo,,O,
@@ -420,7 +420,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 335,13,50,na,,O,
 335,13,51,pamet,,O,
 335,13,52,.,,O,
-335,14,1,Ryana,,O,
+335,14,1,Ryana,ryan,B-PER,40171
 335,14,2,je,,O,
 335,14,3,označil,,O,
 335,14,4,za,,O,
@@ -453,7 +453,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 335,14,31,",",,O,
 335,14,32,da,,O,
 335,14,33,ga,,O,
-335,14,34,Ryan,,O,
+335,14,34,Ryan,ryan,B-PER,40171
 335,14,35,ne,,O,
 335,14,36,podpira,,O,
 335,14,37,in,,O,
@@ -482,7 +482,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 335,14,60,”,,O,
 335,14,61,je,,O,
 335,14,62,dejal,,O,
-335,14,63,Trump,,O,
+335,14,63,Trump,trump,B-PER,1
 335,14,64,in,,O,
 335,14,65,potem,,O,
 335,14,66,v,,O,
@@ -493,7 +493,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 335,14,71,zatrdil,,O,
 335,14,72,",",,O,
 335,14,73,da,,O,
-335,14,74,Ryan,,O,
+335,14,74,Ryan,ryan,B-PER,40171
 335,14,75,podpira,,O,
 335,14,76,amnestijo,,O,
 335,14,77,za,,O,
@@ -583,7 +583,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 335,16,35,”,,O,
 335,16,36,je,,O,
 335,16,37,dejal,,O,
-335,16,38,Trump,,O,
+335,16,38,Trump,trump,B-PER,1
 335,16,39,in,,O,
 335,16,40,zagotovil,,O,
 335,16,41,",",,O,
@@ -601,7 +601,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 335,16,53,veliko,,O,
 335,16,54,lekcijo,,O,
 335,16,55,.,,O,
-335,17,1,McCain,,O,
+335,17,1,McCain,mccain,B-PER,119
 335,17,2,",",,O,
 335,17,3,ki,,O,
 335,17,4,je,,O,
@@ -610,7 +610,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 335,17,7,videa,,O,
 335,17,8,umaknil,,O,
 335,17,9,podporo,,O,
-335,17,10,Trumpu,,O,
+335,17,10,Trumpu,trump,B-PER,1
 335,17,11,",",,O,
 335,17,12,se,,O,
 335,17,13,še,,O,
@@ -627,10 +627,10 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 335,17,24,v,,O,
 335,17,25,senatu,,O,
 335,17,26,",",,O,
-335,17,27,Ryan,,O,
+335,17,27,Ryan,ryan,B-PER,40171
 335,17,28,pa,,O,
 335,17,29,je,,O,
-335,17,30,Trumpu,,O,
+335,17,30,Trumpu,trump,B-PER,1
 335,17,31,priporočil,,O,
 335,17,32,",",,O,
 335,17,33,naj,,O,
@@ -672,7 +672,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 335,18,23,prirejen,,O,
 335,18,24,v,,O,
 335,18,25,korist,,O,
-335,18,26,Clintonove,,O,
+335,18,26,Clintonove,clintonova,B-PER,3
 335,18,27,in,,O,
 335,18,28,demokratov,,O,
 335,18,29,",",,O,
@@ -711,7 +711,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 335,19,27,temnopoltih,,O,
 335,19,28,volivcev,,O,
 335,19,29,.,,O,
-335,20,1,Trumpovi,,O,
+335,20,1,Trumpovi,trump,B-PER,1
 335,20,2,nastopi,,O,
 335,20,3,njegove,,O,
 335,20,4,podpornike,,O,
@@ -728,7 +728,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 335,20,15,da,,O,
 335,20,16,je,,O,
 335,20,17,potrebno,,O,
-335,20,18,Clintonovo,,O,
+335,20,18,Clintonovo,clintonova,B-PER,3
 335,20,19,zapreti,,O,
 335,20,20,.,,O,
 335,21,1,Na,,O,
@@ -747,7 +747,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 335,21,14,v,,O,
 335,21,15,primeru,,O,
 335,21,16,zmage,,O,
-335,21,17,Clintonove,,O,
+335,21,17,Clintonove,clintonova,B-PER,3
 335,21,18,potrebno,,O,
 335,21,19,sprožiti,,O,
 335,21,20,revolucijo,,O,
@@ -769,7 +769,7 @@ docId,sentenceId,tokenId,text,lemma,ner,clID
 335,22,15,je,,O,
 335,22,16,takšna,,O,
 335,22,17,kot,,O,
-335,22,18,Trump,,O,
+335,22,18,Trump,trump,B-PER,1
 335,22,19,in,,O,
 335,22,20,se,,O,
 335,22,21,bo,,O,
