@@ -1,0 +1,30 @@
+pl-144
+Agencja Reutera	Agencja Reutera	ORG	ORG-Reuters
+Amber Rudd	Amber Rudd	PER	PER-Amber-Rudd
+Barnier	Barnier	PER	PER-Michel-Barnier
+Davidem Davisem	David Davis	PER	PER-David-Davis
+Davis	Davis	PER	PER-David-Davis
+Dominic Raab	Dominic Raab	PER	PER-Dominic-Raab
+Downing Street	Downing Street	LOC	LOC-Downing-Street
+Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+Irlandią	Irlandia	LOC	GPE-Ireland
+Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+Londynie	Londyn	LOC	GPE-London
+Londynu	Londyn	LOC	GPE-London
+May	May	PER	PER-Theresa-May
+Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+The Times	The Times	PRO	PRO-The-Times
+Theresy May	Theresa May	PER	PER-Theresa-May
+Theresą May	Theresa May	PER	PER-Theresa-May
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnoty	Wspólnota	ORG	ORG-European-Union
+Wspólnotą	Wspólnota	ORG	ORG-European-Union
+Wspólnotę	Wspólnota	ORG	ORG-European-Union
+brexitu	Brexit	EVT	EVT-Brexit
+umowy o wolnym handlu	Umowa o wolnym handlu	PRO	PRO-FTA-Free-Trade-Agreement

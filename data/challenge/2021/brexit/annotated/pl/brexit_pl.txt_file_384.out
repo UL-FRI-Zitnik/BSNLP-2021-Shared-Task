@@ -1,0 +1,9 @@
+pl-384
+BMW	BMW	ORG	ORG-BMW-Company
+BMW	BMW	PRO	PRO-BMW
+Mini	Mini	PRO	PRO-Mini-Car-Model
+Monachium	Monachium	LOC	GPE-Munich
+Reuters	Reuters	ORG	ORG-Reuters
+Rolls-Royce	Rolls-Royce	PRO	PRO-Rolls-Royce
+Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+brexit	Brexit	EVT	EVT-Brexit

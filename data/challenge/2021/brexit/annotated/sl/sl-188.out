@@ -1,0 +1,48 @@
+sl-188
+Barnier	Barnier	PER	PER-Michel-Barnier
+Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+Brexit	Brexit	EVT	EVT-Brexit
+Brexit	Brexit	ORG	ORG-Brexit-Party
+Brusljem	Bruselj	LOC	GPE-Brussels
+Demokratični unionistični stranki	Demokratična unionistična stranka	ORG	ORG-DUP-Democratic-Unionist-Party
+Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+EU	EU	ORG	ORG-European-Union
+Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+Evropske unije	Evropska unija	LOC	ORG-European-Union
+Evropskega sveta	Evropski svet	ORG	ORG-European-Council
+Evropski parlament	Evropski parlament	ORG	ORG-European-Parliament
+Francois Lenoir	Francois Lenoir	PER	PER-Francois-Lenoir
+Irske	Irska	LOC	GPE-Ireland
+Irsko	Irska	LOC	GPE-Ireland
+Irsko	Irsko	LOC	GPE-Ireland
+Jean-Claude Juncker	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+Johnson	Johnson	PER	PER-Boris-Johnson
+Leo Varadkar	Leo Varadkar	PER	PER-Leo-Varadkar
+Londonom	London	LOC	GPE-London
+Londonu	London	LOC	GPE-London
+Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+Nigel Farage	Nigel Farage	PER	PER-Nigel-Farage
+Rokavskega preliva	Rokavski preliv	LOC	LOC-English-Channel
+Severna Irska	Severna Irska	LOC	GPE-Northern-Ireland
+Severni Irski	Severna Irska	LOC	GPE-Northern-Ireland
+Severno Irsko	Severna Irska	LOC	GPE-Northern-Ireland
+Stormont	Stormont	ORG	ORG-Northern-Ireland-Assembly-Stormont
+Therese May	Theresa May	PER	PER-Theresa-May
+Varadkar	Varadkar	PER	PER-Leo-Varadkar
+Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+Združenega kraljestva Velike Britanije in Severne Irske	Združeno kraljestvo Velike Britanije in Severne Irske	LOC	GPE-Great-Britain
+Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+Združenemu kraljestvu	Združeno kraljestvo	LOC	GPE-Great-Britain
+Združenim kraljestvom	Združeno kraljestvo	LOC	GPE-Great-Britain
+Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+brexit	brexit	EVT	EVT-Brexit
+brexita	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit
+britanski poslanci	britanski poslanci	PER	ORG-British-Parlament
+irskem otoku	irski otok	LOC	GPE-Ireland
+laburistov	laburist	PER	ORG-Labour-Party-UK
+liberalnih demokratov	liberalni demokrati	PER	ORG-Liberal-Democrats-UK
+severnoirskem mirovnem procesu	severnoirski mirovni proces	EVT	EVT-Northern-Ireland-peace-process
+spodnjega doma britanskega parlamenta	spodnji dom britanskega parlamenta	ORG	ORG-House-of-Commons
+velikonočni sporazum	velikonočni sporazum	PRO	PRO-GFA-Good-Friday-Agreement
+Škotski nacionalni stranki	Škotska nacionalna stranka	ORG	ORG-Scottish-National-Party

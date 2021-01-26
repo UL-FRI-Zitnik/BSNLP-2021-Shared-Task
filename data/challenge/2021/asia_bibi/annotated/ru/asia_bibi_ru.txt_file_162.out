@@ -1,0 +1,12 @@
+ru-162
+CNN	CNN	ORG	ORG-CNN
+REGNUM	REGNUM	ORG	ORG-REGNUM-News-Agency
+Samaa TV	Samaa TV	PRO	PRO-Samaa-TV
+Асии Биби	Асия Биби	PER	PER-Asia-Bibi
+Асия Биби	Асия Биби	PER	PER-Asia-Bibi
+Верховный Суд Пакистана	Верховный Суд Пакистана	ORG	ORG-Supreme-Court-of-Pakistan
+Верховным Судом	Верховный Суд	ORG	ORG-Supreme-Court-of-Pakistan
+МИД Нидерландов	МИД Нидерландов	ORG	ORG-Ministry-of-Foreign-Affairs-Netherlands
+Нидерландах	Нидерланды	LOC	GPE-Holland
+Пакистана	Пакистан	LOC	GPE-Pakistan
+Саиф Уль-Малук	Саиф Уль-Малук	PER	PER-Saif-Ul-Malook

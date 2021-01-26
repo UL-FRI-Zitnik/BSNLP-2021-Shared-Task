@@ -1,0 +1,32 @@
+ru-1163
+Brexit	Brexit	EVT	EVT-Brexit
+Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+Британии	Британия	LOC	GPE-Great-Britain
+Великобритании	Великобритания	LOC	GPE-Great-Britain
+ГРУ	ГРУ	ORG	ORG-GRU-(Russian-GU)
+Джонсон	Джонсон	PER	PER-Boris-Johnson
+Джонсона	Джонсон	PER	PER-Boris-Johnson
+Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+Дэвиса	Дэвис	PER	PER-David-Davis
+ЕС 	ЕС	ORG	ORG-European-Union
+Евросоюза	Евросоюз	ORG	ORG-European-Union
+Ее Величества	Её Величество	PER	PER-Queen-Elizabeth-II
+Лондон	Лондон	LOC	GPE-London
+Лондону	Лондон	LOC	GPE-London
+МИД	МИД	ORG	ORG-Foreign-Office
+Мэй	Мэй	PER	PER-Theresa-May
+Сергея Скрипаля	Сергей Скрипаль	PER	PER-Siergiej-Skripal
+Соединенного Королевства	Соединенное Королевство	LOC	GPE-Great-Britain
+Солсбери	Солсбери	LOC	GPE-Salisbury
+Стив Бейкер	Стив Бейкер	PER	PER-Steve-Baker
+Терезе	Тереза	PER	PER-Theresa-May
+Терезу Мэй	Тереза Мэй	PER	PER-Theresa-May
+Терезы	Тереза	PER	PER-Theresa-May
+Эймсбери	Эймсбери	LOC	LOC-Amesbury
+Юлию	Юлия	PER	PER-Yulia-Skripal
+брексите	брексит	EVT	EVT-Brexit
+британских	британский	LOC	GPE-Great-Britain
+британское	британский	LOC	GPE-Great-Britain
+европейского	европейский	LOC	LOC-Europe
+парламенте	парламент	ORG	ORG-British-Parlament
+российских	российский	LOC	GPE-Russia

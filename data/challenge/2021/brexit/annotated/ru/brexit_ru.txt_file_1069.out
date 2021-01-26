@@ -1,0 +1,25 @@
+ru-1069
+Brexit	Brexit	EVT	EVT-Brexit
+Англии	Англия	LOC	GPE-Great-Britain
+Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+Борису	Борис	PER	PER-Boris-Johnson
+Брэксит	Брэксит	EVT	EVT-Brexit
+Великобритании	Великобритания	LOC	GPE-Great-Britain
+Джонсон	Джонсон	PER	PER-Boris-Johnson
+Джонсона	Джонсон	PER	PER-Boris-Johnson
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+Дэвис	Дэвис	PER	PER-David-Davis
+ЕС	ЕС	ORG	ORG-European-Union
+МИД	МИД	ORG	ORG-Foreign-Office
+Мэй	Мэй	PER	PER-Theresa-May
+США	США	LOC	GPE-USA
+Северной Ирландии	Северная Ирландия	LOC	GPE-Northern-Ireland
+Соединенного Королевства	Соединенное Королевство	LOC	GPE-Great-Britain
+Стив Бейкер	Стив Бейкер	PER	PER-Steve-Baker
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+европейского альянса	европейский альянс	ORG	ORG-European-Union
+план по выходу Англии из европейского союза	план по выходу Англии из европейского союза	PRO	PRO-Brexit-withdrawal-agreement

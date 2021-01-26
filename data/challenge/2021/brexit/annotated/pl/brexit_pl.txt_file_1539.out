@@ -1,0 +1,31 @@
+pl-1539
+Andrew Wilson	Andrew Wilson	PER	PER-Andrew-Wilson
+Anglia	Anglia	LOC	GPE-England
+Brukselą	Bruksela	LOC	GPE-Brussles
+Growth Commission	Growth Commission	ORG	ORG-Growth-Commission
+ITV	ITV	PRO	PRO-ITV
+Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+Komisji Wilsona	Komisja Wilsona	ORG	ORG-Wilson-Commission
+Komisji ds. Wzrostu	Komisja ds. Wzrostu	ORG	ORG-Growth-Commission
+Londynem	Londyn	LOC	GPE-London
+Nicola Sturgeon	Nicola Sturgeon	PER	PER-Nicola-Sturgeon
+Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+Roberta Pestona	Robert Peston	PER	PER-Robert-Peston
+SNP	SNP	ORG	ORG-Scottish-National-Party
+Sturgeon	Sturgeon	PER	PER-Nicola-Sturgeon
+Szkoci	Szkoci	PER	GPE-Scotland
+Szkocja	Szkocja	LOC	GPE-Scotland
+Szkocji	Szkocja	LOC	GPE-Scotland
+Szkocka Partia Narodowa	Szkocka Partia Narodowa	ORG	ORG-Scottish-National-Party
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+Walia	Walia	LOC	GPE-Wales
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+Zjednoczonym Królestwie	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+brexitem	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit

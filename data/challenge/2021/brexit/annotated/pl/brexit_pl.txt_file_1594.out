@@ -1,0 +1,18 @@
+pl-1594
+Adrian Zwoliński	Adrian Zwoliński	PER	PER-Adrian-Zwoliński
+BIT	BIT	PRO	PRO-BIT
+Brexitu	Brexit	EVT	EVT-Brexit
+Europie	Europa	LOC	LOC-Europe
+Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+Komisja Spraw Zagranicznych	Komisja Spraw Zagranicznych	ORG	ORG-Committee-on-Foreign-Affairs
+Konfederacja Lewiatan	Konfederacja Lewiatan	ORG	ORG-Confederation-of-Lewiatans
+Konfederacji Lewiatan	Konfederacja Lewiatan	ORG	ORG-Confederation-of-Lewiatans
+Polski	Polska	LOC	GPE-Poland
+Polską	Polska	LOC	GPE-Poland
+Polskę	Polska	LOC	GPE-Poland
+UE	UE	ORG	ORG-European-Union
+Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+Wyspach	Wyspy	LOC	GPE-Great-Britain
+Wyspiarzami	Wyspiarze	PER	GPE-Great-Britain
+Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+intra-EU BITs	intra-EU BITs	PRO	PRO-intra-EU-BITs

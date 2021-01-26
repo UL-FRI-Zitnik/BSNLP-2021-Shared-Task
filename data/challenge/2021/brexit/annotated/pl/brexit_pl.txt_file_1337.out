@@ -1,0 +1,77 @@
+pl-1337
+Brexit	Brexit	EVT	EVT-Brexit
+Bruksela	Bruksela	LOC	GPE-Brussles
+Brukselą	Bruksela	LOC	GPE-Brussles
+Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+City	City	LOC	LOC-City-of-London
+Czechami	Czechy	LOC	GPE-Czech-Republic
+EEA	EEA	ORG	ORG-EEA-European-Economic-Area
+Edynburgiem	Edynburg	LOC	GPE-Edinburgh
+Emmanuel Macron	Emmanuel Macron	PER	PER-Emmanuel-Macron
+Europejskiego Obszaru Gospodarczego	Europejski Obszar Gospodarczy	ORG	ORG-EEA-European-Economic-Area
+Europy	Europa	LOC	LOC-Europe
+Francji	Francja	LOC	GPE-France
+Irlandia Północna	Irlandia Północna	LOC	LOC-Irlends-countries
+Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+Irlandii	Irlandia	LOC	GPE-Ireland
+Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+Izba Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+Izbę Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+Jonathan Knott	Jonathan Knott	PER	PER-Jonathan-Knott
+Jędrzej Bielecki	Jędrzej Bielecki	PER	PER-Jędrzej-Bielecki
+Kanadą	Kanada	LOC	GPE-Canada
+Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+Londyn	Londyn	LOC	GPE-London
+Londynem	Londyn	LOC	GPE-London
+Londynu	Londyn	LOC	GPE-London
+May	May	PER	PER-Theresa-May
+NATO	NATO	ORG	ORG-NATO
+Niemcy	Niemcy	LOC	GPE-Germany
+Norwegia	Norwegia	LOC	GPE-Norway
+Parlamentowi Europejskiemu	Parlament Europejski	ORG	ORG-European-Parliament
+Polacy	Polacy	PER	GPE-Poland
+Polaków	Polacy	PER	GPE-Poland
+Polsce	Polska	LOC	GPE-Poland
+Polska	Polska	LOC	GPE-Poland
+Polski	Polska	LOC	GPE-Poland
+Polską	Polska	LOC	GPE-Poland
+Polskę	Polska	LOC	GPE-Poland
+Porozumieniu Wielkopiątkowemu	Porozumienie Wielkopiątkowe	PRO	PRO-GFA-Good-Friday-Agreement
+Republiką Irlandii	Republika Irlandii	LOC	GPE-Ireland
+Szkocja	Szkocja	LOC	GPE-Scotland
+Szkocji	Szkocja	LOC	GPE-Scotland
+Szkotów	Szkoci	PER	GPE-Scotland
+Theresa May	Theresa May	PER	PER-Theresa-May
+Tony Blair	Tony Blair	PER	PER-Tony-Blair
+UE	UE	ORG	ORG-European-Union
+UK	UK	LOC	GPE-Great-Britain
+Ulsteru	Ulster	LOC	GPE-Ulster
+Unia	Unia	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+Unią	Unia	ORG	ORG-European-Union
+Unię	Unia	ORG	ORG-European-Union
+Walii	Walia	LOC	GPE-Wales
+Warszawy	Warszawa	LOC	GPE-Warsaw
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnotę	Wspólnota	ORG	ORG-European-Union
+Wyspach	Wyspy	LOC	GPE-Great-Britain
+Wyspami	Wyspy	LOC	GPE-Great-Britain
+Wyspy	Wyspy	LOC	GPE-Great-Britain
+Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+Zjednoczonym Królestwem	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+Zjednoczonym Królestwie	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+białą księgę	Biała księga	PRO	PRO-White-paper-UK
+brexicie	Brexit	EVT	EVT-Brexit
+brexit	Brexit	EVT	EVT-Brexit
+brexitem	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit
+brexodusu	Brexodus	EVT	EVT-Brexit
+brytyjski parlament	Brytyjski Parlament	ORG	ORG-British-Parlament
+parlamentowi Wielkiej Brytanii	Parlament Wielkiej Brytanii	ORG	ORG-Parliament-of-the-United-Kingdom
+umowy o wolnym handlu	Umowa o wolnym handlu	PRO	PRO-FTA-Free-Trade-Agreement

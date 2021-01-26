@@ -1,0 +1,43 @@
+pl-597
+Borisa Johnsona	Boris Johnson	PER	PER-Boris-Johnson
+Brexicie	Brexit	EVT	EVT-Brexit
+Brexitem	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+Brukseli	Bruksela	LOC	GPE-Brussles
+Brytyjczykom	Brytyjczycy	PER	GPE-Great-Britain
+Daily Telegraph	Daily Telegraph	PRO	PRO-The-Daily-Telegraph
+David Davis	David Davis	PER	PER-David-Davis
+Davis	Davis	PER	PER-David-Davis
+Donaldowi Tuskowi	Donald Tusk	PER	PER-Donald-Tusk
+Downing Street	Downing Street	LOC	LOC-Downing-Street
+Florencji	Florencja	LOC	GPE-Florence
+Irlandia Północna	Irlandia Północna	LOC	LOC-Irlends-countries
+Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+Irlandią	Irlandia	LOC	GPE-Ireland
+Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+Jakub Krupa	Jakub Krupa	PER	PER-Jakub-Krupa
+Jean-Claude'em Junckerem	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+Lancaster House	Lancaster House	LOC	LOC-Lancaster-House
+Londynie	Londyn	LOC	GPE-London
+Londynu	Londyn	LOC	GPE-London
+May	May	PER	PER-Theresa-May
+Morze Irlandzkie	Morze Irlandzkie	LOC	LOC-Irish-Sea
+PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+The Times	The Times	PRO	PRO-The-Times
+Theresa May	Theresa May	PER	PER-Theresa-May
+Theresy May	Theresa May	PER	PER-Theresa-May
+Tony Blair	Tony Blair	PER	PER-Tony-Blair
+Trybunału Sprawiedliwości UE	Trybunał Sprawiedliwości UE	ORG	ORG-European-Court-of-Justice
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+W.Brytania	W.Brytania	LOC	GPE-Great-Britain
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnocie	Wspólnota	ORG	ORG-European-Union
+Wspólnoty	Wspólnota	ORG	ORG-European-Union
+Wspólnotę	Wspólnota	ORG	ORG-European-Union

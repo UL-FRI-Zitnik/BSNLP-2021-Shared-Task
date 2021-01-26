@@ -1,0 +1,26 @@
+pl-511
+Belfaście	Belfast	LOC	GPE-Belfast
+Birmingham	Birmingham	LOC	GPE-Birmingham
+Brexitu	Brexit	EVT	EVT-Brexit
+Cardiff	Cardiff	LOC	GPE-Cardiff
+Edynburgu	Edynburg	LOC	GPE-Edinburgh
+Home Office	Home Office	ORG	ORG-Home-Office-UK
+Jakub Krupa	Jakub Krupa	PER	PER-Jakub-Krupa
+Londynie	Londyn	LOC	GPE-London
+Londynu	Londyn	LOC	GPE-London
+MSW	MSW	ORG	ORG-Home-Office-UK
+PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+Polaków	Polacy	PER	GPE-Poland
+Polski	Polska	LOC	GPE-Poland
+The Times	The Times	PRO	PRO-The-Times
+Theresy May	Theresa May	PER	PER-Theresa-May
+Times	Times	PRO	PRO-The-Times
+Timesa	Times	PRO	PRO-The-Times
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnoty	Wspólnota	ORG	ORG-European-Union
+Wspólnotą	Wspólnota	ORG	ORG-European-Union
+Wspólnotę	Wspólnota	ORG	ORG-European-Union
+Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain

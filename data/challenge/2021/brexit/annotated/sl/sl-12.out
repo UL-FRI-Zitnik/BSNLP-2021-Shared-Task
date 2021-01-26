@@ -1,0 +1,37 @@
+sl-12
+Antoniom Tajanijem	Antonio Tajani	PER	PER-Antonio-Tajani
+Belfastu	Belfast	LOC	GPE-Belfast
+Britanski ministri	Britanski ministri	PER	ORG-British-Parlament
+Bruselj	Bruselj	LOC	GPE-Brussles
+Brusljem	Bruselj	LOC	GPE-Brussles
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Donaldom Tuskom	Donald Tusk	PER	PER-Donald-Tusk
+EU	EU	ORG	ORG-European-Union
+Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+Evropske unije	Evropska unija	ORG	ORG-European-Union
+Evropskega sveta	Evropski svet	ORG	ORG-European-Council
+Fox	Fox	PER	PER-Liam-Fox
+Hammond	Hammond	PER	PER-Philip-Hammond
+Irskem	Irska	LOC	GPE-Ireland
+Jean-Claudom Junckerjem	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+Juncker	Juncker	PER	PER-Jean-Claude-Juncker
+Liam Fox	Liam Fox	PER	PER-Liam-Fox
+Londonu	London	LOC	GPE-London
+Mayeva	May	PER	PER-Theresa-May
+Philip Hammond	Philip Hammond	PER	PER-Philip-Hammond
+Severne Irske	Severna Irska	LOC	GPE-Northern-Ireland
+Severnem Irskem	Severna Irska	LOC	GPE-Northern-Ireland
+Telegraph	Telegraph	PRO	PRO-The-Daily-Telegraph
+The Guardian	The Guardian	ORG	ORG-The-Guardian
+Theresa May	Theresa May	PER	PER-Theresa-May
+Tusk	Tusk	PER	PER-Donald-Tusk
+Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+Veliko Britanijo	Velika Britanija	LOC	GPE-Great-Britain
+brexit	brexit	EVT	EVT-Brexit
+brexita	brexit	EVT	EVT-Brexit
+brexitu	Fox	EVT	EVT-Brexit
+britanskem parlamentu	britanski parlament	ORG	ORG-British-Parlament
+evropskega parlamenta	evropski parlament	ORG	ORG-European-Parliament
+konservativne stranke	konservativna stranka	ORG	ORG-Conservative-and-Unionist-Party-UK
+zveze Nato	zveza Nato	ORG	ORG-NATO

@@ -1,0 +1,10 @@
+ua-1037
+Brexit	Brexit	EVT	EVT-Brexit
+Reuters	Reuters	ORG	ORG-Reuters
+ЄС	ЄС	LOC	ORG-European-Union
+Європейський Союз	Європейський Союз	ORG	ORG-European-Union
+Альтмаєр	Альтмаєр	PER	PER-Peter-Altmaier
+Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+Німеччини	Німеччина	LOC	GPE-Germany
+Петер Альтмаєр	Петер Альтмаєр	PER	PER-Peter-Altmaier
+Терезу Мей	Тереза Мей	PER	PER-Theresa-May

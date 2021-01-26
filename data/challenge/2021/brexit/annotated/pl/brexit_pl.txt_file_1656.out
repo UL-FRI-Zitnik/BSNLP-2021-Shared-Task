@@ -1,0 +1,21 @@
+pl-1656
+Bank of America	Bank of America	ORG	ORG-Bank-of-America
+Brukselą	Bruksela	LOC	GPE-Brussles
+Dublinie	Dublin	LOC	GPE-Dublin
+Emmanuel Macron	Emmanuel Macron	PER	PER-Emmanuel-Macron
+HSBC	HSBC	ORG	ORG-HSBC
+Londynie	Londyn	LOC	GPE-London
+Londynu	Londyn	LOC	GPE-London
+Paryż	Paryż	LOC	GPE-Paris
+Paryża	Paryż	LOC	GPE-Paris
+Paryżu	Paryż	LOC	GPE-Paris
+Reutera	Reuter	ORG	ORG-Reuters
+Theresa May	Theresa May	PER	PER-Theresa-May
+Tom Montag	Tom Montag	PER	PER-Tom-Montag
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+Wall Street	Wall Street	LOC	LOC-Wall-Street
+brexicie	Brexit	EVT	EVT-Brexit
+brexitem	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit

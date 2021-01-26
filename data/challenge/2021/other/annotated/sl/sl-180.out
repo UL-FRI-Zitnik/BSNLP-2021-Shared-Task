@@ -1,0 +1,36 @@
+sl-180
+AMSTERDAM	AMSTERDAM	LOC	GPE-Amsterdam
+Ajax	Ajax	ORG	ORG-AFC-Ajax
+Ajaxov	Ajax	ORG	ORG-AFC-Ajax
+Amsterdamu	Amsterdam	LOC	GPE-Amsterdam
+Angleži	Angleži	PER	GPE-England
+Brazilec	Brazilec	PER	GPE-Brazil
+Chelsea	Chelsea	ORG	ORG-Chelsea-F.C.
+Erik ten Hag	Erik ten Hag	PER	PER-Erik-ten-Hag
+Evrope	Evropa	LOC	LOC-Europe
+Evropske unije	Evropska unija	ORG	ORG-European-Union
+Evropske unije	evropska unija	ORG	ORG-European-Union
+Hakim Ziyech	Hakim Ziyech	PER	PER-Hakim-Ziyech
+Harry Kane	Harry Kane	PER	PER-Harry-Kane
+Juventusa	Juventus	ORG	ORG-Juventus-F.C.
+Kane	Kane	PER	PER-Harry-Kane
+Liverpoola	Liverpool	LOC	GPE-Liverpool
+Liverpoolu	Liverpool	ORG	ORG-Liverpool-F.C.
+Lucas Moura	Lucas Moura	PER	PER-Lucas-Moura
+Madridu	Madrid	ORG	ORG-Real-Madrid
+Manchester United	Manchester United	ORG	ORG-Manchester-United-FC
+Matthijs de Ligt	Matthijs de Ligt	PER	PER-Matthijs-de-Ligt
+Mauricio Pochettino	Mauricio Pochettino	PER	PER-Mauricio-Pochettino
+Moura	Moura	PER	PER-Lucas-Moura
+Nemčija	Nemčija	LOC	GPE-Germany
+Neymarja	Neymar	PER	PER-Neymar
+Otoku	otok	LOC	GPE-Great-Britain
+Paris Saint-Germaina	Paris Saint-Germain	ORG	ORG-Paris-Saint-Germaina
+Reala	Real	ORG	ORG-Real-Madrid
+Tottenham	Tottenham	ORG	ORG-Tottenham-Hotspur-F.C.
+Tottenhama	Tottenham	ORG	ORG-Tottenham-Hotspur-F.C.
+Tottenhamove	Tottenham	ORG	ORG-Tottenham-Hotspur-F.C.
+Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+brexit	brexit	EVT	EVT-Brexit
+lige prvakov	liga prvakov	ORG	ORG-UEFA-Champions-League
+ligi prvakov	liga prvakov	ORG	ORG-UEFA-Champions-League

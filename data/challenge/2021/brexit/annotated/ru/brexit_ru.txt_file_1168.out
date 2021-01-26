@@ -1,0 +1,27 @@
+ru-1168
+Brexit	Brexit	EVT	EVT-Brexit
+iz.ru	iz.ru	PRO	PRO-IZ.RU
+Адольфа Гитлера	Адольф Гитлер	PER	PER-Adolf-Hitler
+Берлине	Берлин	LOC	GPE-Berlin
+Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+Британии	Британия	LOC	GPE-Great-Britain
+Брюсселем	Брюссель	LOC	GPE-Brussles
+Великобритании	Великобритания	LOC	GPE-Great-Britain
+Джонсон	Джонсон	PER	PER-Boris-Johnson
+Джонсона	Джонсон	PER	PER-Boris-Johnson
+Джонсоном	Джонсон	PER	PER-Boris-Johnson
+ЕС	ЕС	ORG	ORG-European-Union
+Ковитиди	Ковитиди	PER	PER-Kotividi-Olga-Fedorovna
+Крыму	Крым	LOC	GPE-Crimea
+Лондоном	Лондон	LOC	GPE-London
+МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+Олимпиадой 1936	Олимпиада 1936	EVT	EVT-Olympics-1936
+Ольга Ковитиди	Ольга Ковитиди	PER	PER-Kotividi-Olga-Fedorovna
+России	Россия	LOC	GPE-Russia
+Совфеда	Совфед	ORG	ORG-Federal-Assembly-of-the-Russian-Federation
+Соединенного Королевства	Соединенное Королевство	LOC	GPE-Great-Britain
+Третьего рейха	Третий рейх	LOC	GPE-Third-Reich
+британского МИД	британский МИД	ORG	ORG-Foreign-Office
+кабинета министров	кабинет министров	ORG	ORG-Cabinet-of-the-United-Kingdom
+туманного Альбиона	туманный Альбион	LOC	GPE-Great-Britain
+чемпионате мира по футболу 2018 года	чемпионат мира по футболу 2018 года	EVT	EVT-FIFA-World-Cup-2018

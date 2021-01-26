@@ -1,0 +1,38 @@
+bg-988
+AFP	AFP	ORG	ORG-France-Presse
+Brexit	Brexit	EVT	EVT-Brexit
+Evening Standard	Evening Standard	PRO	PRO-Evening-Standard
+Huffington Post	Huffington Post	PRO	PRO-Huffington-Post
+The Guardian	The Guardian	PRO	PRO-The-Guardian
+The Independent	The Independent	PRO	PRO-The-Independent
+Берлин	Берлин	LOC	GPE-Berlin
+Бирмингам	Бирмингам	LOC	GPE-Birmingham
+Брекзит	Брекзит	EVT	EVT-Brexit
+Брюксел	Брюксел	LOC	GPE-Brussles
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Виктор Турмаков	Виктор Турмаков	PER	PER-Viktor-Turmakov
+ГРУ	ГРУ	ORG	ORG-GRU
+Главно разузнавателно управление	Главно разузнавателно управление	ORG	ORG-GRU
+Доналд Туск	Доналд Туск	PER	PER-Donald-Tusk
+ЕС	ЕС	ORG	ORG-European-Union
+Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+Евросъюза	Евросъюз	ORG	ORG-European-Union
+Испания	Испания	LOC	GPE-Spain
+Каланън	Каланън	PER	PER-Martin-Callanan
+Кеир Стармър	Кеир Стармър	PER	PER-Keir-Starmer
+Лондон	Лондон	LOC	GPE-London
+Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+Москва	Москва	LOC	GPE-Moscow
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+Русия	Русия	LOC	GPE-Russia
+Световната търговска организация	Световна търговска организация	ORG	ORG-WTO-World-Trade-Organization
+Сергей Скрипал	Сергей Скрипал	PER	PER-Siergiej-Skripal
+Стармър	Стармър	PER	PER-Keir-Starmer
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Туск	Туск	PER	PER-Donald-Tusk
+Франция	Франция	LOC	GPE-France
+Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
+британци	британци	PER	GPE-Great-Britain
+британците	британци	PER	GPE-Great-Britain

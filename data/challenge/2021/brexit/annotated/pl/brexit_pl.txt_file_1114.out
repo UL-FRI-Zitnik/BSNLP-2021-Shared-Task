@@ -1,0 +1,13 @@
+pl-1114
+Europie	Europa	LOC	LOC-Europe
+Francji	Francja	LOC	GPE-France
+Londyn	Londyn	LOC	GPE-London
+Normandii	Normandia	LOC	LOC-Normandy
+Normandię	Normandia	LOC	LOC-Normandy
+TfL	TfL	ORG	ORG-Transport-for-London
+Transport for London	Transport for London	ORG	ORG-Transport-for-London
+Wielkiego Londynu	Wielki Londyn	LOC	GPE-Greater-London
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+brexitem	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit
+kanał La Manche	Kanał La Manche	LOC	LOC-English-Channel

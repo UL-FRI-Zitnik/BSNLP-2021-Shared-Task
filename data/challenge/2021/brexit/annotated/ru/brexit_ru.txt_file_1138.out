@@ -1,0 +1,32 @@
+ru-1138
+Brexit	Brexit	EVT	EVT-Brexit
+TRUD.RU	TRUD.RU	PRO	PRO-Trud-ru
+Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+Брюсселю	Брюссель	LOC	GPE-Brussles
+Великобритании	Великобритания	LOC	GPE-Great-Britain
+Владимира Путина	Владимир Путин	PER	PER-Vladimir-Putin
+Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt
+Джонсон	Джонсон	PER	PER-Boris-Johnson
+Джонсона	Джонсон	PER	PER-Boris-Johnson
+Дмитрий Песков	Дмитрий Песков	PER	PER-Dmitry-Peskov
+Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+ЕС	ЕС	ORG	ORG-European-Union
+Европейского союза	Европейский союз	ORG	ORG-European-Union
+Евросоюза	Евросоюз	ORG	ORG-European-Union
+Кремле	Кремль	LOC	LOC-Moscow-Kremlin
+Кремля	Кремль	LOC	LOC-Moscow-Kremlin
+Лондон	Лондон	LOC	GPE-London
+Лондона	Лондон	LOC	GPE-London
+МИД Британии	МИД Британии	ORG	ORG-Foreign-Office
+Москва	Москва	LOC	GPE-Moscow
+Мэй	Мэй	PER	PER-Theresa-May
+Песков	Песков	PER	PER-Dmitry-Peskov
+РФ	РФ	LOC	GPE-Russia
+Россией	Россия	LOC	GPE-Russia
+России	Россия	LOC	GPE-Russia
+Соединенного Королевства	Соединенное Королевство	LOC	GPE-Great-Britain
+ТАСС	ТАСС	ORG	ORG-TASS-Agency
+Терезой Мэй	Тереза Мэй	PER	PER-Theresa-May
+британского правительства	британское правительство	ORG	ORG-the-UK-Government
+внешнеполитического ведомства Великобритании	внешнеполитическое ведомство Великобритании	ORG	ORG-Foreign-Office

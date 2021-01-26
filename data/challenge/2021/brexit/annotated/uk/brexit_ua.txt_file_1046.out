@@ -1,0 +1,19 @@
+ua-1046
+Brexit	Brexit	EVT	EVT-Brexit
+The Guardian	The Guardian	ORG	ORG-The-Guardian
+ЄС	ЄС	LOC	ORG-European-Union
+Європарламент	Європарламент	ORG	ORG-European-Parliament
+Європейського союзу	Європейський союз	ORG	ORG-European-Union
+Євросоюзу	Євросоюз	LOC	ORG-European-Union
+Барньє	Барньє	PER	PER-Michel-Barnier
+Британії	Британія	LOC	GPE-Great-Britain
+Брюсселем	Брюссель	LOC	GPE-Brussles
+Брюсселю	Брюссель	LOC	GPE-Brussles
+Велика Британія	Велика Британія	LOC	GPE-Great-Britain
+Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+Вестмінстер	Вестмінстер	LOC	GPE-Westminster
+КИЇВ	Київ	LOC	GPE-Kiev
+Лондоном	Лондон	LOC	GPE-London
+Мішель Барньє	Мішель Барньє	PER	PER-Michel-Barnier
+Сполучене Королівство	Сполучене Королівство	LOC	GPE-Great-Britain
+УНН	УНН	ORG	ORG-UNN

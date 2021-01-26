@@ -1,0 +1,20 @@
+ru-1213
+Brexit 	Brexit 	EVT	EVT-Brexit
+Brexit 	Brexit	EVT	EVT-Brexit
+Brexit	Brexit	EVT	EVT-Brexit
+Англии	Англия	LOC	GPE-Great-Britain
+Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+Британских островах 	Британские острова	LOC	GPE-Great-Britain
+Брюсселем 	Брюссель	LOC	GPE-Brussles
+Брюсселя 	Брюссель	LOC	GPE-Brussles
+Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+Дэвида Девиса	Дэвид Девис	PER	PER-David-Davis
+Лондона	Лондон	LOC	GPE-London
+Лондоном	Лондон	LOC	GPE-London
+МИД	МИД	ORG	ORG-Foreign-Office
+Мэй	Мэй	PER	PER-Theresa-May
+Тереза Мэй 	Тереза Мэй	PER	PER-Theresa-May
+Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+Терезой Мэй	Тереза Мэй	PER	PER-Theresa-May
+выходе Англии из става европейского союза	выход Англии из става европейского союза	EVT	EVT-Brexit

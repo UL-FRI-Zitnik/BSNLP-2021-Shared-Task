@@ -1,0 +1,15 @@
+ua-1013
+"Iнтерфакс-Україна"	"Інтерфакс-Україна"	ORG	ORG-Interfax-Ukraine
+Brexit	Brexit	EVT	EVT-Brexit
+Gazeta.ua	Gazeta.ua	PRO	PRO-Gazeta-ua
+PHL	PHL	ORG	ORG-PHL
+Reuters	Reuters	ORG	ORG-Reuters
+ЄС	ЄС	LOC	ORG-European-Union
+Євросоюзу	Євросоюз	LOC	ORG-European-Union
+Великобританії	Великобританія	LOC	GPE-Great-Britain
+Джейкоб Ріс-Могг	Джейкоб Ріс-Могг	PER	PER-Jacob-Rees-Mogg
+Мей	Мей	PER	PER-Theresa-May
+Сполученого Королівства	Сполучене Королівство	LOC	GPE-Great-Britain
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Терезі Мей	Тереза Мей	PER	PER-Theresa-May
+України	Україна	LOC	GPE-Ukraine

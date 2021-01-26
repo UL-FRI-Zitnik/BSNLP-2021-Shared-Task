@@ -1,0 +1,10 @@
+cs-258
+Brexitem	brexit	EVT	EVT-Brexit
+Czexit	Czexit	EVT	EVT-Czexit
+EU	EU	ORG	ORG-European-Union
+Svaz průmyslu a dopravy	Svaz průmyslu a dopravy	ORG	ORG-Svaz-Prumyslu
+Velké Británie	Velká Británie	LOC	GPE-Great-Britain
+Velké Británii	Velká Británie	LOC	GPE-Great-Britain
+ČR	ČR	LOC	GPE-Czech-Republic
+Špicar	Špicar	PER	PER-Radek-Spicar
+Špicarova	Špicar	PER	PER-Radek-Spicar

@@ -1,0 +1,15 @@
+cs-1985
+Anglie	Anglie	LOC	GPE-England
+Britové	Britové	PER	GPE-Great-Britain
+Britů	Britové	PER	GPE-Great-Britain
+EU	EU	ORG	ORG-European-Union
+Evropské unie	Evropská unie	ORG	ORG-European-Union
+ICM	ICM	ORG	ORG-ICM-Agency
+Skotsku	Skotsko	LOC	GPE-Scotland
+Spojeného království	Spojené království	LOC	GPE-Great-Britain
+The Guardian	The Guardian	PRO	PRO-The-Guardian
+Unii	Unie	ORG	ORG-European-Union
+Walesu	Wales	LOC	GPE-Wales
+brexit	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit
+labouristů	labouristé	PER	ORG-Labour-Party-UK

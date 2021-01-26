@@ -1,0 +1,18 @@
+ru-1147
+BBC	BBC	ORG	ORG-BBC-Ltd
+Brexit	Brexit	EVT	EVT-Brexit
+Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+Британии	Британия	LOC	GPE-Great-Britain
+Великобритании	Великобритания	LOC	GPE-Great-Britain
+Даунинг стрит	Даунинг стрит	LOC	LOC-Downing-Street
+Джонсона	Джонсон	PER	PER-Boris-Johnson
+Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+Дэвис	Дэвис	PER	PER-David-Davis
+ЕС	ЕС	ORG	ORG-European-Union
+Евросоюза	Евросоюз	ORG	ORG-European-Union
+Кабинет Мэй	Кабинет Мэй	ORG	ORG-Cabinet-of-the-United-Kingdom
+Мэй	Мэй	PER	PER-Theresa-May
+Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+твиттере	твиттер	PRO	PRO-Twitter

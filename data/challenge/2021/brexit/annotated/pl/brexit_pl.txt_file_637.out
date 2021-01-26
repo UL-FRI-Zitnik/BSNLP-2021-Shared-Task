@@ -1,0 +1,30 @@
+pl-637
+Andrew Marr	Andrew Marr	PER	PER-Andrew-Marr
+Anglii	Anglia	LOC	GPE-England
+BBC	BBC	PRO	PRO-BBC
+Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+Boże Narodzenie	Boże Narodzenie	EVT	EVT-Christmas
+Brexit	Brexit	EVT	EVT-Brexit
+Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+Christian Dustmann	Christian Dustmann	PER	PER-Christian-Dustmann
+Davida Camerona	David Cameron	PER	PER-David-Cameron
+Dustmann	Dustmann	PER	PER-Christian-Dustmann
+Hiszpanii	Hiszpania	LOC	GPE-Spain
+Izby Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+Johnsona	Johnson	PER	PER-Boris-Johnson
+Kenneth Clarke	Kenneth Clarke	PER	PER-Kenneth-Clarke
+Londynie	Londyn	LOC	GPE-London
+NHS	NHS	ORG	ORG-NHS
+Polaków	Polacy	PER	GPE-Poland
+Polski	Polska	LOC	GPE-Poland
+Rz	Rz	PRO	PRO-Rzeczpospolita
+Theresę May	Theresa May	PER	PER-Theresa-May
+Tooting Medical Center	Tooting Medical Center	ORG	ORG-Tooting-Medical-Center
+Unii	Unia	ORG	ORG-European-Union
+University College London	University College London	ORG	ORG-University-College-London
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Włoch	Włochy	LOC	GPE-Italy
+brexitem	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit
+torysów	torysi	PER	ORG-Tories

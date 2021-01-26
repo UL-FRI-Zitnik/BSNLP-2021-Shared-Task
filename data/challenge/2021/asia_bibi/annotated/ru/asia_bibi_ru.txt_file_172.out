@@ -1,0 +1,23 @@
+ru-172
+Reuters	Reuters	ORG	ORG-Reuters
+Асии Биби	Асии Биби	PER	PER-Asia-Bibi
+Асии Биби	Асия Биби	PER	PER-Asia-Bibi
+Асия Биби	Асия Биби	PER	PER-Asia-Bibi
+Биби	Биби	PER	PER-Asia-Bibi
+Верховный суд Пакистана	Верховный суд Пакистана	ORG	ORG-Supreme-Court-of-Pakistan
+Верховным судом	Верховный суд	ORG	ORG-Supreme-Court-of-Pakistan
+Иисуса Христа	Иисус Христос	PER	PER-Jesus-Christ
+КИЕВ	КИЕВ	LOC	GPE-Kiev
+Китая	Китай	LOC	GPE-China
+Мухаммед	Мухаммед	PER	PER-Prophet-Muhammad
+Норин	Норин	PER	PER-Asia-Bibi
+Пакистане	Пакистан	LOC	GPE-Pakistan
+Пенджаб	Пенджаб	LOC	GPE-Punjab
+СУАР	СУАР	LOC	GPE-Xinjiang-Uygur-Autonomous-Region-XUAR
+США	США	LOC	GPE-USA
+Салман Тасир	Салман Тасир	PER	PER-Salmaan-Taseer
+Синьцзян-Уйгурском автономном районе	Синьцзян-Уйгурский автономный район	LOC	GPE-Xinjiang-Uygur-Autonomous-Region-XUAR
+УНН	УНН	ORG	ORG-UNN
+Шахбаз Бхатти	Шахбаз Бхатти	PER	PER-Clement-Shahbaz-Bhatti
+высшим судом Пакистана	высший суд Пакистана	ORG	ORG-Supreme-Court-of-Pakistan
+пакистанец	пакистанец	PER	GPE-Pakistan

@@ -1,0 +1,14 @@
+pl-242
+27	27	ORG	ORG-European-Union
+Brexicie	Brexit	EVT	EVT-Brexit
+Brexit	Brexit	EVT	EVT-Brexit
+Brukseli	Bruksela	LOC	GPE-Brussles
+Londynem	Londyn	LOC	GPE-London
+Michela Barniera	Michel Barnier	PER	PER-Michel-Barnier
+Theresy May	Theresa May	PER	PER-Theresa-May
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnocie	Wspólnota	ORG	ORG-European-Union
+Zjednoczonym Królestwie	Zjednoczone Królestwo	LOC	GPE-Great-Britain

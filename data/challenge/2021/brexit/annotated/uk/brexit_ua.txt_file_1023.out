@@ -1,0 +1,15 @@
+ua-1023
+Brexit	Brexit	EVT	EVT-Brexit
+Daily Mail	Daily Mail	ORG	ORG-Daily-Mail
+Penderyn	Penderyn	ORG	ORG-Penderyn
+ЄС	ЄС	LOC	ORG-European-Union
+Британії	Британія	LOC	GPE-Great-Britain
+Брюсселем	Брюссель	LOC	GPE-Brussles
+Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+Домінік Рааб	Домінік Рааб	PER	PER-Dominic-Raab
+Естер Макві	Естер Макві	PER	PER-Ester-Makvi
+Мей	Мей	PER	PER-Theresa-May
+Північної Ірландії	Північна Ірландія	LOC	GPE-Northern-Ireland
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Філіп	Філіп	PER	PER-Philip
+Шайлеш Вара	Шайлеш Вара	PER	PER-Shailesh-Vara

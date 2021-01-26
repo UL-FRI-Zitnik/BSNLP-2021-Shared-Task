@@ -1,0 +1,19 @@
+cs-964
+BBC	BBC	PRO	PRO-BBC
+Brexit	Brexit	EVT	EVT-Brexit
+Britové	Britové	PER	GPE-Great-Britain
+Británie	Británie	LOC	GPE-Great-Britain
+Británii	Británie	LOC	GPE-Great-Britain
+Brusel	Brusel	LOC	GPE-Brussles
+Bruselu	Brusel	LOC	GPE-Brussles
+EU	EU	ORG	ORG-European-Union
+Greg Clark	Greg Clark	PER	PER-Greg-Clark
+Ivan Rogers	Ivan Rogers	PER	PER-Ivan-Rogers
+Londýn	Londýn	LOC	GPE-London
+Londýna	Londýn	LOC	GPE-London
+Mayová	Mayová	PER	PER-Theresa-May
+Reuters	Reuters	ORG	ORG-Reuters
+Severního Irska	Severní Irsko	LOC	GPE-Northern-Ireland
+The Daily Telegraph	The Daily Telegraph	PRO	PRO-The-Daily-Telegraph
+Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+brexitu	brexit	EVT	EVT-Brexit

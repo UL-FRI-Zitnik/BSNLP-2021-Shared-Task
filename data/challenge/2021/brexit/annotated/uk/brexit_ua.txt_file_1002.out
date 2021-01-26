@@ -1,0 +1,28 @@
+ua-1002
+"Бі-бі-сі"	"Бі-бі-сі"	ORG	ORG-BBC-Ltd
+Brexit	Brexit	EVT	EVT-Brexit
+Twitter	Twitter	PRO	PRO-Twitter
+ЄС	ЄС	LOC	ORG-European-Union
+Європейського союзу	Європейський союз	ORG	ORG-European-Union
+Євроради	Єврорада	ORG	ORG-European-Parliament
+Британський кабінет міністрів	Британський кабінет міністрів	ORG	ORG-Cabinet-of-the-United-Kingdom
+Британії	Британія	LOC	GPE-Great-Britain
+Брюсселем	Брюссель	LOC	GPE-Brussles
+Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+Великій Британії	Велика Британія	LOC	GPE-Great-Britain
+Даунінг-стрит	Даунінг-стрит	LOC	LOC-Downing-Street
+Домінік Раб	Домінік Раб	PER	PER-Dominic-Raab
+Домініка Рабе	Домінік Рабе	PER	PER-Dominic-Raab
+Дональд Туск	Дональд Туск	PER	PER-Donald-Tusk
+Ембер Рад	Ембер Рад	PER	PER-Ember-Rad
+Естер Маквей	Естер Маквей	PER	PER-Emanuelе-Ferarrio
+Консервативної партії	Консервативна партія	ORG	ORG-Conservative-and-Unionist-Party-UK
+Північної Ірландії	Північна Ірландія	LOC	GPE-Northern-Ireland
+С.Барклі	С.Барклі	PER	PER-Stiven-Barkli
+Стівен Барклі	Стівен Барклі	PER	PER-Stiven-Barkli
+Стівена Барклі	Стівен Барклі	PER	PER-Stiven-Barkli
+Т.Мей	Т.Мей	PER	PER-Donald-Trump
+Т.Мей	Т.Мей	PER	PER-Theresa-May
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Шейлеш Вара	Шейлеш Вара	PER	PER-Shailesh-Vara
+міністерстві охорони здоров'я Великої Британії	міністерство охорони здоров'я Великої Британії	ORG	ORG-British-Ministry-of-Health

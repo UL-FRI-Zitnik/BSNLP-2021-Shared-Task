@@ -1,0 +1,26 @@
+sl-14
+Ameriko	Amerika	LOC	GPE-USA
+Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+Craig Hamilton-Parker	Craig Hamilton-Parker	PER	PER-Craig-Hamilton-Parker
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+EU	EU	ORG	ORG-European-Union
+Evropske unije	Evropska unija	ORG	ORG-European-Union
+Florido	Florida	LOC	GPE-Florida
+Hamilton-Parker	Hamilton-Parker	PER	PER-Craig-Hamilton-Parker
+Kim Jong-un	Kim Jong-un	PER	PER-Kim-Jong-Un
+Kitajska	Kitajska	LOC	GPE-China
+Mayeve	May	PER	PER-Theresa-May
+Nepal	Nepal	LOC	GPE-Nepal
+Otoku	otok	LOC	GPE-Great-Britain
+Rusijo	Rusija	LOC	GPE-Russia
+Severne Koreje	Severne Koreje	LOC	GPE-North-Korea
+Sirija	Sirija	LOC	GPE-Syria
+Theresi May	Theresa May	PER	PER-Theresa-May
+Trump	Trump	PER	PER-Donald-Trump
+Trumpa	Trump	PER	PER-Donald-Trump
+Trumpu	Trump	PER	PER-Donald-Trump
+Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+ZDA	ZDA	LOC	GPE-USA
+brexit	brexit	EVT	EVT-Brexit

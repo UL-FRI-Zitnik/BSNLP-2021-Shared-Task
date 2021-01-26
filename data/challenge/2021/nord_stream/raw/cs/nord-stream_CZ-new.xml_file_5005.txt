@@ -1,0 +1,9 @@
+cs-5005
+cs
+1970-01-01
+https://cs.wikipedia.org/wiki/Nord_Stream
+Nord Stream
+
+Nord Stream, česky Severní proud (rusky: Северный поток – Severnyj potok, německy: Nordeuropäische Gasleitung) je plynovod, který po dně Baltského moře přivádí zemní plyn z Ruska do Západní Evropy, hlavně do Německa. Tento plynovod má za cíl přepravu zemního plynu bez tranzitních rizik pro obě země. Na ruské straně začíná ve Vyborgu a končí u Greifswaldu ve spolkové zemi Meklenbursko-Přední Pomořansko. Vlastníkem a provozovatelem plynovodu je Nord Stream AG.
+
+Projekt Nord Stream zahrnuje dvě paralelně probíhající potrubní linky na dně Baltického moře. První linka byla pomocí speciálních lodí položena do května 2011 a zprovozněna 8. listopadu 2011.[1] Druhá linka byla stavěna v letech 2011-2012 a otevřena 8. října 2012. Svou celkovou délkou 1224 km je to nejdelší podmořský plynovod světa.[2]

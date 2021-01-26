@@ -1,0 +1,33 @@
+pl-1245
+Andrzeja Dudy	Andrzej Duda	PER	PER-Andrzej-Duda
+Andrzeja Dudę	Andrzej Duda	PER	PER-Andrzej-Duda
+Anglicy	Anglicy	PER	GPE-Great-Britain
+Belka	Belka	PER	PER-Marek-Belka
+Belki	Belka	PER	PER-Marek-Belka
+Berlinie	Berlin	LOC	GPE-Berlin
+Brukselą	Bruksela	LOC	GPE-Brussles
+Faktach po Faktach	Fakty po Fakty	PRO	PRO-Fakty-po-Faktach
+Faktów po Faktach	Fakty po Fakty	PRO	PRO-Fakty-po-Faktach
+KE	KE	ORG	ORG-European-Commission
+KRS	KRS	ORG	ORG-KRS-National-Council-of-the-Judiciary-of-Poland
+Kamiennej Górze	Kamienna Góra	LOC	GPE-Kamienna-Góra
+Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+Komisja	Komisja	ORG	ORG-European-Commission
+Krajowej Radzie Sądownictwa	Krajowa Rada Sądownictwa	ORG	ORG-KRS-National-Council-of-the-Judiciary-of-Poland
+Marek Belka	Marek Belka	PER	PER-Marek-Magierowski
+Morawiecki	Morawiecki	PER	PER-Mateusz-Morawiecki
+Narodowego Banku Polskiego	Narodowy Bank Polski	ORG	ORG-NBP-Narodowy-Bank-Polski
+Niemców	Niemcy	PER	GPE-Germany
+Pałacu Prezydenckim	Pałac Prezydencki	LOC	LOC-Presidential-Palace-Warsaw
+Polska	Polska	LOC	GPE-Poland
+Polski	Polska	LOC	GPE-Poland
+Sądzie Najwyższym	Sąd Najwyższy	ORG	ORG-Supreme-Court-of-Poland
+TVN24	TVN24	PRO	PRO-TVN24
+Traktatu o Unii Europejskiej	Traktat o Unii Europejskiej	PRO	PRO-TUE-Treaty-on-European-Union
+Unia	Unia	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Warszawy	Warszawa	LOC	GPE-Warsaw
+białe księgi	Białe księgi	PRO	PRO-White-paper-Poland
+brexitem	Brexit	EVT	EVT-Brexit
+polexitem	Polexit	EVT	EVT-Polexit

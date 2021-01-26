@@ -1,0 +1,19 @@
+pl-695
+Brexit	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+Kerr	Kerr	PER	PER-John-Kerr
+Londyn	Londyn	LOC	GPE-London
+Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+Torysów	Torysi	PER	ORG-Tories
+UE	UE	ORG	ORG-European-Union
+UK	UK	LOC	GPE-Great-Britain
+USA	USA	LOC	GPE-USA
+Unii	Unia	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnocie	Wspólnota	ORG	ORG-European-Union
+Wyspach	Wyspy	LOC	GPE-Great-Britain
+brytyjski parlament	Brytyjski Parlament	ORG	ORG-British-Parlament
+brytyjskiego parlamentu	Brytyjski Parlament	ORG	ORG-British-Parlament

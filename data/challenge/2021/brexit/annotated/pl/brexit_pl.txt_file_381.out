@@ -1,0 +1,19 @@
+pl-381
+Azji	Azja	LOC	LOC-Asia
+Biały Dom	Biały Dom	LOC	LOC-White-House
+Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+BoE	BoE	ORG	ORG-Bank-of-England
+Brexitem	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+Chin	Chiny	LOC	GPE-China
+Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+EBC	EBC	ORG	ORG-European-Central-Bank
+FOMC	FOMC	ORG	ORG-FOMC
+Fed	Fed	ORG	ORG-Fed
+Irlandią	Irlandia	LOC	GPE-Ireland
+Rada Prezesów	Rada Prezesów	ORG	ORG-EBC-Governing-Council
+Trumpa	Trump	PER	PER-Donald-Trump
+UE	UE	ORG	ORG-European-Union
+USA	USA	LOC	GPE-USA
+Wall Street	Wall Street	LOC	LOC-Wall-Street
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain

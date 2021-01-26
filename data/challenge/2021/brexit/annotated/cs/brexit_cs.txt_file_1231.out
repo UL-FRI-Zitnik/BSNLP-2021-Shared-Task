@@ -1,0 +1,25 @@
+cs-1231
+Africe	Afrika	LOC	LOC-Africa
+Andrej Babiš	Andrej Babiš	PER	PER-Andrej-Babis
+Andreje Babiše	Andrej Babiš	PER	PER-Andrej-Babis
+Babiš	Babiš	PER	PER-Andrej-Babis
+Babiše	Babiš	PER	PER-Andrej-Babis
+Británie	Británie	LOC	GPE-Great-Britain
+Bruselu	Brusel	LOC	GPE-Brussles
+Bulharska	Bulharsko	LOC	GPE-Bulgaria
+EK	EK	ORG	ORG-European-Commission
+Evropské komise	Evropská komise	ORG	ORG-European-Commission
+Evropské unie	Evropská unie	ORG	ORG-European-Union
+Evropské unii	Evropská unie	ORG	ORG-European-Union
+Itálií	Itálie	LOC	GPE-Italy
+Jeanem-Claudem Junckerem	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+Junckera	Juncker	PER	PER-Jean-Claude-Juncker
+Junckerem	Juncker	PER	PER-Jean-Claude-Juncker
+Maďarska	Maďarsko	LOC	GPE-Hungary
+Polska	Polsko	LOC	GPE-Poland
+Slovenska	Slovensko	LOC	GPE-Slovakia
+Slovinska	Slovinsko	LOC	GPE-Slovenia
+brexit	brexit	EVT	EVT-Brexit
+visegrádské skupiny	visegrádská skupina	ORG	ORG-Visegrád-Group
+Česko	Česko	LOC	GPE-Czech-Republic
+České republiky	Česká republika	LOC	GPE-Czech-Republic

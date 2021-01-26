@@ -1,0 +1,24 @@
+ru-117
+Brexit	Brexit	EVT	EVT-Brexit
+EC	EC	ORG	ORG-European-Union
+Telegraph	Telegraph	PRO	PRO-The-Daily-Telegraph
+The Sunday Telegraph	The Sunday Telegraph	PRO	PRO-The-Sunday-Telegraph
+The Telegraph	The Telegraph	PRO	PRO-The-Daily-Telegraph
+Англии	Англия	LOC	GPE-Great-Britain
+Болтон	Болтон	PER	PER-John-Bolton
+Брексита	Брексит	EVT	EVT-Brexit
+Брюсселе	Брюссель	LOC	GPE-Brussles
+Великобританией	Великобритания	LOC	GPE-Great-Britain
+Группы европейских исследований	Группа европейских исследований	ORG	ORG-European-Research-Group
+Джон Болтон	Джон Болтон	PER	PER-John-Bolton
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+ЕС	ЕС	ORG	ORG-European-Union
+Европейской исследовательской группы	Европейская исследовательская группа	ORG	ORG-European-Research-Group
+Лондоном	Лондон	LOC	GPE-London
+Референдум	Референдум	EVT	EVT-Brexit-Referendum
+США	США	LOC	GPE-USA
+Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+европейского союза	европейский союз	ORG	ORG-European-Union
+столице Англии	столица Англии	LOC	GPE-London
+тори	тори	ORG	ORG-Conservative-and-Unionist-Party-UK

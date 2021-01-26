@@ -1,0 +1,22 @@
+pl-1370
+Brexit	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+Caroline Nokes	Caroline Nokes	PER	PER-Caroline-Nokes
+Home Office	Home Office	ORG	ORG-Home-Office-UK
+Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+Izby Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+MSW	MSW	ORG	ORG-Home-Office-UK
+NHS	NHS	ORG	ORG-NHS
+Nokes	Nokes	PER	PER-Caroline-Nokes
+Polacy	Polacy	PER	GPE-Poland
+Polaków	Polacy	PER	GPE-Poland
+Romsey and Southampton North	Romsey and Southampton North	LOC	LOC-Romsey-and-Southampton-North
+Theresy May	Theresa May	PER	PER-Theresa-May
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnotę	Wspólnota	ORG	ORG-European-Union
+narodowej służby zdrowia	Narodowa Służba Zdrowia	ORG	ORG-NHS

@@ -1,0 +1,32 @@
+sl-140
+Bahram Ghasemi	Bahram Ghasemi	PER	PER-Bahram-Ghasemi
+Benjamin Netanjahu	Benjamin Netanjahu	PER	PER-Benjamin-Netanyahu
+Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Džavad Zarif	Džavad Zarif	PER	PER-Mohammad-Javad-Zarif
+Evropske unije	Evropska unija	ORG	ORG-European-Union
+Federica Mogherini	Federica Mogherini	PER	PER-Federica-Mogherini
+Francija	Francija	LOC	GPE-France
+Francijo	Francija	LOC	GPE-France
+IAEA	IAEA	ORG	ORG-IAEA-International-Atomic-Energy-Agency
+Iran	Iran	LOC	GPE-Iran
+Iranom	Iran	LOC	GPE-Iran
+Izrael	Izrael	LOC	GPE-Israel
+Izraelom	Izrael	LOC	GPE-Israel
+Kitajsko	Kitajska	LOC	GPE-China
+Londonu	London	LOC	GPE-London
+Mednarodna agencija za jedrsko energijo	Mednarodna agencija za jedrsko energijo	ORG	ORG-IAEA-International-Atomic-Energy-Agency
+Nemčijo	Nemčija	LOC	GPE-Germany
+Netanjahu	Netanjahu	PER	PER-Benjamin-Netanyahu
+Netanjahujeva	Netanjahu	PER	PER-Benjamin-Netanyahu
+Netanjahujevem	Netanjahu	PER	PER-Benjamin-Netanyahu
+Rusijo	Rusija	LOC	GPE-Russia
+Sirije	Sirija	LOC	GPE-Syria
+Teheran	Teheran	LOC	GPE-Tehran
+Teheranu	Teheran	LOC	GPE-Tehran
+Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+Veliko Britanijo	Velika Britanija	LOC	GPE-Great-Britain
+Washington	Washington	LOC	GPE-WashingtonDC
+ZDA	ZDA	LOC	GPE-USA
+dogovora o jedrskem programu	dogovor o jedrskem programu	PRO	PRO-Iran-nuclear-deal
+iranskem jedrskem programu	iranski jedrski program	PRO	PRO-Nuclear-program-of-Iran

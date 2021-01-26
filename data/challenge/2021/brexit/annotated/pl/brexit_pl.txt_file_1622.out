@@ -1,0 +1,19 @@
+pl-1622
+Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+Brexit	Brexit	EVT	EVT-Brexit
+Brukselą	Bruksela	LOC	GPE-Brussles
+BuzzFeed	BuzzFeed	PRO	PRO-Buzzfeed-website
+Conservative Way Forward	Conservative Way Forward	ORG	ORG-Conservative-Way-Forward
+Institute of Directors	Institute of Directors	ORG	ORG-Institute-of-Directors
+Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+Irlandią	Irlandia	LOC	GPE-Ireland
+Johnson	Johnson	PER	PER-Boris-Johnson
+Londyn	Londyn	LOC	GPE-London
+MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+Theresa May	Theresa May	PER	PER-Theresa-May
+Unii Europejskiej	Unii Europejska	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+brexicie	Brexit	EVT	EVT-Brexit
+brexit	Brexit	EVT	EVT-Brexit
+brexitu	brexitu	EVT	EVT-Brexit

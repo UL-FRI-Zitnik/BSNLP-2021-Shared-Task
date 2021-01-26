@@ -1,0 +1,12 @@
+pl-1593
+Anglii	Anglia	LOC	GPE-England
+Brexit	Brexit	EVT	EVT-Brexit
+Castle Bromwich	Castle Bromwich	LOC	GPE-Castle-Bromwich
+Halewood	Halewood	LOC	GPE-Halewood
+Jaguar Land Rover	Jaguar Land Rover	ORG	ORG-Jaguar-Land-Rover
+Jaguara	Jaguar	ORG	ORG-Jaguar-Land-Rover
+Land Rovera	Land Rover	ORG	ORG-Jaguar-Land-Rover
+Solihull	Solihull	LOC	GPE-Solihull
+brexitem	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit
+wyspiarze	Wyspiarze	PER	GPE-Great-Britain

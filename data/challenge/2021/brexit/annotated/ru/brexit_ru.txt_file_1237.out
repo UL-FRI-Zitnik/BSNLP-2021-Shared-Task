@@ -1,0 +1,19 @@
+ru-1237
+"Брекситу"	"Брексит"	EVT	EVT-Brexit
+Davis	Davis	PER	PER-David-Davis
+Faisal Islam	Faisal Islam	PER	PER-Muhammad-Faisal
+Sky News	Sky News	PRO	PRO-Sky-News-TV
+The Times	The Times	PRO	PRO-The-Times
+Twitter	Twitter	PRO	PRO-Twitter
+«Брексита»	«Брексит»	EVT	EVT-Brexit
+«Брекситу»	«Брексит»	EVT	EVT-Brexit
+Великобритании	Великобритания	LOC	GPE-Great-Britain
+Дэвида Дэвиса	Дэвид Дэвис	PER	PER-David-Davis
+ЕС	ЕС	ORG	ORG-European-Union
+Евросоюзом	Евросоюз	ORG	ORG-European-Union
+Мэй 	Мэй	PER	PER-Theresa-May
+Мэй	Мэй	PER	PER-Theresa-May
+Стив Бейкер	Стив Бейкер	PER	PER-Steve-Baker
+Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+парламенте	парламент	ORG	ORG-British-Parlament
+“Ъ”	“Ъ”	PRO	PRO-Kommersant

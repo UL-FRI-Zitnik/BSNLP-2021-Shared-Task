@@ -1,0 +1,37 @@
+sl-187
+BBC	BBC	ORG	ORG-BBC-Ltd
+Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+Borisu Johnsonu	Boris Johnson	PER	PER-Boris-Johnson
+Brexit	Brexit	EVT	EVT-Brexit
+Bruselj	Bruselj	LOC	GPE-Brussels
+Brusljem	Bruselj	LOC	GPE-Brussels
+Bruslju	Bruselj	LOC	GPE-Brussels
+Dominic Raab	Dominic Raab	PER	PER-Dominic-Raab
+Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+Downing Street	Downing Street	LOC	LOC-Downing-Street
+Downing Streetu	Downing Street	LOC	LOC-Downing-Street
+EU	EU	ORG	ORG-European-Union
+Evropske unije		ORG	
+Evropskega sveta	Evropski svet	ORG	ORG-European-Council
+Evropski parlament	Evropski parlament	ORG	ORG-European-Parliament
+Gove	Gove	PER	PER-Michael-Gove
+John Bercow	John Bercow	PER	PER-John-Bercow
+Johnson	Johnson	PER	PER-Boris-Johnson
+Johnsonov	Johnson	PER	PER-Boris-Johnson
+Johnsonovem	Johnson	PER	PER-Boris-Johnson
+Johnsonovo	Johnson	PER	PER-Boris-Johnson
+Laburisti	Laburisti	PER	ORG-Labour-Party-UK
+Londona	London	LOC	GPE-London
+Londonu	London	LOC	GPE-London
+Michael Gove	Michael Gove	PER	PER-Michael-Gove
+Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+Raab	Raab	PER	PER-Dominic-Raab
+Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+Velike Britanije		LOC	
+Združenega kraljestva		LOC	
+brexit		EVT	
+brexit	brexit	EVT	EVT-Brexit
+brexita	brexit	EVT	EVT-Brexit
+brexitu		EVT	
+severnoirski unionisti	severnoirski unionisti	PER	ORG-Ulster-Unionist-Party
+spodnji dom parlamenta	spodnji dom parlamenta	ORG	ORG-House-of-Commons

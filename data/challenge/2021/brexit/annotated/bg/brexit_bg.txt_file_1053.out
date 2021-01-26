@@ -1,0 +1,23 @@
+bg-1053
+Brexit	Brexit	EVT	EVT-Brexit
+Брекзит	Брекзит	EVT	EVT-Brexit
+България	България	LOC	GPE-Bulgaria
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Ги Верхофстад	Ги Верхофстад	PER	PER-Guy-Verhofstadt
+Доналд Туск	Доналд Туск	PER	PER-Donald-Tusk
+ЕНП	ЕНП	ORG	ORG-EPP
+ЕС	ЕС	ORG	ORG-European-Union
+Евродепутатите	евродепутати	PER	ORG-European-Parlament
+Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+Жан-Клод Юнкер	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+Светослав Малинов	Светослав Малинов	PER	PER-Svetoslav-Malinov
+българи	българи	PER	GPE-Bulgaria
+германци	германци	PER	GPE-Germany
+евродепутати	евродепутати	PER	ORG-European-Parlament
+евродепутатите	евродепутати	PER	ORG-European-Parlament
+еврозоната	Еврозона	LOC	LOC-Eurozone
+поляци	поляци	PER	GPE-Poland
+румънци	румънци	PER	GPE-Romania
+французи	французи	PER	GPE-France

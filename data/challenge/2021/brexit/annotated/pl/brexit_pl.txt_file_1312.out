@@ -1,0 +1,39 @@
+pl-1312
+Amsterdam	Amsterdam	LOC	GPE-Amsterdam
+Anglicy	Anglicy	PER	GPE-Great-Britain
+Barclays	Barclays	ORG	ORG-Barclays
+Berlin	Berlin	LOC	GPE-Berlin
+Brexit	Brexit	EVT	EVT-Brexit
+Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+City	City	LOC	LOC-City-of-London
+Dublin	Dublin	LOC	GPE-Dublin
+Europie	Europa	LOC	LOC-Europe
+Frankfurt	Frankfurt	LOC	GPE-Frankfurt-am-Main
+HSBC Bank Polska	HSBC Bank Polska	ORG	ORG-HSBC-Poland
+HSBC	HSBC	ORG	ORG-HSBC
+Hongkongu	Hongkong	LOC	GPE-Hong-Kong
+Kantar	Kantar	ORG	ORG-Kantar
+Lloyds	Lloyds	ORG	ORG-Lloyds-of-London
+Londyn	Londyn	LOC	GPE-London
+Londynu	Londyn	LOC	GPE-London
+Nowego Jorku	Nowy Jork	LOC	GPE-New-York
+Parlamentu Europejskiego	Parlament Europejski	ORG	ORG-European-Parliament
+Paryż	Paryż	LOC	GPE-Paris
+Polsce	Polska	LOC	GPE-Poland
+Polski	Polska	LOC	GPE-Poland
+RBS	RBS	ORG	ORG-RBS
+Standard Chartered	Standard Chartered	ORG	ORG-Standard-Chartered
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Unię Europejską	Unia Europejska	ORG	ORG-European-Union
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanię	Wielką Brytanię	LOC	GPE-Great-Britain
+Wisły	Wisła	LOC	LOC-Wisła
+Wspólnoty	Wspólnota	ORG	ORG-European-Union
+Wyspach	Wyspy	LOC	GPE-Great-Britain
+Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+brexicie	Brexit	EVT	EVT-Brexit
+brexit	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit
+kanału La Manche	Kanał La Manche	LOC	LOC-English-Channel

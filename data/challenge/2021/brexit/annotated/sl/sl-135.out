@@ -1,0 +1,24 @@
+sl-135
+BRINO	BRINO	EVT	EVT-BRINO-Brexit-in-name-only
+Boris	Boris	PER	PER-Boris-Johnson
+Brexit	Brexit	EVT	EVT-Brexit
+Britanci	Britanec	PER	GPE-Great-Britain
+Britaniji	Britanija	LOC	GPE-Great-Britain
+Britanijo	Britanija	LOC	GPE-Great-Britain
+Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+Downing Streeta 10	Downing Street 10	LOC	LOC-Downing-Street
+EU	EU	ORG	ORG-European-Union
+Evropskega sveta	Evropski svet	ORG	ORG-European-Council
+Jo Johnson	Jo Johnson	PER	PER-Jo-Johnson
+Lord Sugar	Lord Sugar	PER	PER-Alan-Sugar
+Mayeva	May	PER	PER-Theresa-May
+Mayeve	May	PER	PER-Theresa-May
+Theresa May	Theresa May	PER	PER-Theresa-May
+Thereso May	Theresa May	PER	PER-Theresa-May
+brexit in name only	brexit in name only	EVT	EVT-BRINO-Brexit-in-name-only
+brexit samo po imenu	brexit samo po imenu	EVT	EVT-BRINO-Brexit-in-name-only
+brexit	brexit	EVT	EVT-Brexit
+brexita	brexit	EVT	EVT-Brexit
+brexitar	brexitar	PER	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit
+konservativci	konservativec	ORG	ORG-Conservative-and-Unionist-Party-UK

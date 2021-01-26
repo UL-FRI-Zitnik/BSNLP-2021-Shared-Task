@@ -1,0 +1,24 @@
+bg-555
+Brexit	Brexit	EVT	EVT-Brexit
+EAW	EAW	PRO	PRO-European-Arrest-Warrant
+Ndrangete	Ndrangheta	ORG	ORG-Ndrangheta
+The Economist	The Economist	PRO	PRO-The-Economist
+Антонио Никасо	Антонио Никасо	PER	PER-Antonio-Nicaso
+Берлинската стена	Берлинска стена	LOC	LOC-Berlin-Wall
+Брекзит	Брекзит	EVT	EVT-Brexit
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Джон Спенсър	Джон Спенсър	PER	PER-John-Spencer
+ЕС	ЕС	ORG	ORG-European-Union
+Европа	Европа	LOC	LOC-Europe
+Европейската заповед за арест	Европейската заповед за арест	PRO	PRO-European-Arrest-Warrant
+Европол	Европол	ORG	ORG-Europol
+Западна Германия	Западна Германия	LOC	GPE-Germany
+Изток	Изток	LOC	LOC-Eastern-Europe
+Източна Европа	Източна Европа	LOC	LOC-Eastern-Europe
+Ирландия	Ирландия	LOC	GPE-Ireland
+Италия	Италия	LOC	GPE-Italy
+Лондон	Лондон	LOC	GPE-London
+Ндрангета	Ндрангета	ORG	ORG-Ndrangheta
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+Шенгенското пространство	шенгенско пространство	LOC	LOC-Schengen-Area

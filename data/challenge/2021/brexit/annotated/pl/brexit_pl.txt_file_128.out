@@ -1,0 +1,81 @@
+pl-128
+A380	A380	PRO	PRO-Airbus-A380
+Air France	Air France	ORG	ORG-Air-France
+Airbus A380	Airbus A380	PRO	PRO-Airbus-A380
+Airbusa A380	Airbus A380	PRO	PRO-Airbus-A380
+Amerykę Południową	Ameryka Południowa	LOC	LOC-North-America
+Antoine’a de Saint- Exupéry ’ego	Antoine de Saint- Exupéry	PER	PER-Saint-George
+Australijczycy	Australijczycy	PER	GPE-Australia
+B737	B737	PRO	PRO-Boeing-737
+B777	B777	PRO	PRO-Boeing-777
+Bangkoku	Bangkok	LOC	GPE-Bangkok
+Bliskim Wschodzie	Bliski Wschód	LOC	LOC-Near-East
+Boeinga 777	Boeing 777	PRO	PRO-Boeing-777
+Brexicie	Brexit	EVT	EVT-Brexit
+Brexit	Brexit	EVT	EVT-Brexit
+Brukseli	Bruksela	LOC	GPE-Brussles
+Brytyjczyk	Brytyjczyk	PER	GPE-Great-Britain
+Buenos Aires	Buenos Aires	LOC	GPE-Buenos-Aires
+Business Insider Polska	Business Insider Polska	PRO	PRO-Business-Insider-Polska
+Centralnego Portu Komunikacyjnego	Centralny Port Komunikacyjny	LOC	LOC-CPK-Central-Communication-Port
+Centralny Port Komunikacyjny	Centralny Port Komunikacyjny	LOC	LOC-CPK-Central-Communication-Port
+Chiny	Chiny	LOC	GPE-China
+Chińczycy	Chińczycy	PER	GPE-China
+Dreamlinery	Dreamlinery	PRO	PRO-Dreamliner
+Dubai International Airport	Dubai International Airport	LOC	LOC-Dubai-International-Airport
+Dubaj	Dubaj	LOC	GPE-Dubai
+Dubajem	Dubaj	LOC	GPE-Dubai
+Dubaju	Dubaj	LOC	GPE-Dubai
+Egipcie	Egipt	LOC	GPE-Egypt
+Emiratczyk	Emiratczyk	PER	GPE-UEA-United-Arab-Emirates
+Emirates	Emirates	ORG	ORG-Emirates
+Europe	Europe	LOC	LOC-Europe
+Europie	Europa	LOC	LOC-Europe
+Europę	Europa	LOC	LOC-Europe
+Exupéry	Exupéry	PER	PER-Antoine-de-Saint-Exupéry
+Flydubai	Flydubai	ORG	ORG-Flydubai
+Francji	Francja	LOC	GPE-France
+Francuzem	Francuz	PER	GPE-France
+Genewie	Genewa	LOC	GPE-Geneva
+Hongkongu	Hongkong	LOC	GPE-Hong-Kong
+Indonezyjczyk	Indonezyjczyk	PER	GPE-Indonesia
+Japończycy	Japończycy	PER	GPE-Japan
+JetBlue	JetBlue	ORG	ORG-JetBlue
+Johannesburgu	Johannesburg	LOC	GPE-Johannesburg
+Jugosławii	Jugosławia	LOC	GPE-Yugoslavia
+Krakowa	Kraków	LOC	GPE-Kraków
+LOT	LOT	ORG	ORG-PLL-LOT
+Les choses de la vie	Les choses de la vie	PRO	PRO-title-Les-choses-de-la-vie
+Londynu	Londyn	LOC	GPE-London
+Lotnisko Chopina	Lotnisko Chopina	LOC	LOC-Warsaw-Chopin-Airport
+Lufthansie	Lufthansa	ORG	ORG-Lufthansa
+Marcin Walków	Marcin Walków	PER	PER-Marcin-Walków
+Mały Książę	Mały Książę	PRO	PRO-The-Little-Prince
+Moskwa	Moskwa	LOC	GPE-Moscow
+Niemczech	Niemcy	LOC	GPE-Germany
+Niemiec	Niemiec	PER	GPE-Germany
+Norwegian	Norwegian	ORG	ORG-Norwegian
+Nowym Jorku	Nowy Jork	LOC	GPE-New-York
+Odyseja kosmiczna 200 1	Odyseja kosmiczna 2001	PRO	PRO-title-2001-A-Space-Odyssey
+Okruchy życia	Okruchy życia	PRO	PRO-title-Les-choses-de-la-vie
+PLL LOT	PLL LOT	ORG	ORG-PLL-LOT
+Polacy	Polacy	PER	GPE-Poland
+Polsce	Polska	LOC	GPE-Poland
+Polska	Polska	LOC	GPE-Poland
+Polski	Polska	LOC	GPE-Poland
+Praga	Praga	LOC	GPE-Prague
+Rosji	Rosja	LOC	GPE-Russia
+Rosję	Rosja	LOC	GPE-Russia
+Russian Federation	Russian Federation	LOC	GPE-Russia
+Stambule	Stambuł	LOC	GPE-Istanbul
+Szkot	Szkot	PER	GPE-Scotland
+Thierry Aucoc	Thierry Aucoc	PER	PER-Thierry-Aucoc
+Tunezji	Tunezja	LOC	GPE-Tunisia
+USA	USA	LOC	GPE-USA
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Warszawy	Warszawa	LOC	GPE-Warsaw
+Warszawą	Warszawa	LOC	GPE-Warsaw
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Zjednoczonych Emiratów Arabskich	Zjednoczone Emiraty Arabskie	LOC	GPE-UEA-United-Arab-Emirates
+Zurychu	Zurych	LOC	GPE-Zürich
+flydubai	Flydubai	ORG	ORG-Flydubai

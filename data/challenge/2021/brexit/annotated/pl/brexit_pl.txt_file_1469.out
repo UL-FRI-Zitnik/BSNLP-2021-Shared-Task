@@ -1,0 +1,15 @@
+pl-1469
+Brexit	Brexit	EVT	EVT-Brexit
+Dublinie	Dublin	LOC	GPE-Dublin
+Europie	Europa	LOC	LOC-Europe
+Europie	Europia	LOC	LOC-Europe
+Europy	Europa	LOC	LOC-Europe
+Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+Tusk	Tusk	PER	PER-Donald-Tusk
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnoty	Wspólnota	ORG	ORG-European-Union
+brexicie	Brexit	EVT	EVT-Brexit
+brexit	Brexit	EVT	EVT-Brexit
+brexitem	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit

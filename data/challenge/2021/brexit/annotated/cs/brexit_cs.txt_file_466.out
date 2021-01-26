@@ -1,0 +1,17 @@
+cs-466
+Barniera	Barnier	PER	PER-Michel-Barnier
+Britů	Britové	PER	GPE-Great-Britain
+Brusel	Brusel	LOC	GPE-Brussles
+Bruselu	Brusel	LOC	GPE-Brussles
+Donalda Tuska	Donald Tusk	PER	PER-Donald-Tusk
+EU	EU	ORG	ORG-European-Union
+Evropské rady	Evropská rada	ORG	ORG-European-Council
+Evropské unie	Evropská unie	ORG	ORG-European-Union
+Londýn	Londýn	LOC	GPE-London
+Londýna	Londýn	LOC	GPE-London
+Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+Spojené království	Spojené království	LOC	GPE-Great-Britain
+Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+Tuska	Tusk	PER	PER-Donald-Tusk
+brexit	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit

@@ -1,0 +1,21 @@
+pl-1450
+BiznesAlert.pl	BiznesAlert.pl	PRO	PRO-BiznesAlert-pl
+Bruksela	Bruksela	LOC	GPE-Brussles
+ETS	ETS	ORG	ORG-ETS-European-Union-Emission-Trading-Scheme
+Gareth'a Goldsmith'a	Gareth Goldsmith	PER	PER-Gareth-Goldsmith
+Goldsmith	Goldsmith	PER	PER-Gareth-Goldsmith
+Hiszpania	Hiszpania	LOC	GPE-Spain
+Holandia	Holandia	LOC	GPE-Holland
+Londyn	Londyn	LOC	GPE-London
+Marrakeszu	Marrakesz	LOC	GPE-Marrakesh
+Oettinger	Oettinger	PER	PER-Guenther-Oettinger
+Paryżu	Paryż	LOC	GPE-Paris
+Rumunia	Rumunia	LOC	GPE-Romania
+UE	UE	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Włochy	Włochy	LOC	GPE-Italy
+Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+brexicie	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit
+parlamencie UE	Parlament UE	ORG	ORG-European-Parliament

@@ -1,0 +1,20 @@
+sl-191
+BBC	BBC	ORG	ORG-BBC-Ltd
+Bercow	Bercow	PER	PER-John-Bercow
+Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+EU	EU	ORG	ORG-European-Union
+G7	G7	ORG	ORG-G7
+John Bercow	John Bercow	PER	PER-John-Bercow
+Johnson	Johnson	PER	PER-Boris-Johnson
+Laburisti	Laburisti	PER	ORG-Labour-Party-UK
+Michael Gove	Michael Gove	PER	PER-Michael-Gove
+Philip Hammons	Philip Hammond	PER	PER-Philip-Hammond
+Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+brexit		EVT	
+brexit	brexit	EVT	EVT-Brexit
+brexita		EVT	
+brexitu	brexit	EVT	EVT-Brexit
+dpa	dpa	ORG	ORG-DPA
+konservativne stranke	konservativna stranka	ORG	ORG-Conservative-and-Unionist-Party-UK
+laburisti	laburisti	PER	ORG-Labour-Party-UK
+lordsko zbornico	lordska zbornica	ORG	ORG-House-of-Lords

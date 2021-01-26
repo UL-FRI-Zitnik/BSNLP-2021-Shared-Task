@@ -1,0 +1,14 @@
+cs-983
+BBC	BBC	PRO	PRO-BBC
+Britové	Britové	PER	GPE-Great-Britain
+Británie	Británie	LOC	GPE-Great-Britain
+David Davis	David Davis	PER	PER-David-Davis
+EU	EU	ORG	ORG-European-Union
+Evropské unie	Evropské unie	ORG	ORG-European-Union
+Londýn	Londýn	LOC	GPE-London
+Londýna	Londýn	LOC	GPE-London
+Reuters	Reuters	ORG	ORG-Reuters
+Severního Irska	Severní Irsko	LOC	GPE-Northern-Ireland
+Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+brexit	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit

@@ -1,0 +1,16 @@
+pl-3
+Brexicie	Brexit	EVT	EVT-Brexit
+Brexit	Brexit	EVT	EVT-Brexit
+Brukseli	Bruksela	LOC	GPE-Brussles
+Londynem	Londyn	LOC	GPE-London
+Michela Barniera	Michel Barnier	PER	PER-Michel-Barnier
+Theresy May	Theresa May	PER	PER-Theresa-May
+UE	UE	ORG	ORG-European-Union
+Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnoty	Wspólnota	ORG	ORG-European-Union
+Zjednoczonym Królestwie	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+mPolska24	mPolska24	PRO	PRO-mPolska24

@@ -1,0 +1,26 @@
+pl-685
+Brexicie	Brexit	EVT	EVT-Brexit
+Brexit	Brexit	EVT	EVT-Brexit
+Brukselą	Bruksela	LOC	GPE-Brussles
+KPMG	KPMG	ORG	ORG-KPMG
+Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+Komisja	Komisja	ORG	ORG-European-Commission
+Londynem	Londyn	LOC	GPE-London
+Marek Bielawski	Marek Bielawski	PER	PER-Marek-Bielawski
+Polsce	Polska	LOC	GPE-Poland
+Polski	Polska	LOC	GPE-Poland
+Rosji	Rosja	LOC	GPE-Russia
+Rz	Rz	PRO	PRO-Rzeczpospolita
+UE	UE	ORG	ORG-European-Union
+Ukrainy	Ukraina	LOC	GPE-Ukraine
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+Wysp	Wyspy	LOC	GPE-Great-Britain
+Wyspami	Wyspy	LOC	GPE-Great-Britain
+Zjednoczonym Królestwem	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+brexicie	Brexit	EVT	EVT-Brexit
+brexit	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit

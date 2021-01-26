@@ -1,0 +1,12 @@
+pl-471
+Brexit	Brexit	EVT	EVT-Brexit
+Florencji	Florencja	LOC	GPE-Florence
+Lancaster House	Lancaster House	LOC	LOC-Lancaster-House
+Londynie	Londyn	LOC	GPE-London
+Mansion House	Mansion House	LOC	LOC-Mansion-House
+May	May	PER	PER-Theresa-May
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnoty	Wspólnota	ORG	ORG-European-Union

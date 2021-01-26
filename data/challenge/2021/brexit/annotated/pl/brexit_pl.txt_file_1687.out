@@ -1,0 +1,22 @@
+pl-1687
+Brexitowcy	brexitowcy	PER	EVT-Brexit
+Brukselą	Bruksela	LOC	GPE-Brussles
+Downing Street	Downing Street	LOC	LOC-Downing-Street
+European Communities Act	European Communities Act	PRO	PRO-European-Communities-Act-1972
+Europejskim Obszarze Gospodarczym	Europejski Obszar Gospodarczy	ORG	ORG-EEA-European-Economic-Area
+Izba Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+May	May	PER	PER-Theresa-May
+The Sun	The Sun	PRO	PRO-The-Sun
+Theresa May	Theresa May	PER	PER-Theresa-May
+UE	UE	ORG	ORG-European-Union
+Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+Unią	Unia	ORG	ORG-European-Union
+Westminster	Westminster	LOC	LOC-Westminster-Hall
+Westminsteru	Westminster	LOC	LOC-Westminster-Hall
+Westminsterze	Westminster	LOC	LOC-Westminster-Hall
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+brexicie	Brexit	EVT	EVT-Brexit
+brexitowcy	brexitowcy	PER	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit

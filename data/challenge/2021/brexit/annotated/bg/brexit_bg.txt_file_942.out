@@ -1,0 +1,35 @@
+bg-942
+The Daily Express	The Daily Express	PRO	PRO-Daily-Express
+The Guardian	The Guardian	PRO	PRO-The-Guardian
+The Independent	The Independent	PRO	PRO-The-Independent
+Браун	Браун	PER	PER-Kerry-Brown
+Брекзит	Брекзит	EVT	EVT-Brexit
+Брюксел	Брюксел	LOC	GPE-Brussles
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Дауиниг стрийт	Даунинг стрийт	LOC	LOC-Downing-Street
+Даунинг стрийт	Даунинг стрийт	LOC	LOC-Downing-Street
+ЕС	ЕС	ORG	ORG-European-Union
+Европа	Европа	LOC	LOC-Europe
+Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+Европейския съд	Европейски съд	ORG	ORG-European-Court-of-Justice
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+Иван Христов	Иван Христов	PER	PER-Ivan-Hristov
+Информационна агенция "Фокус"	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency
+Кери Браун	Кери Браун	PER	PER-Kerry-Brown
+Китай	Китай	LOC	GPE-China
+Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+Кралския колеж в Лондон	Кралски колеж в Лондон	ORG	ORG-Kings-College
+Ли Къцян	Ли Къцян	PER	PER-Li-Keqiang
+Лиам Фокс	Лиам Фокс	PER	PER-Liam-Fox
+Лондон	Лондон	LOC	GPE-London
+Мей	Мей	PER	PER-Theresa-May
+Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+Патън	Патън	PER	PER-Chris-Patten
+Пекин	Пекин	LOC	GPE-Beijing
+Си Дзинпин	Си Дзинпин	PER	PER-Xi-Jinping
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Ухан	Ухан	LOC	GPE-Wuhan
+Хонконг	Хонконг	LOC	GPE-Hong-Kong
+Цанко Цолов	Цанко Цолов	PER	PER-Tsanko-Tsolov
+Шанхай	Шанхай	LOC	GPE-Shanghai

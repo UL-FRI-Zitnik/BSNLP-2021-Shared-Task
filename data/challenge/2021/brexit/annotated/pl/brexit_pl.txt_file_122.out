@@ -1,0 +1,16 @@
+pl-122
+Brexit	Brexit	EVT	EVT-Brexit
+Brexitem	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+Brukseli	Bruksela	LOC	GPE-Brussles
+Jacek Czaputowicz	Jacek Czaputowicz	PER	PER-Jacek-Czaputowicz
+Juncker	Juncker	PER	PER-Jean-Claude-Juncker
+KE	KE	ORG	ORG-European-Commission
+Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+Polski	Polska	LOC	GPE-Poland
+UE	UE	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain

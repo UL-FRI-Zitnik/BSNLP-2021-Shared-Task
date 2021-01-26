@@ -1,0 +1,12 @@
+cs-224
+Andrewem Marrem	Andrew Marr	PER	PER-Andrew-Marr
+BBC	BBC	PRO	PRO-BBC
+Británie	Británie	LOC	GPE-Great-Britain
+EU	EU	ORG	ORG-European-Union
+Emmanuel Macron	Emmanuel Macron	PER	PER-Emmanuel-Macron
+Evropskou unií	Evropská unie	ORG	ORG-European-Union
+Londýn	Londýn	LOC	GPE-London
+Londýna	Londýn	LOC	GPE-London
+Macron	Macron	PER	PER-Emmanuel-Macron
+Macrona	Macron	PER	PER-Emmanuel-Macron
+brexitu	brexit	EVT	EVT-Brexit

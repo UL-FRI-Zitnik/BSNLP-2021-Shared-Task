@@ -1,0 +1,17 @@
+ru-1128
+Brexit	Brexit	EVT	EVT-Brexit
+Англии	Англия	LOC	GPE-Great-Britain
+Англию	Англия	LOC	GPE-Great-Britain
+Белого дома	Белый дом	LOC	LOC-White-House
+Британии	Британия	LOC	GPE-Great-Britain
+Вашингтоном	Вашингтон	LOC	GPE-WashingtonDC
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+Интерфакс	Интерфакс	ORG	ORG-Interfax
+Лондоном	Лондон	LOC	GPE-London
+США	США	LOC	GPE-USA
+Сара Сандерс	Сара Сандерс	PER	PER-Sarah-Sanders
+Терезе Мэй	Тереза Мэй	PER	PER-Theresa-May
+Терезой Мэй	Тереза Мэй	PER	PER-Theresa-May
+Трамп	Трамп	PER	PER-Donald-Trump
+европейским союзом	европейский союз	ORG	ORG-European-Union

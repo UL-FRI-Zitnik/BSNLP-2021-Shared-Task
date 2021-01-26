@@ -1,0 +1,10 @@
+pl-1096
+Brexit	Brexit	EVT	EVT-Brexit
+Hilary Benn	Hilary Benn	PER	PER-Hilary-Benn
+Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+Irlandią	Irlandia	LOC	GPE-Ireland
+Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+brexitowi	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit

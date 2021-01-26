@@ -1,0 +1,14 @@
+ru-1143
+Brexit	Brexit	EVT	EVT-Brexit
+Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+Борису Джонсону	Борис Джонсон	PER	PER-Boris-Johnson
+Джонсоном	Джонсон	PER	PER-Boris-Johnson
+Дональд Туск	Дональд Туск	PER	PER-Donald-Tusk
+Дэвида Дэвиса	Дэвид Дэвис	PER	PER-David-Davis
+Дэвисом	Дэвис	PER	PER-David-Davis
+Европейского совета	Европейский совет	ORG	ORG-European-Council
+МИД	МИД	ORG	ORG-Foreign-Office
+Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+Туск	Туск	PER	PER-Donald-Tusk
+Туска	Туск	PER	PER-Donald-Tusk
+твиттере	твиттер	PRO	PRO-Twitter

@@ -1,0 +1,16 @@
+ru-1130
+Brexit	Brexit	EVT	EVT-Brexit
+Twitter	Twitter	PRO	PRO-Twitter
+Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+Брюсселе	Брюссель	LOC	GPE-Brussles
+Великобритании	Великобритания	LOC	GPE-Great-Britain
+Дональд Туск	Дональд Туск	PER	PER-Donald-Tusk
+Дэвида Дэвиса	Дэвид Дэвис	PER	PER-David-Davis
+Дэвисом	Дэвис	PER	PER-David-Davis
+ЕС	ЕС	ORG	ORG-European-Union
+Европейского Союза	Европейский Союз	ORG	ORG-European-Union
+Европейского совета	Европейский совет	ORG	ORG-European-Council
+Евросовета	Евросовет	ORG	ORG-European-Council
+Евросоюза	Евросоюз	ORG	ORG-European-Union
+Соединенного Королевства	Соединенное Королевство	LOC	GPE-Great-Britain
+Туск	Туск	PER	PER-Donald-Tusk

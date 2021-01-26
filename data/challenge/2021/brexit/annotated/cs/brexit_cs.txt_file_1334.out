@@ -1,0 +1,18 @@
+cs-1334
+Brexit	Brexit	EVT	EVT-Brexit
+Británie	Británie	LOC	GPE-Great-Britain
+Británií	Británie	LOC	GPE-Great-Britain
+Bruselu	Brusel	LOC	GPE-Brussles
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+EU	EU	ORG	ORG-European-Union
+Evropské unie	Evropská unie	ORG	ORG-European-Union
+Evropu	Evropa	LOC	LOC-Europe
+Indie	Indie	LOC	GPE-India
+Indií	Indie	LOC	GPE-India
+Indové	Indové	PER	GPE-India
+Indy	Indové	PER	GPE-India
+Londýn	Londýn	LOC	GPE-London
+Londýně	Londýn	LOC	GPE-London
+Politico	Politico	PRO	PRO-Politico
+Velká Británie	Velká Británie	LOC	GPE-Great-Britain
+brexitu	brexit	EVT	EVT-Brexit

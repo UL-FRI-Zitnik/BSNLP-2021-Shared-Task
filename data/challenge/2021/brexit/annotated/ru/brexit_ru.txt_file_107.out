@@ -1,0 +1,26 @@
+ru-107
+Brexit	Brexit	EVT	EVT-Brexit
+Белую книгу	Белая книга	PRO	PRO-White-paper-UK
+Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+Брюсселем	Брюссель	LOC	GPE-Brussles
+Брюссель	Брюссель	LOC	GPE-Brussles
+Брюсселя	Брюссель	LOC	GPE-Brussles
+Великобритании	Великобритания	LOC	GPE-Great-Britain
+Доминик Рааб	Доминик Рааб	PER	PER-Dominic-Raab
+Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+ЕС	ЕС	ORG	ORG-European-Union
+Европейской комиссией	Европейская комиссия	ORG	ORG-European-Commission
+Лондона	Лондон	LOC	GPE-London
+Москвы	Москва	LOC	GPE-Moscow
+Мэй	Мэй	PER	PER-Theresa-May
+Палате общин	Палата общин	ORG	ORG-House-of-Commons
+Скрипалей	Скрипали	PER	PER-Siergiej-Skripal
+Скрипалей	Скрипали	PER	PER-Yulia-Skripal
+Соединенного Королевства	Соединенное Королевство	LOC	GPE-Great-Britain
+Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+Форин-офис	Форин-офис	ORG	ORG-Foreign-Office
+брексита	брексит	EVT	EVT-Brexit
+брекситу	брексит	EVT	EVT-Brexit
+британском кабинете министров	британский кабинет министров	ORG	ORG-Cabinet-of-the-United-Kingdom
+правительстве Великобритании	правительство Великобритании	ORG	ORG-the-UK-Government
+правительство Великобритании	правительство Великобритании	ORG	ORG-the-UK-Government

@@ -1,0 +1,68 @@
+sl-70
+Američani	Američani	PER	GPE-USA
+Andrej Gromiko	Andrej Gromiko	PER	PER-Andrei-Gromyko
+Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+Bašarja Al Asada	Bašar Al Asad	PER	PER-Bashar-al-Assad
+Bele hiše	Bela hiša	LOC	LOC-White-House
+Belo hišo	Bela hiša	LOC	LOC-White-House
+Borisa Jelcina	Boris Jelcin	PER	PER-Boris-Jelcin
+Donaldom Trumpom	Donald Trump	PER	PER-Donald-Trump
+Dwight Eisenhower	Dwight Eisenhower	PER	PER-Dwight-Eisenhower
+Gromiko	Gromiko	PER	PER-Andrei-Gromyko
+Gruzijo	Gruzija	LOC	GPE-Georgia
+Helsinkih	Helsinki	LOC	GPE-Helsinki
+Hillary Clinton	Hillary Clinton	PER	PER-Hillary-Clinton
+Hruščov	Hruščov	PER	PER-Nikita-Khrushchev
+Hruščova	Hruščov	PER	PER-Nikita-Khrushchev
+Japonskem	Japonska	LOC	GPE-Japan
+Južni Koreji	Južna Koreja	LOC	GPE-South-Korea
+KGB-ju	KGB	ORG	ORG-KGB
+Kitajska	Kitajska	LOC	GPE-China
+Komunistično stranko ZDA	Komunistična stranka ZDA	ORG	ORG-Communist-Party-USA
+Kremelj	Kremelj	LOC	LOC-Kremlin
+Kremlja	Kremelj 	ORG	ORG-Kremlin
+Kremljem	Kremelj	ORG	ORG-Kremlin
+Krim	Krim	LOC	GPE-Crimea
+Kube	Kuba	LOC	GPE-Cuba
+Mihail Gorbačov	Mihail Gorbačov	PER	PER-Mikhail-Gorbachev
+Moskvo	Moskva	LOC	GPE-Moscow
+Nemčija	Nemčija	LOC	GPE-Germany
+Nemčijo	Nemčija	LOC	GPE-Germany
+Nikita Hruščov	Nikita Hruščov	PER	PER-Nikita-Khrushchev
+Nikito Hruščova	Nikita Hruščov	PER	PER-Nikita-Khrushchev
+Paul Ryan	Paul Ryan	PER	PER-Paul-Ryan
+Putin	Putin	PER	PER-Vladimir-Putin
+Putina	Putin	PER	PER-Vladimir-Putin
+Putinov	Putin	PER	PER-Vladimir-Putin
+Putinovemu	Putin	PER	PER-Vladimir-Putin
+Putinovim	Putin	PER	PER-Vladimir-Putin
+Putinu	Putin	PER	PER-Vladimir-Putin
+Reykjaviku	Reykjavik	LOC	GPE-Reykjavik
+Ronald Reagan	Ronald Reagan	PER	PER-Ronald-Reagan
+Rusi	Rusi	PER	GPE-Russia
+Rusija	Rusija	LOC	GPE-Russia
+Rusije	Rusija	LOC	GPE-Russia
+Rusiji	Rusija	LOC	GPE-Russia
+Rusijo	Rusija	LOC	GPE-Russia
+Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+Siriji	Sirija	LOC	GPE-Syria
+Sovjeti	Sovjeti	PER	GPE-Soviet-Union-USSR
+Sovjetska zveza	Sovjetska zveza	LOC	GPE-Soviet-Union-USSR
+Sovjetske zveze	Sovjetska zveza	LOC	GPE-Soviet-Union-USSR
+Trump	Trump	PER	PER-Donald-Trump
+Trumpa	Trump	PER	PER-Donald-Trump
+Trumpova	Trump	PER	PER-Donald-Trump
+Trumpove	Trump	PER	PER-Donald-Trump
+Trumpovo	Trump	PER	PER-Donald-Trump
+Trumpu	Trump	PER	PER-Donald-Trump
+Vladimir Putin	Vladimir Putin	PER	PER-Vladimir-Putin
+Vzhodni Nemčiji	Vzhodna Nemčija	LOC	GPE-East-Germany
+ZDA	ZDA	LOC	GPE-USA
+Zahod	Zahod	LOC	LOC-West
+ameriške predsedniške volitve leta 2016	ameriške predsedniške volitve leta 2016	EVT	EVT-2016-United-States-presidential-election
+demokrati	demokrati	PER	ORG-Democratic-Party-USA
+demokratov	demokrati	PER	ORG-Democratic-Party-USA
+hladne vojne	hladna vojna	EVT	EVT-Cold-War
+hladno vojno	hladna vojna	EVT	EVT-Cold-War
+kubansko raketno krizo	kubanska raketna kriza	EVT	EVT-Cuban-Missile-Crisis
+republikanci	republikanci	PER	ORG-Republican-Party-USA

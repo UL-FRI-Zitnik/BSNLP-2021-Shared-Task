@@ -1,0 +1,20 @@
+ru-1132
+Brexit	Brexit	EVT	EVT-Brexit
+white paper	white paper	PRO	PRO-White-paper-UK
+Австрии	Австрия	LOC	GPE-Austria
+Британии	Британия	LOC	GPE-Great-Britain
+Британия	Британия	LOC	GPE-Great-Britain
+Великобритании	Великобритания	LOC	GPE-Great-Britain
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+ЕС	ЕС	ORG	ORG-European-Union
+Евросоюзом	Евросоюз	ORG	ORG-European-Union
+Евросоюзу	Евросоюз	ORG	ORG-European-Union
+ЛОНДОН	ЛОНДОН	LOC	GPE-London
+Лондона	Лондон	LOC	GPE-London
+РИА Новости	РИА Новости	ORG	ORG-RIA-Novosti
+Себастьяном Курцем	Себастьян Курц	PER	PER-Sebastian-Kurz
+Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+ФедералПресс	ФедералПресс	ORG	ORG-FederalPress
+евросоюза	евросоюз	ORG	ORG-European-Union
+правительства Великобритании	правительство Великобритании	ORG	ORG-the-UK-Government
+саммит НАТО	саммит НАТО	EVT	EVT-Summit-NATO

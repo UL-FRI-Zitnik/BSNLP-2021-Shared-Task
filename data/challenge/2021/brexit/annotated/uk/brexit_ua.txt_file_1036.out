@@ -1,0 +1,20 @@
+ua-1036
+Brexi	Brexit	EVT	EVT-Brexit
+Brexit	Brexit	EVT	EVT-Brexit
+ЄС	ЄС	LOC	ORG-European-Union
+Європейської Ради	Європейська Рада	ORG	ORG-European-Parliament
+Євросоюзу	Євросоюз	LOC	ORG-European-Union
+Австрії	Австрія	LOC	GPE-Austria
+Британський кабмін	Британський кабмін	ORG	ORG-British-Cabinet
+Брюсселі	Брюссель	LOC	GPE-Brussles
+Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+Великій Британії	Велика Британія	LOC	GPE-Great-Britain
+Г.Блюмель	Г.Блюмель	PER	PER-Gernot-Blumel
+Гернот Блюмель	Гернот Блюмель	PER	PER-Gernot-Blumel
+Дональд Туск	Дональд Туск	PER	PER-Donald-Tusk
+Лондоном	Лондон	LOC	GPE-London
+Мішель Барньє	Мішель Барньє	PER	PER-Michel-Barnier
+Рада ЄС	Рада ЄС	ORG	ORG-Council-of-the-European-Union
+Ради ЄС	Рада ЄС	ORG	ORG-Council-of-the-European-Union
+Раді ЄС	Рада ЄС	ORG	ORG-Council-of-the-European-Union
+Терези Мей	Тереза Мей	PER	PER-Theresa-May

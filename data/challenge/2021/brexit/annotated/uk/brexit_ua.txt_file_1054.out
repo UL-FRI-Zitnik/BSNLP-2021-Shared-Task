@@ -1,0 +1,23 @@
+ua-1054
+Brexit	Brexit	EVT	EVT-Brexit
+ЄС	ЄС	LOC	ORG-European-Union
+Євросоюзу	Євросоюз	LOC	ORG-European-Union
+Іспанія	Іспанія	LOC	GPE-Spain
+Іспанією	Іспанія	LOC	GPE-Spain
+Ангела Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+Британією	Британія	LOC	GPE-Great-Britain
+Британії	Британія	LOC	GPE-Great-Britain
+Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+Гібралтар	Гібралтар	LOC	GPE-Gibraltar
+Гібралтару	Гібралтар	LOC	GPE-Gibraltar
+МЗС	МЗС	ORG	ORG-Foreign-Office
+Мей	Мей	PER	PER-Theresa-May
+Меркель	Меркель	PER	PER-Angela-Merkel
+Німеччина	Німеччина	LOC	GPE-Germany
+Німеччини	Німеччина	LOC	GPE-Germany
+Сполученого Королівства	Сполучене Королівство	LOC	GPE-Great-Britain
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Хосеп Борель	Хосеп Борель	PER	PER-Josep-Borrell
+Шотландії	Шотландія	LOC	GPE-Scotland
+саміті ЄС	саміт ЄС	EVT	EVT-EU-summit
+саміті	саміт	EVT	EVT-EU-summit

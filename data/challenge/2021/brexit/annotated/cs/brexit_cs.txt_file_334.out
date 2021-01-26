@@ -1,0 +1,19 @@
+cs-334
+Brexit	brexit	EVT	EVT-Brexit
+Británie	Británie	LOC	GPE-Great-Britain
+Británii	Británie	LOC	GPE-Great-Britain
+Británií	Británie	LOC	GPE-Great-Britain
+Bruselem	Brusel	LOC	GPE-Brussles
+BuzzFeed News	BuzzFeed News	PRO	PRO-Buzzfeed-website
+David Davis	David Davis	PER	PER-David-Davis
+Davis	Davis	PER	PER-David-Davis
+EU	EU	ORG	ORG-European-Union
+Evropském hospodářském prostoru	Evropský hospodářský prostor	LOC	LOC-European-Economic-Area
+Iain Duncan Smith	Iain Duncan Smith	PER	PER-Iain-Duncan-Smith
+Londýn	Londýn	LOC	GPE-London
+Mayová	Mayová	PER	PER-Theresa-May
+Ministerstvo pro brexit	Ministerstvo pro brexit	ORG	ORG-Ministry-of-Brexity
+Světové obchodní organizace	Světová obchodní organizace	ORG	ORG-WTO-World-Trade-Organization
+WTO	WTO	ORG	ORG-WTO-World-Trade-Organization
+brexit	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit

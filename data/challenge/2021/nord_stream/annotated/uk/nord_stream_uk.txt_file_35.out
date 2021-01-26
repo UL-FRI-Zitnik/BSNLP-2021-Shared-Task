@@ -1,0 +1,88 @@
+uk-35
+Baltic Pipe	Baltic Pipe	ORG	ORG-Baltic-Pipe
+NS-2	NS-2	ORG	ORG-Nord-Stream-2-AG
+NS	NS	ORG	ORG-Nord-Stream-AG
+Nord Stream AG	Nord Stream AG	ORG	ORG-Nord-Stream-AG
+Nord Stream-2	Nord Stream-2	ORG	ORG-Nord-Stream-2-AG
+Nord Stream	Nord Stream	ORG	ORG-Nord-Stream-AG
+Tyra	Tyra	LOC	LOC-Tyra
+Європа	Європа	LOC	GPE-Europe
+Європи	Європа	LOC	GPE-Europe
+Європу	Європа	LOC	GPE-Europe
+Європі	Європа	LOC	GPE-Europe
+Австрія	Австрія	LOC	GPE-Austria
+Балтику	Балтика	LOC	LOC-Baltic-countries
+Балтійської труби	Балтійська труба	ORG	ORG-Baltic-Pipe
+Балтії	Балтії	LOC	LOC-Baltic-countries
+Бельгія	Бельгія	LOC	GPE-Belgium
+Берлін	Берлін	LOC	GPE-Berlin
+Берліна	Берлін	LOC	GPE-Berlin
+Борнхольм	Борнхольм	LOC	LOC-Bornholm
+Борнхольма	Борнхольм	LOC	LOC-Bornholm
+Борнхольму	Борнхольм	LOC	LOC-Bornholm
+Варшава	Варшава	LOC	GPE-Warsaw
+Варшави	Варшава	LOC	GPE-Warsaw
+Варшавою	Варшава	LOC	GPE-Warsaw
+Вашингтоні	Вашингтон	LOC	GPE-WashingtonDC
+Володимир Гройсман	Володимир Гройсман	PER	PER-Volodymyr-Groysman
+Вільнюса	Вільнюс	LOC	GPE-Vilnius
+Вітренко	Вітренко	PER	PER-Yuriy-Vitrenko
+Газпром	Газпром	ORG	ORG-Gazprom
+Газпромом	Газпром	ORG	ORG-Gazprom
+Газпрому	Газпром	ORG	ORG-Gazprom
+Готланд	Готланд	LOC	GPE-Gotland
+Данію	Данія	LOC	GPE-Denmark
+Данія	Данія	LOC	GPE-Denmark
+Данією	Данія	LOC	GPE-Denmark
+Данії	Данія	LOC	GPE-Denmark
+Донбасі	Донбас	LOC	LOC-Donbass
+Естонії	Естонія	LOC	GPE-Estonia
+Західна Європа	Західна Європа	LOC	LOC-Western-Europe
+Кабміну	Кабмін	ORG	ORG-Cabinet-of-Ministers-Ukraine
+Катару	Катар	LOC	GPE-Qatar
+Коболєв	Коболєв	PER	PER-Andrii-Kobliev
+Копенгагена	Копенгаген	LOC	GPE-Copenhagen
+Королівстві	Королівство	LOC	GPE-Denmark
+Ларсом Лекке Расмуссеном	Ларс Лекке Расмуссен	PER	PER-Lars-Lokke-Rasmussen
+Латвії	Латвія	LOC	GPE-Latvia
+Литви	Литва	LOC	GPE-Lithuania
+Литві	Литва	LOC	GPE-Lithuania
+МЗС	МЗС	ORG	ORG-Foreign-Office
+Меркель	Меркель	PER	PER-Angela-Merkel
+Мінськ	Мінськ	LOC	GPE-Minsk
+НАК	НАК	ORG	ORG-Naftogaz
+НДР	НДР	LOC	GPE-East-Germany
+Нафтогаз	Нафтогаз	ORG	ORG-Naftogaz
+Нафтогазу	Нафтогаз	ORG	ORG-Naftogaz
+Новатек	Новатек	ORG	ORG-Novatek
+Нідерланди	Нідерланди	LOC	GPE-Holland
+Німеччини	Німеччина	LOC	GPE-Germany
+Німеччині	Німеччина	LOC	GPE-Germany
+Польща	Польща	LOC	GPE-Poland
+Польщу	Польща	LOC	GPE-Poland
+Порошенко	Порошенко	PER	PER-Petro-Poroshenko
+Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+Північного моря	Північне море	LOC	LOC-North-Sea
+Північного потоку-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+Північного потоку	Північний потік	ORG	ORG-Nord-Stream-AG
+Північні ворота	Північні ворота	ORG	ORG-North-Gates
+Расмуссен	Расмуссен	PER	PER-Lars-Lokke-Rasmussen
+Роснефти	Роснефть	ORG	ORG-Rosneft
+Росія	Росія	LOC	GPE-Russia
+Росії	Росія	LOC	GPE-Russia
+СРСР	СРСР	LOC	GPE-USSR
+США	США	LOC	GPE-USA
+Стокгольм	Стокгольм	LOC	GPE-Stockholm
+Стокгольмському арбітражі	Стокгольмський арбітраж	ORG	ORG-Arbitration-Institute-of-the-Stockholm-Chamber-of-Commerce
+Стокгольмі	Стокгольм	LOC	GPE-Stockholm
+Східної Німеччини	Східна Німеччина	LOC	GPE-East-Germany
+Тайра	Тайра	LOC	LOC-Tyra
+Турецького потоку	Турецький потік	ORG	ORG-TurkStream
+України	Україна	LOC	GPE-Ukraine
+Україною	Україна	LOC	GPE-Ukraine
+Україні	Україна	LOC	GPE-Ukraine
+ФРН	ФРН	LOC	GPE-Germany
+Штати	Штати	LOC	GPE-United-States-Of-America
+Щецина	Щецин	LOC	GPR-Szczecin
+Ямал	Ямал	LOC	GPE-Yamal
+Ямальський договір	Ямальський договір	EVT	EVT-Kontrakt-jamalski

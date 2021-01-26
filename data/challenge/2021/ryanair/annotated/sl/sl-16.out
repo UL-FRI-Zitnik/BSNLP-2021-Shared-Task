@@ -1,0 +1,47 @@
+sl-16
+Air Lingus	Air Lingus	ORG	ORG-Aer-Lingus
+Belgiji	Belgija	LOC	GPE-Belgium
+Cork	Cork	LOC	GPE-Cork
+Dublinu	Dublin	LOC	GPE-Dublin
+EU	EU	ORG	ORG-European-Union
+Evropi	Evropa	LOC	LOC-Europe
+Francija	Francija	LOC	GPE-France
+Irca	Irec	PER	GPE-Ireland
+Ircev	Irci	PER	GPE-Ireland
+Irci	Irci	PER	GPE-Ireland
+Irec	Irec	PER	GPE-Ireland
+Irskem	Irska	LOC	GPE-Ireland
+Italiji	Italija	LOC	GPE-Italy
+KPMG	KPMG	ORG	ORG-KPMG
+Maribora	Maribor	LOC	GPE-Maribor
+Mariboru	Maribor	LOC	GPE-Maribor
+Michael O'Leary	Michael O'Leary	PER	PER-Michael-O'Leary
+Michaela O‘Learja	Michael O‘Leary	PER	PER-Michael-O'Leary
+Nemci	Nemci	PER	GPE-Germany
+Nemčiji	Nemčija	LOC	GPE-Germany
+Nizozemskem	Nizozemska	LOC	GPE-Holland
+O'Leary	O'Leary	PER	PER-Michael-O'Leary
+O'Learyjev	O'Leary	PER	PER-Michael-O'Leary
+Portugalskem	Portugalska	LOC	GPE-Portugal
+Ryan	Ryan	PER	PER-Tony-Ryan
+Ryanair	Ryanair	ORG	ORG-Ryanair
+Ryanaira	Ryanair	ORG	ORG-Ryanair
+Ryanairov	Ryanairov	ORG	ORG-Ryanair
+Ryanairovega	Ryanair	ORG	ORG-Ryanair
+Ryanairovega	Ryanairov	ORG	ORG-Ryanair
+Ryaniar	Ryanair	ORG	ORG-Ryanair
+Slovenija	Slovenija	LOC	GPE-Slovenia
+Southwest Airlines	Southwest Airlines	ORG	ORG-Southwest-Airlines
+Stokes Kennedy Crowley	Stokes Kennedy Crowley	ORG	ORG-Stokes-Kennedy-Crowley
+Teksasa	Teksas	LOC	GPE-Texas
+Tonyjem Ryanom	Tony Ryan	PER	PER-Tony-Ryan
+Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+boeingov B737	boeingi B737	PRO	PRO-Boeing-B737
+jugu Irske	jug Irske	LOC	GPE-Ireland
+kolidžu Trinity	Kolidž Trinity	ORG	ORG-Trinity-College-Dublin
+letališčem Edvarda Rusjana	letališče Edvarda Rusjana	LOC	ORG-Edvard-Rusjan-Airport
+letališčem Stansted	letališče Stansted	LOC	LOC-Stansted-airport
+mercedes S500	mercedes S500	PRO	PRO-Mercedes-S500
+nogometnega kluba Manchester City	nogometni klub Manchester City	ORG	ORG-Manchester-City-FC
+Škotskem	Škotska	LOC	GPE-Scotland
+Švedskem	Švedska	LOC	GPE-Sweden

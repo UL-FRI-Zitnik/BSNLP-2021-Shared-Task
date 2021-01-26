@@ -1,0 +1,41 @@
+bg-245
+Brexit	Brexit	EVT	EVT-Brexit
+АЛДЕ	АЛДЕ	ORG	ORG-ALDE
+Белгия	Белгия	LOC	GPE-Belgium
+Брекзит	Брекзит	EVT	EVT-Brexit
+България	България	LOC	GPE-Bulgaria
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Германия	Германия	LOC	GPE-Germany
+Ги Верхофстад	Ги Верхофстад	PER	PER-Guy-Verhofstadt
+Доналд Туск	Доналд Туск	PER	PER-Donald-Tusk
+ЕНП	ЕНП	ORG	ORG-EPP
+ЕП	ЕП	ORG	ORG-European-Parliament
+ЕС	ЕС	ORG	ORG-European-Union
+ЕСПД	ЕСПД	ORG	ORG-Party-Order-and-Justice
+Евродепутатите	евродепутати	PER	ORG-European-Parlament
+Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+Жан-Клод Юнкер	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+Зелените	Зелените	ORG	ORG-Die-Grunen
+Кипър	Кипър	LOC	GPE-Cyprus
+Литва	Литва	LOC	GPE-Lithuania
+Манфред Вебер	Манфред Вебер	PER	PER-Manfred-Weber
+Мария Жуан Родригеш	Мария Жуан Родригеш	PER	PER-Maria-Juan-Rodriguez
+Марсел де Граф	Марсел де Граф	PER	PER-Marcel-de-Graaff
+Нидерландия	Нидерландия	LOC	GPE-Holland
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+Португалия	Португалия	LOC	GPE-Portugal
+Роландас Паксас	Роландас Паксас	PER	PER-Rolandas-Paksas
+Сайед Камал	Сайед Камал	PER	PER-Syed-Kamall
+Светослав Малинов	Светослав Малинов	PER	PER-Svetoslav-Malinov
+Ска Келер	Ска Келер	PER	PER-Ska-Keller
+София	София	LOC	GPE-Sofia
+Такис Хаджигеоргиу	Такис Хаджигеоргиу	PER	PER-Takis-Hadjigeorgiou
+българи	българи	PER	GPE-Bulgaria
+германци	германци	PER	GPE-Germany
+евродепутати	евродепутати	PER	ORG-European-Parlament
+евродепутатите	евродепутати	PER	ORG-European-Parlament
+еврозоната	Еврозона	LOC	LOC-Eurozone
+поляци	поляци	PER	GPE-Poland
+румънци	румънци	PER	GPE-Romania
+французи	французи	PER	GPE-France

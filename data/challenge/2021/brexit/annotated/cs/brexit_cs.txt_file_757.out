@@ -1,0 +1,12 @@
+cs-757
+BeLeave	BeLeave	ORG	ORG-BeLeave
+Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+Grimes	Grimes	PER	PER-Darren-Grimes
+Grimesem	Grimes	PER	PER-Darren-Grimes
+Sanni	Sanni	PER	PER-Shahmir-Sanni
+Sanniho	Sanni	PER	PER-Shahmir-Sanni
+Sannim	Sanni	PER	PER-Shahmir-Sanni
+Shanniho	Shanni	PER	PER-Shahmir-Sanni
+Vote Leave	Vote Leave	ORG	ORG-Vote-Leave
+brexit	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit

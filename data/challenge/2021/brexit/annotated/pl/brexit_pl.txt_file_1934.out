@@ -1,0 +1,23 @@
+pl-1934
+Banku Anglii	Bank Anglii	ORG	ORG-Bank-of-England
+BoE	BoE	ORG	ORG-Bank-of-England
+Brexitem	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+Carney	Carney	PER	PER-Mark-Carney
+Chin	Chiny	LOC	GPE-China
+Chiny	Chiny	LOC	GPE-China
+Chińską Republiką Ludową	Chińska Republika Ludowa	LOC	GPE-China
+Ebury	Ebury	ORG	ORG-Ebury
+G3	G3	ORG	ORG-G3
+Mark Carney	Mark Carney	PER	PER-Mark-Carney
+Matthew Ryan	Matthew Ryan	PER	PER-Matthew-Ryan
+Merkel	Merkel	PER	PER-Angela-Merkel
+Niemczech	Niemcy	LOC	GPE-Germany
+Stanach Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+Stanami Zjednoczonymi	Stany Zjednoczone	LOC	GPE-USA
+Strefa Biznesu	Strefa Biznesu	PRO	PRO-Strefa-Biznesu
+UE	UE	ORG	ORG-European-Union
+UK	UK	LOC	GPE-Great-Britain
+USA	USA	LOC	GPE-USA
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain

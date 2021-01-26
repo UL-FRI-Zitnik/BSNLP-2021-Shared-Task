@@ -1,0 +1,40 @@
+sl-103
+Angelo Merkel	Angela Merkel	PER	PER-Angela-Merkel
+Brexit	Brexit	EVT	EVT-Brexit
+Britance	Britanec	PER	GPE-Great-Britain
+Britancev	Britanec	PER	GPE-Great-Britain
+Britanci	Britanec	PER	GPE-Great-Britain
+Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+EU	EU	ORG	ORG-European-Union
+Emmanuelom Macronom	Emmanuel Macron	PER	PER-Emmanuel-Macron
+Evropske unije	Evropska unija	ORG	ORG-European-Union
+Evropski uniji	Evropska unija	ORG	ORG-European-Union
+Evropsko unijo	Evropska unija	ORG	ORG-European-Union
+Jean-Claude Junckerja	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+Juncker 	Juncker	PER	PER-Jean-Claude-Juncker
+Juncker	Juncker	PER	PER-Jean-Claude-Juncker
+Junckerjevih	Juncker	PER	PER-Jean-Claude-Juncker
+Marjan Šarec	Marjan Šarec	PER	PER-Marjan-Šarec
+May	May	PER	PER-Theresa-May
+Mayeva	May	PER	PER-Theresa-May
+Mayeve	May	PER	PER-Theresa-May
+Merklova	Merkel	PER	PER-Angela-Merkel
+Sebastian Kurz	Sebastian Kurz	PER	PER-Sebastian-Kurz
+Theresa May	Theresa May	PER	PER-Theresa-May
+Thereso May	Theresa May	PER	PER-Theresa-May
+Tuskova	Tusk	PER	PER-Donald-Tusk
+Unije	unija	ORG	ORG-European-Union
+Unijo	unija	ORG	ORG-European-Union
+Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+Veliko Britanijo	Velika Britanija	LOC	GPE-Great-Britain
+Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+brexit	brexit	EVT	EVT-Brexit
+brexita	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit
+britanskem parlamentu	britanski parlament	ORG	ORG-British-Parlament
+britanski parlament	britanski parlament	ORG	ORG-British-Parlament
+evropska komisija	evropska komisija	ORG	ORG-European-Commission
+evropskega sveta	evropski svet	ORG	ORG-European-Council
+noč čarovnic	noč čarovnic	EVT	EVT-Halloween
+Šarec	Šarec	PER	PER-Marjan-Šarec

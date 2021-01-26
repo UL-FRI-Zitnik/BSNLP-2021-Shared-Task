@@ -1,0 +1,15 @@
+bg-1857
+Brexit	Brexit	EVT	EVT-Brexit
+Reuters	Reuters	ORG	ORG-Reuters
+Брекзит	Брекзит	EVT	EVT-Brexit
+Брюксел	Брюксел	LOC	GPE-Brussles
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Германия	Германия	LOC	GPE-Germany
+ЕС	ЕС	ORG	ORG-European-Union
+Европейската икономическа зона	Европейска икономическа зона	ORG	ORG-EEA-European-Economic-Area
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+Мей	Мей	PER	PER-Theresa-May
+Обединеното кралство	Обединено кралство	LOC	GPE-Great-Britain
+Световната търговска организация	Световна търговска организация	ORG	ORG-WTO-World-Trade-Organization
+Тереза Май	Тереза Май	PER	PER-Theresa-May
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May

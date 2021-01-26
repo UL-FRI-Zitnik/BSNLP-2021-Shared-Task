@@ -1,0 +1,47 @@
+sl-62
+sl
+2019-03-13
+http://www.24ur.com/novice/znanost-in-tehnologija/tezave-letala-ki-je-prvic-poletelo-pred-vec-kot-50-leti.html
+Težave letala, ki je prvič poletelo pred več kot 50 leti
+
+Letalo boeing 737 MAX se zadnje dneve sooča s številnimi kritikami o varnosti. Že druga nesreča tega tipa letala v podobnih okoliščinah je sprožila debate in strah pred varnostjo, zaradi katerih so številne države po svetu letalo prizemljile.
+
+Do zdaj so naredili več kot 10.000 letal 737, varianta MAX je zgolj zadnja posodobitev ikoničnega letala, ki je spremenilo način potovanja in poslovne modele letalskih družb. Boeing je letala 737 poimenoval z različnimi serijskimi oznakami, začeli so s 100. Prvi 737 je bil označen z 737-100 in je poletel že davnega leta 1967. Po svetu je trenutno največ 737 serije Next Generation (oznake med 737-600 do 737-900), teh je bilo izdelanih več kot 6.800, kar predstavlja največji delež vseh izdelanih letal 737.
+
+Prvi 737 je poletel leta 1967.
+
+Boeing je s serijo MAX želel ustvariti podobno uspešno zgodbo in po številu naročil, ki jih je več kot 5000, jim je to uspelo, saj je prvo letalo poletelo šele leta 2016 in nabralo več naročil kot prejšnje različice v enakem obdobju. MAX variant bo, podobno kot v prejšnjih serijah, več – MAX-7, 8, 9, 200, ki so v osnovi ista varianta letala, le dolžina je drugačna, saj s podaljševanjem trupa letala vanj spravijo več sedežev. S tem Boeing lahko izpolnjuje želje različnih letalskih družb (MAX 200 je recimo naročil Ryanair). MAX 200 verzija predvsem ugaja nizkocenovnim družbam, ki bi rade na letalo spravile več potnikov in jim ugodje ni prioriteta.
+
+Boeing je z 737 želel ustvariti prodajno uspešnico, kar jim je tudi uspelo. Prodali so več kot 10.000 letal.
+
+Boeing je moral s 737 ponujati več kot s prešnjimi letali, saj je vstop Airbusa pošteno premešal karte pri letalskih proizvajalcih. Podjetje iz Seattla se je največjega konkurenta v prejšnjemu stoletju McDonnel Douglasa znebilo tako, da so ga prevzeli, a z Airbusom ni bilo tako enostavno. V 90. letih prejšnjega stoletja so Evropejci razbili ameriški monopol in danes, 50 let kasneje, je bitka med Airbusom in Boeingom zelo pomemben faktor pri prodaji letal. Airbusova letala so se ponašala z boljšo učinkovitostjo, manjšo težo in modernimi elektronskimi komponentami, kar je prisililo Boeing, da so pospešili razvoj novih in boljših letal.
+
+737-800 je bil odgovor na zelo uspešno letalo Airbus A320, ki se je dobro prijelo pri naročnikih in je v zadnjih letih tudi bolj uspešno po število prodanih in dobavljenih letal. Airbus je v novem tisočletju naredil varianto Neo, ki je bila boljša od 737 Next Generation, zato so Američani morali trgu ponuditi boljšo varianto uspešnega 737 – ponudili so varianto MAX. Razlika med A320 Neo in 737 MAX je že v osnovi – A320 je poletel v zrak 20 let kasneje in je nastal s pomočjo računalniških modelov in testiranj, medtem ko je 737 nastal še na "star način", z risanjem in testiranjem v vetrovnih tunelih.
+
+737-800 je najbolj prodajano letalo, ki ga izdeluje Boeing. Zdaj stavijo na 737 MAX.
+
+Da bi MAX lahko ostal konkurenčen novim variantam modernih A320, so morali spremeniti številne lastnosti te 50 let stare platforme. Še vedno je bilo cenejše posodobiti staro platformo, kot pa izdelati popolnoma novo letalo. Da bi lahko sledili uspehom Airbusa, so morali spremeniti motorje, za vsak del odstotka izboljšati aerodinamični profil, saj so še vedno delali na stari platformi. Novi motorji so bili večji kot pri prejšnjih variantah (boljše visokoobtočno razmerje, ki izboljša učinkovitost), kar je tudi spremenilo lastnosti letala, ki je bilo oblikovano okrog manjših motorjev. Letala so vedno narejena okrog ravnotežne točke, ki omogoča stabilen in varčen let. Če bi bilo več teže za točko ravnotežja, bi se letalo želelo nagibati proti nebu in obratno, če je težišče pomaknjeno naprej.
+
+MAX je bil ustvarjen kot naslednik 737-800 in konkurent letalom A320neo.
+
+Novi dizajn je težišče rahlo premaknil nazaj, tudi zaradi večjih motorjev, zato je Boeing razvil sistem MCAS, ki s pomočjo sistema za trimanje letala, v primeru če bi se nos preveč usmeril navzgor (kar se je pogosto dogajalo pri vzletu), spremeni aerodinamični odklon višinskega krmila (naprej), kar bi pilotu pomagalo pri preprečevanju prevlečenega leta. Ta sistem je bil osumljen kot krivec za padec letala Lion Air, saj naj bi, zaradi napake v senzorjih (angle of attack – AoA senzorjih) letalo 'mislilo', da je v prevlečenem letu , oziroma je nos previsoko. Sistem, ki bi moral pomagati, je bil takrat najverjenteje krivec za nesrečo letala, saj sta pilota bila prenizko, da bi lahko popravila napako in preprečila tragedijo.
+
+Na variante MAX so morali vgraditi večje motorje, da bi dobili boljši izkoristek.
+
+Boeing ni sporočil, da nov sistem obstaja
+
+Piloti naj bi ta sistem z drugim stikalom lahko izključili, a se to očitno pri ponesrečenem letalu v Indoneziji ni zgodilo. Preiskovalci še niso končali preiskave lanske nesreče boeinga 737 MAX-8, so pa na Lion Air priznali , da je isto letalo še pred usodnim letom imelo težave s senzorji in da je bil senzor, ki nadzoruje vpadni kot (angle of attack – AOA), zamenjan. Tudi ameriška agencija, ki preiskuje letalske nesreče, sumi programsko pomanjkljivost v tem sistemu.
+
+Boeing je v poročilu glede težave s sistemom za preprečevanje prevlečenega leta napisal, da "je sistem tako agresiven, da lahko povzroči praktično vertikalni padec letala oziroma nesrečo. To se lahko zgodi tudi, če piloti letijo manualno in ne pričakujejo, da se bo sistem nenadoma vklopil."
+
+Letalske družbe so naročile več kot 5.000 letal MAX, dobavljenih pa je bilo že več kot 350.
+
+V primeru nesreče Lion Air je letalo samo trimalo naprej, ker je mislilo, da se približujejo oziroma so že v prevlečenem letu. Pilot se v tem primeru spopada z vse večjim pritiskom krmila, da lahko zadržuje želeni vpadni kot. V določenem trenutku se lahko zgodi, da postane pritisk prevelik in letalo je v tem primeru, zaradi trim sistema, nastavljeno tako, kot da bi pilot krmilo potisnil agresivno naprej. Boeing je pozneje izdal opozorilo vsem uporabnikom 737 MAX, v katerem je opozarjal na to programsko pomanjkljivost.
+
+Boeing se sooča s številnimi prizemljitvami
+
+Boeing je po nesreči Lion Air izdal obvestilo vsem pilotom 737 glede sistema MCAS in tudi v primeru padca MAX-a v Etiopiji naj bi pilota vedela za morebitno težavo s sistemom in kako se pravilno odzvati, če do težave pride. Tudi ameriška Zvezna uprava za letalski promet je priznala, da obstajajo podobnosti med nesrečama Lion Air in Ethiopian Airlines, a da bi bilo preuranjeno trditi, da je šlo za iste težave. Preiskovalci preiskujejo nesrečo in dokler ne bodo preučili vzrokov, je vzrok za tragedijo nemogoče potrditi. Zaradi namigovanj in podobnosti nesreče je logično, da so pod pritiskom javnosti številne države prizemljile floto maxov.
+
+Zaradi že druge nesreče MAX-a so jih številne države po svetu prizemljile.
+
+Medtem, ko se po svetu vrstijo številne prepovedi in prizemljitve letal MAX, se to v Zda (še) ni zgodilo. Letalske družbe čez Atlantik bi rade počakale na izsledke preiskave, preden se bodo odločile za nadaljnje ukrepe in trdijo, da "zaupajo v varnost svojih flot." Politični pritiski v ZDA postajajo vse močnejši in verjetno je samo še vprašanje časa, preden bodo MAX-i prizemljeni tudi na njihovih tleh.

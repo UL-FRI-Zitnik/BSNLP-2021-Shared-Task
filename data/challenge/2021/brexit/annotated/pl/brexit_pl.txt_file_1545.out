@@ -1,0 +1,48 @@
+pl-1545
+Banku Anglii	Bank Anglii	ORG	ORG-Bank-of-England
+Barnier	Barnier	PER	PER-Michel-Barnier
+Borisa Johnsona	Boris Johnson	PER	PER-Boris-Johnson
+Brexit	Brexit	EVT	EVT-Brexit
+Bruksela	Bruksela	LOC	GPE-Brussles
+Brukseli	Bruksela	LOC	GPE-Brussles
+Brukselą	Bruksela	LOC	GPE-Brussles
+CER	CER	ORG	ORG-Centre-For-European-Reform
+Carney	Carney	PER	PER-Mark-Carney
+Center for European Reform	Center for European Reform	ORG	ORG-Centre-For-European-Reform
+Europy	Europa	LOC	LOC-Europe
+Europą	Europa	LOC	LOC-Europe
+Eurostat	Eurostat	ORG	ORG-Eurostat
+Financial Times	Financial Times	PRO	PRO-Financial-Times
+Ian Bond	Ian Bond	PER	PER-Ian-Bond
+Irlandczyk	Irlandczyk	PER	GPE-Ireland
+Irlandii Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+Jacob Rees-Mogg	Jacob Rees-Mogg	PER	PER-Jacob-Rees-Mogg
+Johnsona	Johnson	PER	PER-Boris-Johnson
+Leo Varadkara	Leo Varadkar	PER	PER-Leo-Varadkar
+Londyn	Londyn	LOC	GPE-London
+Londynem	Londyn	LOC	GPE-London
+Mark Carney	Mark Carney	PER	PER-Mark-Carney
+May	May	PER	PER-Theresa-May
+Michael O'Leary	Michael OLeary	PER	PER-Michael-O'Leary
+Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+Philip Hammond	Philip Hammond	PER	PER-Philip-Hammond
+Polski	Polska	LOC	GPE-Poland
+Republiką Irlandii	Republika Irlandii	LOC	GPE-Ireland
+Ryanair	Ryanair	ORG	ORG-Ryanair
+Rz	Rz	PRO	PRO-Rzeczpospolita
+Theresa May	Theresa May	PER	PER-Theresa-May
+UE	UE	ORG	ORG-European-Union
+Unia	Unia	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Unią	Unia	ORG	ORG-European-Union
+Unię	Unia	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnotą	Wspólnota	ORG	ORG-European-Union
+Zielonej Wyspie	Zielona Wyspa	LOC	GPE-Ireland
+Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+brexitu	Brexit	EVT	EVT-Brexit
+torysami	torysi	PER	ORG-Tories
+torysów	torysi	PER	ORG-Tories

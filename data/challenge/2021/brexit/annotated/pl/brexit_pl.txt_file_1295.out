@@ -1,0 +1,30 @@
+pl-1295
+Birkenstock	Birkenstock	ORG	ORG-Birkenstock
+Borbet	Borbet	ORG	ORG-Borbet
+Budziszyn	Budziszyn	LOC	GPE-Bautzen
+Deutsche Welle	Deutsche Welle	PRO	PRO-Deutsche-Welle
+Drezno	Drezno	LOC	GPE-Dresden
+Dreźnie	Drezno	LOC	GPE-Dresden
+Goerlitz	Goerlitz	LOC	GPE-Goerlitz
+Instytutu Goethego	Instytut Goethego	ORG	ORG-Goethe-Institut
+Katowic	Katowice	LOC	GPE-Katowice
+Kodersdorfu	Kodersdorf	LOC	GPE-Kodersdorf
+Loebau	Loebau	LOC	GPE-Löbau
+Maja-Moebel	Maja-Moebel	ORG	ORG-Maja-Moebel
+Marion Seifert	Marion Seifert	PER	PER-Marion-Seifert
+Niemcy	Niemcy	LOC	GPE-Germany
+Odry	Odra	LOC	LOC-Oder
+Odrą	Odra	LOC	LOC-Oder
+Polacy	Polacy	PER	GPE-Poland
+Polaków	Polacy	PER	GPE-Poland
+Polsce	Polska	LOC	GPE-Poland
+Polski	Polska	LOC	GPE-Poland
+Saksonii	Saksonia	LOC	GPE-Saxony
+Saksońskiego Urzędu Pracy	Saksoński Urząd Pracy	ORG	ORG-Labour-Office-Saxony
+ULT AG	ULT AG	ORG	ORG-ULT-AG
+Ukrainy	Ukraina	LOC	GPE-Ukraine
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wittchenau	Wittchenau	LOC	GPE-Wittichenau
+Zgorzelca	Zgorzelec	LOC	GPE-Goerlitz
+brexicie	Brexit	EVT	EVT-Brexit
+brexit	Brexit	EVT	EVT-Brexit

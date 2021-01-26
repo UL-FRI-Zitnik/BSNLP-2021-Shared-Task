@@ -1,0 +1,16 @@
+pl-1762
+Brexit	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+David Jones	David Jones	PER	PER-David-Jones
+Europy	Europa	LOC	LOC-Europe
+Polacy	Polacy	PER	GPE-Poland
+Polskę	Polska	LOC	GPE-Poland
+Rumuni	Rumunia	LOC	GPE-Romania
+Theresy May	Theresa May	PER	PER-Theresa-May
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnoty	Wspólnota	ORG	ORG-European-Union
+Wysp	Wyspy	LOC	GPE-Great-Britain

@@ -1,0 +1,32 @@
+sl-118
+Angliji	Anglija	LOC	GPE-England
+Brexit	Brexit	ORG	ORG-Brexit-Party
+Brexita	Brexit	ORG	ORG-Brexit-Party
+Cleverly	Cleverly	PER	PER-James-Cleverly
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Downing Street	Downing Street	LOC	LOC-Downing-Street
+EU	EU	ORG	ORG-European-Union
+Farage	Farage	PER	PER-Nigel-Farage
+Faragea	Farage	PER	PER-Nigel-Farage
+Farageova	Farage	PER	PER-Nigel-Farage
+James Cleverly	James Cleverly	PER	PER-James-Cleverly
+Jeremy Corbyn	Jeremy Corbyn	PER	PER-Jeremy-Corbyn
+Johnson	Johnson	PER	PER-Boris-Johnson
+Johnsona	Johnson	PER	PER-Boris-Johnson
+Johnsonom	Johnson	PER	PER-Boris-Johnson
+Therese May	Theresa May	PER	PER-Theresa-May
+Walesu	Wales	LOC	GPE-Wales
+Yougov	Yougov	ORG	ORG-YouGov
+brexit	brexit	EVT	EVT-Brexit
+brexita	brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit
+britanski parlament	britanski parlament	ORG	ORG-British-Parlament
+konservativcem	konservativci	PER	ORG-Conservative-and-Unionist-Party-UK
+konservativne stranke	konservativna stranka	ORG	ORG-Conservative-and-Unionist-Party-UK
+laburiste	laburisti	PER	ORG-Labour-Party-UK
+laburisti	laburist	PER	ORG-Labour-Party-UK
+liberalni demokrati	liberalni demokrati	PER	ORG-Sozialdemokratische-Partei-Deutschlands
+zeleni	zeleni	PER	ORG-UK-Green-Party
+Škotska nacionalna stranka	Škotska nacionalna stranka	ORG	ORG-Scottish-National-Party
+Škotskem	Škotska	LOC	GPE-Scotland

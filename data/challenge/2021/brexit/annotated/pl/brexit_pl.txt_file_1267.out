@@ -1,0 +1,57 @@
+pl-1267
+27	27	ORG	ORG-European-Union
+Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+Czaputowicz	Czaputowicz	PER	PER-Jacek-Czaputowicz
+Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+Estonii	Estonia	LOC	GPE-Estonia
+GRU	GRU	ORG	ORG-GRU-(Russian-GU)
+Grupy Wyszehradzkiej	Grupa Wyszehradzka	ORG	ORG-Visegrád-Group
+Głównego Zarządu Wywiadowczego	Główny Zarząd Wywiadowczy	ORG	ORG-GRU-(Russian-GU)
+Irlandii	Irlandia	LOC	GPE-Ireland
+Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+Irlandią	Irlandia	LOC	GPE-Ireland
+Jacek Czaputowicz	Jacek Czaputowicz	PER	PER-Jacek-Czaputowicz
+Jean-Claude'em Junckerem	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+Junckerem	Juncker	PER	PER-Jean-Claude-Juncker
+KE	KE	ORG	ORG-European-Commission
+Kancelarii Prezesa Rady Ministrów	Kancelaria Prezesa Rady Ministrów	ORG	ORG-Office-of-the-Prime-Minister-Poland
+Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+Komisji	Komisja	ORG	ORG-European-Commission
+Komisją	Komisja	ORG	ORG-European-Commission
+Konrad Szymański	Konrad Szymański	PER	PER-Konrad-Szymański
+Litwy	Litwa	LOC	GPE-Lithuania
+MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+Mateusz Morawiecki	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+Mateusza Morawieckiego	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+Merkel	Merkel	PER	PER-Angela-Merkel
+Morawiecki	Morawiecki	PER	PER-Mateusz-Morawiecki
+Morawieckiego	Morawiecki	PER	PER-Mateusz-Morawiecki
+NATO	NATO	ORG	ORG-NATO
+Niemiec	Niemcy	LOC	GPE-Germany
+Polsce	Polska	LOC	GPE-Poland
+Polska Agencja Prasowa	Polska Agencja Prasowa	ORG	ORG-PAP-Polish-Press-Agency
+Polski	Polska	LOC	GPE-Poland
+Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+Rady	Rada	ORG	ORG-European-Council
+Rosja	Rosja	LOC	GPE-Russia
+Rosję	Rosja	LOC	GPE-Russia
+Salisbury	Salisbury	LOC	GPE-Salisbury
+Siergieja Skripala	Siergiej Skripal	PER	PER-Siergiej-Skripal
+Skripala	Skripal	PER	PER-Siergiej-Skripal
+Sojusz Europejskich Konserwatystów i Reformatorów	Sojusz Europejskich Konserwatystów i Reformatorów	ORG	ORG-AECR-Alliance-of-European-Conservatives-and-Reformists
+Stefanem Loefvenem	Stefan Loefven	PER	PER-Stefan-Loefven
+Szwecji	Szwecja	LOC	GPE-Sweden
+Szymański	Szymański	PER	PER-Konrad-Szymański
+The Brussels Summit: A Future for Europe	The Brussels Summit: A Future for Europe	EVT	EVT-The-Brussels-Summit-A-Future-for-Europe
+Trybunału Sprawiedliwości Unii Europejskiej	Trybunał Sprawiedliwości Unii Europejskiej	ORG	ORG-European-Court-of-Justice
+UE	UE	ORG	ORG-European-Union
+USA	USA	LOC	GPE-USA
+Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Warszawie	Warszawa	LOC	GPE-Warsaw
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+brexicie	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit
+Łotwy	Łotwa	LOC	GPE-Latvia

@@ -1,0 +1,13 @@
+cs-264
+BBC	BBC	PRO	PRO-BBC
+Barclays	Barclays	ORG	ORG-Barclays
+Británie	Británie	LOC	GPE-Great-Britain
+Deutsche Bank	Deutsche Bank	ORG	ORG-Deutsche-Bank
+Downing Street	Downing Street	LOC	LOC-Downing-Street
+EU	EU	ORG	ORG-European-Union
+Goldman Sachs	Goldman Sachs	ORG	ORG-Goldman-Sachs
+HSBC	HSBC	ORG	ORG-HSBC
+Mayová	Mayová	PER	PER-Theresa-May
+Philipem Hammondem	Philip Hammond	PER	PER-Philip-Hammond
+brexit	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit

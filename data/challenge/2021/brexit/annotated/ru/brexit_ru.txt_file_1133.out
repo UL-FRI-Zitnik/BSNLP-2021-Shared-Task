@@ -1,0 +1,27 @@
+ru-1133
+Brexit	Brexit	EVT	EVT-Brexit
+Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+Британии	Британия	LOC	GPE-Great-Britain
+Британия	Британия	LOC	GPE-Great-Britain
+Великобританией	Великобритания	LOC	GPE-Great-Britain
+Великобритании	Великобритания	LOC	GPE-Great-Britain
+Владимира Путина	Владимир Путин	PER	PER-Vladimir-Putin
+Джонсон	Джонсон	PER	PER-Boris-Johnson
+Джонсона	Джонсон	PER	PER-Boris-Johnson
+Дмитрий Песков	Дмитрий Песков	PER	PER-Dmitry-Peskov
+ЕС	ЕС	ORG	ORG-European-Union
+Евросоюза	Евросоюз	ORG	ORG-European-Union
+Кремле	Кремль	LOC	LOC-Moscow-Kremlin
+Лондона	Лондон	LOC	GPE-London
+МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+Мария Захарова	Мария Захарова	PER	PER-Maria-Zaharova
+Мэй	Мэй	PER	PER-Theresa-May
+Песков	Песков	PER	PER-Dmitry-Peskov
+Пескова	Песков	PER	PER-Dmitry-Peskov
+РБК	РБК	ORG	ORG-RBK-Group
+Россией	Россия	LOC	GPE-Russia
+России	Россия	LOC	GPE-Russia
+Солсбери	Солсбери	LOC	GPE-Salisbury
+Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+российского МИДа	российский МИД	ORG	ORG-Ministry-of-Foreign-Affairs-Russia
+российском МИДе	российский МИД	ORG	ORG-Ministry-of-Foreign-Affairs-Russia

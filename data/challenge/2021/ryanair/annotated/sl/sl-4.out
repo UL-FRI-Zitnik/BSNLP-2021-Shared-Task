@@ -1,0 +1,13 @@
+sl-4
+Amazon	Amazon	ORG	ORG-Amazon
+Fed	Fed	ORG	ORG-Fed
+Fedovem	Fed	ORG	ORG-Fed
+Italiji	Italija	LOC	GPE-Italy
+Kitajskem	Kitajska	LOC	GPE-China
+Nasdaq	Nasdaq	ORG	ORG-Nasdaq-trading-exchange
+Powellov	Powell	PER	PER-Jerome-Powell
+Ryanair	Ryanair	ORG	ORG-Ryanair
+S&P	S&P	PRO	PRO-S&P-500-Index
+Valeo	Valeo	ORG	ORG-Valeo
+ZDA	ZDA	LOC	GPE-USA
+orkan Florence	orkan Florence	EVT	EVT-Hurricane-Florence

@@ -1,0 +1,14 @@
+pl-360
+BoE	BoE	ORG	ORG-Bank-of-England
+Brexit	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+Bruksela	Bruksela	LOC	GPE-Brussles
+FOMC	FOMC	ORG	ORG-FOMC
+Fed	Fed	ORG	ORG-Fed
+Izba Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+May	May	PER	PER-Theresa-May
+Theresa May	Theresa May	PER	PER-Theresa-May
+Torysów	torysi	PER	ORG-Tories
+UE	UE	ORG	ORG-European-Union
+USA	USA	LOC	GPE-USA
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain

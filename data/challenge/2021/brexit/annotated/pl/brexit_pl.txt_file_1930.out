@@ -1,0 +1,12 @@
+pl-1930
+BOE	BOE	ORG	ORG-Bank-of-England
+Bank Anglii	Bank Anglii	ORG	ORG-Bank-of-England
+Brexit	Brexit	EVT	EVT-Brexit
+Brexitem	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+Irlandii	Irlandia	LOC	GPE-Ireland
+May	May	PER	PER-Theresa-May
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Unią	Unia	ORG	ORG-European-Union
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain

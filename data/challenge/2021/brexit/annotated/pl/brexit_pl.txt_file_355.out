@@ -1,0 +1,12 @@
+pl-355
+GPS	GPS	PRO	PRO-GPS
+Galileo	Galileo	PRO	PRO-Galileo-satellite-navigation
+Global Positioning System	Global Positioning System	PRO	PRO-GPS
+Greg Clark	Greg Clark	PER	PER-Greg-Clark
+Reuters	Reuters	ORG	ORG-Reuters
+The Financial Times	The Financial Times	PRO	PRO-Financial-Times
+Unię Europejską	Unia Europejska	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+brexitem	Brexit	EVT	EVT-Brexit

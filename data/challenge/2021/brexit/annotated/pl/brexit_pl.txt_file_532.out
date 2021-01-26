@@ -1,0 +1,20 @@
+pl-532
+Brexicie	Brexit	EVT	EVT-Brexit
+Dania	Dania	LOC	GPE-Denmark
+Europoseł	Europoseł	PER	ORG-European-Parlament
+Francuzi	Francuzi	PER	GPE-France
+Guenther Oettinger	Guenther Oettinger	PER	PER-Guenther-Oettinger
+Katowicach	Katowice	LOC	GPE-Katowice
+Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+Niemcy	Niemcy	PER	GPE-Germany
+Olbrycht	Olbrycht	PER	PER-Jan-Olbrycht
+PE	PE	ORG	ORG-European-Parliament
+Parlament Europejski	Parlament Europejski	ORG	ORG-European-Parliament
+UE	UE	ORG	ORG-European-Union
+Unia	Unia	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnoty	Wspólnota	ORG	ORG-European-Union
+brexicie	Brexit	EVT	EVT-Brexit
+brexitem	Brexit	EVT	EVT-Brexit

@@ -1,0 +1,22 @@
+pl-343
+Berlina	Berlin	LOC	GPE-Berlin
+Brexit	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+Brytyjczykom	Brytyjczycy	PER	GPE-Great-Britain
+Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+Europa	Europa	LOC	LOC-Europe
+Europą	Europa	LOC	LOC-Europe
+Hammond	Hammond	PER	PER-Philip-Hammond
+Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+Londyn	Londyn	LOC	GPE-London
+Niemcy	Niemcy	LOC	GPE-Germany
+Niemiec	Niemcy	LOC	GPE-Germany
+Philip Hammond	Philip Hammond	PER	PER-Philip-Hammond
+UE	UE	ORG	ORG-European-Union
+USA	USA	LOC	GPE-USA
+Welt am Sonntag	Welt am Sonntag	PRO	PRO-Welt-am-Sonntag
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+Wlk. Brytania	Wlk. Brytania	LOC	GPE-Great-Britain
+Wspólnoty	Wspólnota	ORG	ORG-European-Union

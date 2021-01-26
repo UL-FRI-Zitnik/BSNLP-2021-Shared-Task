@@ -1,0 +1,21 @@
+ua-1011
+Brexit	Brexit	EVT	EVT-Brexit
+LBC	LBC	ORG	ORG-LBC
+ЄС	ЄС	LOC	ORG-European-Union
+Європейським судом	Європейський суд	ORG	ORG-European-Court-of-Justice
+Європейського суду	Європейський суд	ORG	ORG-European-Court-of-Justice
+Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+Британія	Британія	LOC	GPE-Great-Britain
+Британії	Британія	LOC	GPE-Great-Britain
+Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+Велику Британію	Велика Британія	LOC	GPE-Great-Britain
+Домінік Рааб	Домінік Рааб	PER	PER-Dominic-Raab
+Естер Маквей	Естер Маквей	PER	PER-Ester-Makvi
+Лондон	Лондон	LOC	GPE-London
+МЗС	МЗС	ORG	ORG-Foreign-Office
+Мей	Мей	PER	PER-Theresa-May
+Мінфін Британії	Мінфін Британії	ORG	ORG-Ministry-of-Finance-UK
+Північної Ірландії	Північна Ірландія	LOC	GPE-Northern-Ireland
+Раніл Джаявардена	Раніл Джаяварден	PER	PER-Ranil-Dzhayavardena
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Шейлеш Вара	Шейлеш Вара	PER	PER-Shailesh-Vara

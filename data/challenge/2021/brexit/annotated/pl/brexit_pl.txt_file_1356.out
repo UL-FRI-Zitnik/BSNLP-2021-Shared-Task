@@ -1,0 +1,10 @@
+pl-1356
+Brexit	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+Brukselą	Bruksela	LOC	GPE-Brussles
+Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+ITV	ITV	PRO	PRO-ITV
+Londynu	Londyn	LOC	GPE-London
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+brexodusu	Brexodus	EVT	EVT-Brexit

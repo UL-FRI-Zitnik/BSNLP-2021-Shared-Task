@@ -1,0 +1,22 @@
+pl-140
+Brexit	Brexit	EVT	EVT-Brexit
+Jerzy Kwieciński	Jerzy Kwieciński	PER	PER-Jerzy-Kwieciński
+KE	KE	ORG	ORG-European-Commission
+Kwiecińskiego	Kwieciński	PER	PER-Jerzy-Kwieciński
+Lubuskie	Lubuskie	LOC	GPE-Poland-Lubusz-Voivodeship
+Opolskie	Opolskie	LOC	GPE-Poland-Opole-Voivodeship
+PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+Podkarpacie	Podkarpacie	LOC	GPE-Poland-Subcarpathia-Voivodeship
+Polska	Polska	LOC	GPE-Poland
+Polski	Polska	LOC	GPE-Poland
+Pomorze	Pomorze	LOC	GPE-Poland-Pomerania-Voivodeship
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkopolska	Wielkopolska	LOC	GPE-Poland-Greater-Poland-Voivodeship
+brexitu	Brexit	EVT	EVT-Brexit
+kujawsko-pomorskie	kujawsko-pomorskie	LOC	GPE-Poland-Kuyavian-Pomeranian-Voivodeship
+lubelskie	lubelskie	LOC	GPE-Poland-Lublin-Voivodeship
+podlaskie	podlaskie	LOC	GPE-Poland-Podlaskie-Voivodeship
+warmińsko-mazurskie	warmińsko-mazurskie	LOC	GPE-Poland-Warmian-Masurian-Voivodeship
+wspólną politykę rolną	Wspólna polityka rolna	PRO	PRO-CAP-Common-Agricultural-Policy
+świętokrzyskie	świętokrzyskie	LOC	GPE-Poland-Świętokrzyskie-Voivodeship

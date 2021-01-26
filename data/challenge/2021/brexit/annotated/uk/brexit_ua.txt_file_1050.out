@@ -1,0 +1,27 @@
+ua-1050
+BBC	BBC	ORG	ORG-BBC-Ltd
+Brexit	Brexit	EVT	EVT-Brexit
+Reuters	Reuters	ORG	ORG-Reuters
+ЄС	ЄС	LOC	ORG-European-Union
+Єврокомісії	Єврокомісія	ORG	ORG-European-Commission
+Європейської Комісії	Європейська Комісія	ORG	ORG-European-Commission
+Євросоюз	Євросоюз	ORG	ORG-European-Union
+Євросоюзу	Євросоюз	LOC	ORG-European-Union
+Брюссель	Брюссель	LOC	GPE-Brussles
+Брюсселя	Брюссель	LOC	GPE-Brussles
+Брюсселі	Брюссель	LOC	GPE-Brussles
+Валдіс Домбровскіс	Валдіс Домбровскіс	PER	PER-Valdis-Dombrovskis
+Великобританією	Великобританія	LOC	GPE-Great-Britain
+Великобританії	Великобританія	LOC	GPE-Great-Britain
+Гібралтару	Гібралтар	LOC	GPE-Gibraltar
+Жан-Клодом Юнкером	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+Жана-Клода Юнкера	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+Жаном-Клодом Юнкером	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+Мей	Мей	PER	PER-Theresa-May
+Сполученого Королівства	Сполучене Королівство	LOC	GPE-Great-Britain
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Терези Мей	Тереза Мей	PER	PER-Theresa-May
+Терезі Мей	Тереза Мей	PER	PER-Theresa-May
+Юнкером	Юнкер	PER	PER-Jean-Claude-Juncker
+саміту ЄС	саміт ЄС	EVT	EVT-EU-summit
+саміті ЄС	саміт ЄС	EVT	EVT-EU-summit

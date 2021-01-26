@@ -1,0 +1,48 @@
+sl-62
+100	100	PRO	PRO-Boeing-737-100
+200	200	PRO	PRO-Boeing-MAX-200
+737 MAX	737 MAX	PRO	PRO-Boeing-737-Max
+737 Next Generation	737 Next Generation	PRO	PRO-Boeing-737-New-Generation
+737 serije Next Generation	737 serija Next Generation	PRO	PRO-Boeing-737-New-Generation
+737-100	737-100	PRO	PRO-Boeing-737-100
+737-600	737-600	PRO	PRO-Boeing-737-600
+737-800	737-800	PRO	PRO-Boeing-737-800
+737-900	737-900	PRO	PRO-Boeing-737-900
+737	737	PRO	PRO-Boeing-737
+8	8	PRO	PRO-Boeing-MAX-8
+9	9	PRO	PRO-Boeing-MAX-9
+A320 Neo	A320 Neo	PRO	PRO-Airbus-A320-Neo
+A320	A320	PRO	PRO-Airbus-A320
+A320neo	A320neo	PRO	PRO-Airbus-A320-Neo
+Airbus A320	Airbus A320	PRO	PRO-Airbus-A320
+Airbus	Airbus	ORG	ORG-Airbus-SE
+Airbusa	Airbus	ORG	ORG-Airbus-SE
+Airbusom	Airbus	ORG	ORG-Airbus-SE
+Airbusova	Airbus	ORG	ORG-Airbus-SE
+Američani	Američani	PER	GPE-USA
+Atlantik	Atlantik	LOC	LOC-Atlantic-Ocean
+Boeing	Boeing	ORG	ORG-Boeing
+Boeingom	Boeing	ORG	ORG-Boeing
+Ethiopian Airlines	Ethiopian Airlines	ORG	ORG-Ethiopian-Airlines
+Etiopiji	Etiopija	LOC	GPE-Ethiopia
+Evropejci	Evropejci	PER	LOC-Europe
+Lion Air	Lion Air	ORG	ORG-Lion-Air
+MAX 200	MAX 200	PRO	PRO-Boeing-MAX-200
+MAX-7	MAX-7	PRO	PRO-Boeing-MAX-7
+MAX-a	MAX	PRO	PRO-Boeing-MAX
+MAX-i	MAX	PRO	PRO-Boeing-MAX
+MAX	MAX	PRO	PRO-Boeing-MAX
+MCAS	MCAS	PRO	PRO-Boeing-MCAS-Maneuvering-Characteristics-Augmentation-System
+McDonnel Douglasa	McDonnel Douglas	ORG	ORG-McDonnel-Douglas
+Neo	Neo	PRO	PRO-Airbus-Neo
+Ryanair	Ryanair	ORG	ORG-Ryanair
+Seattla	Seattle	LOC	LOC-Seattle
+ZDA	ZDA	LOC	GPE-USA
+Zda	ZDA	LOC	GPE-USA
+ameriška Zvezna uprava za letalski promet	ameriška Zvezna uprava za letalski promet	ORG	ORG-FAA-Federal-Aviation-Administration
+angle of attack – AOA	angle of attack – AOA	PRO	PRO-Boeing-AoA-Angle-of-Attack
+angle of attack – AoA senzorjih	angle of attack – AoA senzorji	PRO	PRO-Boeing-AoA-Angle-of-Attack
+boeing 737 MAX	boeing 737 MAX	PRO	PRO-Boeing-737-Max
+boeinga 737 MAX-8	boeing 737 MAX-8	PRO	PRO-Boeing-737-Max-8
+letal 737	letala 737	PRO	PRO-Boeing-737
+letala 737	letala 737	PRO	PRO-Boeing-737

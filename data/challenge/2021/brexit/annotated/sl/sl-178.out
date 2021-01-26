@@ -1,0 +1,35 @@
+sl-178
+Anglija	Anglija	LOC	GPE-England
+Brexit	Brexit	EVT	EVT-Brexit
+Britanci	Britanec	PER	GPE-Great-Britain
+Bruselj	Bruselj	LOC	GPE-Brussles
+Charles de Gaulle	Charles de Gaulle	PER	PER-Charles-de-Gaulle
+Doverja	Dover	LOC	GPE-Dover
+Downing Streeta	Downing Street	LOC	LOC-Downing-Street
+EGS	EGS	ORG	ORG-EEC-European-Economic-Community
+EU	EU	ORG	ORG-European-Union
+Evropo	Evropa	LOC	LOC-Europe
+Evropske unije	Evropska unija	ORG	ORG-European-Union
+Evropsko unijo	Evropska unija	ORG	ORG-European-Union
+Honda	Honda	ORG	ORG-Honda
+Jaguar Land Rover	Jaguar Land Rover	ORG	ORG-Jaguar-Land-Rover
+Jaguarju Land Roverju	Jaguar Land Rover	ORG	ORG-Jaguar-Land-Rover
+London	London	LOC	GPE-London
+Miniju	Mini	ORG	ORG-Mini-car-company
+Nissan	Nissan	ORG	ORG-Nissan
+Otoku	otok	LOC	GPE-Great-Britain
+Severna Irska	Severna Irska	LOC	GPE-Northern-Ireland
+Sunderland	Sunderland	LOC	GPE-Sunderland
+Svetovne trgovinske organizacije	Svetovna trgovinska organizacija	ORG	ORG-WTO-World-Trade-Organization
+Swindonu	Swindon	LOC	GPE-Swindon
+Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+Veliki Britaniji	Velika Britanija	LOC	GPE-Great-Britain
+Veliko Britanijo	Velika Britanija	LOC	GPE-Great-Britain
+WTO	WTO	ORG	ORG-WTO-World-Trade-Organization
+Wales	Wales	LOC	GPE-Wales
+Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+brexit	brexit	EVT	EVT-Brexit
+brexita	brexit	EVT	EVT-Brexit
+x-trail	x-trail	PRO	PRO-Nissan-x-trail
+Škotska	Škotska	LOC	GPE-Scotland

@@ -1,0 +1,34 @@
+pl-515
+ UE	UE	ORG	ORG-European-Union
+AP	AP	ORG	ORG-AP-The-Associated-Press
+Brexitem	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+Brukseli	Bruksela	LOC	GPE-Brussles
+Brukselą	Bruksela	LOC	GPE-Brussles
+Drew Hinshaw	Drew Hinshaw	PER	PER-Drew-Hinshaw
+Guenther Oettinger	Guenther Oettinger	PER	PER-Guenther-Oettinger
+Juncker	Juncker	PER	PER-Jean-Claude-Juncker
+Junckerem	Juncker	PER	PER-Jean-Claude-Juncker
+KE	KE	ORG	ORG-European-Commission
+Laurence Norman	Laurence Norman	PER	PER-Laurence-Norman
+Morawiecki	Morawiecki	PER	PER-Mateusz-Morawiecki
+Morawieckiego	Morawiecki	PER	PER-Mateusz-Morawiecki
+Polacy	Polacy	PER	GPE-Poland
+Polska	Polska	LOC	GPE-Poland
+Polski	Polska	LOC	GPE-Poland
+Polskę	Polska	LOC	GPE-Poland
+Reutera	Reuter	ORG	ORG-Reuters
+Reuters	Reuters	ORG	ORG-Reuters
+UE	UE	ORG	ORG-European-Union
+Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+WSJ	WSJ	PRO	PRO-Wall-Street-Journal
+Wall Street Journal	Wall Street Journal	PRO	PRO-Wall-Street-Journal
+Warszawie	Warszawa	LOC	GPE-Warsaw
+Warszawy	Warszawa	LOC	GPE-Warsaw
+Warszawę	Warszawa	LOC	GPE-Warsaw
+Washington Post	Washington Post	PRO	PRO-Washington-Post
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wschodem	Wschód	LOC	LOC-East
+Zbigniew Ziobro	Zbigniew Ziobro	PER	PER-Zbigniew-Ziobro

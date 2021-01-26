@@ -1,0 +1,19 @@
+bg-431
+АФП	АФП	ORG	ORG-France-Presse
+БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+Брекзит	Брекзит	EVT	EVT-Brexit
+Брекзита	Брекзит	EVT	EVT-Brexit
+България	България	LOC	GPE-Bulgaria
+Българското председателство на Съвета на ЕС	Българско председателство на Съвета на ЕС	EVT	EVT-Bulgarian-Presidency-EU
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+ЕС	ЕС	ORG	ORG-European-Union
+Европа	Европа	LOC	LOC-Europe
+Китай	Китай	LOC	GPE-China
+Лиляна Павлова	Лиляна Павлова	PER	PER-Lilyana-Pavlova
+Лондон	Лондон	LOC	GPE-London
+Мей	Мей	PER	PER-Theresa-May
+Павлова	Павлова	PER	PER-Lilyana-Pavlova
+САЩ	САЩ	LOC	GPE-USA
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Холокоста	Холокост	EVT	EVT-The-Holocaust
+европейците	европейци	PER	LOC-Europe

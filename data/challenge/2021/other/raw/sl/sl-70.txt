@@ -1,0 +1,15 @@
+sl-70
+sl
+2018-02-20
+https://www.dnevnik.si/1042802121/magazin/znanost-in-tehnologija/prtljaga-ki-vam-sledi
+Prtljaga, ki vam sledi
+
+Ljubitelji romanov pokojnega britanskega pisatelja sira Terryja Pratchetta , ki je ustvaril obsežno serijo komičnih fantazijskih romanov Ploščati svet (Discworld), že od nekdaj sanjajo o magičnem kovčku, ki je sposoben svojemu lastniku slediti čez drn in strn ter poskrbeti, da v njem spravljeno lastnikovo imetje vselej najde pravi naslov. Doslej se je večina tem sanjam še najbolj približala z dolgimi ročkami kovčkov na kolesih. Z veliko napora se vam sicer lahko dozdeva, kot da vam sledijo, nikakor pa niso avtonomni.
+
+Da bi domišljija postala resničnost, se že nekaj časa trudijo različna tehnološka podjetja. Že leta 2016 se je na množicarski platformi Indiegogo pojavil avtonomni kovček cowarobot r1 in za skoraj petkrat presegel zastavljeni cilj zbiranja naročil. Cowarobot r1 je imel senzorje za zaznavanje ovir, podobno kot avtonomni sesalniki, na štirih kolesih pa je sledil lastniku, če je ta na sebi imel posebno zapestnico. Dve leti pozneje se je z uresničitvijo zamisli spoprijelo že kar nekaj podjetij. Večina še vedno sledi ustaljenemu principu štirikolesnega kovčka, ki sledi lastniku po zaslugi nekakšne zapestnice ali daljinskega upravljalnika. Nekateri poleg tega uporabljajo tudi kamere in zmožnost prepoznavanja obrazov, kar se ne sliši ravno koristno za napravo, ki lastnika večinoma gleda v hrbet. Med vse večjim naborom avtonomnih kovčkov pa naletimo tudi na nekatere drznejše.
+
+Kužek na dveh nogah
+
+Enega od teh razvija podjetje 90Fun, hčerinsko podjetje kitajskega tehnološkega velikana Xiaomi. Svoj avtonomni kovček so poimenovali puppy1 oziroma kužek1, od večine avtonomnih kovčkov pa se kužek loči že po tem, da ne potrebuje več štirih koles, temveč zmore voziti po zgolj dveh. Za to zmožnost se lahko zahvali tehnologiji podjetja Segway, ki je krivo za velika dvokolesna vozila, s katerimi se leni turisti prevažajo po najbolj priljubljenih svetovnih turističnih mestih.
+
+Kot pri drugih avtonomnih kovčkih tudi kužek lastniku sledi s pomočjo posebnega daljinskega upravljalnika, ki kovčku posreduje lastnikovo lokacijo. Poleg tega je tako mogoče upravljati kovček na daljavo. Če ga želite zapeljati h komu drugemu ali pospraviti, ne da bi se morali ob tem pretegniti. V podjetju pravijo, da bo v končni različici kužek sledil sponki, ki bo precej manjša od daljinskega upravljalnika in jo bo mogoče pripeti na kos obleke ali nahrbtnik, morda pa bo namesto nje zapestnica. V obeh primerih zna upravljanje na daljavo prevzeti aplikacija na mobilnih telefonih. Končni izdelek, ki naj bi prišel še to leto, bo opremljen tudi z zmožnostjo zaznavanja ovir. Ker prototip, ki ga je podjetje predstavilo na letošnjem sejmu CES v Las Vegasu, tega sistema še ni imel, je težko reči, kako uspešno se bo izogibal stenam ter predvsem drugim ljudem in njihovim avtonomnim kovčkom. K sreči je hitrost kužka zaradi varnostnih razlogov omejena na osem kilometrov na uro. To hkrati pomeni, da boste v naglici kovček še vedno morali prijeti za ročko.

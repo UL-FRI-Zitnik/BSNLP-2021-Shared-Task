@@ -1,0 +1,32 @@
+cs-1960
+Anne Murphyová	Anne Murphyová	PER	PER-Anne-Murphy
+Bank of America Merrill Lynch	Bank of America Merrill Lynch	ORG	ORG-AIG-American-International-Group
+Britové	Britové	PER	GPE-Great-Britain
+Británie	Británie	LOC	GPE-Great-Britain
+Británii	Británie	LOC	GPE-Great-Britain
+Británií	Británie	LOC	GPE-Great-Britain
+Bruselem	Brusel	LOC	GPE-Brussles
+Citigroup	Citigroup	ORG	ORG-Citygroup
+City	City	LOC	LOC-City-of-London
+Darren Burns	Darren Burns	PER	PER-Darren-Burns
+Dublinu	Dublin	LOC	GPE-Dublin
+EU	EU	ORG	ORG-European-Union
+Evropské unie	Evropská unie	ORG	ORG-European-Union
+Evropy	Evropa	LOC	LOC-Europe
+Evropě	Evropa	LOC	LOC-Europe
+Frankfurtu	Frankfurt	LOC	GPE-Frankfurt-am-Main
+Goldman Sachs	Goldman Sachs	ORG	ORG-Goldman-Sachs
+JPMorgan	JPMorgan	ORG	ORG-JP-Morgan
+London City	London City	LOC	GPE-Greater-London
+Londýn	Londýn	LOC	GPE-London
+Londýna	Londýn	LOC	GPE-London
+Londýnu	Londýn	LOC	GPE-London
+Londýně	Londýn	LOC	GPE-London
+Morgan McKinley	Morgan McKinley	ORG	ORG-Morgan-Stanley
+Morgan Stanley	Morgan Stanley	ORG	ORG-Morgan-Stanley
+Odgers Berndtson	Odgers Berndtson	ORG	ORG-Odgers-Berndtson
+Paříži	Paříž	LOC	GPE-Paris
+Reuters	Reuters	ORG	ORG-Reuters
+USA	USA	LOC	GPE-USA
+brexit	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit

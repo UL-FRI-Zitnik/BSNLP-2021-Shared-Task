@@ -1,0 +1,18 @@
+pl-567
+Brukseli	Bruksela	LOC	GPE-Brussles
+EOG	EOG	ORG	ORG-EEA-European-Economic-Area
+Edynburga	Edynburg	LOC	GPE-Edinburgh
+Erna Solberg	Erna Solberg	PER	PER-Erna-Solberg
+Europa	Europa	LOC	LOC-Europe
+Europejskiego Obszaru	Europejski Obszar	ORG	ORG-EEA-European-Economic-Area
+Londynem	Londyn	LOC	GPE-London
+Londynu	Londyn	LOC	GPE-London
+Norwegia	Norwegia	LOC	GPE-Norway
+Parlament Szkocji	Parlament Szkocji	ORG	ORG-British-Parlament
+Szkocką Partią Narodową	Szkocka Partia Narodowa	ORG	ORG-Scottish-National-Party
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+brexicie	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit

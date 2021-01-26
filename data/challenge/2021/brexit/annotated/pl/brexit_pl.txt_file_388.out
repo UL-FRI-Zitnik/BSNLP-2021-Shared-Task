@@ -1,0 +1,17 @@
+pl-388
+Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+Brexitu	Brexit	EVT	EVT-Brexit
+David Davis	David Davis	PER	PER-David-Davis
+Downing Street	Downing Street	LOC	LOC-Downing-Street
+Financial Times	Financial Times	PRO	PRO-Financial-Times
+Londyn	Londyn	LOC	GPE-London
+Politico	Politico	PRO	PRO-Politico
+Telegraph	Telegraph	PRO	PRO-The-Daily-Telegraph
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnotę	Wspólnota	ORG	ORG-European-Union
+agencji Reutera	Agencja Reutera	ORG	ORG-Reuters

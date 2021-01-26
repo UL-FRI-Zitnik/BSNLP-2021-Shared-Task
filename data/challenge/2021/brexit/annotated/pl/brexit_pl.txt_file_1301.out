@@ -1,0 +1,26 @@
+pl-1301
+Brexit	Brexit	EVT	EVT-Brexit
+CA	CA	ORG	ORG-Cambridge-Analytica
+Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+Donaldowi Trumpowi	Donald Trump	PER	PER-Donald-Trump
+FB	FB	PRO	PRO-Facebook
+Facebook	Facebook	PRO	PRO-Facebook
+Facebooka	Facebook	PRO	PRO-Facebook
+Facebookiem	Facebook	PRO	PRO-Facebook
+Facebookowi	Facebook	PRO	PRO-Facebook
+Google	Google	ORG	ORG-Google
+Guardianowi	Guardian	PRO	PRO-The-Guardian
+Leave.UE	Leave.UE	ORG	ORG-Leave-EU
+Mark Zuckerberg	Mark Zuckerberg	PER	PER-Mark-Zuckerberg
+NASDAQ	NASDAQ	PRO	PRO-NASDAQ
+Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+Sheryl Sandberg	Sheryl Sandberg	PER	PER-Sheryl-Sandberg
+Snap	Snap	ORG	ORG-Snap
+UE	UE	ORG	ORG-European-Union
+USA	USA	LOC	GPE-USA
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Wall Street	Wall Street	LOC	LOC-Wall-Street
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Zuckerberg	Zuckerberg	PER	PER-Mark-Zuckerberg
+Zuckerberga	Zuckerberg	PER	PER-Mark-Zuckerberg

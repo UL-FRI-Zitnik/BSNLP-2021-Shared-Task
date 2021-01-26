@@ -1,0 +1,21 @@
+cs-467
+BBC	BBC	PRO	PRO-BBC
+Brexit	Brexit	EVT	EVT-Brexit
+Británie	Británie	LOC	GPE-Great-Britain
+Británii	Británie	LOC	GPE-Great-Britain
+Britů	Britové	PER	GPE-Great-Britain
+Danny Shaw	Danny Shaw	PER	PER-Danny-Shaw
+EU	EU	ORG	ORG-European-Union
+Evropskou unii	Evropská unie	ORG	ORG-European-Union
+Evropské unie	Evropská unie	ORG	ORG-European-Union
+Londýn	Londýn	LOC	GPE-London
+Nicola Whiteová	Nicola Whiteová	PER	PER-Nicola-White
+OSN	OSN	ORG	ORG-United-Nations
+Reuters	Reuters	ORG	ORG-Reuters
+Shawa	Shaw	PER	PER-Danny-Shaw
+Spojeného království	Spojené království	LOC	GPE-Great-Britain
+The Guardian	The Guardian	PRO	PRO-The-Guardian
+Unii	Unie	ORG	ORG-European-Union
+Velké Británie	Velká Británie	LOC	GPE-Great-Britain
+Velké Británie	Velké Británie	LOC	GPE-Great-Britain
+brexitem	brexit	EVT	EVT-Brexit

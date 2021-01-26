@@ -1,0 +1,17 @@
+sl-109
+sl
+2019-05-03
+https://www.racunalniske-novice.com/novice/dogodki-in-obvestila/najmanj-nezanesljiv-trdi-disk-je.html?RSS462182e43bd4b15e9ee23c243ca38982
+BackBlaze
+
+Najmanj nezanesljiv trdi disk je..
+
+Analiza podjetja Backblaze je pokazala, da so trenutno najmanj zanesljivi trdi diski družbe Seagate.
+
+Ameriško podjetje Backblaze je med naprednimi uporabniki in poslovnimi subjekti zelo dobro poznano, saj se ukvarja tako s shranjevanjem podatkov za domače in poslovne uporabnike kot tudi s shranjevanjem podatkov v oblaku. Ker za shranjevanje podatkov strank uporablja na sto tisoče trdih diskov različnih proizvajalcev, nam zagotovo lahko poda odličen vpogled v to, kateri trdi diski so danes najbolj zanesljivi. Pri tem so bili seveda uporabljeni tudi trdi diski različnih kapacitet in različni modeli istih proizvajalcev.
+
+Analiza podjetja Backblaze je pokazala, da so trenutno najmanj zanesljivi trdi diski družbe Seagate. Predvsem njihov model ST12000NM0007 s kapaciteto 12 terabajtov, saj jih je od skupno 34.708 tisoč odpovedalo kar 180 oziroma 2,22 odstotkov. Drugo mesto med najmanj zanesljivimi trdimi diski je pripadlo modelu ST4000DM000 podjetja Segate, saj jih je od skupno 19.785 tisoč odpovedalo kar 107 oziroma 1,96 odstotkov. Na tretjem mestu med najmanj zanesljivimi trdimi diski pa najdemo Seagate ST8000DM002 kapacitete osem terabajtov, saj jih je od 14.381 enot skupno odpovedalo 58 (1,64 odstotkov).
+
+Po drugi strani pa so se kot najbolj zanesljiva trda diska izkazala modela MD04ABA400V (4TB) in MD04ABA500V (5TB) podjetja Toshiba. Čeprav jih je podjetje Backblaze v prvem četrtletju letošnjega leta uporabil le 45 oziroma 99 enot, do sedaj še nobeden izmed njih ni trajno odpovedal. Ti namreč tem obdobju niso imeli nobenih mehanskih okvar.
+
+Pri tem velja še omeniti, da je imelo podjetje Backblaze v prvem četrtletju letošnjega leta imelo v operativni uporabi kar 104.130 trdih diskov. Od tega jih je v prvem četrtletju letošnjega leta skupno odpovedalo 401 trdi disk. To dejansko pomeni, da so v povprečju na dan odpovedali kar štirje trdi diski, kar le kaže na to, da moramo poseči po pogonih Solid State, če želimo zanesljivost delovanja in obvarovati naše podatke pred izgubo.

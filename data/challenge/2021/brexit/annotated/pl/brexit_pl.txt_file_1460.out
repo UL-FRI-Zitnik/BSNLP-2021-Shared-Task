@@ -1,0 +1,20 @@
+pl-1460
+Bank Anglii	Bank Anglii	ORG	ORG-Bank-of-England
+Bank centralny	Bank Centralny	ORG	ORG-European-Central-Bank
+Banku	Bank	ORG	ORG-Bank-of-England
+Barnier	Barnier	PER	PER-Michel-Barnier
+BoE	BoE	ORG	ORG-Bank-of-England
+Brexitu	Brexit	EVT	EVT-Brexit
+City	City	LOC	LOC-City-of-London
+EBC	EBC	ORG	ORG-European-Central-Bank
+Ebury	Ebury	ORG	ORG-Ebury
+Europejski Bank Centralny	Europejski Bank Centralny	ORG	ORG-European-Central-Bank
+Mario Draghiego	Mario Draghiego	PER	PER-Mario-Draghi
+Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+Michigan	Michigan	LOC	LOC-Michigan
+Roman Ziruk	Roman Ziruk	PER	PER-Roman-Ziruk
+Strefa Biznesu	Strefa Biznesu	PRO	PRO-Strefa-Biznesu
+UE	UE	ORG	ORG-European-Union
+USA	USA	LOC	GPE-USA
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain

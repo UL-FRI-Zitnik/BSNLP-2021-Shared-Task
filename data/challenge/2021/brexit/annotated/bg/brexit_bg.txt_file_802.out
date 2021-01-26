@@ -1,0 +1,40 @@
+bg-802
+Англия	Англия	LOC	GPE-England
+БДЖ-то	БДЖ	ORG	ORG-Bulgarian-State-Railways
+Беларус	Беларус	LOC	GPE-Belarus
+Белфаст	Белфаст	LOC	GPE-Belfast
+Брекзит	Брекзит	EVT	EVT-Brexit
+Брюксел	Брюксел	LOC	GPE-Brussles
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Германия	Германия	LOC	GPE-Germany
+Давос	Давос	LOC	GPE-Davos
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+Дуисбург	Дуисбург	LOC	GPE-Duisburg
+Дъблин	Дъблин	LOC	GPE-Dublin
+ЕС	ЕС	ORG	ORG-European-Union
+Източна Европа	Източна Европа	LOC	LOC-Eastern-Europe
+Ирландия	Ирландия	LOC	GPE-Ireland
+Испания	Испания	LOC	GPE-Spain
+Италия	Италия	LOC	GPE-Italy
+Иу	Иу	LOC	GPE-Yiwu
+Казахстан	Казахстан	LOC	GPE-Kazakhstan
+Китай	Китай	LOC	GPE-China
+Лео Варадкар	Лео Варадкар	PER	PER-Leo-Varadkar
+Ли Къцян	Ли Къцян	PER	PER-Li-Keqiang
+Лондон	Лондон	LOC	GPE-London
+Пекин	Пекин	LOC	GPE-Beijing
+Поднебесната империя	Поднебесна империя	LOC	GPE-China
+Полша	Полша	LOC	GPE-Poland
+Русия	Русия	LOC	GPE-Russia
+САЩ	САЩ	LOC	GPE-USA
+СТО	СТО	ORG	ORG-WTO-World-Trade-Organization
+Световната търговска организация	Световна търговска организация	ORG	ORG-WTO-World-Trade-Organization
+Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+Смарагдовия остров	Смарагдов остров	LOC	GPE-Ireland
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Шин Фейн	Шин Фейн	ORG	ORG-Sinn-Fein
+британците	британци	PER	GPE-Great-Britain
+европейците	европейци	PER	LOC-Europe
+китайците	китайци	PER	GPE-China
+консерваторите	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK

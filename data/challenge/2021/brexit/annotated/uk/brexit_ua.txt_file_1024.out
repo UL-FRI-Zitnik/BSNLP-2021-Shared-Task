@@ -1,0 +1,13 @@
+ua-1024
+Brexit	Brexit	EVT	EVT-Brexit
+Daily Mail	Daily Mail	ORG	ORG-Daily-Mail
+Penderyn	Penderyn	ORG	ORG-Penderyn
+ЄС	ЄС	LOC	ORG-European-Union
+Бельгії	Бельгія	LOC	GPE-Belgium
+Великобританії	Великобританія	LOC	GPE-Great-Britain
+Мей	Мей	PER	PER-Theresa-May
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Терези Мей	Тереза Мей	PER	PER-Theresa-May
+Українські Новини	Українські Новини	ORG	ORG-Ukrainian-News
+Філіп	Філіп	PER	PER-Philip
+британський Кабмін	британський Кабмін	ORG	ORG-British-Cabinet

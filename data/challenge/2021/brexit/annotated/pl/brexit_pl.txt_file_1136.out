@@ -1,0 +1,10 @@
+pl-1136
+Brexit	Brexit	EVT	EVT-Brexit
+Brexitem	Brexit	EVT	EVT-Brexit
+Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+Krajowa Izba Producentów Drobiu i Pasz	Krajowa Izba Producentów Drobiu i Pasz	ORG	ORG-KIPDIP-Krajowa-Izba-Producentów-Drobiu-i-
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Walii	Walia	LOC	GPE-Wales
+Walijczyków	Walijczycy	PER	GPE-Wales
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain

@@ -1,0 +1,56 @@
+bg-1192
+AFP	AFP	ORG	ORG-France-Presse
+Huffington Post	Huffington Post	PRO	PRO-Huffington-Post
+Observer	Observer	PRO	PRO-The-Observer
+Politico	Politico	PRO	PRO-Politico
+Reuters	Reuters	ORG	ORG-Reuters
+The Guardian	The Guardian	PRO	PRO-The-Guardian
+The Independent	The Independent	PRO	PRO-The-Independent
+Алеш Шмелар	Алеш Шмелар	PER	PER-Ales-Chmelar
+Андрю Диърден	Андрю Диърдън	PER	PER-Andrew-Dearden
+Брекзит	Брекзит	EVT	EVT-Brexit
+Британската медицинска асоциация	Британска медицинска асоциация	ORG	ORG-British-Medical-Association
+Брюксел	Брюксел	LOC	GPE-Brussles
+Варадкар	Варадкар	PER	PER-Leo-Varadkar
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Виктор Турмаков	Виктор Турмаков	PER	PER-Viktor-Turmakov
+Ги Верхофстад	Ги Верхофстад	PER	PER-Guy-Verhofstadt
+Групата на ЕНП в ЕП	Група на ЕНП в ЕП	ORG	ORG-EPP-group-in-European-Parlament
+Джереми Хънт	Джереми Хънт	PER	PER-Jeremy-Hunt
+Джон Мейджър	Джон Мейджър	PER	PER-John-Major
+Дъблин	Дъблин	LOC	GPE-Dublin
+ЕАСТ	ЕАСТ	ORG	ORG-EFTA
+ЕИП	ЕИП	ORG	ORG-EEA-European-Economic-Area
+ЕП	ЕП	ORG	ORG-European-Parliament
+ЕС	ЕС	ORG	ORG-European-Union
+Европа	Европа	LOC	LOC-Europe
+Европейската агенциа за безопасността на полетите	Европейска агенция за безопасността на полетите	ORG	ORG-EASA-European-Aviation-Safety-Agency
+Европейската агенция за лекарствата	Европейска агенция за лекарствата	ORG	ORG-EMA-European-Medicines-Agency
+Европейската агенция за химикалите	Европейска агенция за химикали	ORG	ORG-European-Chemicals-Agency
+Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+Евросъюза	Евросъюз	ORG	ORG-European-Union
+Ирландия	Ирландия	LOC	GPE-Ireland
+Канада	Канада	LOC	GPE-Canada
+Лео Варадкар	Лео Варадкар	PER	PER-Leo-Varadkar
+Лондон	Лондон	LOC	GPE-London
+Майкъл Хезълтайн	Майкъл Хезълтайн	PER	PER-Michael-Haseltine
+Манфред Вебер	Манфред Вебер	PER	PER-Manfred-Weber
+Мей	Мей	PER	PER-Theresa-May
+Меншън хаус	Меншън хаус	LOC	LOC-Mansion-House
+Митническия съюз на ЕС	Митнически съюз на ЕС	ORG	ORG-European-Union-Customs-Union
+Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+Норвегия	Норвегия	LOC	GPE-Norway
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+Проекторезолюция за приключване на дебата относно рамката на бъдещите отношения между ЕС и Обединеното кралство	Проекторезолюция за приключване на дебата относно рамката на бъдещите отношения между ЕС и Обединеното кралство	PRO	PRO-Draft-on-future-EU-UK-relations
+Република Ирландия	Република Ирландия	LOC	GPE-Ireland
+Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+Страсбург	Страсбург	LOC	GPE-Strasbourg
+Тереза Герова	Тереза Герова	PER	PER-Theresa-Gerova
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Тереза	Тереза	PER	PER-Theresa-May
+Тони Блеър	Тони Блеър	PER	PER-Tony-Blair
+Хезълтайн	Хезълтайн	PER	PER-Michael-Haseltine
+Чешката република	Чешка република	LOC	GPE-Czech-Republic
+Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
+консерваторите	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK

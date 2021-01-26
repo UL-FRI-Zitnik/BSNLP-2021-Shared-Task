@@ -1,0 +1,47 @@
+sl-131
+Barack Obama	Barack Obama	PER	PER-Barack-Obama
+Brexit	Brexit	EVT	EVT-Brexit
+Britanci	Britanec	PER	GPE-Great-Britain
+Dannova	Dann	PER	PER-Linda-Dann
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+EU	EU	ORG	ORG-European-Union
+Evropa	Evropa	LOC	LOC-Europe
+Evrope	Evropa	LOC	LOC-Europe
+Evropi	Evropa	LOC	LOC-Europe
+Evropo	Evropa	LOC	LOC-Europe
+Evropske unije	Evropska unija	ORG	ORG-European-Union
+Evropskega akcijskega obrambnega načrta	Evropski akcijski obrambni načrt	PRO	PRO-European-Defence-Action-Plan
+Evropski obrambni sklad	Evropski obrambni sklad	PRO	PRO-European-Defence-Fund
+Gavin Williamson	Gavin Williamson	PER	PER-Gavin-Williamson
+Linda Dann	Linda Dann	PER	PER-Linda-Dann
+Lindo Dann	Linda Dann	PER	PER-Linda-Dann
+Ljubljani	Ljubljana	LOC	GPE-Ljubljana
+London	London	LOC	GPE-London
+Nata	NATO	ORG	ORG-NATO
+Norveško	Norveška	LOC	GPE-Norway
+Obama	Obama	PER	PER-Barack-Obama
+Rusi	Rusi	PER	GPE-Russia
+Salzburgu	Salzburg	LOC	GPE-Salzburg
+Sergeja Skripala	Sergej Skripal	PER	PER-Siergiej-Skripal
+Slovenija	Slovenija	LOC	GPE-Slovenia
+Slovenije	Slovenija	LOC	GPE-Slovenia
+Sloveniji	Slovenija	LOC	GPE-Slovenia
+Slovenijo	Slovenija	LOC	GPE-Slovenia
+Theresa May	Theresa May	PER	PER-Theresa-May
+Trump	Trump	PER	PER-Donald-Trump
+Trumpove	Trump	PER	PER-Donald-Trump
+Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+Veliko Britanijo	Velika Britanija	LOC	GPE-Great-Britain
+Večer	Večer	PRO	PRO-Večer
+Walesa	Wales	LOC	GPE-Wales
+ZDA	ZDA	LOC	GPE-USA
+Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+Združenem kraljestvu	Združeno kraljestvo	LOC	GPE-Great-Britain
+Združenim kraljestvom	Združeno kraljestvo	LOC	GPE-Great-Britain
+Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+Zveza Nato	Zveza Nato	ORG	ORG-NATO
+brexit	brexit	EVT	EVT-Brexit
+brexita	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit
+zveze Nato	zveza Nato	ORG	ORG-NATO
+zvezo Nato	zveza Nato	ORG	ORG-NATO

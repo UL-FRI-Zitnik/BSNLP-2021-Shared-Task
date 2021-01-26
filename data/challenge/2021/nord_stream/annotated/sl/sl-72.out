@@ -1,0 +1,41 @@
+sl-72
+Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+Berlin	Berlin	LOC	GPE-Berlin
+Berlinom	Berlin	LOC	GPE-Berlin
+Bolgarije	Bolgarija	LOC	GPE-Bulgaria
+Bruslju	Bruselj	LOC	GPE-Brussles
+EU	EU	ORG	ORG-European-Union
+Emmanuela Macrona	Emmanuel Macron	PER	PER-Emmanuel-Macron
+Evropi	Evropa	LOC	LOC-Europe
+Evropska komisija	Evropska komisija	ORG	ORG-European-Commission
+Francije	Francija	LOC	GPE-France
+Francijo	Francija	LOC	GPE-France
+Gazprom	Gazprom	ORG	ORG-Gazprom
+Gazpromu	Gazprom	ORG	ORG-Gazprom
+Gerharda Schröderja	Gerhard Schröder	PER	PER-Gerhard-Fritz-Kurt-Schröder
+Hrvaško	Hrvaška	LOC	GPE-Croatia
+Krk	Krk	LOC	GPE-Krk
+Moskva	Moskva	LOC	GPE-Moscow
+Moskve	Moskva	LOC	GPE-Moscow
+Nemčije	Nemčija	LOC	GPE-Germany
+Parizom	Pariz	LOC	GPE-Paris
+Poljske	Poljska	LOC	GPE-Poland
+Poljsko	Poljska	LOC	GPE-Poland
+Rusije	Rusija	LOC	GPE-Russia
+Rusijo	Rusija	LOC	GPE-Russia
+Severnem toku 1	Severni tok 1	PRO	PRO-Nord-Stream-1
+Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+Severnim morjem	Severno morje	LOC	LOC-North-Sea
+Ukrajine	Ukrajina	LOC	GPE-Ukraine
+Ukrajino	Ukrajina	LOC	GPE-Ukraine
+Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+Washington	Washington	LOC	GPE-WashingtonDC
+ZDA	ZDA	LOC	GPE-USA
+direktive o plinu	direktiva o plinu	PRO	PRO-Gas-Directive-EU
+evropski parlament	evropski parlament	ORG	ORG-European-Parliament
+evropskim parlamentom	evropski parlament	ORG	ORG-European-Parliament
+južnega toka	južni tok	PRO	PRO-South-Stream
+severnega toka	severni tok	PRO	PRO-Nord-Stream-1
+srednje	srednji	LOC	LOC-Central-Europe
+turški tok	turški tok	PRO	PRO-TurkStream
+zahodne Evrope	zahodna Evropa	LOC	LOC-Western-Europe

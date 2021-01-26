@@ -1,0 +1,23 @@
+cs-1160
+Brexit	brexit	EVT	EVT-Brexit
+Britové	Britové	PER	GPE-Great-Britain
+Británie	Británie	LOC	GPE-Great-Britain
+Británii	Británie	LOC	GPE-Great-Britain
+Britům	Britové	PER	GPE-Great-Britain
+Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+EU	EU	ORG	ORG-European-Union
+Europoslanci	Europoslanci	PER	ORG-European-Parlament
+Evropanů	Evropané	PER	LOC-Europe
+Evropské komise	Evropská komise	ORG	ORG-European-Commission
+Evropské rady	Evropská rada	ORG	ORG-European-Council
+Evropské unii	Evropská unie	ORG	ORG-European-Union
+Jean-Claude Juncker	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+Londýně	Londýn	LOC	GPE-London
+Nigel Farage	Nigel Farage	PER	PER-Nigel-Farage
+Strany nezávislosti Spojeného království	Strana nezávislosti Spojeného království	ORG	ORG-UK-Independence-Party
+Theresy Mayové	Theresa Mayová	PER	PER-Theresa-May
+Tusk	Tusk	PER	PER-Donald-Tusk
+UKIP	UKIP	ORG	ORG-UK-Independence-Party
+brexit	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit
+europoslanci	europoslanci	PER	ORG-European-Parlament

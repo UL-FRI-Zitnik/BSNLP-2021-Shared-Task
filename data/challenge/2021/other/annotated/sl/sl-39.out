@@ -1,0 +1,77 @@
+sl-39
+Baltika	Baltik	LOC	LOC-Baltic-Sea
+Brexit	Brexit	EVT	EVT-Brexit
+Brexitom	Brexit	EVT	EVT-Brexit
+Cankarjevem domu	Cankarjev dom	LOC	LOC-Cankar-Centre
+DZ	DZ	ORG	ORG-National-Assembly-of-the-Republic-of-Slovenia
+Demosa	Demos	ORG	ORG-DEMOS-Democratic-Opposition-of-Slovenia
+Dimitrija Kovačiča	Dimitrij Kovačič	PER	PER-Dimitrij-Kovačič
+Dimitrija Rupla	Dimitrij Rupel	PER	PER-Dimitrij-Rupel
+Drago Jančar	Drago Jančar	PER	PER-Drago-Jančar
+Državni zbor RS	Državni zbor RS	ORG	ORG-National-assembly-of-RS
+ELS	ELS	ORG	ORG-EPP-European-Peoples-Party
+EU	EU	ORG	ORG-European-Union
+Evrope	Evropa	LOC	LOC-Europe
+Evrope	Evrope	LOC	LOC-Europe
+Evropejce	Evropejci	PER	LOC-Europe
+Evropejcev	Evropejci	PER	LOC-Europe
+Evropejci	Evropejci	PER	LOC-Europe
+Evropi	Evropa	LOC	LOC-Europe
+Evropo	Evropa	LOC	LOC-Europe
+Evropska komisija	Evropska komisija	ORG	ORG-European-Commission
+Evropska unija	Evropska unija	ORG	ORG-European-Union
+Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+Evropske ljudske stranke	Evropska ljudska stranka	ORG	ORG-EPP-European-Peoples-Party
+Evropske unije	Evropska unija	ORG	ORG-European-Union
+Evropskem parlamentu	Evropski parlament	ORG	ORG-European-Parliament
+Evropski parlament	Evropski parlament	ORG	ORG-European-Parliament
+Evropski uniji	Evropska unija	ORG	ORG-European-Union
+Evropsko unijo	Evropska unija	ORG	ORG-European-Union
+Fidesza	Fidesz	ORG	ORG-Fidesz
+Franceta Tomšiča	France Tomšič	PER	PER-France-Tomšič
+Francijo	Francija	LOC	GPE-France
+Hitlerjem	Hitler	PER	PER-Adolf-Hitler
+Iztoka Podkrižnika	Iztok Podkrižnik	PER	PER-Iztok-Podkrižnik
+Jadrana	Jadran	LOC	LOC-Adriatic-sea
+Jalte	Jalta	EVT	EVT-Yalta-Conference-1945
+Janeza Janše	Janez Janša	PER	PER-Janez-Janša
+Jeanu Monetu	Jean Monnet	PER	PER-Jean-Monnet
+Jožeta Pučnika	Jože Pučnik	PER	PER-Jože-Pučnik
+Južni tok	Južni tok	PRO	PRO-South-Stream
+Lizbone	Lizbona	LOC	GPE-Lisbon
+Lizbonske pogodbe	Lizbonska pogodba	PRO	PRO-Treaty-of-Lisbon
+Lizbonski pogodbi	Lizbonska pogodba	PRO	PRO-Treaty-of-Lisbon
+Manferd Weber	Manferd Weber	PER	PER-Manfred-Weber
+Manfred Weber	Manfred Weber	PER	PER-Manfred-Weber
+Manfred	Manfred	PER	PER-Manfred-Weber
+Manfreda Webra	Manfred Weber	PER	PER-Manfred-Weber
+Manfredom Webrom	Manfred Weber	PER	PER-Manfred-Weber
+Manfredova	Manfred	PER	PER-Manfred-Weber
+Manfredu	Manfred	PER	PER-Manfred-Weber
+Marjana Vidmarja	Marjan Vidmar	PER	PER-Marjan-Vidmar
+Milana Zvera	Milan Zver	PER	PER-Milan-Zver
+NATA	NATO	ORG	ORG-NATO
+NATO	NATO	ORG	ORG-NATO
+Nato	Nato	ORG	ORG-NATO
+Nemčija	Nemčija	LOC	GPE-Germany
+Nemčijo	Nemčija	LOC	GPE-Germany
+Resoluciji Evropskega parlamenta o evropski zavesti in totalitarizmu	Resolucija Evropskega parlamenta o evropski zavesti in totalitarizmu	PRO	PRO-European-Parliament-resolution-on-European-conscience-and-totalitarianism
+Rudija Šeligo	Rudi Šeligo	PER	PER-Rudi-Šeligo
+SDS	SDS	ORG	ORG-Slovenian-Democratic-Party
+Severni tok	Severni tok	PRO	PRO-Nord-Stream-1
+Slovencem	Slovenci	PER	GPE-Slovenia
+Slovenci	Slovenci	PER	GPE-Slovenia
+Slovenija	Slovenija	LOC	GPE-Slovenia
+Slovenije	Slovenija	LOC	GPE-Slovenia
+Sloveniji	Slovenija	LOC	GPE-Slovenia
+Slovenijo	Slovenija	LOC	GPE-Slovenia
+Slovenska demokratska stranka	Slovenska demokratska stranka	ORG	ORG-Slovenian-Democratic-Party
+Slovenske demokratske stranke	Slovenska demokratska stranka	ORG	ORG-Slovenian-Democratic-Party
+Stalinom	Stalin	PER	PER-Stalin
+Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+Verhofstadt	Verhofstadt	PER	PER-Guy-Verhofstadt
+Viktorja Orbana	Viktor Orban	PER	PER-Viktor-Orban
+evropski parlament	evropski parlament	ORG	ORG-European-Parliament
+osamosvojitev Slovenije	osamosvojitev Slovenije	EVT	EVT-Independence-of-Slovenia-1991
+resolucijo Evropskega parlamenta o totalitarizmih	resolucija Evropskega parlamenta o totalitarizmih	PRO	PRO-European-Parliament-resolution-on-European-conscience-and-totalitarianism
+slovenske osamosvojitve	slovenska osamosvojitev	EVT	EVT-Independence-of-Slovenia-1991

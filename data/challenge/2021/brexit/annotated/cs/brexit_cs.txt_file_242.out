@@ -1,0 +1,14 @@
+cs-242
+Blair	Blair	PER	PER-Tony-Blair
+Britové	Britové	PER	GPE-Great-Britain
+Británie	Británie	LOC	GPE-Great-Britain
+EU	EU	ORG	ORG-European-Union
+EuroZprávy.cz	EuroZprávy.cz	PRO	PRO-EuroZprávy.cz
+Evropou	Evropa	LOC	LOC-Europe
+Evropské unii	Evropská unie	ORG	ORG-European-Union
+Londýn	Londýn	LOC	GPE-London
+Spojeného království	Spojené království	LOC	GPE-Great-Britain
+Tony Blair	Tony Blair	PER	PER-Tony-Blair
+brexitu	brexit	EVT	EVT-Brexit
+druhé světové války	druhá světová válka	EVT	EVT-World-War-II
+ČTK	ČTK	ORG	ORG-CTK

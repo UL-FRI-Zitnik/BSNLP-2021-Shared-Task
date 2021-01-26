@@ -1,0 +1,61 @@
+bg-1133
+ABC News	ABC News	PRO	PRO-ABC-News
+AFP	AFP	ORG	ORG-France-Presse
+Politico	Politico	PRO	PRO-Politico
+Reuters	Reuters	ORG	ORG-Reuters
+The Daily Express	The Daily Express	PRO	PRO-Daily-Express
+The Times	The Times	PRO	PRO-The-Times
+Voice of America	Voice of America	PRO	PRO-Voice-of-America
+Washington Post	Washington Post	PRO	PRO-Washington-Post
+Адриатическо-Йонийската инициатива	Адриатическо-йонийската инициатива	ORG	ORG-Adriatic-and-Ionian-Initiative
+Америка на първо място	Америка на първо място	PRO	PRO-America-First
+Ангела Меркел	Ангела Меркел	PER	PER-Angela-Merkel
+Белият дом	Бял дом	LOC	LOC-White-House
+Берлин	Берлин	LOC	GPE-Berlin
+Борге Бренде	Борге Бренде	PER	PER-Borge-Brende
+Брекзит	Брекзит	EVT	EVT-Brexit
+Брюксел	Брюксел	LOC	GPE-Brussles
+Варадкар	Варадкар	PER	PER-Leo-Varadkar
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Гърция	Гърция	LOC	GPE-Greece
+Давос	Давос	LOC	GPE-Davos
+Далия Грибаускайте	Далия Грибаускайте	PER	PER-Dalia-Grybauskaitė
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+ЕС	ЕС	ORG	ORG-European-Union
+Европа	Европа	LOC	LOC-Europe
+Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+Заев	Заев	PER	PER-Zoran-Zaev
+Информационна агенция "Фокус"	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency
+Иран	Иран	LOC	GPE-Iran
+Ирландия	Ирландия	LOC	GPE-Ireland
+Канада	Канада	LOC	GPE-Canada
+Китай	Китай	LOC	GPE-China
+Ларс Льоке	Ларс Льоке	PER	PER-Lars-Lokke
+Лео Варадкар	Лео Варадкар	PER	PER-Leo-Varadkar
+Лондон	Лондон	LOC	GPE-London
+Македония	Македония	LOC	GPE-Northern-Macedonia
+Макрон	Макрон	PER	PER-Emmanuel-Macron
+Мей	Мей	PER	PER-Theresa-May
+Меркел	Меркел	PER	PER-Angela-Merkel
+Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+НАТО	НАТО	ORG	ORG-NATO
+Норвегия	Норвегия	LOC	GPE-Norway
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+САЩ	САЩ	LOC	GPE-USA
+Световната търговска организация	Световна търговска организация	ORG	ORG-WTO-World-Trade-Organization
+Световния икономически форум в Давос	Световен икономически форум в Давос	ORG	ORG-WEF
+Северна Корея	Северна Корея	LOC	GPE-North-Korea
+Сирия	Сирия	LOC	GPE-Syria
+Скопие	Скопие	LOC	GPE-Skopje
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Тръмп	Тръмп	PER	PER-Donald-Trump
+ФРГ	ФРГ	LOC	GPE-Germany
+Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+Франция	Франция	LOC	GPE-France
+Хамънд	Хамънд	PER	PER-Philip-Hammond
+Ципрас	Ципрас	PER	PER-Alexis-Tsipras
+Цюрих	Цюрих	LOC	GPE-Zurich
+Швейцария	Швейцария	LOC	GPE-Switzerland
+Япония	Япония	LOC	GPE-Japan
+британците	британци	PER	GPE-Great-Britain

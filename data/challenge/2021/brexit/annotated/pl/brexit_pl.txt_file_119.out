@@ -1,0 +1,18 @@
+pl-119
+Brexit	Brexit	EVT	EVT-Brexit
+Brukseli	Bruksela	LOC	GPE-Brussles
+Gabriel	Gabriel	PER	PER-Sigmar-Gabriel
+Guenther Oettinger	Guenther Oettinger	PER	PER-Guenther-Oettinger
+Horyzont	Horyzont	PRO	PRO-Horizon-2020
+Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Poland
+Niemcy	Niemcy	LOC	GPE-Germany
+Oettinger	Oettinger	PER	PER-Guenther-Oettinger
+Polska	Polska	LOC	GPE-Poland
+Rz	Rz	PRO	PRO-Rzeczpospolita
+Rzeczpospolita	Rzeczpospolita	PRO	PRO-Rzeczpospolita
+Sigmar Gabriel	Sigmar Gabriel	PER	PER-Sigmar-Gabriel
+UE	UE	ORG	ORG-European-Union
+Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+WPR	WPR	PRO	PRO-CAP-Common-Agricultural-Policy
+wspólnej polityki rolnej	Wspólna Polityka Rolna	PRO	PRO-CAP-Common-Agricultural-Policy

@@ -1,0 +1,18 @@
+pl-1271
+Brexicie	Brexit	EVT	EVT-Brexit
+Brexit	Brexit	EVT	EVT-Brexit
+Brukseli	Bruksela	LOC	GPE-Brussles
+Europie	Europa	LOC	LOC-Europe
+Europy	Europa	LOC	LOC-Europe
+Francja	Francja	LOC	GPE-France
+Jean-Claude Juncker	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+Juncker	Juncker	PER	PER-Jean-Claude-Juncker
+KE	KE	ORG	ORG-European-Commission
+Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+Macron	Macron	PER	PER-Emmanuel-Macron
+Reuters	Reuters	ORG	ORG-Reuters
+Szekspira	Szekspir	PER	PER-William-Shakespeare
+Twitterze	Twitter	PRO	PRO-Twitter
+UE	UE	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Woltera	Wolter	PER	PER-Wolter

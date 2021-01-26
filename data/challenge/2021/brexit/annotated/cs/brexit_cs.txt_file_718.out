@@ -1,0 +1,23 @@
+cs-718
+Brexit	Brexit	EVT	EVT-Brexit
+Británií	Británie	LOC	GPE-Great-Britain
+Charlesem	Charles	PER	PER-Charles-Prince-of-Wales
+Conollyho	Conolly	PER	PER-Geraoid-Connolly
+Derry	Derry	LOC	GPE-Londonderry
+EU	EU	ORG	ORG-European-Union
+Geraóid Connolly	Geraóid Connolly	PER	PER-Geraoid-Connolly
+Irskem	Irsko	LOC	GPE-Ireland
+Irskou republikou	Irská republika	LOC	GPE-Ireland
+Irsku	Irsko	LOC	GPE-Ireland
+Irsky	Irska	LOC	LOC-Irlends-countries
+Itálie	Itálie	LOC	GPE-Italy
+Karen Bradleyová	Karen Bradleyová	PER	PER-Karen-Bradley
+Maolíosa McHugh	Maolíosa McHugh	PER	PER-Maoliosa-McHugh
+Severní Irsko	Severní Irsko	LOC	GPE-Northern-Ireland
+Severního Irska	Severní Irsko	LOC	GPE-Northern-Ireland
+Severním Irskem	Severní Irsko	LOC	GPE-Northern-Ireland
+Spojeného království	Spojené království	LOC	GPE-Great-Britain
+Strabane	Strabane	LOC	GPE-Strabane
+brexitem	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit
+velkopáteční mírové dohody	velkopáteční mírová dohoda	PRO	PRO-GFA-Good-Friday-Agreement

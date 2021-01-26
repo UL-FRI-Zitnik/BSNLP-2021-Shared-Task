@@ -1,0 +1,13 @@
+ua-1003
+Barclays	Barclays	ORG	ORG-Barclays
+Brexit	Brexit	EVT	EVT-Brexit
+Leave	Leave	ORG	ORG-Leave-EU
+ЄС	ЄС	LOC	ORG-European-Union
+Барклі	Барклі	PER	PER-Stiven-Barkli
+Британії	Британія	LOC	GPE-Great-Britain
+Великій Британії	Велика Британія	LOC	GPE-Great-Britain
+Девід Девіс	Девід Девіс	PER	PER-David-Davis
+Домініка Рааба	Домінік Рааб	PER	PER-Dominic-Raab
+Рааб	Рааб	PER	PER-Dominic-Raab
+Стівен Барклі	Стівен Барклі	PER	PER-Stiven-Barkli
+Управлінні фінансових послуг	Управління фінансових послуг	ORG	ORG-Financial-services-of-the-United-Kingdom

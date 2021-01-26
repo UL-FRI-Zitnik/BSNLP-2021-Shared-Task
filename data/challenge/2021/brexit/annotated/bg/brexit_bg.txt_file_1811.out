@@ -1,0 +1,12 @@
+bg-1811
+Брекзит	Брекзит	EVT	EVT-Brexit
+Брюксел	Брюксел	LOC	GPE-Brussles
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Да спрем Брекзит	Да спрем Брекзит	EVT	EVT-Stop-Brexit
+ЕС	ЕС	ORG	ORG-European-Union
+Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+Евросъюза	Евросъюз	ORG	ORG-European-Union
+Илхан Кючюк	Илхан Кючюк	PER	PER-Ilhan-Kyuchyuk
+Кючюк	Кючюк	PER	PER-Ilhan-Kyuchyuk
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Ти и Брекзит	Ти и Брекзит	PRO	PRO-You-and-Brexit

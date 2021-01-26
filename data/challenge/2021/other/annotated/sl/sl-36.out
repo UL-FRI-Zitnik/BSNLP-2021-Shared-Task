@@ -1,0 +1,80 @@
+sl-36
+Alde	Alde	ORG	ORG-ALDE
+Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+Antonia Tajanija	Antonio Tajani	PER	PER-Antonio-Tajani
+Barnier	Barnier	PER	PER-Michel-Barnier
+Britance	Britanci	PER	GPE-Great-Britain
+Britancem	Britanci	PER	GPE-Great-Britain
+Britancev	Britanci	PER	GPE-Great-Britain
+Britanci	Britanci	PER	GPE-Great-Britain
+Britanije	Britanija	LOC	GPE-Great-Britain
+Britaniji	Britanija	LOC	GPE-Great-Britain
+Ciotova	Ciot	PER	PER-Melania-Ciot
+Corbyn	Corbyn	PER	PER-Jeremy-Corbyn
+DUP	DUP	ORG	ORG-DUP-Democratic-Unionist-Party
+Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+ECR	ECR	ORG	ORG-AECR-Alliance-of-European-Conservatives-and-Reformists
+EPP	EPP	ORG	ORG-EPP-European-Peoples-Party
+EU	EU	ORG	ORG-European-Union
+Eagles	Eagles	ORG	ORG-The-Eagles
+Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+Evropske ljudske stranke	Evropska ljudska stranka	ORG	ORG-EPP-European-Peoples-Party
+Evropske unije	Evropska unija	ORG	ORG-European-Union
+Evropskega parlamenta	Evropski parlament	ORG	ORG-European-Parliament
+Evropskega sveta	Evropski svet	ORG	ORG-European-Council
+Evropski poslanci	Evropski poslanci	PER	ORG-European-Parliament
+Evropski poslanci	evropski poslanci	PER	ORG-European-Parliament
+Evropskim konservativcem in reformistom	evropski konservativci in reformisti	PER	ORG-European-Conservatives-and-Reformists-Group
+Evropsko komisijo	Evropska komisija	ORG	ORG-European-Commission
+Frans Timmermans	Frans Timmermans	PER	PER-Frans-Timmermans
+Guy Verhofstadt	Guy Verhofstadt	PER	PER-Guy-Verhofstadt
+Hotel California	Hotel California	PRO	PRO-Hotel-California
+Jean-Claude Juncker	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+Jeremy Corbyn	Jeremy Corbyn	PER	PER-Jeremy-Corbyn
+Konservativno stranko	Konservativna stranko	ORG	ORG-Conservative-and-Unionist-Party-UK
+London	London	LOC	GPE-London
+Londonu	London	LOC	GPE-London
+Manfred Weber	Manfred Weber	PER	PER-Manfred-Weber
+Mayeva	May	PER	PER-Theresa-May
+Melania Ciot	Melania Ciot	PER	PER-Melania-Ciot
+Merklova	Merkel	PER	PER-Angela-Merkel
+Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+Oliver	Oliver	PER	PER-Tim-Oliver
+Oliverja	Oliverja	PER	PER-Tim-Oliver
+Otokom	Otok	LOC	GPE-Great-Britain
+Roberto Gualtieri	Roberto Gualtieri	PER	PER-Roberto-Gualtieri
+Rokavskega preliva	Rokavski preliv	LOC	LOC-English-Channel
+Rolling Stonesov	Rolling Stones	ORG	ORG-The-Rolling-Stones
+S&D	S&D	ORG	ORG-SD-Progressive-Alliance-of-Socialists-and-Democrats
+Spodnji dom britanskega parlamenta	spodnji dom britanskega parlamenta	ORG	ORG-House-of-Commons
+Strasbourgu	Strasbourg	LOC	GPE-Strasbourg
+Syed Kammall	Syed Kamall	PER	PER-Syed-Kamall
+Tajani	Tajani	PER	PER-Antonio-Tajani
+Theresa May	Theresa May	PER	PER-Theresa-May
+Tim Oliver	Tim Oliver	PER	PER-Tim-Oliver
+Timmermans	Timmermans	PER	PER-Frans-Timmermans
+Tusk	Tusk	PER	PER-Donald-Tusk
+Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+Westminstru	Westminster	LOC	LOC-Westminster-Hall
+Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+Združenem kraljestvu	Združeno kraljestvo	LOC	GPE-Great-Britain
+Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+brexit	brexit	EVT	EVT-Brexit
+brexita	brexit	EVT	EVT-Brexit
+brexita	brrexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit
+brexitu	brexitu	EVT	EVT-Brexit
+britanskem parlamentu	britanski parlament	ORG	ORG-British-Parlament
+bundestag	bundestag	ORG	ORG-Bundestag
+evropskih socialdemokratov	evropski socialdemokrati	PER	ORG-SD-Progressive-Alliance-of-Socialists-and-Democrats
+inštituta za diplomacijo in mednarodne študije	inštitut za diplomacijo in mednarodne študije	ORG	ORG-Institute-for-Diplomacy-and-International-Governance-Loughborough-University
+laburisti	laburisti	PER	ORG-Labour-Party-UK
+laburistov	laburisti	PER	ORG-Labour-Party-UK
+liberalcev	liberalci	PER	ORG-ALDE
+pogodbe o EU	pogodbe o EU	PRO	PRO-TUE-Treaty-on-European-Union
+spodnjem domu britanskega parlamenta	spodnji dom britanskega parlamenta	ORG	ORG-House-of-Commons
+torijcev	torijci	PER	ORG-Conservative-and-Unionist-Party-UK
+ulstrske unioniste	ulstrski unionisti	PER	ORG-DUP-Democratic-Unionist-Party
+univerze Loughborough	Univerza Loughborough	ORG	ORG-Loughborough-University
+zunanjepolitičnega odbora bundestaga	zunanjepolitični odbor bundestaga	ORG	ORG-Committee-on-Foreign-Affairs-Bundestag
