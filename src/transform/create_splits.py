@@ -47,7 +47,7 @@ def create_split(dataset_dir: str, lang: str):
 def create_splits(datasets: dict):
     for dataset, langs in datasets.items():
         for lang in langs.keys():
-            if lang != 'sl':
+            if lang == 'sl':
                 continue
             create_split(dataset, lang)
 
