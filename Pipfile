@@ -12,6 +12,8 @@ stanza = "*"
 fuzzywuzzy = "*"
 sklearn = "*"
 scikit-learn = "*"
+snap-stanford = "*"
+networkx = "*"
 
 [requires]
 python_version = "3.7"

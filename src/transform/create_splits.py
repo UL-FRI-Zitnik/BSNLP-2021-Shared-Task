@@ -5,6 +5,7 @@ import pandas as pd
 from src.utils.utils import list_dir
 from sklearn.model_selection import train_test_split
 
+# TODO: add different seed option
 random_state = 42
 
 
@@ -47,10 +48,7 @@ def create_split(dataset_dir: str, lang: str):
 def create_splits(datasets: dict):
     for dataset, langs in datasets.items():
         for lang in langs.keys():
-            if lang == 'sl':
-                continue
             create_split(dataset, lang)
-
 
 
 def main():
