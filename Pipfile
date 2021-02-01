@@ -14,6 +14,7 @@ sklearn = "*"
 scikit-learn = "*"
 snap-stanford = "*"
 networkx = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.7"
