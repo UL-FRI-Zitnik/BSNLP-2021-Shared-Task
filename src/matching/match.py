@@ -122,6 +122,7 @@ def contract_document_nes(g: nx.Graph) -> (nx.Graph, dict):
     # a copy of the graph to contract
     contracted_graph = g.copy()
     contracted_nodes = defaultdict(list)
+
     lemmas = get_lemma_counts(contracted_graph)
     print(json.dumps(lemmas, indent=4))
     for lemma, nids in lemmas.items():
@@ -130,6 +131,7 @@ def contract_document_nes(g: nx.Graph) -> (nx.Graph, dict):
             contracted_graph = nx.contracted_nodes(contracted_graph, contract_into, to_contract, copy=False)
             contracted_graph.nodes[contract_into]['contracted'] += 1
             contracted_nodes[contract_into].append(get_node_atts(to_contract))
+
     return contracted_graph, contracted_nodes
 
 
@@ -174,13 +176,13 @@ def build_graph(documents: list) -> (nx.Graph, dict):
 
         # add edges between all NEs within the document to form a clique
         # TODO: reconsider this
-        add_edges(list(doc_graph.nodes), doc_graph)
+        # add_edges(list(doc_graph.nodes), doc_graph)
 
         # merge the document graph with the dataset graph
         ds_graph.add_nodes_from(doc_graph.nodes(data=True))
         ds_graph.add_edges_from(doc_graph.edges(data=True))
 
-        if i == 2:  # early stopping, for debugging purposes TODO: delete me
+        if i == 1:  # early stopping, for debugging purposes TODO: delete me
             break
     # TODO: merge entities across documents
     return ds_graph, contracted_nodes
@@ -191,7 +193,7 @@ def main():
     doc_nes = load_nes(datasets)
     # print(json.dumps(doc_nes, indent=4))
     g, contracted = build_graph(doc_nes)
-    print_graph(g, print_details=False, draw_labels=True)
+    print_graph(g, print_details=False, draw_labels=False)
     print(json.dumps(contracted, indent=4))
 
 

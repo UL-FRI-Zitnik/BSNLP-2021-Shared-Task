@@ -1,0 +1,155 @@
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-151.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-146.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-18.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-0.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-143.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-135.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-1.out
+WARNING: Britanski poslanci at line: 3 has an ID: "PER-UK-MP" that is different from the ID "ORG-British-Parlament" assigned to the same form elsewhere
+WARNING: Združenega kraljestva at line: 16 has an ID: "GPE-UK" that is different from the ID "GPE-Great-Britain" assigned to the same form elsewhere
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-138.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-187.out
+WARNING: Brusljem at line: 6 has an ID: "GPE-Brussels" that is different from the ID "GPE-Brussles" assigned to the same form elsewhere
+WARNING: Bruslju at line: 7 has an ID: "GPE-Brussels" that is different from the ID "GPE-Brussles" assigned to the same form elsewhere
+ERROR: WRONG NUMBER OF ITEMS (2) IN LINE: 13 :Evropske unije		ORG	
+WARNING: Evropski parlament at line: 15 has an ID: "ORG-European-Parliament" that is different from the ID "ORG-British-Parlament" assigned to the same form elsewhere
+ERROR: WRONG NUMBER OF ITEMS (2) IN LINE: 29 :Velike Britanije		LOC	
+ERROR: WRONG NUMBER OF ITEMS (2) IN LINE: 30 :Združenega kraljestva		LOC	
+ERROR: WRONG NUMBER OF ITEMS (2) IN LINE: 31 :brexit		EVT	
+ERROR: WRONG NUMBER OF ITEMS (2) IN LINE: 34 :brexitu		EVT	
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-130.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-178.out
+WARNING: Bruselj at line: 4 has an ID: "GPE-Brussles" that is different from the ID "GPE-Brussels" assigned to the same form elsewhere
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-191.out
+ERROR: WRONG NUMBER OF ITEMS (2) IN LINE: 12 :brexit		EVT	
+ERROR: WRONG NUMBER OF ITEMS (2) IN LINE: 14 :brexita		EVT	
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-15.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-142.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-131.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-168.out
+WARNING: Združenega kraljestva at line: 16 has an ID: "GPE-UK" that is different from the ID "GPE-Great-Britain" assigned to the same form elsewhere
+ERROR: WRONG NUMBER OF ITEMS (3) IN LINE: 17 :brexit	brexit	EVT	
+ERROR: WRONG NUMBER OF ITEMS (3) IN LINE: 19 :dpa	dpa	ORG	
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-170.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-100.out
+WARNING: Westminstru at line: 22 has an ID: "LOC-Westminster" that is different from the ID "GPE-Westminster" assigned to the same form elsewhere
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-12.out
+WARNING: Bruselj at line: 4 has an ID: "GPE-Brussles" that is different from the ID "GPE-Brussels" assigned to the same form elsewhere
+WARNING: The Guardian at line: 24 has an ID: "ORG-The-Guardian" that is different from the ID "PRO-The-Guardian" assigned to the same form elsewhere
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-148.out
+WARNING: Bruselj at line: 3 has an ID: "GPE-Brussles" that is different from the ID "GPE-Brussels" assigned to the same form elsewhere
+WARNING: severnoirski unionisti at line: 33 has an ID: "ORG-DUP-Democratic-Unionist-Party" that is different from the ID "ORG-Ulster-Unionist-Party" assigned to the same form elsewhere
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-134.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-172.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-118.out
+WARNING: Brexit at line: 2 has an ID: "ORG-Brexit-Party" that is different from the ID "EVT-Brexit" assigned to the same form elsewhere
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-101.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-127.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-181.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-10.out
+WARNING: Bruselj at line: 3 has an ID: "GPE-Brussles" that is different from the ID "GPE-Brussels" assigned to the same form elsewhere
+WARNING: torijcev at line: 20 has an ID: "ORG-Conservative-and-Unionist-Party-UK" that is different from the ID "ORG-Tories" assigned to the same form elsewhere
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-117.out
+WARNING: Britanski poslanci at line: 5 has an ID: "PER-UK-MP" that is different from the ID "ORG-British-Parlament" assigned to the same form elsewhere
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-113.out
+WARNING: Bruselj at line: 4 has an ID: "GPE-Brussles" that is different from the ID "GPE-Brussels" assigned to the same form elsewhere
+WARNING: Irsko at line: 8 has an ID: "GPE-Republic-of-Ireland" that is different from the ID "GPE-Ireland" assigned to the same form elsewhere
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-167.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-139.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-122.out
+WARNING: liberalni demokrati at line: 29 has an ID: "ORG-Liberal-Democrats-UK" that is different from the ID "ORG-Sozialdemokratische-Partei-Deutschlands" assigned to the same form elsewhere
+WARNING: severnoirski unionisti at line: 32 has an ID: "ORG-DUP-Democratic-Unionist-Party" that is different from the ID "ORG-Ulster-Unionist-Party" assigned to the same form elsewhere
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-116.out
+WARNING: Britanski poslanci at line: 4 has an ID: "PER-UK-MP" that is different from the ID "ORG-British-Parlament" assigned to the same form elsewhere
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-108.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-186.out
+ERROR: WRONG NUMBER OF ITEMS (3) IN LINE: 1 : EU	EU	ORG	
+WARNING: Brusljem at line: 4 has an ID: "GPE-Brussels" that is different from the ID "GPE-Brussles" assigned to the same form elsewhere
+ERROR: WRONG NUMBER OF ITEMS (3) IN LINE: 5 :EU	EU	ORG	
+WARNING: Združenega kraljestva at line: 16 has an ID: "GPE-UK" that is different from the ID "GPE-Great-Britain" assigned to the same form elsewhere
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-159.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-14.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-19.out
+ERROR: WRONG NUMBER OF ITEMS (2) IN LINE: 2 :Brexit		EVT	
+ERROR: WRONG NUMBER OF ITEMS (2) IN LINE: 10 :brexita		EVT	
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-16.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-162.out
+WARNING: Brexita at line: 5 has an ID: "EVT-Brexit" that is different from the ID "ORG-Brexit-Party" assigned to the same form elsewhere
+WARNING: Evropski poslanci at line: 19 has an ID: "ORG-European-Parliament" that is different from the ID "PER-EU-MP" assigned to the same form elsewhere
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-111.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-13.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-129.out
+WARNING: Bruselj at line: 4 has an ID: "GPE-Brussles" that is different from the ID "GPE-Brussels" assigned to the same form elsewhere
+WARNING: Evropski parlament at line: 12 has an ID: "ORG-European-Parliament" that is different from the ID "ORG-British-Parlament" assigned to the same form elsewhere
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-144.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-103.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-161.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-157.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-128.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-102.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-188.out
+WARNING: Brexit at line: 4 has an ID: "ORG-Brexit-Party" that is different from the ID "EVT-Brexit" assigned to the same form elsewhere
+WARNING: Brusljem at line: 5 has an ID: "GPE-Brussels" that is different from the ID "GPE-Brussles" assigned to the same form elsewhere
+WARNING: Evropski parlament at line: 12 has an ID: "ORG-European-Parliament" that is different from the ID "ORG-British-Parlament" assigned to the same form elsewhere
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-164.out
+---------------------------------------------------------
+CHECKING FILE: /home/pr3mar/rsdo/BSNLP/data/challenge/2021/brexit/annotated/sl/sl-141.out
+---------------------------------------------------------
+Total number of annotations: 1445
+ORG: 301
+LOC: 403
+PER: 532
+PRO: 31
+EVT: 165
+MENTIONS THAT ARE INFLECTED VARIANTS: 788
+Total number of files: 52
