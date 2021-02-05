@@ -42,7 +42,10 @@ def convert_sentences(raw_sentences, lang):
                 print(f"MORE WORDS: {token.words}")
             tokens.append({
                 "id": token.index if lang == 'sl' else token.id[0],
-                "text": ''.join([w.text for w in token.words])
+                "text": ''.join([w.text for w in token.words]),
+                "calcLemma": ' '.join([w.lemma for w in token.words if w.lemma is not None]),
+                "upos": ' '.join([w.xpos for w in token.words if w.xpos is not None]),
+                "xpos": ' '.join([w.upos for w in token.words if w.upos is not None]),
             })
         sentences.append(tokens)
     return sentences
@@ -148,7 +151,7 @@ def annotate_document(sentences: list, annotations_path: str, document_id: str, 
         })
     sentence_df = pd.DataFrame(annotated_tokens)
     sentence_df = sentence_df.rename(columns={'id': 'tokenId'})
-    sentence_df = sentence_df[['docId', 'sentenceId', 'tokenId', 'text', 'lemma', 'ner', 'clID']]  # leaving out 'misc' for now
+    sentence_df = sentence_df[['docId', 'sentenceId', 'tokenId', 'text', 'lemma', 'calcLemma', 'upos', 'xpos', 'ner', 'clID']]  # leaving out 'misc' for now
     return sentence_df, warnings
 
 
@@ -156,12 +159,15 @@ if __name__ == '__main__':
     datasets_files = json.load(open('./data/results/dataset_pairs.json'))
     languages = set([lang for dataset in datasets_files for lang in datasets_files[dataset].keys()])
     print(languages)
-    if DOWNLOAD_RESOURCES: # do it once on a new system
+    processors = 'tokenize,pos,lemma'
+    if DOWNLOAD_RESOURCES:  # do it once on a new system
         for lang in languages:
             lang = lang if lang != 'ua' else 'uk'
             print(f'Downloading {lang}...')
-            stanza.download(lang, processors='tokenize')
-
-    tokenizers = {lang: stanza.Pipeline(lang=lang if lang != 'ua' else 'uk', processors='tokenize') for lang in languages}
-    tokenizers['sl'] = classla.Pipeline('sl', processors='tokenize')
+            stanza.download(lang, processors=processors)
+        classla.download('sl')
+        classla.download('bg')
+    tokenizers = {lang: stanza.Pipeline(lang=lang if lang != 'ua' else 'uk', processors=processors) for lang in languages}
+    tokenizers['sl'] = classla.Pipeline('sl', processors=processors)
+    tokenizers['sl'] = classla.Pipeline('bg', processors=processors)
     split_documents(datasets_files, tokenizers)
