@@ -15,6 +15,7 @@ scikit-learn = "*"
 snap-stanford = "*"
 networkx = "*"
 matplotlib = "*"
+dedupe = "*"
 
 [requires]
 python_version = "3.7"

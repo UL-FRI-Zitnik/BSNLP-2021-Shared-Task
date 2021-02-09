@@ -1,3 +1,5 @@
 .idea
 __pycache__
 *.class
+java-eval/
+data/deduper/

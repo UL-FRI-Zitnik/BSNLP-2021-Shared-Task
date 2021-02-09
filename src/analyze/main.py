@@ -175,15 +175,15 @@ def get_doc_info(stats: dict) -> dict:
 
 if __name__ == '__main__':
     # dirs, files, packed = list_all_files("./data/challenge")
-    # print(f'Dirs = {json.dumps(dirs, indent=4)}')
-    # print(f'Files = {json.dumps(files, indent=4)}')
-    # print(f'Packed = {json.dumps(packed, indent=4)}')
-    # with open('./data/results/file_dump.json', 'w') as f:
-    #     json.dump(packed, f, indent=4)
+    # print(tf'Dirs = {json.dumps(dirs, indent=4)}')
+    # print(tf'Files = {json.dumps(files, indent=4)}')
+    # print(tf'Packed = {json.dumps(packed, indent=4)}')
+    # with open('./data/results/file_dump.json', 'w') as tf:
+    #     json.dump(packed, tf, indent=4)
 
     # aggregated = aggregate_nes(packed)
-    # with open('./data/results/aggregated.json', 'w') as f:
-    #     json.dump(aggregated, f)
+    # with open('./data/results/aggregated.json', 'w') as tf:
+    #     json.dump(aggregated, tf)
 
     # doc_infos = get_doc_info(packed)
     # raw_df = doc_infos['raw']

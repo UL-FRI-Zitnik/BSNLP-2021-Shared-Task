@@ -73,7 +73,7 @@ def sort_by_mention_length(data: pd.DataFrame) -> pd.DataFrame:
 
 
 def annotate_document(sentences: list, annotations_path: str, document_id: str, tokenizer, lang) -> (pd.DataFrame, list):
-    # print(f"Work on {annotations_path}")
+    # print(tf"Work on {annotations_path}")
     try:
         anns = pd.read_csv(annotations_path, names=['Mention', 'Base', 'Category', 'clID'], skiprows=[0], sep='\t')
     except:
