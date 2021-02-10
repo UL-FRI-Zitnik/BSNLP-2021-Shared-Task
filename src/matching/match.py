@@ -1,3 +1,4 @@
+import sys
 import json
 import networkx as nx
 import pandas as pd
@@ -12,7 +13,18 @@ node_att_list = ["docId", "sentenceId", "tokenId", "text", "lemma", "ner", "clID
 edge_att_list = ["weight"]
 
 
-def merge_ne_records(nes: list) -> list:
+def handle_nan(
+    field
+) -> str:
+    if type(field) is float:
+        print(f"Field is float: {field}", file=sys.stderr)
+        return ""
+    return field
+
+
+def merge_ne_records(
+    nes: list
+) -> list:
     merged = []
     for i, ne in enumerate(nes):
         if ne['ner'].startswith('I-'):
@@ -20,9 +32,12 @@ def merge_ne_records(nes: list) -> list:
         j = i + 1
         while j < len(nes) and not nes[j]['ner'].startswith('B-'):
             if nes[j]['tokenId'] != (nes[j - 1]['tokenId'] + 1):
-                raise Exception("Tokens are not coming one after the other")
-            ne['text'] += f' {nes[j]["text"]}'
-            ne['lemma'] += f' {nes[j]["lemma"]}'
+                print(f"Tokens are not coming one after the other, probably tokenizer error: {json.dumps(nes[j])}", file=sys.stderr)
+            ne['text'] = f'{handle_nan(ne["text"])} {handle_nan(nes[j]["text"])}'
+            ne['lemma'] = f'{handle_nan(ne["lemma"])} {handle_nan(nes[j]["lemma"])}'
+            ne['calcLemma'] = f'{handle_nan(ne["calcLemma"])} {handle_nan(nes[j]["calcLemma"])}'
+            ne['upos'] = f'{handle_nan(ne["upos"])} {handle_nan(nes[j]["upos"])}'
+            ne['xpos'] = f'{handle_nan(ne["xpos"])} {handle_nan(nes[j]["xpos"])}'
             ne['numTokens'] += 1
             j += 1
         ne['ner'] = ne['ner'][2:]
@@ -30,26 +45,32 @@ def merge_ne_records(nes: list) -> list:
     return merged
 
 
-def load_nes(datasets):
-    documents = []
+def load_nes(
+    datasets: dict,
+    filter_nes=False,
+    flatten_docs=False,
+) -> dict:
+    documents = {}
     for dataset, langs in datasets.items():
-        print(f'Extracting from: {dataset}')
+        documents[dataset] = {}
         for lang in langs.keys():
-            # focus on slovenian for now
-            if lang != 'sl':
-                continue
+            documents[dataset][lang] = []
+            print(f'Extracting from: {dataset}, language: {lang}')
             ne_path = f'{dataset}/merged/{lang}'
             _, files = list_dir(ne_path)
             for file in files:
                 df = pd.read_csv(f'{ne_path}/{file}', dtype={'docId': str, 'clID': str})
+                df = df.loc[~df["ner"].isin(['O'])] if filter_nes else df
                 df['lang'] = lang
                 df['numTokens'] = 1
                 df['contracted'] = 0
                 filtered = df.loc[~df['ner'].isin(['O'])].to_dict(orient='records')
                 document = merge_ne_records(filtered)
-                documents.append(document)
-            break
-        break
+                documents[dataset][lang].append(document)
+    if flatten_docs:
+        for dataset, langs in documents.items():
+            for lang in langs:
+                documents[dataset][lang] = [item for doc in documents[dataset][lang] for item in doc]
     return documents
 
 

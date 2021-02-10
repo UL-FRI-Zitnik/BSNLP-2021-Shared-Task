@@ -426,8 +426,8 @@ sl-0,23,25,države,,država,Ncfsg,NOUN,O,
 sl-0,23,26,Punjab,Punjab,Punjab,Npmsn,PROPN,B-LOC,GPE-Punjab
 sl-0,23,27,Salmaan,Salmaan,Salmaan,Npmsn,PROPN,B-PER,PER-Salmaan-Taseer
 sl-0,23,28,Taseer,Taseer,Taseer,Npmsn,PROPN,I-PER,PER-Salmaan-Taseer
-sl-0,23,29,.,Bhatti,.,Z,PUNCT,I-PER,PER-Salmaan-Taseer
-sl-0,24,1,Bhatti,PAD,Bhatti,Npmsn,PROPN,I-PER,PER-Salmaan-Taseer
+sl-0,23,29,.,PAD,.,Z,PUNCT,I-PER,PER-Salmaan-Taseer
+sl-0,24,1,Bhatti,Bhatti,Bhatti,Npmsn,PROPN,B-PER,PER-Clement-Shahbaz-Bhatti
 sl-0,24,2,",",,",",Z,PUNCT,O,
 sl-0,24,3,edini,,edin,Agpmsny,ADJ,O,
 sl-0,24,4,kristjan,,kristjan,Ncmsn,NOUN,O,
