@@ -3,3 +3,5 @@ __pycache__
 *.class
 java-eval/
 data/deduper/
+logs/
+containers/

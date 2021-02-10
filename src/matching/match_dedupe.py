@@ -16,7 +16,7 @@ RUN_BASE_FNAME = f"{BASE_FNAME}"  # TODO: Add a folder  per run
 # Dedup configuration variables
 CHOOSE_K = 3  # determines how many samples of equivalent values to choose
 CLUSTER_THRESHOLD = 0.35
-DEDUPE_CORES_USED = 2
+DEDUPE_CORES_USED = 8
 dedupe_variables = [
     # document structure: docId,sentenceId,tokenId,text,lemma,calcLemma,upos,xpos,ner,clID
     # variables to consider:
