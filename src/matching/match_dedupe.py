@@ -5,8 +5,8 @@ from dedupe import Dedupe, StaticDedupe, console_label
 from datetime import datetime
 from collections import defaultdict
 from itertools import combinations, product
-from random import choices
-from typing import Iterable
+from random import choices, random
+from typing import Iterable, Callable
 
 from src.matching.match import load_nes
 
@@ -14,7 +14,7 @@ BASE_FNAME = "./data/deduper"
 RUN_BASE_FNAME = f"{BASE_FNAME}"  # TODO: Add a folder  per run
 
 # Dedup configuration variables
-CHOOSE_K = 10  # determines how many samples of equivalent values to choose
+CHOOSE_K = 3  # determines how many samples of equivalent values to choose
 CLUSTER_THRESHOLD = 0.35
 DEDUPE_CORES_USED = 2
 dedupe_variables = [
@@ -86,13 +86,15 @@ def generate_training_examples(
 
     for key, values in positive_examples.items():
         print(f"{key} ({len(values)}): {values}")
-        if len(values) < 2:
-            continue
-        for comb in combinations(values, 2):
+        use_items = choices(values, k=3)
+        for comb in combinations(use_items, 2):
             matches.append(comb)
 
     clids = positive_examples.keys()
     for comb in combinations(clids, 2):
+        # skip some combination with a 1/2 probability
+        if random() < 0.5:
+            continue
         d1 = choices(positive_examples[comb[0]], k=CHOOSE_K)
         d2 = choices(positive_examples[comb[1]], k=CHOOSE_K)
         for items in product(d1, d2):
@@ -104,75 +106,85 @@ def generate_training_examples(
     }
 
 
-def train(
-    data: dict
-) -> None:
-    # TODO: add ability to merge datasets/languages
-    for dataset, langs in data.items():
-        for lang, items in langs.items():
-            if lang != 'sl':
+def data_looper(
+    data: dict,
+    call_fun: Callable,
+) -> Callable:
+    def loop_through():
+        for dataset, langs in data.items():
+            if dataset != 'other':
                 continue
-            print(f"Training on {dataset}, language: {lang}")
+            for lang, items in langs.items():
+                if lang != 'sl':
+                    continue
+                call_fun(dataset, lang, items)
+    return loop_through
 
-            # prepare training examples: generate matches and distinct cases
-            td = generate_training_examples(items)
-            train_data_fname = f'{RUN_BASE_FNAME}/train-{dataset}-{lang}.json'
-            with open(train_data_fname, 'w') as tf:
-                json.dump(td, tf)
 
-            ## alternatively, manually label the training data
-            ## the above code generates the training examples, so it is automating this step
-            # console_label(deduper)
+def train(
+    dataset: str,
+    lang: str,
+    items: dict
+) -> None:
+    print(f"Training on `{dataset}`, language: `{lang}`")
 
-            # create a dedupe instance with chosen variables and number of cores to be used
-            deduper = Dedupe(variable_definition=dedupe_variables, num_cores=DEDUPE_CORES_USED)
+    # prepare training examples: generate matches and distinct cases
+    td = generate_training_examples(items)
+    train_data_fname = f'{RUN_BASE_FNAME}/train-{dataset}-{lang}.json'
+    with open(train_data_fname, 'w') as tf:
+        json.dump(td, tf)
 
-            # load the training data and prepare for training
-            with open(train_data_fname) as tf:
-                deduper.prepare_training(td, training_file=tf)
+    ## alternatively, manually label the training data
+    ## the above code generates the training examples, so it is automating this step
+    # console_label(deduper)
 
-            # train the deduper
-            deduper.train()
+    # create a dedupe instance with chosen variables and number of cores to be used
+    deduper = Dedupe(variable_definition=dedupe_variables, num_cores=DEDUPE_CORES_USED)
 
-            # store the learned settings
-            learned_settings_fname = f'{RUN_BASE_FNAME}/learned_settings-{dataset}-{lang}.bin'
-            with open(learned_settings_fname, 'wb') as ts:
-                deduper.write_settings(ts)
+    # load the training data and prepare for training
+    with open(train_data_fname) as tf:
+        deduper.prepare_training(data=items, training_file=tf)
+
+    # train the deduper
+    deduper.train()
+
+    # store the learned settings
+    learned_settings_fname = f'{RUN_BASE_FNAME}/learned_settings-{dataset}-{lang}.bin'
+    with open(learned_settings_fname, 'wb') as ts:
+        deduper.write_settings(ts)
 
 
 def cluster_data(
-    data: dict
+    dataset: str,
+    lang: str,
+    items: dict
 ) -> None:
-    for dataset, langs in data.items():
-        for lang, items in langs.items():
-            if lang != 'sl':
-                continue
-            print(f"Training on {dataset}, language: {lang}")
+    print(f"Clustering `{dataset}`, language: `{lang}`")
 
-            learned_settings_fname = f'{RUN_BASE_FNAME}/learned_settings-{dataset}-{lang}.bin'
-            settings_file = pathlib.Path(learned_settings_fname)
-            if not (settings_file.exists() or settings_file.is_file()):
-                print(f"Settings file `{learned_settings_fname}` does not exist or it's not a file.")
-                continue
+    learned_settings_fname = f'{RUN_BASE_FNAME}/learned_settings-{dataset}-{lang}.bin'
+    settings_file = pathlib.Path(learned_settings_fname)
+    if not (settings_file.exists() or settings_file.is_file()):
+        print(f"Settings file `{learned_settings_fname}` does not exist or it's not a file.")
+        return
 
-            # load the learned settings
-            with open(learned_settings_fname, 'rb') as f:
-                deduper = StaticDedupe(f, num_cores=DEDUPE_CORES_USED)
+    # load the learned settings
+    with open(learned_settings_fname, 'rb') as f:
+        deduper = StaticDedupe(f, num_cores=DEDUPE_CORES_USED)
 
-            # cluster the data
-            clustered = deduper.partition(items, threshold=CLUSTER_THRESHOLD)
+    # cluster the data
+    clustered = deduper.partition(items, threshold=CLUSTER_THRESHOLD)
 
-            clusters_report_fname = f'{RUN_BASE_FNAME}/clusters_report-{dataset}-{lang}.txt'
-            with open(clusters_report_fname, 'w') as f:
-                for clid, (rec, score) in enumerate(clustered):
-                    row = f"{clid}: {','.join(rec)}"
-                    print(row)
-                    print(row, file=f)
+    clusters_report_fname = f'{RUN_BASE_FNAME}/clusters_report-{dataset}-{lang}.txt'
+    with open(clusters_report_fname, 'w') as f:
+        for clid, (rec, score) in enumerate(clustered):
+            row = f"{clid}: {','.join(rec)}"
+            print(row)
+            print(row, file=f)
 
-            clustered_data_fname = f'{RUN_BASE_FNAME}/clusters-{dataset}-{lang}.json'
-            clusters = get_clustered_ids(clustered)
-            with open(clustered_data_fname, 'w') as f:
-                json.dump(clusters, fp=f, indent=4)
+    clustered_data_fname = f'{RUN_BASE_FNAME}/clusters-{dataset}-{lang}.json'
+    clusters = get_clustered_ids(clustered)
+    with open(clustered_data_fname, 'w') as f:
+        json.dump(clusters, fp=f, indent=4)
 
 
 def main():
@@ -182,10 +194,12 @@ def main():
     data = load_data()
 
     print("Training on the data...")
-    train(data=data)
+    trainer = data_looper(data, train)
+    trainer()
 
     print("Clustering the data...")
-    cluster_data(data=data)
+    clusterer = data_looper(data, cluster_data)
+    clusterer()
 
 
 if __name__ == '__main__':
