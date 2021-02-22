@@ -11,7 +11,6 @@ from typing import Iterable, Callable
 from src.matching.match import load_nes
 
 BASE_FNAME = "./data/deduper"
-RUN_BASE_FNAME = f"{BASE_FNAME}"  # TODO: Add a folder  per run
 
 # Dedup configuration variables
 CHOOSE_K = 3  # determines how many samples of equivalent values to choose
@@ -68,7 +67,7 @@ def get_clustered_ids(
         "ners": [
             {
                 'id': cid,
-                'score': score
+                'score': float(score)
             } for cid, score in zip(ids, scores)
         ]
     } for i, (ids, scores) in enumerate(clustered)]
@@ -89,6 +88,9 @@ def generate_training_examples(
         use_items = choices(values, k=3)
         for comb in combinations(use_items, 2):
             matches.append(comb)
+
+    # TODO: find most similar mentions and generate negative
+    #   similarity search
 
     clids = positive_examples.keys()
     for comb in combinations(clids, 2):
@@ -203,4 +205,7 @@ def main():
 
 
 if __name__ == '__main__':
+    run_time = datetime.now().isoformat()[:-7]  # exclude the ms
+    RUN_BASE_FNAME = f"{BASE_FNAME}/runs/run_{run_time}"
+    pathlib.Path(RUN_BASE_FNAME).mkdir(parents=True, exist_ok=True)
     main()
