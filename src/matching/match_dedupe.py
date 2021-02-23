@@ -1,6 +1,8 @@
+import sys
 import json
 import pathlib
 import pandas as pd
+import logging
 
 from dedupe import Dedupe, StaticDedupe, console_label
 from fuzzywuzzy import fuzz
@@ -10,14 +12,25 @@ from itertools import combinations, product
 from random import choices, random
 from typing import Iterable, Callable
 
+# from src.matching.match import load_nes
 from src.utils.utils import list_dir
+
+
+logging.basicConfig(
+    stream=sys.stdout,
+    level=logging.DEBUG,
+    format='[%(asctime)s] {%(filename)s:%(lineno)d} %(levelname)s - %(message)s'
+)
+logger = logging.getLogger('DedupeMatching')
 
 BASE_FNAME = "./data/deduper"
 
+RELEVANT_LANGS = ['bg', 'cs', 'pl', 'ru', 'sl', 'uk']
+
 # Dedup configuration variables
 CHOOSE_K = 3  # determines how many samples of equivalent values to choose
-CLUSTER_THRESHOLD = 0.35
-DEDUPE_CORES_USED = 14
+CLUSTER_THRESHOLD = 0.5
+DEDUPE_CORES_USED = 63
 dedupe_variables = [
     # document structure: docId,sentenceId,tokenId,text,lemma,calcLemma,upos,xpos,ner,clID
     # variables to consider:
@@ -37,16 +50,22 @@ def load_nes(
         dataset_name = dataset.split('/')[-1]
         documents[dataset_name] = {}
         for lang in langs.keys():
+            if lang.lower() not in RELEVANT_LANGS:
+                logger.info(f"Skipping {dataset_name}/{lang}")
+                continue
             documents[dataset_name][lang] = {}
-            print(f'Extracting from: {dataset}, language: {lang}')
-            ne_path = f'{dataset_name}/merged/{lang}'
+            logger.info(f'Extracting from: {dataset}/{lang}')
+            ne_path = f'{dataset}/merged/{lang}'
             _, files = list_dir(ne_path)
             for file in files:
-                df = pd.read_csv(f'{ne_path}/{file}', dtype={'docId': str, 'clID': str})
-                df = df.loc[~df["ner"].isin(['O'])]
+                df = pd.read_csv(f'{ne_path}/{file}', dtype={'docId': str, 'sentenceId': str, 'tokenId': str, 'clID': str, })
                 df['lang'] = lang
-                document = df.loc[~(df['ner'] == ['O'])].to_dict(orient='records')
-                documents[dataset_name][lang][f"{lang};{document['docId']};{document['sentenceId']};{document['text']}"] = document
+                df = df.fillna('')
+                for item in df.loc[~(df['ner'] == 'O')].to_dict(orient='records'):
+                    dkey = f"{lang};{item['docId']};{item['sentenceId']};{item['tokenId']};{item['text']}"
+                    if dkey in documents[dataset_name][lang]:
+                        raise Exception(f"COLLISION!!! {dkey}")
+                    documents[dataset_name][lang][dkey] = item
     return documents
 
 
@@ -57,16 +76,15 @@ def load_data(
     cached_file = pathlib.Path(cache_path)
     if not clear_cache and cached_file.exists() and cached_file.is_file():
         mod_time = datetime.fromtimestamp(cached_file.stat().st_mtime)
-        print(f"Using cached data from `{cache_path}`, last modified at: `{mod_time.isoformat()}`")
+        logger.info(f"Using cached data from `{cache_path}`, last modified at: `{mod_time.isoformat()}`")
         with open(cache_path) as f:
             return json.load(f)
     # load the datasets
     datasets = json.load(open("./data/results/dataset_pairs.json"))
     data = load_nes(datasets)
 
-    # store a cached version of the data
     with open(cache_path, 'w') as f:
-        print(f"Storing cached data at: {cache_path}")
+        logger.info(f"Storing cached data at: {cache_path}")
         json.dump(data, f)
     return data
 
@@ -97,25 +115,22 @@ def generate_training_examples(
         positive_examples[value['clID']].append(value)
 
     for key, values in positive_examples.items():
-        # print(f"{key} ({len(values)}): {values}")
+        # logger.info(f"{key} ({len(values)}): {values}")
         use_items = choices(values, k=3)
         for comb in combinations(use_items, 2):
             matches.append(comb)
-
-    # TODO: find most similar mentions and generate negative
-    #   similarity search
 
     clids = positive_examples.keys()
     for comb in combinations(clids, 2):
         # skip some combination with a 1/2 probability
         if not search_closest and random() < 0.5:
-            print("Skipping...")
+            # logger.info("Skipping...")
             continue
         d1 = choices(positive_examples[comb[0]], k=CHOOSE_K)
         d2 = choices(positive_examples[comb[1]], k=CHOOSE_K)
         for (i1, i2) in product(d1, d2):
             if search_closest and fuzz.ratio(i1['text'].lower(), i2['text'].lower()) >= 70:
-                print(f"Similar are: {i1['text']}, {i2['text']}")
+                # logger.info(f"Similar are: {i1['text']}, {i2['text']}")
                 distinct.append((i1, i2))
 
     return {
@@ -131,7 +146,14 @@ def data_looper(
     def loop_through():
         for dataset, langs in data.items():
             for lang, items in langs.items():
-                call_fun(dataset, lang, items)
+                try:
+                    call_fun(dataset, lang, items)
+                except Exception as e:
+                    logger.error(f"ERROR OCCURED WHEN WORKING ON {dataset}-{lang}, {e}")
+            try:
+                call_fun(dataset, "all", {k:v for lang, docs in langs.items() for k, v in docs.items()})
+            except Exception as e:
+                logger.error(f"ERROR OCCURED WHEN WORKING ON {dataset}-{lang}, {e}")
     return loop_through
 
 
@@ -140,7 +162,7 @@ def train(
     lang: str,
     items: dict
 ) -> None:
-    print(f"Training on `{dataset}`, language: `{lang}`")
+    logger.info(f"Training on `{dataset}/{lang}`")
 
     # prepare training examples: generate matches and distinct cases
     td = generate_training_examples(items)
@@ -173,12 +195,12 @@ def cluster_data(
     lang: str,
     items: dict
 ) -> None:
-    print(f"Clustering `{dataset}`, language: `{lang}`")
+    logger.info(f"Clustering `{dataset}`")
 
     learned_settings_fname = f'{RUN_BASE_FNAME}/learned_settings-{dataset}-{lang}.bin'
     settings_file = pathlib.Path(learned_settings_fname)
     if not (settings_file.exists() or settings_file.is_file()):
-        print(f"Settings file `{learned_settings_fname}` does not exist or it's not a file.")
+        logger.info(f"Settings file `{learned_settings_fname}` does not exist or it's not a file.")
         return
 
     # load the learned settings
@@ -192,7 +214,7 @@ def cluster_data(
     with open(clusters_report_fname, 'w') as f:
         for clid, (rec, score) in enumerate(clustered):
             row = f"{clid}: {','.join(rec)}"
-            print(row)
+            logger.info(row)
             print(row, file=f)
 
     clustered_data_fname = f'{RUN_BASE_FNAME}/clusters-{dataset}-{lang}.json'
@@ -202,20 +224,20 @@ def cluster_data(
 
 
 def main():
-    print("Running Dedupe Entity Matching")
+    logger.info("Running Dedupe Entity Matching")
 
-    print("Loading the data...")
-    data = load_data()
+    logger.info("Loading the data...")
+    data = load_data(clear_cache=True)
 
-    print("Training on the data...")
+    logger.info("Training on the data...")
     trainer = data_looper(data, train)
     trainer()
 
-    print("Clustering the data...")
+    logger.info("Clustering the data...")
     clusterer = data_looper(data, cluster_data)
     clusterer()
 
-    print("Done!")
+    logger.info("Done!")
 
 
 if __name__ == '__main__':
