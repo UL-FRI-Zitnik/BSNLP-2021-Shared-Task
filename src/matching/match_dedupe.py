@@ -2,6 +2,7 @@ import json
 import pathlib
 
 from dedupe import Dedupe, StaticDedupe, console_label
+from fuzzywuzzy import fuzz
 from datetime import datetime
 from collections import defaultdict
 from itertools import combinations, product
@@ -74,7 +75,8 @@ def get_clustered_ids(
 
 
 def generate_training_examples(
-    data: dict
+    data: dict,
+    search_closest: bool = True
 ) -> dict:
     positive_examples = defaultdict(list)
     matches = []
@@ -95,12 +97,15 @@ def generate_training_examples(
     clids = positive_examples.keys()
     for comb in combinations(clids, 2):
         # skip some combination with a 1/2 probability
-        if random() < 0.5:
+        if not search_closest and random() < 0.5:
+            print("Skipping...")
             continue
         d1 = choices(positive_examples[comb[0]], k=CHOOSE_K)
         d2 = choices(positive_examples[comb[1]], k=CHOOSE_K)
-        for items in product(d1, d2):
-            distinct.append(items)
+        for (i1, i2) in product(d1, d2):
+            if search_closest and fuzz.ratio(i1.lower(), i2.lower()) >= 70:
+                print(f"Similar are: {i1}, {i2}")
+                distinct.append((i1, i2))
 
     return {
         'distinct': distinct,
