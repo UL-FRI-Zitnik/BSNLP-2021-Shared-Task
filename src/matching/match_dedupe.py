@@ -1,5 +1,6 @@
 import json
 import pathlib
+import pandas as pd
 
 from dedupe import Dedupe, StaticDedupe, console_label
 from fuzzywuzzy import fuzz
@@ -9,7 +10,7 @@ from itertools import combinations, product
 from random import choices, random
 from typing import Iterable, Callable
 
-from src.matching.match import load_nes
+from src.utils.utils import list_dir
 
 BASE_FNAME = "./data/deduper"
 
@@ -28,6 +29,27 @@ dedupe_variables = [
 ]
 
 
+def load_nes(
+    datasets: dict,
+) -> dict:
+    documents = {}
+    for dataset, langs in datasets.items():
+        dataset_name = dataset.split('/')[-1]
+        documents[dataset_name] = {}
+        for lang in langs.keys():
+            documents[dataset_name][lang] = {}
+            print(f'Extracting from: {dataset}, language: {lang}')
+            ne_path = f'{dataset_name}/merged/{lang}'
+            _, files = list_dir(ne_path)
+            for file in files:
+                df = pd.read_csv(f'{ne_path}/{file}', dtype={'docId': str, 'clID': str})
+                df = df.loc[~df["ner"].isin(['O'])]
+                df['lang'] = lang
+                document = df.loc[~(df['ner'] == ['O'])].to_dict(orient='records')
+                documents[dataset_name][lang][f"{lang};{document['docId']};{document['sentenceId']};{document['text']}"] = document
+    return documents
+
+
 def load_data(
     clear_cache: bool = False
 ) -> dict:
@@ -40,24 +62,13 @@ def load_data(
             return json.load(f)
     # load the datasets
     datasets = json.load(open("./data/results/dataset_pairs.json"))
-    data = load_nes(datasets, filter_nes=True, flatten_docs=True)
-
-    # transform the data from a list to a dictionary
-    ret = {}
-    for dataset, langs in data.items():
-        dataset_name = dataset.split('/')[-1]
-        ret[dataset_name] = {}
-        for lang, items in langs.items():
-            ret[dataset_name][lang] = {}
-            for item in items:
-                ret[dataset_name][lang][f"{item['docId']}-{item['sentenceId']}-{item['text']}"] = item
+    data = load_nes(datasets)
 
     # store a cached version of the data
     with open(cache_path, 'w') as f:
         print(f"Storing cached data at: {cache_path}")
-        json.dump(ret, f)
-
-    return ret
+        json.dump(data, f)
+    return data
 
 
 def get_clustered_ids(
@@ -103,8 +114,8 @@ def generate_training_examples(
         d1 = choices(positive_examples[comb[0]], k=CHOOSE_K)
         d2 = choices(positive_examples[comb[1]], k=CHOOSE_K)
         for (i1, i2) in product(d1, d2):
-            if search_closest and fuzz.ratio(i1.lower(), i2.lower()) >= 70:
-                print(f"Similar are: {i1}, {i2}")
+            if search_closest and fuzz.ratio(i1['text'].lower(), i2['text'].lower()) >= 70:
+                print(f"Similar are: {i1['text']}, {i2['text']}")
                 distinct.append((i1, i2))
 
     return {
@@ -120,8 +131,6 @@ def data_looper(
     def loop_through():
         for dataset, langs in data.items():
             for lang, items in langs.items():
-                if lang != 'sl':
-                    continue
                 call_fun(dataset, lang, items)
     return loop_through
 

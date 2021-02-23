@@ -64,7 +64,7 @@ def load_nes(
                 df['lang'] = lang
                 df['numTokens'] = 1
                 df['contracted'] = 0
-                filtered = df.loc[~df['ner'].isin(['O'])].to_dict(orient='records')
+                filtered = df.loc[~(df['ner'] == ['O'])].to_dict(orient='records')
                 document = merge_ne_records(filtered)
                 documents[dataset][lang].append(document)
     if flatten_docs:
