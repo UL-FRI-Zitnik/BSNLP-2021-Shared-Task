@@ -14,8 +14,6 @@ def split_documents(dataset_files: dict, tokenizers: dict):
     files_processed = 0
     for dataset in dataset_files:
         for lang in dataset_files[dataset]:
-            if lang == 'sl':
-                continue
             print(f'Dataset: {dataset}, Language: {lang}')
             merged_path = f'{dataset}/merged/{lang}'
             if not os.path.exists(merged_path):

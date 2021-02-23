@@ -190,18 +190,18 @@ if __name__ == '__main__':
     # ann_df = doc_infos['ann']
 
     datasets = [
-        './data/challenge/2017/ec',
-        './data/challenge/2017/trump',
+        './data/bsnlp/ec',
+        './data/bsnlp/trump',
         # 2019 data is updated for the 2021 challenge, so these are obsolete
-        # './data/challenge/2019/sample',
-        # './data/challenge/2019/training',
-        # './data/challenge/2019/test/nord_stream',
-        # './data/challenge/2019/test/ryanair',
-        './data/challenge/2021/asia_bibi',
-        './data/challenge/2021/brexit',
-        './data/challenge/2021/nord_stream',
-        './data/challenge/2021/other',
-        './data/challenge/2021/ryanair',
+        # './data/bsnlp/sample',
+        # './data/bsnlp/training',
+        # './data/bsnlp/nord_stream',
+        # './data/bsnlp/ryanair',
+        './data/bsnlp/asia_bibi',
+        './data/bsnlp/brexit',
+        './data/bsnlp/nord_stream',
+        './data/bsnlp/other',
+        './data/bsnlp/ryanair',
     ]
     dataset_files = list_datasets(datasets)
     logger.info('Done.')
