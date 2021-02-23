@@ -2,151 +2,151 @@
     "./data/bsnlp/ec": {
         "cs": [
             {
-                "raw": "./data/bsnlp/ec/raw/CS/file_100_cz.txt",
+                "raw": "./data/bsnlp/ec/raw/cs/file_100_cz.txt",
                 "annotated": "./data/bsnlp/ec/annotated/cs/file_100_cz.txt",
                 "raw_fname": "file_100_cz.txt",
                 "raw_aname": "file_100_cz.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/CS/file_101_cz.txt",
+                "raw": "./data/bsnlp/ec/raw/cs/file_101_cz.txt",
                 "annotated": "./data/bsnlp/ec/annotated/cs/file_101_cz.txt",
                 "raw_fname": "file_101_cz.txt",
                 "raw_aname": "file_101_cz.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/CS/file_103_cz.txt",
+                "raw": "./data/bsnlp/ec/raw/cs/file_103_cz.txt",
                 "annotated": "./data/bsnlp/ec/annotated/cs/file_103_cz.txt",
                 "raw_fname": "file_103_cz.txt",
                 "raw_aname": "file_103_cz.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/CS/file_105_cz.txt",
+                "raw": "./data/bsnlp/ec/raw/cs/file_105_cz.txt",
                 "annotated": "./data/bsnlp/ec/annotated/cs/file_105_cz.txt",
                 "raw_fname": "file_105_cz.txt",
                 "raw_aname": "file_105_cz.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/CS/file_109_cz.txt",
+                "raw": "./data/bsnlp/ec/raw/cs/file_109_cz.txt",
                 "annotated": "./data/bsnlp/ec/annotated/cs/file_109_cz.txt",
                 "raw_fname": "file_109_cz.txt",
                 "raw_aname": "file_109_cz.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/CS/file_110_cz.txt",
+                "raw": "./data/bsnlp/ec/raw/cs/file_110_cz.txt",
                 "annotated": "./data/bsnlp/ec/annotated/cs/file_110_cz.txt",
                 "raw_fname": "file_110_cz.txt",
                 "raw_aname": "file_110_cz.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/CS/file_113_cz.txt",
+                "raw": "./data/bsnlp/ec/raw/cs/file_113_cz.txt",
                 "annotated": "./data/bsnlp/ec/annotated/cs/file_113_cz.txt",
                 "raw_fname": "file_113_cz.txt",
                 "raw_aname": "file_113_cz.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/CS/file_118_cz.txt",
+                "raw": "./data/bsnlp/ec/raw/cs/file_118_cz.txt",
                 "annotated": "./data/bsnlp/ec/annotated/cs/file_118_cz.txt",
                 "raw_fname": "file_118_cz.txt",
                 "raw_aname": "file_118_cz.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/CS/file_119_cz.txt",
+                "raw": "./data/bsnlp/ec/raw/cs/file_119_cz.txt",
                 "annotated": "./data/bsnlp/ec/annotated/cs/file_119_cz.txt",
                 "raw_fname": "file_119_cz.txt",
                 "raw_aname": "file_119_cz.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/CS/file_120_cz.txt",
+                "raw": "./data/bsnlp/ec/raw/cs/file_120_cz.txt",
                 "annotated": "./data/bsnlp/ec/annotated/cs/file_120_cz.txt",
                 "raw_fname": "file_120_cz.txt",
                 "raw_aname": "file_120_cz.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/CS/file_121_cz.txt",
+                "raw": "./data/bsnlp/ec/raw/cs/file_121_cz.txt",
                 "annotated": "./data/bsnlp/ec/annotated/cs/file_121_cz.txt",
                 "raw_fname": "file_121_cz.txt",
                 "raw_aname": "file_121_cz.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/CS/file_122_cz.txt",
+                "raw": "./data/bsnlp/ec/raw/cs/file_122_cz.txt",
                 "annotated": "./data/bsnlp/ec/annotated/cs/file_122_cz.txt",
                 "raw_fname": "file_122_cz.txt",
                 "raw_aname": "file_122_cz.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/CS/file_126_cz.txt",
+                "raw": "./data/bsnlp/ec/raw/cs/file_126_cz.txt",
                 "annotated": "./data/bsnlp/ec/annotated/cs/file_126_cz.txt",
                 "raw_fname": "file_126_cz.txt",
                 "raw_aname": "file_126_cz.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/CS/file_129_cz.txt",
+                "raw": "./data/bsnlp/ec/raw/cs/file_129_cz.txt",
                 "annotated": "./data/bsnlp/ec/annotated/cs/file_129_cz.txt",
                 "raw_fname": "file_129_cz.txt",
                 "raw_aname": "file_129_cz.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/CS/file_130_cz.txt",
+                "raw": "./data/bsnlp/ec/raw/cs/file_130_cz.txt",
                 "annotated": "./data/bsnlp/ec/annotated/cs/file_130_cz.txt",
                 "raw_fname": "file_130_cz.txt",
                 "raw_aname": "file_130_cz.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/CS/file_133_cz.txt",
+                "raw": "./data/bsnlp/ec/raw/cs/file_133_cz.txt",
                 "annotated": "./data/bsnlp/ec/annotated/cs/file_133_cz.txt",
                 "raw_fname": "file_133_cz.txt",
                 "raw_aname": "file_133_cz.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/CS/file_137_cz.txt",
+                "raw": "./data/bsnlp/ec/raw/cs/file_137_cz.txt",
                 "annotated": "./data/bsnlp/ec/annotated/cs/file_137_cz.txt",
                 "raw_fname": "file_137_cz.txt",
                 "raw_aname": "file_137_cz.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/CS/file_142_cz.txt",
+                "raw": "./data/bsnlp/ec/raw/cs/file_142_cz.txt",
                 "annotated": "./data/bsnlp/ec/annotated/cs/file_142_cz.txt",
                 "raw_fname": "file_142_cz.txt",
                 "raw_aname": "file_142_cz.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/CS/file_150_cz.txt",
+                "raw": "./data/bsnlp/ec/raw/cs/file_150_cz.txt",
                 "annotated": "./data/bsnlp/ec/annotated/cs/file_150_cz.txt",
                 "raw_fname": "file_150_cz.txt",
                 "raw_aname": "file_150_cz.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/CS/file_152_cz.txt",
+                "raw": "./data/bsnlp/ec/raw/cs/file_152_cz.txt",
                 "annotated": "./data/bsnlp/ec/annotated/cs/file_152_cz.txt",
                 "raw_fname": "file_152_cz.txt",
                 "raw_aname": "file_152_cz.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/CS/file_153_cz.txt",
+                "raw": "./data/bsnlp/ec/raw/cs/file_153_cz.txt",
                 "annotated": "./data/bsnlp/ec/annotated/cs/file_153_cz.txt",
                 "raw_fname": "file_153_cz.txt",
                 "raw_aname": "file_153_cz.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/CS/file_85_cz.txt",
+                "raw": "./data/bsnlp/ec/raw/cs/file_85_cz.txt",
                 "annotated": "./data/bsnlp/ec/annotated/cs/file_85_cz.txt",
                 "raw_fname": "file_85_cz.txt",
                 "raw_aname": "file_85_cz.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/CS/file_86_cz.txt",
+                "raw": "./data/bsnlp/ec/raw/cs/file_86_cz.txt",
                 "annotated": "./data/bsnlp/ec/annotated/cs/file_86_cz.txt",
                 "raw_fname": "file_86_cz.txt",
                 "raw_aname": "file_86_cz.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/CS/file_93_cz.txt",
+                "raw": "./data/bsnlp/ec/raw/cs/file_93_cz.txt",
                 "annotated": "./data/bsnlp/ec/annotated/cs/file_93_cz.txt",
                 "raw_fname": "file_93_cz.txt",
                 "raw_aname": "file_93_cz.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/CS/file_94_cz.txt",
+                "raw": "./data/bsnlp/ec/raw/cs/file_94_cz.txt",
                 "annotated": "./data/bsnlp/ec/annotated/cs/file_94_cz.txt",
                 "raw_fname": "file_94_cz.txt",
                 "raw_aname": "file_94_cz.txt"
@@ -154,151 +154,151 @@
         ],
         "hr": [
             {
-                "raw": "./data/bsnlp/ec/raw/HR/file_156.txt",
+                "raw": "./data/bsnlp/ec/raw/hr/file_156.txt",
                 "annotated": "./data/bsnlp/ec/annotated/hr/file_156.txt",
                 "raw_fname": "file_156.txt",
                 "raw_aname": "file_156.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/HR/file_157.txt",
+                "raw": "./data/bsnlp/ec/raw/hr/file_157.txt",
                 "annotated": "./data/bsnlp/ec/annotated/hr/file_157.txt",
                 "raw_fname": "file_157.txt",
                 "raw_aname": "file_157.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/HR/file_158.txt",
+                "raw": "./data/bsnlp/ec/raw/hr/file_158.txt",
                 "annotated": "./data/bsnlp/ec/annotated/hr/file_158.txt",
                 "raw_fname": "file_158.txt",
                 "raw_aname": "file_158.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/HR/file_159.txt",
+                "raw": "./data/bsnlp/ec/raw/hr/file_159.txt",
                 "annotated": "./data/bsnlp/ec/annotated/hr/file_159.txt",
                 "raw_fname": "file_159.txt",
                 "raw_aname": "file_159.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/HR/file_164.txt",
+                "raw": "./data/bsnlp/ec/raw/hr/file_164.txt",
                 "annotated": "./data/bsnlp/ec/annotated/hr/file_164.txt",
                 "raw_fname": "file_164.txt",
                 "raw_aname": "file_164.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/HR/file_168.txt",
+                "raw": "./data/bsnlp/ec/raw/hr/file_168.txt",
                 "annotated": "./data/bsnlp/ec/annotated/hr/file_168.txt",
                 "raw_fname": "file_168.txt",
                 "raw_aname": "file_168.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/HR/file_170.txt",
+                "raw": "./data/bsnlp/ec/raw/hr/file_170.txt",
                 "annotated": "./data/bsnlp/ec/annotated/hr/file_170.txt",
                 "raw_fname": "file_170.txt",
                 "raw_aname": "file_170.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/HR/file_171.txt",
+                "raw": "./data/bsnlp/ec/raw/hr/file_171.txt",
                 "annotated": "./data/bsnlp/ec/annotated/hr/file_171.txt",
                 "raw_fname": "file_171.txt",
                 "raw_aname": "file_171.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/HR/file_176.txt",
+                "raw": "./data/bsnlp/ec/raw/hr/file_176.txt",
                 "annotated": "./data/bsnlp/ec/annotated/hr/file_176.txt",
                 "raw_fname": "file_176.txt",
                 "raw_aname": "file_176.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/HR/file_177.txt",
+                "raw": "./data/bsnlp/ec/raw/hr/file_177.txt",
                 "annotated": "./data/bsnlp/ec/annotated/hr/file_177.txt",
                 "raw_fname": "file_177.txt",
                 "raw_aname": "file_177.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/HR/file_178.txt",
+                "raw": "./data/bsnlp/ec/raw/hr/file_178.txt",
                 "annotated": "./data/bsnlp/ec/annotated/hr/file_178.txt",
                 "raw_fname": "file_178.txt",
                 "raw_aname": "file_178.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/HR/file_179.txt",
+                "raw": "./data/bsnlp/ec/raw/hr/file_179.txt",
                 "annotated": "./data/bsnlp/ec/annotated/hr/file_179.txt",
                 "raw_fname": "file_179.txt",
                 "raw_aname": "file_179.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/HR/file_180.txt",
+                "raw": "./data/bsnlp/ec/raw/hr/file_180.txt",
                 "annotated": "./data/bsnlp/ec/annotated/hr/file_180.txt",
                 "raw_fname": "file_180.txt",
                 "raw_aname": "file_180.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/HR/file_181.txt",
+                "raw": "./data/bsnlp/ec/raw/hr/file_181.txt",
                 "annotated": "./data/bsnlp/ec/annotated/hr/file_181.txt",
                 "raw_fname": "file_181.txt",
                 "raw_aname": "file_181.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/HR/file_182.txt",
+                "raw": "./data/bsnlp/ec/raw/hr/file_182.txt",
                 "annotated": "./data/bsnlp/ec/annotated/hr/file_182.txt",
                 "raw_fname": "file_182.txt",
                 "raw_aname": "file_182.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/HR/file_183.txt",
+                "raw": "./data/bsnlp/ec/raw/hr/file_183.txt",
                 "annotated": "./data/bsnlp/ec/annotated/hr/file_183.txt",
                 "raw_fname": "file_183.txt",
                 "raw_aname": "file_183.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/HR/file_189.txt",
+                "raw": "./data/bsnlp/ec/raw/hr/file_189.txt",
                 "annotated": "./data/bsnlp/ec/annotated/hr/file_189.txt",
                 "raw_fname": "file_189.txt",
                 "raw_aname": "file_189.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/HR/file_193.txt",
+                "raw": "./data/bsnlp/ec/raw/hr/file_193.txt",
                 "annotated": "./data/bsnlp/ec/annotated/hr/file_193.txt",
                 "raw_fname": "file_193.txt",
                 "raw_aname": "file_193.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/HR/file_194.txt",
+                "raw": "./data/bsnlp/ec/raw/hr/file_194.txt",
                 "annotated": "./data/bsnlp/ec/annotated/hr/file_194.txt",
                 "raw_fname": "file_194.txt",
                 "raw_aname": "file_194.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/HR/file_197.txt",
+                "raw": "./data/bsnlp/ec/raw/hr/file_197.txt",
                 "annotated": "./data/bsnlp/ec/annotated/hr/file_197.txt",
                 "raw_fname": "file_197.txt",
                 "raw_aname": "file_197.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/HR/file_200.txt",
+                "raw": "./data/bsnlp/ec/raw/hr/file_200.txt",
                 "annotated": "./data/bsnlp/ec/annotated/hr/file_200.txt",
                 "raw_fname": "file_200.txt",
                 "raw_aname": "file_200.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/HR/file_210.txt",
+                "raw": "./data/bsnlp/ec/raw/hr/file_210.txt",
                 "annotated": "./data/bsnlp/ec/annotated/hr/file_210.txt",
                 "raw_fname": "file_210.txt",
                 "raw_aname": "file_210.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/HR/file_213.txt",
+                "raw": "./data/bsnlp/ec/raw/hr/file_213.txt",
                 "annotated": "./data/bsnlp/ec/annotated/hr/file_213.txt",
                 "raw_fname": "file_213.txt",
                 "raw_aname": "file_213.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/HR/file_214.txt",
+                "raw": "./data/bsnlp/ec/raw/hr/file_214.txt",
                 "annotated": "./data/bsnlp/ec/annotated/hr/file_214.txt",
                 "raw_fname": "file_214.txt",
                 "raw_aname": "file_214.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/HR/file_227.txt",
+                "raw": "./data/bsnlp/ec/raw/hr/file_227.txt",
                 "annotated": "./data/bsnlp/ec/annotated/hr/file_227.txt",
                 "raw_fname": "file_227.txt",
                 "raw_aname": "file_227.txt"
@@ -306,145 +306,145 @@
         ],
         "pl": [
             {
-                "raw": "./data/bsnlp/ec/raw/PL/file_11_pl.txt",
+                "raw": "./data/bsnlp/ec/raw/pl/file_11_pl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/pl/file_11_pl.txt",
                 "raw_fname": "file_11_pl.txt",
                 "raw_aname": "file_11_pl.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/PL/file_27_pl.txt",
+                "raw": "./data/bsnlp/ec/raw/pl/file_27_pl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/pl/file_27_pl.txt",
                 "raw_fname": "file_27_pl.txt",
                 "raw_aname": "file_27_pl.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/PL/file_29_pl.txt",
+                "raw": "./data/bsnlp/ec/raw/pl/file_29_pl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/pl/file_29_pl.txt",
                 "raw_fname": "file_29_pl.txt",
                 "raw_aname": "file_29_pl.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/PL/file_32_pl.txt",
+                "raw": "./data/bsnlp/ec/raw/pl/file_32_pl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/pl/file_32_pl.txt",
                 "raw_fname": "file_32_pl.txt",
                 "raw_aname": "file_32_pl.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/PL/file_35_pl.txt",
+                "raw": "./data/bsnlp/ec/raw/pl/file_35_pl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/pl/file_35_pl.txt",
                 "raw_fname": "file_35_pl.txt",
                 "raw_aname": "file_35_pl.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/PL/file_38_pl.txt",
+                "raw": "./data/bsnlp/ec/raw/pl/file_38_pl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/pl/file_38_pl.txt",
                 "raw_fname": "file_38_pl.txt",
                 "raw_aname": "file_38_pl.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/PL/file_3_pl.txt",
+                "raw": "./data/bsnlp/ec/raw/pl/file_3_pl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/pl/file_3_pl.txt",
                 "raw_fname": "file_3_pl.txt",
                 "raw_aname": "file_3_pl.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/PL/file_41_pl.txt",
+                "raw": "./data/bsnlp/ec/raw/pl/file_41_pl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/pl/file_41_pl.txt",
                 "raw_fname": "file_41_pl.txt",
                 "raw_aname": "file_41_pl.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/PL/file_43_pl.txt",
+                "raw": "./data/bsnlp/ec/raw/pl/file_43_pl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/pl/file_43_pl.txt",
                 "raw_fname": "file_43_pl.txt",
                 "raw_aname": "file_43_pl.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/PL/file_45_pl.txt",
+                "raw": "./data/bsnlp/ec/raw/pl/file_45_pl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/pl/file_45_pl.txt",
                 "raw_fname": "file_45_pl.txt",
                 "raw_aname": "file_45_pl.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/PL/file_46_pl.txt",
+                "raw": "./data/bsnlp/ec/raw/pl/file_46_pl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/pl/file_46_pl.txt",
                 "raw_fname": "file_46_pl.txt",
                 "raw_aname": "file_46_pl.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/PL/file_50_pl.txt",
+                "raw": "./data/bsnlp/ec/raw/pl/file_50_pl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/pl/file_50_pl.txt",
                 "raw_fname": "file_50_pl.txt",
                 "raw_aname": "file_50_pl.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/PL/file_54_pl.txt",
+                "raw": "./data/bsnlp/ec/raw/pl/file_54_pl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/pl/file_54_pl.txt",
                 "raw_fname": "file_54_pl.txt",
                 "raw_aname": "file_54_pl.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/PL/file_57_pl.txt",
+                "raw": "./data/bsnlp/ec/raw/pl/file_57_pl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/pl/file_57_pl.txt",
                 "raw_fname": "file_57_pl.txt",
                 "raw_aname": "file_57_pl.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/PL/file_59_pl.txt",
+                "raw": "./data/bsnlp/ec/raw/pl/file_59_pl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/pl/file_59_pl.txt",
                 "raw_fname": "file_59_pl.txt",
                 "raw_aname": "file_59_pl.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/PL/file_5_pl.txt",
+                "raw": "./data/bsnlp/ec/raw/pl/file_5_pl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/pl/file_5_pl.txt",
                 "raw_fname": "file_5_pl.txt",
                 "raw_aname": "file_5_pl.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/PL/file_60_pl.txt",
+                "raw": "./data/bsnlp/ec/raw/pl/file_60_pl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/pl/file_60_pl.txt",
                 "raw_fname": "file_60_pl.txt",
                 "raw_aname": "file_60_pl.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/PL/file_61_pl.txt",
+                "raw": "./data/bsnlp/ec/raw/pl/file_61_pl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/pl/file_61_pl.txt",
                 "raw_fname": "file_61_pl.txt",
                 "raw_aname": "file_61_pl.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/PL/file_64_pl.txt",
+                "raw": "./data/bsnlp/ec/raw/pl/file_64_pl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/pl/file_64_pl.txt",
                 "raw_fname": "file_64_pl.txt",
                 "raw_aname": "file_64_pl.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/PL/file_66_pl.txt",
+                "raw": "./data/bsnlp/ec/raw/pl/file_66_pl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/pl/file_66_pl.txt",
                 "raw_fname": "file_66_pl.txt",
                 "raw_aname": "file_66_pl.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/PL/file_6_pl.txt",
+                "raw": "./data/bsnlp/ec/raw/pl/file_6_pl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/pl/file_6_pl.txt",
                 "raw_fname": "file_6_pl.txt",
                 "raw_aname": "file_6_pl.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/PL/file_70_pl.txt",
+                "raw": "./data/bsnlp/ec/raw/pl/file_70_pl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/pl/file_70_pl.txt",
                 "raw_fname": "file_70_pl.txt",
                 "raw_aname": "file_70_pl.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/PL/file_72_pl.txt",
+                "raw": "./data/bsnlp/ec/raw/pl/file_72_pl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/pl/file_72_pl.txt",
                 "raw_fname": "file_72_pl.txt",
                 "raw_aname": "file_72_pl.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/PL/file_75_pl.txt",
+                "raw": "./data/bsnlp/ec/raw/pl/file_75_pl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/pl/file_75_pl.txt",
                 "raw_fname": "file_75_pl.txt",
                 "raw_aname": "file_75_pl.txt"
@@ -452,145 +452,145 @@
         ],
         "ru": [
             {
-                "raw": "./data/bsnlp/ec/raw/RU/file_233_ru.txt",
+                "raw": "./data/bsnlp/ec/raw/ru/file_233_ru.txt",
                 "annotated": "./data/bsnlp/ec/annotated/ru/233.txt",
                 "raw_fname": "file_233_ru.txt",
                 "raw_aname": "233.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/RU/file_234_ru.txt",
+                "raw": "./data/bsnlp/ec/raw/ru/file_234_ru.txt",
                 "annotated": "./data/bsnlp/ec/annotated/ru/234.txt",
                 "raw_fname": "file_234_ru.txt",
                 "raw_aname": "234.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/RU/file_236_ru.txt",
+                "raw": "./data/bsnlp/ec/raw/ru/file_236_ru.txt",
                 "annotated": "./data/bsnlp/ec/annotated/ru/236.txt",
                 "raw_fname": "file_236_ru.txt",
                 "raw_aname": "236.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/RU/file_237_ru.txt",
+                "raw": "./data/bsnlp/ec/raw/ru/file_237_ru.txt",
                 "annotated": "./data/bsnlp/ec/annotated/ru/237.txt",
                 "raw_fname": "file_237_ru.txt",
                 "raw_aname": "237.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/RU/file_238_ru.txt",
+                "raw": "./data/bsnlp/ec/raw/ru/file_238_ru.txt",
                 "annotated": "./data/bsnlp/ec/annotated/ru/238.txt",
                 "raw_fname": "file_238_ru.txt",
                 "raw_aname": "238.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/RU/file_239_ru.txt",
+                "raw": "./data/bsnlp/ec/raw/ru/file_239_ru.txt",
                 "annotated": "./data/bsnlp/ec/annotated/ru/239.txt",
                 "raw_fname": "file_239_ru.txt",
                 "raw_aname": "239.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/RU/file_240_ru.txt",
+                "raw": "./data/bsnlp/ec/raw/ru/file_240_ru.txt",
                 "annotated": "./data/bsnlp/ec/annotated/ru/240.txt",
                 "raw_fname": "file_240_ru.txt",
                 "raw_aname": "240.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/RU/file_241_ru.txt",
+                "raw": "./data/bsnlp/ec/raw/ru/file_241_ru.txt",
                 "annotated": "./data/bsnlp/ec/annotated/ru/241.txt",
                 "raw_fname": "file_241_ru.txt",
                 "raw_aname": "241.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/RU/file_242_ru.txt",
+                "raw": "./data/bsnlp/ec/raw/ru/file_242_ru.txt",
                 "annotated": "./data/bsnlp/ec/annotated/ru/242.txt",
                 "raw_fname": "file_242_ru.txt",
                 "raw_aname": "242.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/RU/file_243_ru.txt",
+                "raw": "./data/bsnlp/ec/raw/ru/file_243_ru.txt",
                 "annotated": "./data/bsnlp/ec/annotated/ru/243.txt",
                 "raw_fname": "file_243_ru.txt",
                 "raw_aname": "243.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/RU/file_244_ru.txt",
+                "raw": "./data/bsnlp/ec/raw/ru/file_244_ru.txt",
                 "annotated": "./data/bsnlp/ec/annotated/ru/244.txt",
                 "raw_fname": "file_244_ru.txt",
                 "raw_aname": "244.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/RU/file_245_ru.txt",
+                "raw": "./data/bsnlp/ec/raw/ru/file_245_ru.txt",
                 "annotated": "./data/bsnlp/ec/annotated/ru/245.txt",
                 "raw_fname": "file_245_ru.txt",
                 "raw_aname": "245.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/RU/file_246_ru.txt",
+                "raw": "./data/bsnlp/ec/raw/ru/file_246_ru.txt",
                 "annotated": "./data/bsnlp/ec/annotated/ru/246.txt",
                 "raw_fname": "file_246_ru.txt",
                 "raw_aname": "246.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/RU/file_247_ru.txt",
+                "raw": "./data/bsnlp/ec/raw/ru/file_247_ru.txt",
                 "annotated": "./data/bsnlp/ec/annotated/ru/247.txt",
                 "raw_fname": "file_247_ru.txt",
                 "raw_aname": "247.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/RU/file_248_ru.txt",
+                "raw": "./data/bsnlp/ec/raw/ru/file_248_ru.txt",
                 "annotated": "./data/bsnlp/ec/annotated/ru/248.txt",
                 "raw_fname": "file_248_ru.txt",
                 "raw_aname": "248.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/RU/file_249_ru.txt",
+                "raw": "./data/bsnlp/ec/raw/ru/file_249_ru.txt",
                 "annotated": "./data/bsnlp/ec/annotated/ru/249.txt",
                 "raw_fname": "file_249_ru.txt",
                 "raw_aname": "249.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/RU/file_250_ru.txt",
+                "raw": "./data/bsnlp/ec/raw/ru/file_250_ru.txt",
                 "annotated": "./data/bsnlp/ec/annotated/ru/250.txt",
                 "raw_fname": "file_250_ru.txt",
                 "raw_aname": "250.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/RU/file_251_ru.txt",
+                "raw": "./data/bsnlp/ec/raw/ru/file_251_ru.txt",
                 "annotated": "./data/bsnlp/ec/annotated/ru/251.txt",
                 "raw_fname": "file_251_ru.txt",
                 "raw_aname": "251.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/RU/file_252_ru.txt",
+                "raw": "./data/bsnlp/ec/raw/ru/file_252_ru.txt",
                 "annotated": "./data/bsnlp/ec/annotated/ru/252.txt",
                 "raw_fname": "file_252_ru.txt",
                 "raw_aname": "252.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/RU/file_253_ru.txt",
+                "raw": "./data/bsnlp/ec/raw/ru/file_253_ru.txt",
                 "annotated": "./data/bsnlp/ec/annotated/ru/253.txt",
                 "raw_fname": "file_253_ru.txt",
                 "raw_aname": "253.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/RU/file_254_ru.txt",
+                "raw": "./data/bsnlp/ec/raw/ru/file_254_ru.txt",
                 "annotated": "./data/bsnlp/ec/annotated/ru/254.txt",
                 "raw_fname": "file_254_ru.txt",
                 "raw_aname": "254.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/RU/file_256_ru.txt",
+                "raw": "./data/bsnlp/ec/raw/ru/file_256_ru.txt",
                 "annotated": "./data/bsnlp/ec/annotated/ru/256.txt",
                 "raw_fname": "file_256_ru.txt",
                 "raw_aname": "256.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/RU/file_257_ru.txt",
+                "raw": "./data/bsnlp/ec/raw/ru/file_257_ru.txt",
                 "annotated": "./data/bsnlp/ec/annotated/ru/257.txt",
                 "raw_fname": "file_257_ru.txt",
                 "raw_aname": "257.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/RU/file_259_ru.txt",
+                "raw": "./data/bsnlp/ec/raw/ru/file_259_ru.txt",
                 "annotated": "./data/bsnlp/ec/annotated/ru/259.txt",
                 "raw_fname": "file_259_ru.txt",
                 "raw_aname": "259.txt"
@@ -598,151 +598,151 @@
         ],
         "sk": [
             {
-                "raw": "./data/bsnlp/ec/raw/SK/file_454_sk.txt",
+                "raw": "./data/bsnlp/ec/raw/sk/file_454_sk.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sk/file_454_sk.txt",
                 "raw_fname": "file_454_sk.txt",
                 "raw_aname": "file_454_sk.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SK/file_455_sk.txt",
+                "raw": "./data/bsnlp/ec/raw/sk/file_455_sk.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sk/file_455_sk.txt",
                 "raw_fname": "file_455_sk.txt",
                 "raw_aname": "file_455_sk.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SK/file_456_sk.txt",
+                "raw": "./data/bsnlp/ec/raw/sk/file_456_sk.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sk/file_456_sk.txt",
                 "raw_fname": "file_456_sk.txt",
                 "raw_aname": "file_456_sk.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SK/file_459_sk.txt",
+                "raw": "./data/bsnlp/ec/raw/sk/file_459_sk.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sk/file_459_sk.txt",
                 "raw_fname": "file_459_sk.txt",
                 "raw_aname": "file_459_sk.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SK/file_460_sk.txt",
+                "raw": "./data/bsnlp/ec/raw/sk/file_460_sk.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sk/file_460_sk.txt",
                 "raw_fname": "file_460_sk.txt",
                 "raw_aname": "file_460_sk.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SK/file_461_sk.txt",
+                "raw": "./data/bsnlp/ec/raw/sk/file_461_sk.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sk/file_461_sk.txt",
                 "raw_fname": "file_461_sk.txt",
                 "raw_aname": "file_461_sk.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SK/file_464_sk.txt",
+                "raw": "./data/bsnlp/ec/raw/sk/file_464_sk.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sk/file_464_sk.txt",
                 "raw_fname": "file_464_sk.txt",
                 "raw_aname": "file_464_sk.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SK/file_465_sk.txt",
+                "raw": "./data/bsnlp/ec/raw/sk/file_465_sk.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sk/file_465_sk.txt",
                 "raw_fname": "file_465_sk.txt",
                 "raw_aname": "file_465_sk.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SK/file_468_sk.txt",
+                "raw": "./data/bsnlp/ec/raw/sk/file_468_sk.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sk/file_468_sk.txt",
                 "raw_fname": "file_468_sk.txt",
                 "raw_aname": "file_468_sk.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SK/file_469_sk.txt",
+                "raw": "./data/bsnlp/ec/raw/sk/file_469_sk.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sk/file_469_sk.txt",
                 "raw_fname": "file_469_sk.txt",
                 "raw_aname": "file_469_sk.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SK/file_471_sk.txt",
+                "raw": "./data/bsnlp/ec/raw/sk/file_471_sk.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sk/file_471_sk.txt",
                 "raw_fname": "file_471_sk.txt",
                 "raw_aname": "file_471_sk.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SK/file_474_sk.txt",
+                "raw": "./data/bsnlp/ec/raw/sk/file_474_sk.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sk/file_474_sk.txt",
                 "raw_fname": "file_474_sk.txt",
                 "raw_aname": "file_474_sk.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SK/file_476_sk.txt",
+                "raw": "./data/bsnlp/ec/raw/sk/file_476_sk.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sk/file_476_sk.txt",
                 "raw_fname": "file_476_sk.txt",
                 "raw_aname": "file_476_sk.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SK/file_479_sk.txt",
+                "raw": "./data/bsnlp/ec/raw/sk/file_479_sk.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sk/file_479_sk.txt",
                 "raw_fname": "file_479_sk.txt",
                 "raw_aname": "file_479_sk.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SK/file_483_sk.txt",
+                "raw": "./data/bsnlp/ec/raw/sk/file_483_sk.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sk/file_483_sk.txt",
                 "raw_fname": "file_483_sk.txt",
                 "raw_aname": "file_483_sk.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SK/file_486_sk.txt",
+                "raw": "./data/bsnlp/ec/raw/sk/file_486_sk.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sk/file_486_sk.txt",
                 "raw_fname": "file_486_sk.txt",
                 "raw_aname": "file_486_sk.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SK/file_490_sk.txt",
+                "raw": "./data/bsnlp/ec/raw/sk/file_490_sk.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sk/file_490_sk.txt",
                 "raw_fname": "file_490_sk.txt",
                 "raw_aname": "file_490_sk.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SK/file_497_sk.txt",
+                "raw": "./data/bsnlp/ec/raw/sk/file_497_sk.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sk/file_497_sk.txt",
                 "raw_fname": "file_497_sk.txt",
                 "raw_aname": "file_497_sk.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SK/file_500_sk.txt",
+                "raw": "./data/bsnlp/ec/raw/sk/file_500_sk.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sk/file_500_sk.txt",
                 "raw_fname": "file_500_sk.txt",
                 "raw_aname": "file_500_sk.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SK/file_502_sk.txt",
+                "raw": "./data/bsnlp/ec/raw/sk/file_502_sk.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sk/file_502_sk.txt",
                 "raw_fname": "file_502_sk.txt",
                 "raw_aname": "file_502_sk.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SK/file_503_sk.txt",
+                "raw": "./data/bsnlp/ec/raw/sk/file_503_sk.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sk/file_503_sk.txt",
                 "raw_fname": "file_503_sk.txt",
                 "raw_aname": "file_503_sk.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SK/file_506_sk.txt",
+                "raw": "./data/bsnlp/ec/raw/sk/file_506_sk.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sk/file_506_sk.txt",
                 "raw_fname": "file_506_sk.txt",
                 "raw_aname": "file_506_sk.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SK/file_507_sk.txt",
+                "raw": "./data/bsnlp/ec/raw/sk/file_507_sk.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sk/file_507_sk.txt",
                 "raw_fname": "file_507_sk.txt",
                 "raw_aname": "file_507_sk.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SK/file_513_sk.txt",
+                "raw": "./data/bsnlp/ec/raw/sk/file_513_sk.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sk/file_513_sk.txt",
                 "raw_fname": "file_513_sk.txt",
                 "raw_aname": "file_513_sk.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SK/file_533_sk.txt",
+                "raw": "./data/bsnlp/ec/raw/sk/file_533_sk.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sk/file_533_sk.txt",
                 "raw_fname": "file_533_sk.txt",
                 "raw_aname": "file_533_sk.txt"
@@ -750,484 +750,484 @@
         ],
         "sl": [
             {
-                "raw": "./data/bsnlp/ec/raw/SL/file_314_sl.txt",
+                "raw": "./data/bsnlp/ec/raw/sl/file_314_sl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sl/EC-file_314.txt",
                 "raw_fname": "file_314_sl.txt",
                 "raw_aname": "EC-file_314.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SL/file_317_sl.txt",
+                "raw": "./data/bsnlp/ec/raw/sl/file_317_sl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sl/EC-file_317.txt",
                 "raw_fname": "file_317_sl.txt",
                 "raw_aname": "EC-file_317.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SL/file_320_sl.txt",
+                "raw": "./data/bsnlp/ec/raw/sl/file_320_sl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sl/EC-file_320.txt",
                 "raw_fname": "file_320_sl.txt",
                 "raw_aname": "EC-file_320.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SL/file_325_sl.txt",
+                "raw": "./data/bsnlp/ec/raw/sl/file_325_sl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sl/EC-file_325.txt",
                 "raw_fname": "file_325_sl.txt",
                 "raw_aname": "EC-file_325.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SL/file_327_sl.txt",
+                "raw": "./data/bsnlp/ec/raw/sl/file_327_sl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sl/EC-file_327.txt",
                 "raw_fname": "file_327_sl.txt",
                 "raw_aname": "EC-file_327.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SL/file_330_sl.txt",
+                "raw": "./data/bsnlp/ec/raw/sl/file_330_sl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sl/EC-file_330.txt",
                 "raw_fname": "file_330_sl.txt",
                 "raw_aname": "EC-file_330.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SL/file_334_sl.txt",
+                "raw": "./data/bsnlp/ec/raw/sl/file_334_sl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sl/EC-file_334.txt",
                 "raw_fname": "file_334_sl.txt",
                 "raw_aname": "EC-file_334.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SL/file_335_sl.txt",
+                "raw": "./data/bsnlp/ec/raw/sl/file_335_sl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sl/EC-file_335.txt",
                 "raw_fname": "file_335_sl.txt",
                 "raw_aname": "EC-file_335.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SL/file_337_sl.txt",
+                "raw": "./data/bsnlp/ec/raw/sl/file_337_sl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sl/EC-file_337.txt",
                 "raw_fname": "file_337_sl.txt",
                 "raw_aname": "EC-file_337.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SL/file_339_sl.txt",
+                "raw": "./data/bsnlp/ec/raw/sl/file_339_sl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sl/EC-file_339.txt",
                 "raw_fname": "file_339_sl.txt",
                 "raw_aname": "EC-file_339.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SL/file_340_sl.txt",
+                "raw": "./data/bsnlp/ec/raw/sl/file_340_sl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sl/EC-file_340.txt",
                 "raw_fname": "file_340_sl.txt",
                 "raw_aname": "EC-file_340.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SL/file_346_sl.txt",
+                "raw": "./data/bsnlp/ec/raw/sl/file_346_sl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sl/EC-file_346.txt",
                 "raw_fname": "file_346_sl.txt",
                 "raw_aname": "EC-file_346.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SL/file_347_sl.txt",
+                "raw": "./data/bsnlp/ec/raw/sl/file_347_sl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sl/EC-file_347.txt",
                 "raw_fname": "file_347_sl.txt",
                 "raw_aname": "EC-file_347.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SL/file_349_sl.txt",
+                "raw": "./data/bsnlp/ec/raw/sl/file_349_sl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sl/EC-file_349.txt",
                 "raw_fname": "file_349_sl.txt",
                 "raw_aname": "EC-file_349.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SL/file_350_sl.txt",
+                "raw": "./data/bsnlp/ec/raw/sl/file_350_sl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sl/EC-file_350.txt",
                 "raw_fname": "file_350_sl.txt",
                 "raw_aname": "EC-file_350.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SL/file_352_sl.txt",
+                "raw": "./data/bsnlp/ec/raw/sl/file_352_sl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sl/EC-file_352.txt",
                 "raw_fname": "file_352_sl.txt",
                 "raw_aname": "EC-file_352.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SL/file_354_sl.txt",
+                "raw": "./data/bsnlp/ec/raw/sl/file_354_sl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sl/EC-file_354.txt",
                 "raw_fname": "file_354_sl.txt",
                 "raw_aname": "EC-file_354.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SL/file_357_sl.txt",
+                "raw": "./data/bsnlp/ec/raw/sl/file_357_sl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sl/EC-file_357.txt",
                 "raw_fname": "file_357_sl.txt",
                 "raw_aname": "EC-file_357.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SL/file_364_sl.txt",
+                "raw": "./data/bsnlp/ec/raw/sl/file_364_sl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sl/EC-file_364.txt",
                 "raw_fname": "file_364_sl.txt",
                 "raw_aname": "EC-file_364.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SL/file_365_sl.txt",
+                "raw": "./data/bsnlp/ec/raw/sl/file_365_sl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sl/EC-file_365.txt",
                 "raw_fname": "file_365_sl.txt",
                 "raw_aname": "EC-file_365.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SL/file_374_sl.txt",
+                "raw": "./data/bsnlp/ec/raw/sl/file_374_sl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sl/EC-file_374.txt",
                 "raw_fname": "file_374_sl.txt",
                 "raw_aname": "EC-file_374.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SL/file_380_sl.txt",
+                "raw": "./data/bsnlp/ec/raw/sl/file_380_sl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sl/EC-file_380.txt",
                 "raw_fname": "file_380_sl.txt",
                 "raw_aname": "EC-file_380.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SL/file_381_sl.txt",
+                "raw": "./data/bsnlp/ec/raw/sl/file_381_sl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sl/EC-file_381.txt",
                 "raw_fname": "file_381_sl.txt",
                 "raw_aname": "EC-file_381.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SL/file_383_sl.txt",
+                "raw": "./data/bsnlp/ec/raw/sl/file_383_sl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sl/EC-file_383.txt",
                 "raw_fname": "file_383_sl.txt",
                 "raw_aname": "EC-file_383.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SL/file_386_sl.txt",
+                "raw": "./data/bsnlp/ec/raw/sl/file_386_sl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sl/EC-file_386.txt",
                 "raw_fname": "file_386_sl.txt",
                 "raw_aname": "EC-file_386.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/SL/file_387_sl.txt",
+                "raw": "./data/bsnlp/ec/raw/sl/file_387_sl.txt",
                 "annotated": "./data/bsnlp/ec/annotated/sl/EC-file_387.txt",
                 "raw_fname": "file_387_sl.txt",
                 "raw_aname": "EC-file_387.txt"
             }
         ],
-        "ua": [
+        "uk": [
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_389_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/389.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_389_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/389.txt",
                 "raw_fname": "file_389_ua.txt",
                 "raw_aname": "389.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_390_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/390.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_390_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/390.txt",
                 "raw_fname": "file_390_ua.txt",
                 "raw_aname": "390.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_391_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/391.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_391_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/391.txt",
                 "raw_fname": "file_391_ua.txt",
                 "raw_aname": "391.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_392_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/392.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_392_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/392.txt",
                 "raw_fname": "file_392_ua.txt",
                 "raw_aname": "392.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_393_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/393.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_393_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/393.txt",
                 "raw_fname": "file_393_ua.txt",
                 "raw_aname": "393.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_394_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/394.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_394_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/394.txt",
                 "raw_fname": "file_394_ua.txt",
                 "raw_aname": "394.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_395_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/395.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_395_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/395.txt",
                 "raw_fname": "file_395_ua.txt",
                 "raw_aname": "395.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_396_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/396.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_396_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/396.txt",
                 "raw_fname": "file_396_ua.txt",
                 "raw_aname": "396.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_397_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/397.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_397_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/397.txt",
                 "raw_fname": "file_397_ua.txt",
                 "raw_aname": "397.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_398_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/398.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_398_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/398.txt",
                 "raw_fname": "file_398_ua.txt",
                 "raw_aname": "398.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_399_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/399.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_399_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/399.txt",
                 "raw_fname": "file_399_ua.txt",
                 "raw_aname": "399.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_400_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/400.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_400_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/400.txt",
                 "raw_fname": "file_400_ua.txt",
                 "raw_aname": "400.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_401_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/401.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_401_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/401.txt",
                 "raw_fname": "file_401_ua.txt",
                 "raw_aname": "401.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_402_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/402.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_402_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/402.txt",
                 "raw_fname": "file_402_ua.txt",
                 "raw_aname": "402.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_403_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/403.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_403_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/403.txt",
                 "raw_fname": "file_403_ua.txt",
                 "raw_aname": "403.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_404_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/404.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_404_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/404.txt",
                 "raw_fname": "file_404_ua.txt",
                 "raw_aname": "404.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_405_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/405.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_405_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/405.txt",
                 "raw_fname": "file_405_ua.txt",
                 "raw_aname": "405.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_406_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/406.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_406_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/406.txt",
                 "raw_fname": "file_406_ua.txt",
                 "raw_aname": "406.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_407_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/407.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_407_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/407.txt",
                 "raw_fname": "file_407_ua.txt",
                 "raw_aname": "407.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_408_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/408.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_408_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/408.txt",
                 "raw_fname": "file_408_ua.txt",
                 "raw_aname": "408.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_409_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/409.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_409_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/409.txt",
                 "raw_fname": "file_409_ua.txt",
                 "raw_aname": "409.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_410_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/410.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_410_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/410.txt",
                 "raw_fname": "file_410_ua.txt",
                 "raw_aname": "410.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_411_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/411.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_411_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/411.txt",
                 "raw_fname": "file_411_ua.txt",
                 "raw_aname": "411.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_412_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/412.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_412_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/412.txt",
                 "raw_fname": "file_412_ua.txt",
                 "raw_aname": "412.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_414_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/414.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_414_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/414.txt",
                 "raw_fname": "file_414_ua.txt",
                 "raw_aname": "414.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_415_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/415.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_415_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/415.txt",
                 "raw_fname": "file_415_ua.txt",
                 "raw_aname": "415.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_417_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/417.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_417_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/417.txt",
                 "raw_fname": "file_417_ua.txt",
                 "raw_aname": "417.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_418_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/418.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_418_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/418.txt",
                 "raw_fname": "file_418_ua.txt",
                 "raw_aname": "418.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_419_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/419.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_419_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/419.txt",
                 "raw_fname": "file_419_ua.txt",
                 "raw_aname": "419.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_420_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/420.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_420_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/420.txt",
                 "raw_fname": "file_420_ua.txt",
                 "raw_aname": "420.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_421_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/421.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_421_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/421.txt",
                 "raw_fname": "file_421_ua.txt",
                 "raw_aname": "421.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_422_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/422.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_422_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/422.txt",
                 "raw_fname": "file_422_ua.txt",
                 "raw_aname": "422.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_423_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/423.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_423_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/423.txt",
                 "raw_fname": "file_423_ua.txt",
                 "raw_aname": "423.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_426_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/426.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_426_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/426.txt",
                 "raw_fname": "file_426_ua.txt",
                 "raw_aname": "426.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_427_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/427.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_427_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/427.txt",
                 "raw_fname": "file_427_ua.txt",
                 "raw_aname": "427.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_428_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/428.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_428_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/428.txt",
                 "raw_fname": "file_428_ua.txt",
                 "raw_aname": "428.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_430_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/430.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_430_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/430.txt",
                 "raw_fname": "file_430_ua.txt",
                 "raw_aname": "430.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_433_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/433.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_433_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/433.txt",
                 "raw_fname": "file_433_ua.txt",
                 "raw_aname": "433.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_434_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/434.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_434_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/434.txt",
                 "raw_fname": "file_434_ua.txt",
                 "raw_aname": "434.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_435_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/435.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_435_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/435.txt",
                 "raw_fname": "file_435_ua.txt",
                 "raw_aname": "435.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_436_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/436.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_436_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/436.txt",
                 "raw_fname": "file_436_ua.txt",
                 "raw_aname": "436.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_437_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/437.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_437_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/437.txt",
                 "raw_fname": "file_437_ua.txt",
                 "raw_aname": "437.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_439_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/439.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_439_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/439.txt",
                 "raw_fname": "file_439_ua.txt",
                 "raw_aname": "439.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_440_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/440.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_440_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/440.txt",
                 "raw_fname": "file_440_ua.txt",
                 "raw_aname": "440.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_441_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/441.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_441_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/441.txt",
                 "raw_fname": "file_441_ua.txt",
                 "raw_aname": "441.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_444_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/444.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_444_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/444.txt",
                 "raw_fname": "file_444_ua.txt",
                 "raw_aname": "444.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_445_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/445.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_445_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/445.txt",
                 "raw_fname": "file_445_ua.txt",
                 "raw_aname": "445.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_446_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/446.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_446_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/446.txt",
                 "raw_fname": "file_446_ua.txt",
                 "raw_aname": "446.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_447_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/447.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_447_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/447.txt",
                 "raw_fname": "file_447_ua.txt",
                 "raw_aname": "447.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_448_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/448.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_448_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/448.txt",
                 "raw_fname": "file_448_ua.txt",
                 "raw_aname": "448.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_449_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/449.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_449_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/449.txt",
                 "raw_fname": "file_449_ua.txt",
                 "raw_aname": "449.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_450_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/450.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_450_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/450.txt",
                 "raw_fname": "file_450_ua.txt",
                 "raw_aname": "450.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_451_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/451.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_451_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/451.txt",
                 "raw_fname": "file_451_ua.txt",
                 "raw_aname": "451.txt"
             },
             {
-                "raw": "./data/bsnlp/ec/raw/UA/file_452_ua.txt",
-                "annotated": "./data/bsnlp/ec/annotated/ua/452.txt",
+                "raw": "./data/bsnlp/ec/raw/uk/file_452_ua.txt",
+                "annotated": "./data/bsnlp/ec/annotated/uk/452.txt",
                 "raw_fname": "file_452_ua.txt",
                 "raw_aname": "452.txt"
             }
@@ -1236,151 +1236,151 @@
     "./data/bsnlp/trump": {
         "cs": [
             {
-                "raw": "./data/bsnlp/trump/raw/CS/file_101.txt",
+                "raw": "./data/bsnlp/trump/raw/cs/file_101.txt",
                 "annotated": "./data/bsnlp/trump/annotated/cs/file_101.txt",
                 "raw_fname": "file_101.txt",
                 "raw_aname": "file_101.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/CS/file_103.txt",
+                "raw": "./data/bsnlp/trump/raw/cs/file_103.txt",
                 "annotated": "./data/bsnlp/trump/annotated/cs/file_103.txt",
                 "raw_fname": "file_103.txt",
                 "raw_aname": "file_103.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/CS/file_111.txt",
+                "raw": "./data/bsnlp/trump/raw/cs/file_111.txt",
                 "annotated": "./data/bsnlp/trump/annotated/cs/file_111.txt",
                 "raw_fname": "file_111.txt",
                 "raw_aname": "file_111.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/CS/file_112.txt",
+                "raw": "./data/bsnlp/trump/raw/cs/file_112.txt",
                 "annotated": "./data/bsnlp/trump/annotated/cs/file_112.txt",
                 "raw_fname": "file_112.txt",
                 "raw_aname": "file_112.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/CS/file_113.txt",
+                "raw": "./data/bsnlp/trump/raw/cs/file_113.txt",
                 "annotated": "./data/bsnlp/trump/annotated/cs/file_113.txt",
                 "raw_fname": "file_113.txt",
                 "raw_aname": "file_113.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/CS/file_115.txt",
+                "raw": "./data/bsnlp/trump/raw/cs/file_115.txt",
                 "annotated": "./data/bsnlp/trump/annotated/cs/file_115.txt",
                 "raw_fname": "file_115.txt",
                 "raw_aname": "file_115.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/CS/file_116.txt",
+                "raw": "./data/bsnlp/trump/raw/cs/file_116.txt",
                 "annotated": "./data/bsnlp/trump/annotated/cs/file_116.txt",
                 "raw_fname": "file_116.txt",
                 "raw_aname": "file_116.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/CS/file_117.txt",
+                "raw": "./data/bsnlp/trump/raw/cs/file_117.txt",
                 "annotated": "./data/bsnlp/trump/annotated/cs/file_117.txt",
                 "raw_fname": "file_117.txt",
                 "raw_aname": "file_117.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/CS/file_118.txt",
+                "raw": "./data/bsnlp/trump/raw/cs/file_118.txt",
                 "annotated": "./data/bsnlp/trump/annotated/cs/file_118.txt",
                 "raw_fname": "file_118.txt",
                 "raw_aname": "file_118.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/CS/file_119.txt",
+                "raw": "./data/bsnlp/trump/raw/cs/file_119.txt",
                 "annotated": "./data/bsnlp/trump/annotated/cs/file_119.txt",
                 "raw_fname": "file_119.txt",
                 "raw_aname": "file_119.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/CS/file_121.txt",
+                "raw": "./data/bsnlp/trump/raw/cs/file_121.txt",
                 "annotated": "./data/bsnlp/trump/annotated/cs/file_121.txt",
                 "raw_fname": "file_121.txt",
                 "raw_aname": "file_121.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/CS/file_122.txt",
+                "raw": "./data/bsnlp/trump/raw/cs/file_122.txt",
                 "annotated": "./data/bsnlp/trump/annotated/cs/file_122.txt",
                 "raw_fname": "file_122.txt",
                 "raw_aname": "file_122.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/CS/file_123.txt",
+                "raw": "./data/bsnlp/trump/raw/cs/file_123.txt",
                 "annotated": "./data/bsnlp/trump/annotated/cs/file_123.txt",
                 "raw_fname": "file_123.txt",
                 "raw_aname": "file_123.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/CS/file_124.txt",
+                "raw": "./data/bsnlp/trump/raw/cs/file_124.txt",
                 "annotated": "./data/bsnlp/trump/annotated/cs/file_124.txt",
                 "raw_fname": "file_124.txt",
                 "raw_aname": "file_124.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/CS/file_125.txt",
+                "raw": "./data/bsnlp/trump/raw/cs/file_125.txt",
                 "annotated": "./data/bsnlp/trump/annotated/cs/file_125.txt",
                 "raw_fname": "file_125.txt",
                 "raw_aname": "file_125.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/CS/file_126.txt",
+                "raw": "./data/bsnlp/trump/raw/cs/file_126.txt",
                 "annotated": "./data/bsnlp/trump/annotated/cs/file_126.txt",
                 "raw_fname": "file_126.txt",
                 "raw_aname": "file_126.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/CS/file_128.txt",
+                "raw": "./data/bsnlp/trump/raw/cs/file_128.txt",
                 "annotated": "./data/bsnlp/trump/annotated/cs/file_128.txt",
                 "raw_fname": "file_128.txt",
                 "raw_aname": "file_128.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/CS/file_130.txt",
+                "raw": "./data/bsnlp/trump/raw/cs/file_130.txt",
                 "annotated": "./data/bsnlp/trump/annotated/cs/file_130.txt",
                 "raw_fname": "file_130.txt",
                 "raw_aname": "file_130.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/CS/file_134.txt",
+                "raw": "./data/bsnlp/trump/raw/cs/file_134.txt",
                 "annotated": "./data/bsnlp/trump/annotated/cs/file_134.txt",
                 "raw_fname": "file_134.txt",
                 "raw_aname": "file_134.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/CS/file_135.txt",
+                "raw": "./data/bsnlp/trump/raw/cs/file_135.txt",
                 "annotated": "./data/bsnlp/trump/annotated/cs/file_135.txt",
                 "raw_fname": "file_135.txt",
                 "raw_aname": "file_135.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/CS/file_140.txt",
+                "raw": "./data/bsnlp/trump/raw/cs/file_140.txt",
                 "annotated": "./data/bsnlp/trump/annotated/cs/file_140.txt",
                 "raw_fname": "file_140.txt",
                 "raw_aname": "file_140.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/CS/file_144.txt",
+                "raw": "./data/bsnlp/trump/raw/cs/file_144.txt",
                 "annotated": "./data/bsnlp/trump/annotated/cs/file_144.txt",
                 "raw_fname": "file_144.txt",
                 "raw_aname": "file_144.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/CS/file_79.txt",
+                "raw": "./data/bsnlp/trump/raw/cs/file_79.txt",
                 "annotated": "./data/bsnlp/trump/annotated/cs/file_79.txt",
                 "raw_fname": "file_79.txt",
                 "raw_aname": "file_79.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/CS/file_80.txt",
+                "raw": "./data/bsnlp/trump/raw/cs/file_80.txt",
                 "annotated": "./data/bsnlp/trump/annotated/cs/file_80.txt",
                 "raw_fname": "file_80.txt",
                 "raw_aname": "file_80.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/CS/file_81.txt",
+                "raw": "./data/bsnlp/trump/raw/cs/file_81.txt",
                 "annotated": "./data/bsnlp/trump/annotated/cs/file_81.txt",
                 "raw_fname": "file_81.txt",
                 "raw_aname": "file_81.txt"
@@ -1388,151 +1388,151 @@
         ],
         "hr": [
             {
-                "raw": "./data/bsnlp/trump/raw/HR/file_146.txt",
+                "raw": "./data/bsnlp/trump/raw/hr/file_146.txt",
                 "annotated": "./data/bsnlp/trump/annotated/hr/file_146.txt",
                 "raw_fname": "file_146.txt",
                 "raw_aname": "file_146.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/HR/file_147.txt",
+                "raw": "./data/bsnlp/trump/raw/hr/file_147.txt",
                 "annotated": "./data/bsnlp/trump/annotated/hr/file_147.txt",
                 "raw_fname": "file_147.txt",
                 "raw_aname": "file_147.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/HR/file_152.txt",
+                "raw": "./data/bsnlp/trump/raw/hr/file_152.txt",
                 "annotated": "./data/bsnlp/trump/annotated/hr/file_152.txt",
                 "raw_fname": "file_152.txt",
                 "raw_aname": "file_152.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/HR/file_154.txt",
+                "raw": "./data/bsnlp/trump/raw/hr/file_154.txt",
                 "annotated": "./data/bsnlp/trump/annotated/hr/file_154.txt",
                 "raw_fname": "file_154.txt",
                 "raw_aname": "file_154.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/HR/file_155.txt",
+                "raw": "./data/bsnlp/trump/raw/hr/file_155.txt",
                 "annotated": "./data/bsnlp/trump/annotated/hr/file_155.txt",
                 "raw_fname": "file_155.txt",
                 "raw_aname": "file_155.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/HR/file_156.txt",
+                "raw": "./data/bsnlp/trump/raw/hr/file_156.txt",
                 "annotated": "./data/bsnlp/trump/annotated/hr/file_156.txt",
                 "raw_fname": "file_156.txt",
                 "raw_aname": "file_156.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/HR/file_160.txt",
+                "raw": "./data/bsnlp/trump/raw/hr/file_160.txt",
                 "annotated": "./data/bsnlp/trump/annotated/hr/file_160.txt",
                 "raw_fname": "file_160.txt",
                 "raw_aname": "file_160.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/HR/file_161.txt",
+                "raw": "./data/bsnlp/trump/raw/hr/file_161.txt",
                 "annotated": "./data/bsnlp/trump/annotated/hr/file_161.txt",
                 "raw_fname": "file_161.txt",
                 "raw_aname": "file_161.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/HR/file_162.txt",
+                "raw": "./data/bsnlp/trump/raw/hr/file_162.txt",
                 "annotated": "./data/bsnlp/trump/annotated/hr/file_162.txt",
                 "raw_fname": "file_162.txt",
                 "raw_aname": "file_162.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/HR/file_163.txt",
+                "raw": "./data/bsnlp/trump/raw/hr/file_163.txt",
                 "annotated": "./data/bsnlp/trump/annotated/hr/file_163.txt",
                 "raw_fname": "file_163.txt",
                 "raw_aname": "file_163.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/HR/file_168.txt",
+                "raw": "./data/bsnlp/trump/raw/hr/file_168.txt",
                 "annotated": "./data/bsnlp/trump/annotated/hr/file_168.txt",
                 "raw_fname": "file_168.txt",
                 "raw_aname": "file_168.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/HR/file_171.txt",
+                "raw": "./data/bsnlp/trump/raw/hr/file_171.txt",
                 "annotated": "./data/bsnlp/trump/annotated/hr/file_171.txt",
                 "raw_fname": "file_171.txt",
                 "raw_aname": "file_171.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/HR/file_174.txt",
+                "raw": "./data/bsnlp/trump/raw/hr/file_174.txt",
                 "annotated": "./data/bsnlp/trump/annotated/hr/file_174.txt",
                 "raw_fname": "file_174.txt",
                 "raw_aname": "file_174.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/HR/file_176.txt",
+                "raw": "./data/bsnlp/trump/raw/hr/file_176.txt",
                 "annotated": "./data/bsnlp/trump/annotated/hr/file_176.txt",
                 "raw_fname": "file_176.txt",
                 "raw_aname": "file_176.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/HR/file_177.txt",
+                "raw": "./data/bsnlp/trump/raw/hr/file_177.txt",
                 "annotated": "./data/bsnlp/trump/annotated/hr/file_177.txt",
                 "raw_fname": "file_177.txt",
                 "raw_aname": "file_177.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/HR/file_182.txt",
+                "raw": "./data/bsnlp/trump/raw/hr/file_182.txt",
                 "annotated": "./data/bsnlp/trump/annotated/hr/file_182.txt",
                 "raw_fname": "file_182.txt",
                 "raw_aname": "file_182.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/HR/file_183.txt",
+                "raw": "./data/bsnlp/trump/raw/hr/file_183.txt",
                 "annotated": "./data/bsnlp/trump/annotated/hr/file_183.txt",
                 "raw_fname": "file_183.txt",
                 "raw_aname": "file_183.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/HR/file_187.txt",
+                "raw": "./data/bsnlp/trump/raw/hr/file_187.txt",
                 "annotated": "./data/bsnlp/trump/annotated/hr/file_187.txt",
                 "raw_fname": "file_187.txt",
                 "raw_aname": "file_187.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/HR/file_197.txt",
+                "raw": "./data/bsnlp/trump/raw/hr/file_197.txt",
                 "annotated": "./data/bsnlp/trump/annotated/hr/file_197.txt",
                 "raw_fname": "file_197.txt",
                 "raw_aname": "file_197.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/HR/file_200.txt",
+                "raw": "./data/bsnlp/trump/raw/hr/file_200.txt",
                 "annotated": "./data/bsnlp/trump/annotated/hr/file_200.txt",
                 "raw_fname": "file_200.txt",
                 "raw_aname": "file_200.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/HR/file_202.txt",
+                "raw": "./data/bsnlp/trump/raw/hr/file_202.txt",
                 "annotated": "./data/bsnlp/trump/annotated/hr/file_202.txt",
                 "raw_fname": "file_202.txt",
                 "raw_aname": "file_202.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/HR/file_206.txt",
+                "raw": "./data/bsnlp/trump/raw/hr/file_206.txt",
                 "annotated": "./data/bsnlp/trump/annotated/hr/file_206.txt",
                 "raw_fname": "file_206.txt",
                 "raw_aname": "file_206.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/HR/file_209.txt",
+                "raw": "./data/bsnlp/trump/raw/hr/file_209.txt",
                 "annotated": "./data/bsnlp/trump/annotated/hr/file_209.txt",
                 "raw_fname": "file_209.txt",
                 "raw_aname": "file_209.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/HR/file_210.txt",
+                "raw": "./data/bsnlp/trump/raw/hr/file_210.txt",
                 "annotated": "./data/bsnlp/trump/annotated/hr/file_210.txt",
                 "raw_fname": "file_210.txt",
                 "raw_aname": "file_210.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/HR/file_211.txt",
+                "raw": "./data/bsnlp/trump/raw/hr/file_211.txt",
                 "annotated": "./data/bsnlp/trump/annotated/hr/file_211.txt",
                 "raw_fname": "file_211.txt",
                 "raw_aname": "file_211.txt"
@@ -1540,151 +1540,151 @@
         ],
         "pl": [
             {
-                "raw": "./data/bsnlp/trump/raw/PL/file_16.txt",
+                "raw": "./data/bsnlp/trump/raw/pl/file_16.txt",
                 "annotated": "./data/bsnlp/trump/annotated/pl/file_16.txt",
                 "raw_fname": "file_16.txt",
                 "raw_aname": "file_16.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/PL/file_18.txt",
+                "raw": "./data/bsnlp/trump/raw/pl/file_18.txt",
                 "annotated": "./data/bsnlp/trump/annotated/pl/file_18.txt",
                 "raw_fname": "file_18.txt",
                 "raw_aname": "file_18.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/PL/file_21.txt",
+                "raw": "./data/bsnlp/trump/raw/pl/file_21.txt",
                 "annotated": "./data/bsnlp/trump/annotated/pl/file_21.txt",
                 "raw_fname": "file_21.txt",
                 "raw_aname": "file_21.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/PL/file_23.txt",
+                "raw": "./data/bsnlp/trump/raw/pl/file_23.txt",
                 "annotated": "./data/bsnlp/trump/annotated/pl/file_23.txt",
                 "raw_fname": "file_23.txt",
                 "raw_aname": "file_23.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/PL/file_25.txt",
+                "raw": "./data/bsnlp/trump/raw/pl/file_25.txt",
                 "annotated": "./data/bsnlp/trump/annotated/pl/file_25.txt",
                 "raw_fname": "file_25.txt",
                 "raw_aname": "file_25.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/PL/file_26.txt",
+                "raw": "./data/bsnlp/trump/raw/pl/file_26.txt",
                 "annotated": "./data/bsnlp/trump/annotated/pl/file_26.txt",
                 "raw_fname": "file_26.txt",
                 "raw_aname": "file_26.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/PL/file_3.txt",
+                "raw": "./data/bsnlp/trump/raw/pl/file_3.txt",
                 "annotated": "./data/bsnlp/trump/annotated/pl/file_3.txt",
                 "raw_fname": "file_3.txt",
                 "raw_aname": "file_3.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/PL/file_30.txt",
+                "raw": "./data/bsnlp/trump/raw/pl/file_30.txt",
                 "annotated": "./data/bsnlp/trump/annotated/pl/file_30.txt",
                 "raw_fname": "file_30.txt",
                 "raw_aname": "file_30.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/PL/file_34.txt",
+                "raw": "./data/bsnlp/trump/raw/pl/file_34.txt",
                 "annotated": "./data/bsnlp/trump/annotated/pl/file_34.txt",
                 "raw_fname": "file_34.txt",
                 "raw_aname": "file_34.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/PL/file_35.txt",
+                "raw": "./data/bsnlp/trump/raw/pl/file_35.txt",
                 "annotated": "./data/bsnlp/trump/annotated/pl/file_35.txt",
                 "raw_fname": "file_35.txt",
                 "raw_aname": "file_35.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/PL/file_36.txt",
+                "raw": "./data/bsnlp/trump/raw/pl/file_36.txt",
                 "annotated": "./data/bsnlp/trump/annotated/pl/file_36.txt",
                 "raw_fname": "file_36.txt",
                 "raw_aname": "file_36.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/PL/file_42.txt",
+                "raw": "./data/bsnlp/trump/raw/pl/file_42.txt",
                 "annotated": "./data/bsnlp/trump/annotated/pl/file_42.txt",
                 "raw_fname": "file_42.txt",
                 "raw_aname": "file_42.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/PL/file_44.txt",
+                "raw": "./data/bsnlp/trump/raw/pl/file_44.txt",
                 "annotated": "./data/bsnlp/trump/annotated/pl/file_44.txt",
                 "raw_fname": "file_44.txt",
                 "raw_aname": "file_44.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/PL/file_45.txt",
+                "raw": "./data/bsnlp/trump/raw/pl/file_45.txt",
                 "annotated": "./data/bsnlp/trump/annotated/pl/file_45.txt",
                 "raw_fname": "file_45.txt",
                 "raw_aname": "file_45.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/PL/file_47.txt",
+                "raw": "./data/bsnlp/trump/raw/pl/file_47.txt",
                 "annotated": "./data/bsnlp/trump/annotated/pl/file_47.txt",
                 "raw_fname": "file_47.txt",
                 "raw_aname": "file_47.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/PL/file_49.txt",
+                "raw": "./data/bsnlp/trump/raw/pl/file_49.txt",
                 "annotated": "./data/bsnlp/trump/annotated/pl/file_49.txt",
                 "raw_fname": "file_49.txt",
                 "raw_aname": "file_49.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/PL/file_5.txt",
+                "raw": "./data/bsnlp/trump/raw/pl/file_5.txt",
                 "annotated": "./data/bsnlp/trump/annotated/pl/file_5.txt",
                 "raw_fname": "file_5.txt",
                 "raw_aname": "file_5.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/PL/file_58.txt",
+                "raw": "./data/bsnlp/trump/raw/pl/file_58.txt",
                 "annotated": "./data/bsnlp/trump/annotated/pl/file_58.txt",
                 "raw_fname": "file_58.txt",
                 "raw_aname": "file_58.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/PL/file_60.txt",
+                "raw": "./data/bsnlp/trump/raw/pl/file_60.txt",
                 "annotated": "./data/bsnlp/trump/annotated/pl/file_60.txt",
                 "raw_fname": "file_60.txt",
                 "raw_aname": "file_60.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/PL/file_62.txt",
+                "raw": "./data/bsnlp/trump/raw/pl/file_62.txt",
                 "annotated": "./data/bsnlp/trump/annotated/pl/file_62.txt",
                 "raw_fname": "file_62.txt",
                 "raw_aname": "file_62.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/PL/file_64.txt",
+                "raw": "./data/bsnlp/trump/raw/pl/file_64.txt",
                 "annotated": "./data/bsnlp/trump/annotated/pl/file_64.txt",
                 "raw_fname": "file_64.txt",
                 "raw_aname": "file_64.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/PL/file_7.txt",
+                "raw": "./data/bsnlp/trump/raw/pl/file_7.txt",
                 "annotated": "./data/bsnlp/trump/annotated/pl/file_7.txt",
                 "raw_fname": "file_7.txt",
                 "raw_aname": "file_7.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/PL/file_70.txt",
+                "raw": "./data/bsnlp/trump/raw/pl/file_70.txt",
                 "annotated": "./data/bsnlp/trump/annotated/pl/file_70.txt",
                 "raw_fname": "file_70.txt",
                 "raw_aname": "file_70.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/PL/file_71.txt",
+                "raw": "./data/bsnlp/trump/raw/pl/file_71.txt",
                 "annotated": "./data/bsnlp/trump/annotated/pl/file_71.txt",
                 "raw_fname": "file_71.txt",
                 "raw_aname": "file_71.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/PL/file_9.txt",
+                "raw": "./data/bsnlp/trump/raw/pl/file_9.txt",
                 "annotated": "./data/bsnlp/trump/annotated/pl/file_9.txt",
                 "raw_fname": "file_9.txt",
                 "raw_aname": "file_9.txt"
@@ -1692,157 +1692,157 @@
         ],
         "ru": [
             {
-                "raw": "./data/bsnlp/trump/raw/RU/file_215.txt",
+                "raw": "./data/bsnlp/trump/raw/ru/file_215.txt",
                 "annotated": "./data/bsnlp/trump/annotated/ru/215.txt",
                 "raw_fname": "file_215.txt",
                 "raw_aname": "215.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/RU/file_217.txt",
+                "raw": "./data/bsnlp/trump/raw/ru/file_217.txt",
                 "annotated": "./data/bsnlp/trump/annotated/ru/217.txt",
                 "raw_fname": "file_217.txt",
                 "raw_aname": "217.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/RU/file_222.txt",
+                "raw": "./data/bsnlp/trump/raw/ru/file_222.txt",
                 "annotated": "./data/bsnlp/trump/annotated/ru/222.txt",
                 "raw_fname": "file_222.txt",
                 "raw_aname": "222.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/RU/file_223.txt",
+                "raw": "./data/bsnlp/trump/raw/ru/file_223.txt",
                 "annotated": "./data/bsnlp/trump/annotated/ru/223.txt",
                 "raw_fname": "file_223.txt",
                 "raw_aname": "223.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/RU/file_227.txt",
+                "raw": "./data/bsnlp/trump/raw/ru/file_227.txt",
                 "annotated": "./data/bsnlp/trump/annotated/ru/227.txt",
                 "raw_fname": "file_227.txt",
                 "raw_aname": "227.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/RU/file_228.txt",
+                "raw": "./data/bsnlp/trump/raw/ru/file_228.txt",
                 "annotated": "./data/bsnlp/trump/annotated/ru/228.txt",
                 "raw_fname": "file_228.txt",
                 "raw_aname": "228.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/RU/file_235.txt",
+                "raw": "./data/bsnlp/trump/raw/ru/file_235.txt",
                 "annotated": "./data/bsnlp/trump/annotated/ru/235.txt",
                 "raw_fname": "file_235.txt",
                 "raw_aname": "235.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/RU/file_237.txt",
+                "raw": "./data/bsnlp/trump/raw/ru/file_237.txt",
                 "annotated": "./data/bsnlp/trump/annotated/ru/237.txt",
                 "raw_fname": "file_237.txt",
                 "raw_aname": "237.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/RU/file_239.txt",
+                "raw": "./data/bsnlp/trump/raw/ru/file_239.txt",
                 "annotated": "./data/bsnlp/trump/annotated/ru/239.txt",
                 "raw_fname": "file_239.txt",
                 "raw_aname": "239.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/RU/file_241.txt",
+                "raw": "./data/bsnlp/trump/raw/ru/file_241.txt",
                 "annotated": "./data/bsnlp/trump/annotated/ru/241.txt",
                 "raw_fname": "file_241.txt",
                 "raw_aname": "241.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/RU/file_243.txt",
+                "raw": "./data/bsnlp/trump/raw/ru/file_243.txt",
                 "annotated": "./data/bsnlp/trump/annotated/ru/243.txt",
                 "raw_fname": "file_243.txt",
                 "raw_aname": "243.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/RU/file_249.txt",
+                "raw": "./data/bsnlp/trump/raw/ru/file_249.txt",
                 "annotated": "./data/bsnlp/trump/annotated/ru/249.txt",
                 "raw_fname": "file_249.txt",
                 "raw_aname": "249.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/RU/file_257.txt",
+                "raw": "./data/bsnlp/trump/raw/ru/file_257.txt",
                 "annotated": "./data/bsnlp/trump/annotated/ru/257.txt",
                 "raw_fname": "file_257.txt",
                 "raw_aname": "257.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/RU/file_259.txt",
+                "raw": "./data/bsnlp/trump/raw/ru/file_259.txt",
                 "annotated": "./data/bsnlp/trump/annotated/ru/259.txt",
                 "raw_fname": "file_259.txt",
                 "raw_aname": "259.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/RU/file_260.txt",
+                "raw": "./data/bsnlp/trump/raw/ru/file_260.txt",
                 "annotated": "./data/bsnlp/trump/annotated/ru/260.txt",
                 "raw_fname": "file_260.txt",
                 "raw_aname": "260.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/RU/file_267.txt",
+                "raw": "./data/bsnlp/trump/raw/ru/file_267.txt",
                 "annotated": "./data/bsnlp/trump/annotated/ru/267.txt",
                 "raw_fname": "file_267.txt",
                 "raw_aname": "267.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/RU/file_270.txt",
+                "raw": "./data/bsnlp/trump/raw/ru/file_270.txt",
                 "annotated": "./data/bsnlp/trump/annotated/ru/270.txt",
                 "raw_fname": "file_270.txt",
                 "raw_aname": "270.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/RU/file_271.txt",
+                "raw": "./data/bsnlp/trump/raw/ru/file_271.txt",
                 "annotated": "./data/bsnlp/trump/annotated/ru/271.txt",
                 "raw_fname": "file_271.txt",
                 "raw_aname": "271.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/RU/file_272.txt",
+                "raw": "./data/bsnlp/trump/raw/ru/file_272.txt",
                 "annotated": "./data/bsnlp/trump/annotated/ru/272.txt",
                 "raw_fname": "file_272.txt",
                 "raw_aname": "272.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/RU/file_274.txt",
+                "raw": "./data/bsnlp/trump/raw/ru/file_274.txt",
                 "annotated": "./data/bsnlp/trump/annotated/ru/274.txt",
                 "raw_fname": "file_274.txt",
                 "raw_aname": "274.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/RU/file_278.txt",
+                "raw": "./data/bsnlp/trump/raw/ru/file_278.txt",
                 "annotated": "./data/bsnlp/trump/annotated/ru/278.txt",
                 "raw_fname": "file_278.txt",
                 "raw_aname": "278.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/RU/file_279.txt",
+                "raw": "./data/bsnlp/trump/raw/ru/file_279.txt",
                 "annotated": "./data/bsnlp/trump/annotated/ru/279.txt",
                 "raw_fname": "file_279.txt",
                 "raw_aname": "279.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/RU/file_348.txt",
+                "raw": "./data/bsnlp/trump/raw/ru/file_348.txt",
                 "annotated": "./data/bsnlp/trump/annotated/ru/348.txt",
                 "raw_fname": "file_348.txt",
                 "raw_aname": "348.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/RU/file_353.txt",
+                "raw": "./data/bsnlp/trump/raw/ru/file_353.txt",
                 "annotated": "./data/bsnlp/trump/annotated/ru/353.txt",
                 "raw_fname": "file_353.txt",
                 "raw_aname": "353.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/RU/file_365.txt",
+                "raw": "./data/bsnlp/trump/raw/ru/file_365.txt",
                 "annotated": "./data/bsnlp/trump/annotated/ru/365.txt",
                 "raw_fname": "file_365.txt",
                 "raw_aname": "365.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/RU/file_401.txt",
+                "raw": "./data/bsnlp/trump/raw/ru/file_401.txt",
                 "annotated": "./data/bsnlp/trump/annotated/ru/401.txt",
                 "raw_fname": "file_401.txt",
                 "raw_aname": "401.txt"
@@ -1850,145 +1850,145 @@
         ],
         "sk": [
             {
-                "raw": "./data/bsnlp/trump/raw/SK/file_100.txt",
+                "raw": "./data/bsnlp/trump/raw/sk/file_100.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sk/file_100.txt",
                 "raw_fname": "file_100.txt",
                 "raw_aname": "file_100.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SK/file_425.txt",
+                "raw": "./data/bsnlp/trump/raw/sk/file_425.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sk/file_425.txt",
                 "raw_fname": "file_425.txt",
                 "raw_aname": "file_425.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SK/file_428.txt",
+                "raw": "./data/bsnlp/trump/raw/sk/file_428.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sk/file_428.txt",
                 "raw_fname": "file_428.txt",
                 "raw_aname": "file_428.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SK/file_430.txt",
+                "raw": "./data/bsnlp/trump/raw/sk/file_430.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sk/file_430.txt",
                 "raw_fname": "file_430.txt",
                 "raw_aname": "file_430.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SK/file_434.txt",
+                "raw": "./data/bsnlp/trump/raw/sk/file_434.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sk/file_434.txt",
                 "raw_fname": "file_434.txt",
                 "raw_aname": "file_434.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SK/file_437.txt",
+                "raw": "./data/bsnlp/trump/raw/sk/file_437.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sk/file_437.txt",
                 "raw_fname": "file_437.txt",
                 "raw_aname": "file_437.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SK/file_438.txt",
+                "raw": "./data/bsnlp/trump/raw/sk/file_438.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sk/file_438.txt",
                 "raw_fname": "file_438.txt",
                 "raw_aname": "file_438.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SK/file_439.txt",
+                "raw": "./data/bsnlp/trump/raw/sk/file_439.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sk/file_439.txt",
                 "raw_fname": "file_439.txt",
                 "raw_aname": "file_439.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SK/file_441.txt",
+                "raw": "./data/bsnlp/trump/raw/sk/file_441.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sk/file_441.txt",
                 "raw_fname": "file_441.txt",
                 "raw_aname": "file_441.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SK/file_442.txt",
+                "raw": "./data/bsnlp/trump/raw/sk/file_442.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sk/file_442.txt",
                 "raw_fname": "file_442.txt",
                 "raw_aname": "file_442.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SK/file_444.txt",
+                "raw": "./data/bsnlp/trump/raw/sk/file_444.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sk/file_444.txt",
                 "raw_fname": "file_444.txt",
                 "raw_aname": "file_444.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SK/file_445.txt",
+                "raw": "./data/bsnlp/trump/raw/sk/file_445.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sk/file_445.txt",
                 "raw_fname": "file_445.txt",
                 "raw_aname": "file_445.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SK/file_451.txt",
+                "raw": "./data/bsnlp/trump/raw/sk/file_451.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sk/file_451.txt",
                 "raw_fname": "file_451.txt",
                 "raw_aname": "file_451.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SK/file_452.txt",
+                "raw": "./data/bsnlp/trump/raw/sk/file_452.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sk/file_452.txt",
                 "raw_fname": "file_452.txt",
                 "raw_aname": "file_452.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SK/file_459.txt",
+                "raw": "./data/bsnlp/trump/raw/sk/file_459.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sk/file_459.txt",
                 "raw_fname": "file_459.txt",
                 "raw_aname": "file_459.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SK/file_462.txt",
+                "raw": "./data/bsnlp/trump/raw/sk/file_462.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sk/file_462.txt",
                 "raw_fname": "file_462.txt",
                 "raw_aname": "file_462.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SK/file_463.txt",
+                "raw": "./data/bsnlp/trump/raw/sk/file_463.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sk/file_463.txt",
                 "raw_fname": "file_463.txt",
                 "raw_aname": "file_463.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SK/file_466.txt",
+                "raw": "./data/bsnlp/trump/raw/sk/file_466.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sk/file_466.txt",
                 "raw_fname": "file_466.txt",
                 "raw_aname": "file_466.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SK/file_467.txt",
+                "raw": "./data/bsnlp/trump/raw/sk/file_467.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sk/file_467.txt",
                 "raw_fname": "file_467.txt",
                 "raw_aname": "file_467.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SK/file_468.txt",
+                "raw": "./data/bsnlp/trump/raw/sk/file_468.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sk/file_468.txt",
                 "raw_fname": "file_468.txt",
                 "raw_aname": "file_468.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SK/file_472.txt",
+                "raw": "./data/bsnlp/trump/raw/sk/file_472.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sk/file_472.txt",
                 "raw_fname": "file_472.txt",
                 "raw_aname": "file_472.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SK/file_473.txt",
+                "raw": "./data/bsnlp/trump/raw/sk/file_473.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sk/file_473.txt",
                 "raw_fname": "file_473.txt",
                 "raw_aname": "file_473.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SK/file_477.txt",
+                "raw": "./data/bsnlp/trump/raw/sk/file_477.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sk/file_477.txt",
                 "raw_fname": "file_477.txt",
                 "raw_aname": "file_477.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SK/file_490.txt",
+                "raw": "./data/bsnlp/trump/raw/sk/file_490.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sk/file_490.txt",
                 "raw_fname": "file_490.txt",
                 "raw_aname": "file_490.txt"
@@ -1996,316 +1996,316 @@
         ],
         "sl": [
             {
-                "raw": "./data/bsnlp/trump/raw/SL/file_282.txt",
+                "raw": "./data/bsnlp/trump/raw/sl/file_282.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sl/DT-file_282.txt",
                 "raw_fname": "file_282.txt",
                 "raw_aname": "DT-file_282.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SL/file_289.txt",
+                "raw": "./data/bsnlp/trump/raw/sl/file_289.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sl/DT-file_289.txt",
                 "raw_fname": "file_289.txt",
                 "raw_aname": "DT-file_289.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SL/file_290.txt",
+                "raw": "./data/bsnlp/trump/raw/sl/file_290.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sl/DT-file_290.txt",
                 "raw_fname": "file_290.txt",
                 "raw_aname": "DT-file_290.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SL/file_292.txt",
+                "raw": "./data/bsnlp/trump/raw/sl/file_292.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sl/DT-file_292.txt",
                 "raw_fname": "file_292.txt",
                 "raw_aname": "DT-file_292.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SL/file_294.txt",
+                "raw": "./data/bsnlp/trump/raw/sl/file_294.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sl/DT-file_294.txt",
                 "raw_fname": "file_294.txt",
                 "raw_aname": "DT-file_294.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SL/file_295.txt",
+                "raw": "./data/bsnlp/trump/raw/sl/file_295.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sl/DT-file_295.txt",
                 "raw_fname": "file_295.txt",
                 "raw_aname": "DT-file_295.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SL/file_297.txt",
+                "raw": "./data/bsnlp/trump/raw/sl/file_297.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sl/DT-file_297.txt",
                 "raw_fname": "file_297.txt",
                 "raw_aname": "DT-file_297.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SL/file_300.txt",
+                "raw": "./data/bsnlp/trump/raw/sl/file_300.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sl/DT-file_300.txt",
                 "raw_fname": "file_300.txt",
                 "raw_aname": "DT-file_300.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SL/file_303.txt",
+                "raw": "./data/bsnlp/trump/raw/sl/file_303.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sl/DT-file_303.txt",
                 "raw_fname": "file_303.txt",
                 "raw_aname": "DT-file_303.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SL/file_304.txt",
+                "raw": "./data/bsnlp/trump/raw/sl/file_304.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sl/DT-file_304.txt",
                 "raw_fname": "file_304.txt",
                 "raw_aname": "DT-file_304.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SL/file_305.txt",
+                "raw": "./data/bsnlp/trump/raw/sl/file_305.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sl/DT-file_305.txt",
                 "raw_fname": "file_305.txt",
                 "raw_aname": "DT-file_305.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SL/file_307.txt",
+                "raw": "./data/bsnlp/trump/raw/sl/file_307.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sl/DT-file_307.txt",
                 "raw_fname": "file_307.txt",
                 "raw_aname": "DT-file_307.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SL/file_309.txt",
+                "raw": "./data/bsnlp/trump/raw/sl/file_309.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sl/DT-file_309.txt",
                 "raw_fname": "file_309.txt",
                 "raw_aname": "DT-file_309.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SL/file_322.txt",
+                "raw": "./data/bsnlp/trump/raw/sl/file_322.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sl/DT-file_322.txt",
                 "raw_fname": "file_322.txt",
                 "raw_aname": "DT-file_322.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SL/file_324.txt",
+                "raw": "./data/bsnlp/trump/raw/sl/file_324.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sl/DT-file_324.txt",
                 "raw_fname": "file_324.txt",
                 "raw_aname": "DT-file_324.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SL/file_325.txt",
+                "raw": "./data/bsnlp/trump/raw/sl/file_325.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sl/DT-file_325.txt",
                 "raw_fname": "file_325.txt",
                 "raw_aname": "DT-file_325.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SL/file_329.txt",
+                "raw": "./data/bsnlp/trump/raw/sl/file_329.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sl/DT-file_329.txt",
                 "raw_fname": "file_329.txt",
                 "raw_aname": "DT-file_329.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SL/file_331.txt",
+                "raw": "./data/bsnlp/trump/raw/sl/file_331.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sl/DT-file_331.txt",
                 "raw_fname": "file_331.txt",
                 "raw_aname": "DT-file_331.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SL/file_332.txt",
+                "raw": "./data/bsnlp/trump/raw/sl/file_332.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sl/DT-file_332.txt",
                 "raw_fname": "file_332.txt",
                 "raw_aname": "DT-file_332.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SL/file_334.txt",
+                "raw": "./data/bsnlp/trump/raw/sl/file_334.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sl/DT-file_334.txt",
                 "raw_fname": "file_334.txt",
                 "raw_aname": "DT-file_334.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SL/file_335.txt",
+                "raw": "./data/bsnlp/trump/raw/sl/file_335.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sl/DT-file_335.txt",
                 "raw_fname": "file_335.txt",
                 "raw_aname": "DT-file_335.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SL/file_338.txt",
+                "raw": "./data/bsnlp/trump/raw/sl/file_338.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sl/DT-file_338.txt",
                 "raw_fname": "file_338.txt",
                 "raw_aname": "DT-file_338.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SL/file_339.txt",
+                "raw": "./data/bsnlp/trump/raw/sl/file_339.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sl/DT-file_339.txt",
                 "raw_fname": "file_339.txt",
                 "raw_aname": "DT-file_339.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/SL/file_341.txt",
+                "raw": "./data/bsnlp/trump/raw/sl/file_341.txt",
                 "annotated": "./data/bsnlp/trump/annotated/sl/DT-file_341.txt",
                 "raw_fname": "file_341.txt",
                 "raw_aname": "DT-file_341.txt"
             }
         ],
-        "ua": [
+        "uk": [
             {
-                "raw": "./data/bsnlp/trump/raw/UA/file_344.txt",
-                "annotated": "./data/bsnlp/trump/annotated/ua/344.txt",
+                "raw": "./data/bsnlp/trump/raw/uk/file_344.txt",
+                "annotated": "./data/bsnlp/trump/annotated/uk/344.txt",
                 "raw_fname": "file_344.txt",
                 "raw_aname": "344.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/UA/file_347.txt",
-                "annotated": "./data/bsnlp/trump/annotated/ua/347.txt",
+                "raw": "./data/bsnlp/trump/raw/uk/file_347.txt",
+                "annotated": "./data/bsnlp/trump/annotated/uk/347.txt",
                 "raw_fname": "file_347.txt",
                 "raw_aname": "347.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/UA/file_351.txt",
-                "annotated": "./data/bsnlp/trump/annotated/ua/351.txt",
+                "raw": "./data/bsnlp/trump/raw/uk/file_351.txt",
+                "annotated": "./data/bsnlp/trump/annotated/uk/351.txt",
                 "raw_fname": "file_351.txt",
                 "raw_aname": "351.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/UA/file_361.txt",
-                "annotated": "./data/bsnlp/trump/annotated/ua/361.txt",
+                "raw": "./data/bsnlp/trump/raw/uk/file_361.txt",
+                "annotated": "./data/bsnlp/trump/annotated/uk/361.txt",
                 "raw_fname": "file_361.txt",
                 "raw_aname": "361.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/UA/file_368.txt",
-                "annotated": "./data/bsnlp/trump/annotated/ua/368.txt",
+                "raw": "./data/bsnlp/trump/raw/uk/file_368.txt",
+                "annotated": "./data/bsnlp/trump/annotated/uk/368.txt",
                 "raw_fname": "file_368.txt",
                 "raw_aname": "368.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/UA/file_369.txt",
-                "annotated": "./data/bsnlp/trump/annotated/ua/369.txt",
+                "raw": "./data/bsnlp/trump/raw/uk/file_369.txt",
+                "annotated": "./data/bsnlp/trump/annotated/uk/369.txt",
                 "raw_fname": "file_369.txt",
                 "raw_aname": "369.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/UA/file_371.txt",
-                "annotated": "./data/bsnlp/trump/annotated/ua/371.txt",
+                "raw": "./data/bsnlp/trump/raw/uk/file_371.txt",
+                "annotated": "./data/bsnlp/trump/annotated/uk/371.txt",
                 "raw_fname": "file_371.txt",
                 "raw_aname": "371.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/UA/file_372.txt",
-                "annotated": "./data/bsnlp/trump/annotated/ua/372.txt",
+                "raw": "./data/bsnlp/trump/raw/uk/file_372.txt",
+                "annotated": "./data/bsnlp/trump/annotated/uk/372.txt",
                 "raw_fname": "file_372.txt",
                 "raw_aname": "372.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/UA/file_374.txt",
-                "annotated": "./data/bsnlp/trump/annotated/ua/374.txt",
+                "raw": "./data/bsnlp/trump/raw/uk/file_374.txt",
+                "annotated": "./data/bsnlp/trump/annotated/uk/374.txt",
                 "raw_fname": "file_374.txt",
                 "raw_aname": "374.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/UA/file_377.txt",
-                "annotated": "./data/bsnlp/trump/annotated/ua/377.txt",
+                "raw": "./data/bsnlp/trump/raw/uk/file_377.txt",
+                "annotated": "./data/bsnlp/trump/annotated/uk/377.txt",
                 "raw_fname": "file_377.txt",
                 "raw_aname": "377.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/UA/file_378.txt",
-                "annotated": "./data/bsnlp/trump/annotated/ua/378.txt",
+                "raw": "./data/bsnlp/trump/raw/uk/file_378.txt",
+                "annotated": "./data/bsnlp/trump/annotated/uk/378.txt",
                 "raw_fname": "file_378.txt",
                 "raw_aname": "378.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/UA/file_379.txt",
-                "annotated": "./data/bsnlp/trump/annotated/ua/379.txt",
+                "raw": "./data/bsnlp/trump/raw/uk/file_379.txt",
+                "annotated": "./data/bsnlp/trump/annotated/uk/379.txt",
                 "raw_fname": "file_379.txt",
                 "raw_aname": "379.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/UA/file_380.txt",
-                "annotated": "./data/bsnlp/trump/annotated/ua/380.txt",
+                "raw": "./data/bsnlp/trump/raw/uk/file_380.txt",
+                "annotated": "./data/bsnlp/trump/annotated/uk/380.txt",
                 "raw_fname": "file_380.txt",
                 "raw_aname": "380.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/UA/file_381.txt",
-                "annotated": "./data/bsnlp/trump/annotated/ua/381.txt",
+                "raw": "./data/bsnlp/trump/raw/uk/file_381.txt",
+                "annotated": "./data/bsnlp/trump/annotated/uk/381.txt",
                 "raw_fname": "file_381.txt",
                 "raw_aname": "381.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/UA/file_385.txt",
-                "annotated": "./data/bsnlp/trump/annotated/ua/385.txt",
+                "raw": "./data/bsnlp/trump/raw/uk/file_385.txt",
+                "annotated": "./data/bsnlp/trump/annotated/uk/385.txt",
                 "raw_fname": "file_385.txt",
                 "raw_aname": "385.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/UA/file_390.txt",
-                "annotated": "./data/bsnlp/trump/annotated/ua/390.txt",
+                "raw": "./data/bsnlp/trump/raw/uk/file_390.txt",
+                "annotated": "./data/bsnlp/trump/annotated/uk/390.txt",
                 "raw_fname": "file_390.txt",
                 "raw_aname": "390.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/UA/file_391.txt",
-                "annotated": "./data/bsnlp/trump/annotated/ua/391.txt",
+                "raw": "./data/bsnlp/trump/raw/uk/file_391.txt",
+                "annotated": "./data/bsnlp/trump/annotated/uk/391.txt",
                 "raw_fname": "file_391.txt",
                 "raw_aname": "391.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/UA/file_392.txt",
-                "annotated": "./data/bsnlp/trump/annotated/ua/392.txt",
+                "raw": "./data/bsnlp/trump/raw/uk/file_392.txt",
+                "annotated": "./data/bsnlp/trump/annotated/uk/392.txt",
                 "raw_fname": "file_392.txt",
                 "raw_aname": "392.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/UA/file_393.txt",
-                "annotated": "./data/bsnlp/trump/annotated/ua/393.txt",
+                "raw": "./data/bsnlp/trump/raw/uk/file_393.txt",
+                "annotated": "./data/bsnlp/trump/annotated/uk/393.txt",
                 "raw_fname": "file_393.txt",
                 "raw_aname": "393.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/UA/file_394.txt",
-                "annotated": "./data/bsnlp/trump/annotated/ua/394.txt",
+                "raw": "./data/bsnlp/trump/raw/uk/file_394.txt",
+                "annotated": "./data/bsnlp/trump/annotated/uk/394.txt",
                 "raw_fname": "file_394.txt",
                 "raw_aname": "394.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/UA/file_395.txt",
-                "annotated": "./data/bsnlp/trump/annotated/ua/395.txt",
+                "raw": "./data/bsnlp/trump/raw/uk/file_395.txt",
+                "annotated": "./data/bsnlp/trump/annotated/uk/395.txt",
                 "raw_fname": "file_395.txt",
                 "raw_aname": "395.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/UA/file_404.txt",
-                "annotated": "./data/bsnlp/trump/annotated/ua/404.txt",
+                "raw": "./data/bsnlp/trump/raw/uk/file_404.txt",
+                "annotated": "./data/bsnlp/trump/annotated/uk/404.txt",
                 "raw_fname": "file_404.txt",
                 "raw_aname": "404.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/UA/file_407.txt",
-                "annotated": "./data/bsnlp/trump/annotated/ua/407.txt",
+                "raw": "./data/bsnlp/trump/raw/uk/file_407.txt",
+                "annotated": "./data/bsnlp/trump/annotated/uk/407.txt",
                 "raw_fname": "file_407.txt",
                 "raw_aname": "407.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/UA/file_408.txt",
-                "annotated": "./data/bsnlp/trump/annotated/ua/408.txt",
+                "raw": "./data/bsnlp/trump/raw/uk/file_408.txt",
+                "annotated": "./data/bsnlp/trump/annotated/uk/408.txt",
                 "raw_fname": "file_408.txt",
                 "raw_aname": "408.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/UA/file_411.txt",
-                "annotated": "./data/bsnlp/trump/annotated/ua/411.txt",
+                "raw": "./data/bsnlp/trump/raw/uk/file_411.txt",
+                "annotated": "./data/bsnlp/trump/annotated/uk/411.txt",
                 "raw_fname": "file_411.txt",
                 "raw_aname": "411.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/UA/file_415.txt",
-                "annotated": "./data/bsnlp/trump/annotated/ua/415.txt",
+                "raw": "./data/bsnlp/trump/raw/uk/file_415.txt",
+                "annotated": "./data/bsnlp/trump/annotated/uk/415.txt",
                 "raw_fname": "file_415.txt",
                 "raw_aname": "415.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/UA/file_421.txt",
-                "annotated": "./data/bsnlp/trump/annotated/ua/421.txt",
+                "raw": "./data/bsnlp/trump/raw/uk/file_421.txt",
+                "annotated": "./data/bsnlp/trump/annotated/uk/421.txt",
                 "raw_fname": "file_421.txt",
                 "raw_aname": "421.txt"
             },
             {
-                "raw": "./data/bsnlp/trump/raw/UA/file_423.txt",
-                "annotated": "./data/bsnlp/trump/annotated/ua/423.txt",
+                "raw": "./data/bsnlp/trump/raw/uk/file_423.txt",
+                "annotated": "./data/bsnlp/trump/annotated/uk/423.txt",
                 "raw_fname": "file_423.txt",
                 "raw_aname": "423.txt"
             }

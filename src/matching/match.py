@@ -17,7 +17,7 @@ def handle_nan(
     field
 ) -> str:
     if type(field) is float:
-        print(f"Field is float: {field}", file=sys.stderr)
+        # print(f"Field is float: {field}", file=sys.stderr)
         return ""
     return field
 
@@ -31,8 +31,8 @@ def merge_ne_records(
             continue
         j = i + 1
         while j < len(nes) and not nes[j]['ner'].startswith('B-'):
-            if nes[j]['tokenId'] != (nes[j - 1]['tokenId'] + 1):
-                print(f"Tokens are not coming one after the other, probably tokenizer error: {json.dumps(nes[j])}", file=sys.stderr)
+            # if int(nes[j]['tokenId']) != (int(nes[j - 1]['tokenId']) + 1):
+                # print(f"Tokens are not coming one after the other, probably tokenizer error: {json.dumps(nes[j])}", file=sys.stderr)
             ne['text'] = f'{handle_nan(ne["text"])} {handle_nan(nes[j]["text"])}'
             ne['lemma'] = f'{handle_nan(ne["lemma"])} {handle_nan(nes[j]["lemma"])}'
             ne['calcLemma'] = f'{handle_nan(ne["calcLemma"])} {handle_nan(nes[j]["calcLemma"])}'
@@ -59,15 +59,15 @@ def load_nes(
             ne_path = f'{dataset}/merged/{lang}'
             _, files = list_dir(ne_path)
             for file in files:
-                df = pd.read_csv(f'{ne_path}/{file}', dtype={'docId': str, 'clID': str})
+                df = pd.read_csv(f'{ne_path}/{file}', dtype={'docId': str, 'clID': str, 'sentenceId': str, 'tokenId': str})
                 df = df.loc[~df["ner"].isin(['O'])] if filter_nes else df
                 df['lang'] = lang
                 df['numTokens'] = 1
                 df['contracted'] = 0
                 filtered = df.loc[~(df['ner'] == 'O')].to_dict(orient='records')
-                df = df.fillna('')
-                # document = merge_ne_records(filtered)
-                documents[dataset][lang].append(df)
+                df = df.fillna('na')
+                document = merge_ne_records(filtered)
+                documents[dataset][lang].append(document)
     if flatten_docs:
         for dataset, langs in documents.items():
             for lang in langs:
