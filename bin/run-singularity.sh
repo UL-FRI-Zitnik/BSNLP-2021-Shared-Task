@@ -1,8 +1,8 @@
 #!/bin/bash
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
-#SBATCH --mem=32GB
-#SBATCH --cpus-per-task=10
+#SBATCH --mem=64GB
+#SBATCH --cpus-per-task=16
 #SBATCH --time=3-00:00:00
 #SBATCH --output=logs/BSNLP-cluster-%J.out
 #SBATCH --error=logs/BSNLP-cluster-%J.err

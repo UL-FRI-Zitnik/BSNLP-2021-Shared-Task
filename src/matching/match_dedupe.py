@@ -16,7 +16,7 @@ RUN_BASE_FNAME = f"{BASE_FNAME}"  # TODO: Add a folder  per run
 # Dedup configuration variables
 CHOOSE_K = 3  # determines how many samples of equivalent values to choose
 CLUSTER_THRESHOLD = 0.35
-DEDUPE_CORES_USED = 8
+DEDUPE_CORES_USED = 14
 dedupe_variables = [
     # document structure: docId,sentenceId,tokenId,text,lemma,calcLemma,upos,xpos,ner,clID
     # variables to consider:
@@ -68,7 +68,7 @@ def get_clustered_ids(
         "ners": [
             {
                 'id': cid,
-                'score': score
+                'score': float(score)
             } for cid, score in zip(ids, scores)
         ]
     } for i, (ids, scores) in enumerate(clustered)]
@@ -85,7 +85,7 @@ def generate_training_examples(
         positive_examples[value['clID']].append(value)
 
     for key, values in positive_examples.items():
-        print(f"{key} ({len(values)}): {values}")
+        # print(f"{key} ({len(values)}): {values}")
         use_items = choices(values, k=3)
         for comb in combinations(use_items, 2):
             matches.append(comb)
@@ -112,8 +112,6 @@ def data_looper(
 ) -> Callable:
     def loop_through():
         for dataset, langs in data.items():
-            if dataset != 'other':
-                continue
             for lang, items in langs.items():
                 if lang != 'sl':
                     continue
@@ -200,6 +198,8 @@ def main():
     print("Clustering the data...")
     clusterer = data_looper(data, cluster_data)
     clusterer()
+
+    print("Done!")
 
 
 if __name__ == '__main__':
