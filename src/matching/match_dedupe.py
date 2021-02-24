@@ -13,7 +13,6 @@ from itertools import combinations, product
 from random import choices, random
 from typing import Iterable, Callable
 
-# from src.matching.match import load_nes
 from src.utils.utils import list_dir
 
 
@@ -83,27 +82,12 @@ def load_data(
         logger.info(f"Using cached data from `{cache_path}`, last modified at: `{mod_time.isoformat()}`")
         with open(cache_path) as f:
             return json.load(f)
-    # load the datasets
     datasets = json.load(open("./data/results/dataset_pairs.json"))
     data = load_nes(datasets)
     with open(cache_path, 'w') as f:
         logger.info(f"Storing cached data at: {cache_path}")
         json.dump(data, f)
     return data
-    # data = load_nes(datasets, filter_nes=True, flatten_docs=True)
-    # transform the data from a list to a dictionary
-    # ret = {}
-    # for dataset, langs in data.items():
-    #     dataset_name = dataset.split('/')[-1]
-    #     ret[dataset_name] = {}
-    #     for lang, items in langs.items():
-    #         ret[dataset_name][lang] = {}
-    #         for item in items:
-    #             ret[dataset_name][lang][f"{lang};{item['docId']};{item['sentenceId']};{item['tokenId']};{item['text']}"] = item
-    # with open(cache_path, 'w') as f:
-    #     logger.info(f"Storing cached data at: {cache_path}")
-    #     json.dump(ret, f)
-    # return ret
 
 
 
