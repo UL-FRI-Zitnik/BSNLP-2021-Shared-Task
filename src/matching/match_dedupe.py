@@ -1,4 +1,5 @@
 import sys
+import argparse
 import json
 import pathlib
 import pandas as pd
@@ -23,22 +24,25 @@ logging.basicConfig(
 )
 logger = logging.getLogger('DedupeMatching')
 
-BASE_FNAME = "./data/deduper"
+BASE_FNAME: str = "./data/deduper"
+run_time = datetime.now().isoformat()[:-7]  # exclude the ms
+RUN_BASE_FNAME = f"{BASE_FNAME}/runs/run_{run_time}"
 
-RELEVANT_LANGS = ['bg', 'cs', 'pl', 'ru', 'sl', 'uk']
+RELEVANT_LANGS: list = ['bg', 'cs', 'pl', 'ru', 'sl', 'uk']
 
 # Dedup configuration variables
-CHOOSE_K = 3  # determines how many samples of equivalent values to choose
-CLUSTER_THRESHOLD = 0.45
-DEDUPE_CORES_USED = 31
-dedupe_variables = [
+SEARCH_CLOSEST: bool = True
+CHOOSE_K: int = 3  # determines how many samples of equivalent values to choose
+CLUSTER_THRESHOLD: float = 0.65
+DEDUPE_CORES_USED: int = 31
+dedupe_variables: list = [
     # document structure: docId,sentenceId,tokenId,text,lemma,calcLemma,upos,xpos,ner,clID
     # variables to consider:
     {"field": "text", "type": "String"},
     {"field": "calcLemma", "type": "String"},
     {"field": "upos", "type": "String"},
     {"field": "xpos", "type": "String"},
-    {"field": "ner", "type": "String"},  # this has to use the predicted NE tags
+    {"field": "ner", "type": "String"},
 ]
 
 
@@ -67,7 +71,6 @@ def load_nes(
                         raise Exception(f"COLLISION!!! {dkey}")
                     documents[dataset_name][lang][dkey] = item
     return documents
-
 
 
 def load_data(
@@ -120,7 +123,6 @@ def get_clustered_ids(
 
 def generate_training_examples(
     data: dict,
-    search_closest: bool = True
 ) -> dict:
     positive_examples = defaultdict(list)
     matches = []
@@ -138,14 +140,17 @@ def generate_training_examples(
     clids = positive_examples.keys()
     for comb in combinations(clids, 2):
         # skip some combination with a 1/2 probability
-        if not search_closest and random() < 0.5:
+        if not SEARCH_CLOSEST and random() < 0.5:
             # logger.info("Skipping...")
             continue
         d1 = choices(positive_examples[comb[0]], k=CHOOSE_K)
         d2 = choices(positive_examples[comb[1]], k=CHOOSE_K)
         for (i1, i2) in product(d1, d2):
-            if search_closest and fuzz.ratio(i1['text'].lower(), i2['text'].lower()) >= 70:
+            if SEARCH_CLOSEST:
+                if fuzz.ratio(i1['text'].lower(), i2['text'].lower()) >= 70:
                 # logger.info(f"Similar are: {i1['text']}, {i2['text']}")
+                    distinct.append((i1, i2))
+            else:
                 distinct.append((i1, i2))
 
     return {
@@ -238,25 +243,45 @@ def cluster_data(
         json.dump(clusters, fp=f, indent=4)
 
 
+def parse_args():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--closest', type=bool, default=True)
+    parser.add_argument('--run-path', type=str, default=None)
+    parser.add_argument('--train', type=bool, default=True)
+    parser.add_argument('--test', type=bool, default=True)
+    return parser.parse_args()
+
 def main():
+    args = parse_args()
+    
+    global RUN_BASE_FNAME, SEARCH_CLOSEST
+    RUN_BASE_FNAME = args.run_path if args.run_path is not None else RUN_BASE_FNAME
+    pathlib.Path(RUN_BASE_FNAME).mkdir(parents=True, exist_ok=True)
+
+    SEARCH_CLOSEST = args.closest
+
     logger.info("Running Dedupe Entity Matching")
+    logger.info(f"Run path = {RUN_BASE_FNAME}")
+    logger.info(f"Number of cores = {DEDUPE_CORES_USED}")
+    logger.info(f"Dedupe threshold = {CLUSTER_THRESHOLD}")
+    logger.info(f"Choose k = {CHOOSE_K}")
+    logger.info(f"Closest string search: {SEARCH_CLOSEST}")
 
     logger.info("Loading the data...")
-    data = load_data(clear_cache=True)
+    data = load_data()
 
-    logger.info("Training on the data...")
     trainer = data_looper(data, train)
-    trainer()
+    if args.train:
+        logger.info("Training on the data...")
+        trainer()
 
-    logger.info("Clustering the data...")
     clusterer = data_looper(data, cluster_data)
-    clusterer()
+    if args.test:
+        logger.info("Clustering the data...")
+        clusterer()
 
     logger.info("Done!")
 
 
 if __name__ == '__main__':
-    run_time = datetime.now().isoformat()[:-7]  # exclude the ms
-    RUN_BASE_FNAME = f"{BASE_FNAME}/runs/run_{run_time}"
-    pathlib.Path(RUN_BASE_FNAME).mkdir(parents=True, exist_ok=True)
     main()
