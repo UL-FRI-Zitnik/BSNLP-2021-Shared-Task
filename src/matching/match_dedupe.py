@@ -245,18 +245,21 @@ def cluster_data(
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--closest', type=bool, default=True)
+    parser.add_argument('--closest', action='store_true')
+    parser.add_argument('--train', action='store_true')
+    parser.add_argument('--test', action='store_true')
     parser.add_argument('--run-path', type=str, default=None)
-    parser.add_argument('--train', type=bool, default=True)
-    parser.add_argument('--test', type=bool, default=True)
+    parser.add_argument('--tsh', type=float, default=None)
     return parser.parse_args()
 
 def main():
     args = parse_args()
     
-    global RUN_BASE_FNAME, SEARCH_CLOSEST
+    global RUN_BASE_FNAME, SEARCH_CLOSEST, CLUSTER_THRESHOLD
     RUN_BASE_FNAME = args.run_path if args.run_path is not None else RUN_BASE_FNAME
     pathlib.Path(RUN_BASE_FNAME).mkdir(parents=True, exist_ok=True)
+    
+    CLUSTER_THRESHOLD = args.tsh if args.tsh is not None else CLUSTER_THRESHOLD
 
     SEARCH_CLOSEST = args.closest
 
