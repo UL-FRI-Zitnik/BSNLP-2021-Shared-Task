@@ -16,6 +16,9 @@ snap-stanford = "*"
 networkx = "*"
 matplotlib = "*"
 dedupe = "*"
+pyconll = "*"
+seqeval = "*"
+tensorflow = "*"
 
 [requires]
 python_version = "3.7"
