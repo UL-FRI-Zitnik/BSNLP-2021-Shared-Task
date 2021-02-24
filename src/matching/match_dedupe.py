@@ -12,7 +12,7 @@ from itertools import combinations, product
 from random import choices, random
 from typing import Iterable, Callable
 
-from src.matching.match import load_nes
+# from src.matching.match import load_nes
 from src.utils.utils import list_dir
 
 
@@ -30,7 +30,7 @@ RELEVANT_LANGS = ['bg', 'cs', 'pl', 'ru', 'sl', 'uk']
 # Dedup configuration variables
 CHOOSE_K = 3  # determines how many samples of equivalent values to choose
 CLUSTER_THRESHOLD = 0.45
-DEDUPE_CORES_USED = 63
+DEDUPE_CORES_USED = 31
 dedupe_variables = [
     # document structure: docId,sentenceId,tokenId,text,lemma,calcLemma,upos,xpos,ner,clID
     # variables to consider:
@@ -42,31 +42,31 @@ dedupe_variables = [
 ]
 
 
-# def load_nes(
-#     datasets: dict,
-# ) -> dict:
-#     documents = {}
-#     for dataset, langs in datasets.items():
-#         dataset_name = dataset.split('/')[-1]
-#         documents[dataset_name] = {}
-#         for lang in langs.keys():
-#             if lang.lower() not in RELEVANT_LANGS:
-#                 logger.info(f"Skipping {dataset_name}/{lang}")
-#                 continue
-#             documents[dataset_name][lang] = {}
-#             logger.info(f'Extracting from: {dataset}/{lang}')
-#             ne_path = f'{dataset}/merged/{lang}'
-#             _, files = list_dir(ne_path)
-#             for file in files:
-#                 df = pd.read_csv(f'{ne_path}/{file}', dtype={'docId': str, 'sentenceId': str, 'tokenId': str, 'clID': str, })
-#                 df['lang'] = lang
-#                 df = df.fillna('')
-#                 for item in df.loc[~(df['ner'] == 'O')].to_dict(orient='records'):
-#                     dkey = f"{lang};{item['docId']};{item['sentenceId']};{item['tokenId']};{item['text']}"
-#                     if dkey in documents[dataset_name][lang]:
-#                         raise Exception(f"COLLISION!!! {dkey}")
-#                     documents[dataset_name][lang][dkey] = item
-#     return documents
+def load_nes(
+    datasets: dict,
+) -> dict:
+    documents = {}
+    for dataset, langs in datasets.items():
+        dataset_name = dataset.split('/')[-1]
+        documents[dataset_name] = {}
+        for lang in langs.keys():
+            if lang.lower() not in RELEVANT_LANGS:
+                logger.info(f"Skipping {dataset_name}/{lang}")
+                continue
+            documents[dataset_name][lang] = {}
+            logger.info(f'Extracting from: {dataset}/{lang}')
+            ne_path = f'{dataset}/merged/{lang}'
+            _, files = list_dir(ne_path)
+            for file in files:
+                df = pd.read_csv(f'{ne_path}/{file}', dtype={'docId': str, 'sentenceId': str, 'tokenId': str, 'clID': str,'text': str,'lemma': str,'calcLemma': str,'upos': str,'xpos': str,'ner': str})
+                df['lang'] = lang
+                df = df.fillna('N/A')
+                for item in df.loc[~(df['ner'] == 'O')].to_dict(orient='records'):
+                    dkey = f"{lang};{item['docId']};{item['sentenceId']};{item['tokenId']};{item['text']}"
+                    if dkey in documents[dataset_name][lang]:
+                        raise Exception(f"COLLISION!!! {dkey}")
+                    documents[dataset_name][lang][dkey] = item
+    return documents
 
 
 
@@ -82,24 +82,26 @@ def load_data(
             return json.load(f)
     # load the datasets
     datasets = json.load(open("./data/results/dataset_pairs.json"))
-    # data = load_nes(datasets)
-
-    data = load_nes(datasets, filter_nes=True, flatten_docs=True)
-
-    # transform the data from a list to a dictionary
-    ret = {}
-    for dataset, langs in data.items():
-        dataset_name = dataset.split('/')[-1]
-        ret[dataset_name] = {}
-        for lang, items in langs.items():
-            ret[dataset_name][lang] = {}
-            for item in items:
-                ret[dataset_name][lang][f"{lang};{item['docId']};{item['sentenceId']};{item['tokenId']};{item['text']}"] = item
-
+    data = load_nes(datasets)
     with open(cache_path, 'w') as f:
         logger.info(f"Storing cached data at: {cache_path}")
-        json.dump(ret, f)
-    return ret
+        json.dump(data, f)
+    return data
+    # data = load_nes(datasets, filter_nes=True, flatten_docs=True)
+    # transform the data from a list to a dictionary
+    # ret = {}
+    # for dataset, langs in data.items():
+    #     dataset_name = dataset.split('/')[-1]
+    #     ret[dataset_name] = {}
+    #     for lang, items in langs.items():
+    #         ret[dataset_name][lang] = {}
+    #         for item in items:
+    #             ret[dataset_name][lang][f"{lang};{item['docId']};{item['sentenceId']};{item['tokenId']};{item['text']}"] = item
+    # with open(cache_path, 'w') as f:
+    #     logger.info(f"Storing cached data at: {cache_path}")
+    #     json.dump(ret, f)
+    # return ret
+
 
 
 def get_clustered_ids(
