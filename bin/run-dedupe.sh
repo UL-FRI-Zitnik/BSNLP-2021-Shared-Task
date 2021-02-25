@@ -2,7 +2,7 @@
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
 #SBATCH --mem=256GB
-#SBATCH --cpus-per-task=32
+#SBATCH --cpus-per-task=64
 #SBATCH --time=3-00:00:00
 #SBATCH --output=logs/BSNLP-cluster-%J.out
 #SBATCH --error=logs/BSNLP-cluster-%J.err

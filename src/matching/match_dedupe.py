@@ -35,7 +35,7 @@ RELEVANT_LANGS: list = ['bg', 'cs', 'pl', 'ru', 'sl', 'uk']
 SEARCH_CLOSEST: bool = True
 CHOOSE_K: int = 3  # determines how many samples of equivalent values to choose
 CLUSTER_THRESHOLD: float = 0.65
-DEDUPE_CORES_USED: int = 31
+DEDUPE_CORES_USED: int = 63
 dedupe_variables: list = [
     # document structure: docId,sentenceId,tokenId,text,lemma,calcLemma,upos,xpos,ner,clID
     # variables to consider:
@@ -151,11 +151,11 @@ def data_looper(
 ) -> Callable:
     def loop_through():
         for dataset, langs in data.items():
-            for lang, items in langs.items():
-                try:
-                    call_fun(dataset, lang, items)
-                except Exception as e:
-                    logger.error(f"ERROR OCCURED WHEN WORKING ON {dataset}/{lang}, {e}")
+            # for lang, items in langs.items():
+            #     try:
+            #         call_fun(dataset, lang, items)
+            #     except Exception as e:
+            #         logger.error(f"ERROR OCCURED WHEN WORKING ON {dataset}/{lang}, {e}")
             try:
                 call_fun(dataset, "all", {k:v for lang, docs in langs.items() for k, v in docs.items()})
             except Exception as e:

@@ -31,7 +31,17 @@ Should you need to run the code in a singularity-enabled SLURM cluster, take a l
 
 ## Order of execution
 
-1. 
+1. run [`src/analyze/main.py`](./src/analyze/main.py) ([script](./bin/exec-main.sh)) to get the dataset file structure
+2. run [`src/transform/annotate_docs.py`](./src/transform/annotate_docs.py) ([script](./bin/exec-annotate.sh)) to tokenize the dataset and to obtain the lemmas. This will generate the `data/bsnlp/<dataset-name>/merged/<lang>` files
+3. run [`src/transform/create_splits.py`](src/transform/create_splits.py)  ([script](./bin/exec-splits.sh)) this will split the dataset into training, validation, and test sets for each language, and store them into `data/bsnlp/<dataset-name>/merged/<lang>/(dev|test|train)_{lang}.csv`. Note: the split is performed on sentences. Each sentence is chosen at random, to preserve the context of all the named entities
+4. run [`src/train/crosloeng.py`](./src/train/crosloeng.py) ([script](./bin/run-bert-train.sh)) to train the models.
+5. run [`src/eval/model_eval.py`](./src/eval/model_eval.py) ([script](./bin/run-bert-pred.sh)) to generate the predictions of the trained models. Results are stored in `./data/runs/run_<JOB_ID>/`.
+6. run [`src/matching/match_dedupe.py`](./src/matching/match_dedupe.py) ([script](./bin/run-dedupe.sh)) to obtain the NE linkage. Results stored in `./data/deduper/runs/run_<JOB_ID>/` (self-created)
+7. run (TODO) to merge the results from the entity linking and the NER tasks.
+8. run [`src/utils/prepare_output.py`](`./src/utils/prepare_output.py`) ([script](./bin/exec-output.sh)) to generate the output files in BSNLP-compliant format
+9. run the evaluation [script](./bin/run-eval.sh) provided by BSNLP organizers to obtain final results. Note: you need to provide a golden standard dataset, see the script on more info.
+
+ Mind the arguments you pass into the scripts, for more details look at the `parse_args` functions in the respective `.py` files, such as [here](./src/train/crosloeng.py).
 
 ## Algorithm (open setting):
 

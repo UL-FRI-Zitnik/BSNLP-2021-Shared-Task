@@ -167,5 +167,5 @@ if __name__ == '__main__':
         classla.download('bg')
     tokenizers = {lang: stanza.Pipeline(lang=lang if lang != 'ua' else 'uk', processors=processors) for lang in languages}
     tokenizers['sl'] = classla.Pipeline('sl', processors=processors)
-    tokenizers['sl'] = classla.Pipeline('bg', processors=processors)
+    tokenizers['bg'] = classla.Pipeline('bg', processors=processors)
     split_documents(datasets_files, tokenizers)

@@ -174,21 +174,6 @@ def get_doc_info(stats: dict) -> dict:
 
 
 if __name__ == '__main__':
-    # dirs, files, packed = list_all_files("./data/challenge")
-    # print(tf'Dirs = {json.dumps(dirs, indent=4)}')
-    # print(tf'Files = {json.dumps(files, indent=4)}')
-    # print(tf'Packed = {json.dumps(packed, indent=4)}')
-    # with open('./data/results/file_dump.json', 'w') as tf:
-    #     json.dump(packed, tf, indent=4)
-
-    # aggregated = aggregate_nes(packed)
-    # with open('./data/results/aggregated.json', 'w') as tf:
-    #     json.dump(aggregated, tf)
-
-    # doc_infos = get_doc_info(packed)
-    # raw_df = doc_infos['raw']
-    # ann_df = doc_infos['ann']
-
     datasets = [
         './data/datasets/bsnlp/ec',
         './data/datasets/bsnlp/trump',
@@ -205,6 +190,5 @@ if __name__ == '__main__':
     ]
     dataset_files = list_datasets(datasets)
     logger.info('Done.')
-    # logger.info(json.dumps(dataset_files, indent=4))
     with open('./data/results/dataset_pairs.json', 'w') as f:
         json.dump(dataset_files, f, indent=4)
