@@ -1,0 +1,11 @@
+bg-702
+Brexit	Brexit	EVT	EVT-Brexit
+Facebook	Facebook	PRO	PRO-Facebook
+БГНЕС	БГНЕС	ORG	ORG-BGNES-Agency
+Брекзит	Брекзит	EVT	EVT-Brexit
+Брюксел	Брюксел	LOC	GPE-Brussles
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+ЕС	ЕС	ORG	ORG-European-Union
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+Лондон	Лондон	LOC	GPE-London
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May

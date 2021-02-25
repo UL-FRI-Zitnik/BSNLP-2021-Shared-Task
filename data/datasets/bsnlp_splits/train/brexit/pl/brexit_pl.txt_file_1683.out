@@ -1,0 +1,18 @@
+pl-1683
+Brexit	Brexit	EVT	EVT-Brexit
+Brexitowcy	Brexitowcy	PER	EVT-Brexit
+Brukselą	Bruksela	LOC	GPE-Brussles
+Daily Express	Daily Express	PRO	PRO-Daily-Express
+Financial Timesie	Financial Times	PRO	PRO-Financial-Times
+Izba Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+Izba Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+Philipa Lee	Philip Lee	PER	PER-Phillip-Lee
+The Sun	The Sun	PRO	PRO-The-Sun
+Theresy May	Theresa May	PER	PER-Theresa-May
+UE	UE	ORG	ORG-European-Union
+Westminster	Westminster	LOC	LOC-Westminster-Hall
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wyspach	Wyspy	LOC	GPE-Great-Britain
+brexitowi	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit
+torysów	torysi	PER	ORG-Tories

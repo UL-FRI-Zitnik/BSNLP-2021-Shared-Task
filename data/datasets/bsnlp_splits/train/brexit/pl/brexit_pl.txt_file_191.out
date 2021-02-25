@@ -1,0 +1,37 @@
+pl-191
+Barnier	Barnier	PER	PER-Michel-Barnier
+Brexitu	Brexit	EVT	EVT-Brexit
+Bruksela	Bruksela	LOC	GPE-Brussles
+Brukseli	Bruksela	LOC	GPE-Brussles
+Brukselą	Bruksel	LOC	GPE-Brussles
+Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+David Davis	David Davis	PER	PER-David-Davis
+Davida Davisa	David Davis	PER	PER-David-Davis
+Davis	Davis	PER	PER-David-Davis
+Florencji	Florencja	LOC	GPE-Florence
+Francji	Francja	LOC	GPE-France
+Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+Irlandią	Irlandia	LOC	GPE-Ireland
+KE	KE	ORG	ORG-European-Commission
+Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+Londyn	Londyn	LOC	GPE-London
+Londynem	Londyn	LOC	GPE-London
+Londynu	Londyn	LOC	GPE-London
+Margaritis Schinas	Margaritis Schinas	PER	PER-Margaritis-Schinas
+May	May	PER	PER-Theresa-May
+Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+Schinas	Schinas	PER	PER-Margaritis-Schinas
+Theresa May	Theresa May	PER	PER-Theresa-May
+UE	UE	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnotę	Wspólnota	ORG	ORG-European-Union
+Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+Zjednoczonym Królestwie	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+brexicie	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit

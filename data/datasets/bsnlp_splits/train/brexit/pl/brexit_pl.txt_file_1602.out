@@ -1,0 +1,15 @@
+pl-1602
+Brexicie	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+Izba Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+Izbie Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+Izby Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+May	May	PER	PER-Theresa-May
+Reuters	Reuters	ORG	ORG-Reuters
+Theresa May	Theresa May	PER	PER-Theresa-May
+Theresie May	Theresa May	PER	PER-Theresa-May
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+mPolska24	mPolska24	PRO	PRO-mPolska24

@@ -1,0 +1,84 @@
+pl-1541
+ANO	ANO	ORG	ORG-ANO-political-party-CZ
+Andrej Babiš	Andrej Babiš	PER	PER-Andrej-Babis
+Angeli Merkel	Angela Merkel	PER	PER-Angela-Merkel
+Austrii	Austria	LOC	GPE-Austria
+Bałkany Zachodnie	Bałkany Zachodnie	LOC	LOC-Western-Balkans
+Beaty Szydło	Beata Szydło	PER	PER-Beata-Szydło
+Berlin	Berlin	LOC	GPE-Berlin
+Bohuslava Sobotkę	Bohuslav Sobotka	PER	PER-Bohuslav-Sobotka
+Brukseli	Bruksela	LOC	GPE-Brussles
+Christian Schweiger	Christian Schweiger	PER	PER-Christian-Schweiger
+Czech	Czechy	LOC	GPE-Czech-Republic
+Czechach	Czechy	LOC	GPE-Czech-Republic
+Czechy	Czechy	LOC	GPE-Czech-Republic
+Der Spiegel	Der Spiegel	PRO	PRO-Der-Spiegel
+Emmanuela Macrona	Emmanuel Macron	PER	PER-Emmanuel-Macron
+Europa	Europa	LOC	LOC-Europe
+Europie	Europa	LOC	LOC-Europe
+Europy Środkowo Wschodniej	Europa Środkowo Wschodnia	LOC	LOC-Central-Eastern-Europe
+Europy Środkowo – Wschodniej	Europa Środkowo – Wschodnia	LOC	LOC-Central-Eastern-Europe
+Europy Środkowo-Wschodniej	Europa Środkowo-Wschodnia	LOC	LOC-Central-Eastern-Europe
+Europy	Europa	LOC	LOC-Europe
+Europą Środkowo-Wschodnią	Europa Środkowo-Wschodnia	LOC	LOC-Central-Eastern-Europe
+Europę Środkowo-Wschodnią	Europa Środkowo-Wschodnia	LOC	LOC-Central-Eastern-Europe
+Ewa Kopacz	Ewa Kopacz	PER	PER-Ewa-Kopacz
+Fico	Fico	PER	PER-Robert-Fico
+Francją	Francja	LOC	GPE-France
+Grupa Wyszehradzka	Grupa Wyszehradzka	ORG	ORG-Visegrád-Group
+Grupa	Grupa	ORG	ORG-Visegrád-Group
+Grupy Wyszehradzkiej	Grupa Wyszehradzka	ORG	ORG-Visegrád-Group
+Grupę Wyszehradzką	Grupa Wyszehradzka	ORG	ORG-Visegrád-Group
+Heiko Maas	Heiko Maas	PER	PER-Heiko-Maas
+Instytutu Nauk Politycznych na Uniwersytecie Technicznym w Chemnitz	Instytut Nauk Politycznych na Uniwersytecie Technicznym w Chemnitz	ORG	ORG-Institute-of-Political-Science-Chemnitz-University-of-Technology
+Jana Kuciaka	Jan Kuciak	PER	PER-Jan-Kuciak
+Mateusza Morawieckiego	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+Niemcami	Niemcy	LOC	GPE-Germany
+Niemcom	Niemcy	LOC	GPE-Germany
+Niemcy	Niemcy	LOC	GPE-Germany
+Niemczech	Niemcy	LOC	GPE-Germany
+Niemiec	Niemcy	LOC	GPE-Germany
+Orbán	Orbán	PER	PER-Viktor-Orban
+PO	PO	ORG	ORG-PO-Civic-Platform
+Paryż	Paryż	LOC	GPE-Paris
+Petera Pellegriniego	Peter Pellegrini	PER	PER-Peter-Pellegrini
+Platforma Obywatelska	Platforma Obywatelska	ORG	ORG-PO-Civic-Platform
+Platformy Obywatelskiej	Platforma Obywatelska	ORG	ORG-PO-Civic-Platform
+Polsce	Polska	LOC	GPE-Poland
+Polska	Polska	LOC	GPE-Poland
+Polski	Polska	LOC	GPE-Poland
+Polską	Polska	LOC	GPE-Poland
+Pradze	Praga	LOC	GPE-Prague
+Prawa i Sprawiedliwości	Prawo i Sprawiedliwość	ORG	ORG-PiS-Law-and-Justice
+Robert Fico	Robert Fico	PER	PER-Robert-Fico
+Roberta Fico	Robert Fico	PER	PER-Robert-Fico
+SMER	SMER	ORG	ORG-SMER
+Sebastian Kurz	Sebastian Kurz	PER	PER-Sebastian-Kurz
+Słowacja	Słowacja	LOC	GPE-Slovakia
+Słowacji	Słowacja	LOC	GPE-Slovakia
+Słowację	Słowacja	LOC	GPE-Slovakia
+The Economist	The Economist	PRO	PRO-The-Economist
+Trójkąta Weimarskiego	Trójkąt Weimarski	ORG	ORG-Weimar-Triangle
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+Unią	Unia	ORG	ORG-European-Union
+Unię	Unia	ORG	ORG-European-Union
+V4	V4	ORG	ORG-Visegrád-Group
+Viktora Orbána	Viktor Orbán	PER	PER-Viktor-Orban
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wschodem	Wschód	LOC	LOC-East
+Wschodu	Wschód	LOC	LOC-East
+Wspólnoty	Wspólnota	ORG	ORG-European-Union
+Wyszehrad	Wyszehrad	LOC	GPE-Visegrad
+Wyszehradu	Wyszehrad	LOC	GPE-Visegrad
+Węgier	Węgry	LOC	GPE-Hungary
+Węgry	Węgry	LOC	GPE-Hungary
+Węgrzech	Węgry	LOC	GPE-Hungary
+Zachodem	Zachód	LOC	LOC-West
+Zachodu	Zachód	LOC	LOC-West
+brexicie	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit
+katedrze Porównawczych Systemów Rządzenia w Europie na Uniwersytecie Technicznym w Chemnitz	Katedra Porównawczych Systemów Rządzenia w Europie na Uniwersytecie Technicznym w Chemnitz	ORG	ORG-Chair-of-Comparative-Management-Systems-in-Europe-at-Chemnitz-University-of-Technology
+Środkowym Wschodem	Środkowy Wschód	LOC	LOC-Middle-East

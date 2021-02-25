@@ -1,0 +1,21 @@
+ua-1022
+Brexit	Brexit	EVT	EVT-Brexit
+ЄС	ЄС	LOC	ORG-European-Union
+Єврокомісія	Єврокомісія	ORG	ORG-European-Commission
+Євросоюзу	Євросоюз	LOC	ORG-European-Union
+Британії	Британія	LOC	GPE-Great-Britain
+Великобританія	Великобританія	LOC	GPE-Great-Britain
+Великобританії	Великобританія	LOC	GPE-Great-Britain
+Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+Вікторія Вдовиченко	Вікторія Вдовиченко	PER	PER-Viktoriya-Vdovychenko
+Домінік Рааб	Домінік Рааб	PER	PER-Dominic-Raab
+Естер Маквей	Естер Маквей	PER	PER-Ester-Makvi
+Консервативної партії	Консервативна партія	ORG	ORG-Conservative-and-Unionist-Party-UK
+Міжнародний контекст	Міжнародний контекст	PRO	PRO-Mizhnarodnyy-kontekst
+Північна Ірландія	Північна Ірландія	LOC	GPE-Northern-Ireland
+Північної Ірландії	Північна Ірландія	LOC	GPE-Northern-Ireland
+Ради зовнішньої політики Українська призма	Рада зовнішньої політики Українська призма	ORG	ORG-Rada-zovnishnʹoy-polityky-Ukrayinsʹka-pryzma
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Терези Мей	Тереза Мей	PER	PER-Theresa-May
+Українського радіо	Українське радіо	ORG	ORG-Ukrainian-Radio
+Шайлеш Вара	Шайлеш Вара	PER	PER-Shailesh-Vara

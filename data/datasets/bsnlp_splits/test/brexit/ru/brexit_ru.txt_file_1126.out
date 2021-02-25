@@ -1,0 +1,21 @@
+ru-1126
+Brexit	Brexit	EVT	EVT-Brexit
+EC	EC	ORG	ORG-European-Union
+Англии	Англия	LOC	GPE-Great-Britain
+Англию	Англия	LOC	GPE-Great-Britain
+Белый дом	Белый дом	LOC	LOC-White-House
+Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+Британии	Британия	LOC	GPE-Great-Britain
+Вашингтоном	Вашингтон	LOC	GPE-WashingtonDC
+Джонсон	Джонсон	PER	PER-Boris-Johnson
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+Елизаветы II	Елизавета II	PER	PER-Queen-Elizabeth-II
+Кабмине Соединенного Королевства	Кабмин Соединенного Королевства	ORG	ORG-Cabinet-of-the-United-Kingdom
+Лондоном	Лондон	LOC	GPE-London
+Мэй	Мэй	PER	PER-Theresa-May
+США	США	LOC	GPE-USA
+Терезе Мэй	Тереза Мэй	PER	PER-Theresa-May
+Терезой Мэй	Тереза Мэй	PER	PER-Theresa-May
+Трамп	Трамп	PER	PER-Donald-Trump
+английского МИД	английский МИД	ORG	ORG-Foreign-Office

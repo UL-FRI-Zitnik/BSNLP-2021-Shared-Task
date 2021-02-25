@@ -1,0 +1,9 @@
+cs-1278
+Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+Britové	Britové	PER	GPE-Great-Britain
+Británii	Británie	LOC	GPE-Great-Britain
+Evropské unie	Evropská unie	ORG	ORG-European-Union
+Financial Times	Financial Times	PRO	PRO-Financial-Times
+brexit	brexit	EVT	EVT-Brexit
+brexitem	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit

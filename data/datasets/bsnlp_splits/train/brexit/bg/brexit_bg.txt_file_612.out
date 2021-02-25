@@ -1,0 +1,17 @@
+bg-612
+Brexit	Brexit	EVT	EVT-Brexit
+БГНЕС	БГНЕС	ORG	ORG-BGNES-Agency
+Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+Брекзит	Брекзит	EVT	EVT-Brexit
+Брюксел	Брюксел	LOC	GPE-Brussles
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Джейкъб Рис-Мог	Джейкъб Рис-Мог	PER	PER-Jacob-Rees-Mogg
+Джонсън	Джонсън	PER	PER-Boris-Johnson
+ЕС	ЕС	ORG	ORG-European-Union
+Консервативна партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+Лондон	Лондон	LOC	GPE-London
+Майкъл Гоув	Майкъл Гоув	PER	PER-Michael-Gove
+Мей	Мей	PER	PER-Theresa-May
+Прес асосиейшън	Прес асосиейшън	ORG	ORG-Press-Association
+Сънди таймс	Съндей Таймс	PRO	PRO-The-Sunday-Times
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May

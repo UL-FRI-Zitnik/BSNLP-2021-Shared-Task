@@ -1,0 +1,29 @@
+pl-1753
+Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+Brexicie	Brexit	EVT	EVT-Brexit
+Brexit	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+Brukseli	Bruksela	LOC	GPE-Brussles
+Daily Mail	Daily Mail	PRO	PRO-Daily-Mail
+Davidowi Cameronowi	David Cameron	PER	PER-David-Cameron
+Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+Irlandią	Irlandia	LOC	GPE-Ireland
+Johnson	Johnson	PER	PER-Boris-Johnson
+Johnsona	Johnson	PER	PER-Boris-Johnson
+Londynu	Londyn	LOC	GPE-London
+MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-UK
+May	May	PER	PER-Theresa-May
+Polski	Polska	LOC	GPE-Poland
+Stanów Zjednoczonych	Stany Zjednoczone	LOC	GPE-USA
+Theresie May	Theresa May	PER	PER-Theresa-May
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+Waszyngtonie	Waszyngton	LOC	GPE-WashingtonDC
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnotą	Wspólnota	ORG	ORG-European-Union

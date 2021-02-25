@@ -1,0 +1,15 @@
+ua-104
+Brexit	Brexit	EVT	EVT-Brexit
+ЄС	ЄС	LOC	ORG-European-Union
+Б.Джонсон	Б.Джонсон	PER	PER-Boris-Johnson
+Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+Бі-Бі-Сі	Бі-Бі-Сі	ORG	ORG-BBC-Ltd
+Великою Британією	Велика Британія	LOC	GPE-Great-Britain
+Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+Велику Британію	Велика Британія	LOC	GPE-Great-Britain
+Великій Британії	Велика Британія	LOC	GPE-Great-Britain
+МЗС	МЗС	ORG	ORG-Foreign-Office
+Мей	Мей	PER	PER-Theresa-May
+Т.Мей	Т.Мей	PER	PER-Donald-Trump
+Терези Мей	Тереза Мей	PER	PER-Theresa-May
+кабінету міністрів	кабнет міністрів	ORG	ORG-Cabinet-of-the-United-Kingdom

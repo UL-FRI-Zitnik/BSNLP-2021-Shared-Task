@@ -1,0 +1,15 @@
+pl-1234
+27	27	ORG	ORG-European-Union
+Brexicie	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+Brukseli	Bruksela	LOC	GPE-Brussles
+Irlandią Płn.	Irlandia Płn.	LOC	GPE-Northern-Ireland
+Irlandią	Irlandia	LOC	GPE-Ireland
+Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+Trybunału Sprawiedliwości UE	Trybunał Sprawiedliwości UE	ORG	ORG-European-Court-of-Justice
+Tusk	Tusk	PER	PER-Donald-Tusk
+Twitterze	Twitter	PRO	PRO-Twitter
+UE	UE	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain

@@ -1,0 +1,39 @@
+pl-197
+Andrew Haines	Andrew Haines	PER	PER-Andrew-Haines
+Baltusa	Baltus	PER	PER-Robert-Baltus
+Bruksela	Bruksela	LOC	GPE-Brussles
+Brytyjczykami	Brytyjczycy	PER	GPE-Great-Britain
+CAA	CAA	ORG	ORG-CAA-Civil-Aviation-Authority
+EASA	EASA	ORG	ORG-EASA-European-Aviation-Safety-Agency
+EBAA	EBAA	ORG	ORG-EBAA-European-Business-Aviation-Association
+EOG	EOG	ORG	ORG-EEA-European-Economic-Area
+EasyJet	EasyJet	ORG	ORG-EasyJet
+Europejskie Stowarzyszenie Lotnictwa Biznesowego	Europejskie Stowarzyszenie Lotnictwa Biznesowego	ORG	ORG-EBAA-European-Business-Aviation-Association
+Europejskiej Agencji Bezpieczeństwa Lotniczego	Europejska Agencja Bezpieczeństwa Lotniczego	ORG	ORG-EASA-European-Aviation-Safety-Agency
+Europejskim Obszarze Gospodarczym	Europejski Obszar Gospodarczy	ORG	ORG-EEA-European-Economic-Area
+Europie	Europa	LOC	LOC-Europe
+Islandia	Islandia	LOC	GPE-Iceland
+Kanadą	Kanada	LOC	GPE-Canada
+Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+Liechtenstein	Liechtenstein	LOC	GPE-Liechtenstein
+Londyn	Londyn	LOC	GPE-London
+Norwegia	Norwegia	LOC	GPE-Norway
+Robert Baltus	Robert Baltus	PER	PER-Robert-Baltus
+Ryanair	Ryanair	ORG	ORG-Ryanair
+SESAR	SESAR	PRO	PRO-SESAR
+SES	SES	LOC	LOC-SES
+Stanami Zjednoczonymi	Stany Zjednoczone	LOC	GPE-USA
+Szwecją	Szwecja	LOC	GPE-Sweden
+Theresy May	Theresa May	PER	PER-Theresa-May
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Unią	Unia	ORG	ORG-European-Union
+Urzędu Lotnictwa Cywilnego	Urzęd Lotnictwa Cywilnego	ORG	ORG-CAA-Civil-Aviation-Authority
+WTO	WTO	ORG	ORG-WTO-World-Trade-Organization
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+brexitem	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit
+Światowa Organizacja Handlu	Światowa Organizacja Handlu	ORG	ORG-WTO-World-Trade-Organization

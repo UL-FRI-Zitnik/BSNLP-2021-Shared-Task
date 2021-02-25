@@ -1,0 +1,16 @@
+pl-1131
+ADS	ADS	ORG	ORG-ADS-Group-Limited
+Airbusa	Airbus	ORG	ORG-Airbus-SE
+Brexit	Brexit	EVT	EVT-Brexit
+Brukselą	Bruksela	LOC	GPE-Brussles
+Europą	Europa	LOC	LOC-Europe
+Paul Everitt	Paul Everitt	PER	PER-Paul-Everitt
+Rolls-Royce	Rolls-Royce	ORG	ORG-Rolls-Royce-ltd
+UE	UE	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+Unią	Unia	ORG	ORG-European-Union
+W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+W. Brytanią	W. Brytania	LOC	GPE-Great-Britain
+Wyspach	Wyspy	LOC	GPE-Great-Britain
+brexitu	Brexit	EVT	EVT-Brexit

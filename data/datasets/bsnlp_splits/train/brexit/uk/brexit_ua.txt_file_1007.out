@@ -1,0 +1,39 @@
+ua-1007
+Brexit	Brexit	EVT	EVT-Brexit
+ЄС	ЄС	LOC	ORG-European-Union
+Європарламенту	Європарламент	ORG	ORG-European-Parliament
+Європейського Союзу	Європейський Союз	ORG	ORG-European-Union
+Європейської ради	Європейська Рада	ORG	ORG-European-Parliament
+Європи	Європа	LOC	GPE-Europe
+Євросоюзу	Євросоюз	LOC	ORG-European-Union
+Ірландією	Ірландія	LOC	GPE-Ireland
+Анн-Марі Тревельян	Анн-Марі Тревельян	PER	PER-Anne-Marie-Trevelyan
+Британія	Британія	LOC	GPE-Great-Britain
+Британії	Британія	LOC	GPE-Great-Britain
+Брюсселі	Брюссель	LOC	GPE-Brussles
+Великою Британією	Велика Британія	LOC	GPE-Great-Britain
+Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+Даунінг-стрит, 10	Даунінг-стрит, 10	LOC	LOC-Downing-Street
+Девід Девіс	Девід Девіс	PER	PER-David-Davis
+Девід Лідінгтон	Девід Лідінгтон	PER	PER-David-Lidington
+Джейкоб Різ-Мог	Джейкоб Різ-Мог	PER	PER-Jacob-Rees-Mogg
+Джеремі Гант	Джеремі Гант	PER	PER-Jeremy-Hunt
+Домінік Рааб	Домінік Рааб	PER	PER-Dominic-Raab
+Дональду Туску	Дональд Туск	PER	PER-Donald-Tusk
+Естер Макві	Естер Макві	PER	PER-Ester-Makvi
+Лондоном	Лондон	LOC	GPE-London
+Майклом Гоувом	Майкл Гоув	PER	PER-Michael-Gove
+Мей	Мей	PER	PER-Theresa-May
+Митному союзі ЄС	Митний союз ЄС	ORG	ORG-European-Union-Customs-Union
+Мішелю Барньє	Мішель Барньє	PER	PER-Michel-Barnier
+Північна Ірландія	Північна Ірландія	LOC	GPE-Northern-Ireland
+Північною Ірландією	Північна Ірландія	LOC	GPE-Northern-Ireland
+Північної Ірландії	Північна Ірландія	LOC	GPE-Northern-Ireland
+Раніл Джаявардена	Раніл Джаяварден	PER	PER-Ranil-Dzhayavardena
+Сполученого Королівства	Сполучене Королівство	LOC	GPE-Great-Britain
+Сюелла Браверман	Сюелла Браверман	PER	PER-Suella-Braverman
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Терези Мей	Тереза Мей	PER	PER-Theresa-May
+Терезі Мей	Тереза Мей	PER	PER-Theresa-May
+Туска	Туск	PER	PER-Donald-Tusk
+Шейлеш Вара	Шейлеш Вара	PER	PER-Shailesh-Vara

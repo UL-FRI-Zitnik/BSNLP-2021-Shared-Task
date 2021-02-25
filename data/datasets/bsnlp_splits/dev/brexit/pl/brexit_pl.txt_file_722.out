@@ -1,0 +1,48 @@
+pl-722
+Berlin	Berlin	LOC	GPE-Berlin
+Bruksela	Bruksela	LOC	GPE-Brussles
+Brukseli	Bruksela	LOC	GPE-Brussles
+Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+Brytyjczykami	Brytyjczycy	PER	GPE-Great-Britain
+Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+Center for Europana Reform	Center for Europana Reform	ORG	ORG-Centre-For-European-Reform
+Charles Grant	Charles Grant	PER	PER-Charles-Grant
+David Davis	David Davis	PER	PER-David-Davis
+Guy Verhofstadt	Guy Verhofstadt	PER	PER-Guy-Verhofstadt
+Holandia	Holandia	LOC	GPE-Holland
+Irlandią Płn.	Irlandia Płn.	LOC	GPE-Northern-Ireland
+Irlandią	Irlandia	LOC	GPE-Ireland
+Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+Londyn	Londyn	LOC	GPE-London
+Londynie	Londyn	LOC	GPE-London
+Londynowi	Londyn	LOC	GPE-London
+Londynu	Londyn	LOC	GPE-London
+May	May	PER	PER-Theresa-May
+Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+Paryż	Paryż	LOC	GPE-Paris
+Polacy	Polacy	PER	GPE-Poland
+Polaków	Polacy	PER	GPE-Poland
+Polska	Polska	LOC	GPE-Poland
+Polski	Polska	LOC	GPE-Poland
+Rady UE	Rada UE	ORG	ORG-European-Council
+Radzie UE	Rada UE	ORG	ORG-European-Council
+The Guardian	The Guardian	PRO	PRO-The-Guardian
+Theresa May	Theresa May	PER	PER-Theresa-May
+Theresy May	Theresa May	PER	PER-Theresa-May
+Tomasz Bielecki	Tomasz Bielecki	PER	PER-Tomasz-Bielecki
+Trybunału Sprawiedliwości UE	Trybunał Sprawiedliwości UE	ORG	ORG-European-Court-of-Justice
+Trybunału UE	Trybunał UE	ORG	ORG-European-Court-of-Justice
+UE	UE	ORG	ORG-European-Union
+Unia	Unia	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Unią	Unia	ORG	ORG-European-Union
+Unię	Unia	ORG	ORG-European-Union
+Wlk. Brytania	Wlk. Brytania	LOC	GPE-Great-Britain
+Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain
+Włochy	Włochy	LOC	GPE-Italy
+brexicie	Brexit	EVT	EVT-Brexit
+brexit	Brexit	EVT	EVT-Brexit
+brexitem	Brexit	EVT	EVT-Brexit
+brexitowcami	brexitowcy	PER	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit
+klubu liberałów	Klub liberałów	ORG	ORG-Liberal-Club

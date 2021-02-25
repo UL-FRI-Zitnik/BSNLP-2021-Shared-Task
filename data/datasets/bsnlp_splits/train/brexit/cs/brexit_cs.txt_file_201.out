@@ -1,0 +1,20 @@
+cs-201
+Brexit	Brexit	EVT	EVT-Brexit
+Brity	Britové	PER	GPE-Great-Britain
+Británie	Británie	LOC	GPE-Great-Britain
+Britům	Britové	PER	GPE-Great-Britain
+Davida Davise	David Davis	PER	PER-David-Davis
+Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+Donalda Tuska	Donald Tusk	PER	PER-Donald-Tusk
+EU	EU	ORG	ORG-European-Union
+Evropany	Evropané	PER	LOC-Europe
+Evropské komise	Evropská komise	ORG	ORG-European-Commission
+Evropské rady	Evropská rada	ORG	ORG-European-Council
+Evropské unii	Evropská unie	ORG	ORG-European-Union
+Evropském parlamentu	Evropský parlament	ORG	ORG-European-Parliament
+Jean-Claude Juncker	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+Londýně	Londýn	LOC	GPE-London
+Soudní dvůr EU	Soudní dvůr EU	ORG	ORG-European-Court-of-Justice
+Theresy Mayové	Theresa Mayová	PER	PER-Theresa-May
+Tusk	Tusk	PER	PER-Donald-Tusk
+brexit	brexit	EVT	EVT-Brexit

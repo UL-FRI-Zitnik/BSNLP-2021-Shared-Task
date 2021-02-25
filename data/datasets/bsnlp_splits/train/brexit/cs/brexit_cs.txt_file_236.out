@@ -1,0 +1,12 @@
+cs-236
+Barniera	Barnier	PER	PER-Michel-Barnier
+Británie	Británie	LOC	GPE-Great-Britain
+Británii	Británie	LOC	GPE-Great-Britain
+Británii	Británie	PER	GPE-Great-Britain
+Británií	Británie	LOC	GPE-Great-Britain
+EU27	EU27	ORG	ORG-European-Union
+EU	EU	ORG	ORG-European-Union
+Londýn	Londýn	LOC	GPE-London
+Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+Radě pro všeobecné záležitosti	Rada pro všeobecné záležitosti	ORG	ORG-General-Affairs-Council-configuration-GAC
+brexitu	brexit	EVT	EVT-Brexit

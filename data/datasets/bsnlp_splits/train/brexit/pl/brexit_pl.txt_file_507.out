@@ -1,0 +1,17 @@
+pl-507
+Brexit	Brexit	EVT	EVT-Brexit
+Francji	Francja	LOC	GPE-France
+Holandii	Holandia	LOC	GPE-Holland
+Jan Buczek	Jan Buczek	PER	PER-Jan-Buczek
+Polsce	Polska	LOC	GPE-Poland
+Polski	Polska	LOC	GPE-Poland
+Tamizy	Tamiza	LOC	LOC-River-Thames
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+Wisły	Wisła	LOC	LOC-Wisła
+ZMPD	ZMPD	ORG	ORG-ZMPD-Zrzeszenie-Międzynarodowych-Przewoźn
+Zrzeszenie Międzynarodowych Przewoźników Drogowych	Zrzeszenie Międzynarodowych Przewoźników Drogowych	ORG	ORG-ZMPD-Zrzeszenie-Międzynarodowych-Przewoźn
+brexit	Brexit	EVT	EVT-Brexit
+europarlamentarzyści	Europarlamentarzyści	PER	ORG-European-Parlament

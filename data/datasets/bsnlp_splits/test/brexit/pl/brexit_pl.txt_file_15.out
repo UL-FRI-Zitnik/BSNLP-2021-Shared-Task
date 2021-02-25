@@ -1,0 +1,30 @@
+pl-15
+AB InBev	AB InBev	ORG	ORG-AB-InBev
+Brexit	Brexit	EVT	EVT-Brexit
+Brexitem	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+Brukselą	Bruksela	LOC	GPE-Brussles
+Citigroup	Citigroup	ORG	ORG-Citygroup
+Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+Europie	Europa	LOC	LOC-Europe
+GVC	GVC	ORG	ORG-GVC
+HSBC	HSBC	ORG	ORG-HSBC
+Hammerson	Hammerson	ORG	ORG-Hammerson
+Intu Properties	Intu Properties	ORG	ORG-Intu-Properties
+Jan Skarbek	Jan Skarbek	PER	PER-Jan-Skarbek
+Krafta Heinza	Kraft Heinz	ORG	ORG-Kraft-Heinz
+Ladbrokes Coral	Ladbrokes Coral	ORG	ORG-Ladbrokes-Coral
+Latham&Watkins	Latham&Watkins	ORG	ORG-Latham-Watkins
+Londynu	Londyn	LOC	GPE-London
+Nick Cline	Nick Cline	PER	PER-Nick-Cline
+Nick Cliner	Nick Cliner	PER	PER-Nick-Cline
+Noblet	Noblet	PER	PER-Philip-Noblet
+Philip Noblet	Philip Noblet	PER	PER-Philip-Noblet
+Royal Dutch Shell BG Group	Royal Dutch Shell BG Group	ORG	ORG-Royal-Dutch-Shell-BG-Group
+SABMiller	SABMiller	ORG	ORG-SABMiller
+Theresa May	Theresa May	PER	PER-Theresa-May
+Thomson Reuters	Thomson Reuters	ORG	ORG-Reuters
+Unilevera	Unilever	ORG	ORG-Unilever
+W. Brytania	W. Brytania	LOC	GPE-Great-Britain
+W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+Wyspach	Wyspy	LOC	GPE-Great-Britain

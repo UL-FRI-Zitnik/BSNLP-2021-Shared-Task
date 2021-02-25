@@ -1,0 +1,35 @@
+pl-1741
+Belgia	Belgia	LOC	GPE-Belgium
+Belgii	Belgia	LOC	GPE-Belgium
+Brexit	Brexit	EVT	EVT-Brexit
+Brukseli	Bruksela	LOC	GPE-Brussles
+Brytyjczykach	Brytyjczycy	PER	GPE-Great-Britain
+Brytyjczykom	Brytyjczycy	PER	GPE-Great-Britain
+Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+Casale	Casale	PER	PER-Roger-Casale
+Casale’a	Casale	PER	PER-Roger-Casale
+Charles Michel	Charles Michel	PER	PER-Charles-Michel
+Jean-Claude Juncker	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+Jean-Claude’a Junckera	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+Juncker	Juncker	PER	PER-Jean-Claude-Juncker
+KE	KE	ORG	ORG-European-Commission
+Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+Komitecie Regionów	Komitet Regionów	ORG	ORG-CoR-European-Committee-of-the-Regions
+Michelowi	Michel	PER	PER-Charles-Michel
+New Europeans	New Europeans	ORG	ORG-New-Europeans
+Nowi Europejczycy	Nowi Europejczycy	ORG	ORG-New-Europeans
+PE	PE	ORG	ORG-European-Parliament
+Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+Parlamentu Europejskiego	Parlament Europejski	ORG	ORG-European-Parliament
+Parlamentu Europejskiej	Parlament Europejski	ORG	ORG-European-Parliament
+Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+Rada Europejska	Rada Europejska	ORG	ORG-European-Council
+Roger Casale	Roger Casale	PER	PER-Roger-Casale
+UE	UE	ORG	ORG-European-Union
+Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Unię Europejską	Unia Europejska	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+brexitu	Brexit	EVT	EVT-Brexit

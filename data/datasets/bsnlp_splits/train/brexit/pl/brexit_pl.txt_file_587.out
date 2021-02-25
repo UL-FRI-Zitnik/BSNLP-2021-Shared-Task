@@ -1,0 +1,30 @@
+pl-587
+Barnier	Barnier	PER	PER-Michel-Barnier
+Brexicie	Brexit	EVT	EVT-Brexit
+Brexit	Brexit	EVT	EVT-Brexit
+Brexitem	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+Brukseli	Bruksela	LOC	GPE-Brussles
+Brukselą	Bruksela	LOC	GPE-Brussles
+Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+Bułgarii	Bułgaria	LOC	GPE-Bulgaria
+Dundalk	Dundalk	LOC	GPE-Dundalk
+Ekaterina Zachariewa	Ekaterina Zachariewa	PER	PER-Ekaterina-Zakharieva
+Federica Mogherini	Federica Mogherini	PER	PER-Federica-Mogherini
+Francuz	Francuz	PER	GPE-France
+Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+Irlandii	Irlandia	LOC	GPE-Ireland
+Londynem	Londyn	LOC	GPE-London
+MSZ	MSZ	ORG	ORG-Ministry-of-Foreign-Affairs-Bulgaria
+Michael Roth	Michael Roth	PER	PER-Michael-Roth
+Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+Reuters	Reuters	ORG	ORG-Reuters
+UE	UE	ORG	ORG-European-Union
+Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnoty	Wspólnota	ORG	ORG-European-Union
+Zachariewa	Zachariewa	PER	PER-Ekaterina-Zakharieva
+Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain

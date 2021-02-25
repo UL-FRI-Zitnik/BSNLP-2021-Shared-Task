@@ -1,0 +1,36 @@
+pl-1358
+Amber Rudd	Amber Rudd	PER	PER-Amber-Rudd
+Android	Android	PRO	PRO-Android
+Apple	Apple	ORG	ORG-Apple
+Cooper	Cooper	PER	PER-Yvette-Cooper
+Europejczykami	Europejczycy	PER	LOC-Europe
+Guy Verhofstadt	Guy Verhofstadt	PER	PER-Guy-Verhofstadt
+Irlandii	Irlandia	LOC	GPE-Ireland
+Islandii	Islandia	LOC	GPE-Iceland
+Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+Izbie Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+Izby Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+Jamajką	Jamajka	LOC	GPE-Jamaica
+Javid	Javid	PER	PER-Sajid-Javid
+Jo Cherry	Jo Cherry	PER	PER-Jo-Cherry
+Karaiby	Karaiby	LOC	LOC-Caribbean
+Karaibów	Karaiby	LOC	LOC-Caribbean
+Królestwa Brytyjskiego	Królestwo Brytyjskie	LOC	GPE-Great-Britain
+Księstwa Liechtenstein	Księstwo Liechtenstein	LOC	GPE-Liechtenstein
+MSW	MSW	ORG	ORG-Home-Office-UK
+Norwegii	Norwegia	LOC	GPE-Norway
+Pakistanu	Pakistan	LOC	GPE-Pakistan
+Parlamentu Europejskiego	Parlament Europejski	ORG	ORG-European-Parliament
+Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+SNP	SNP	ORG	ORG-Scottish-National-Party
+Sajid Javid	Sajid Javid	PER	PER-Sajid-Javid
+Szkockiej Partii Narodowej	Szkocka Partia Narodowa	ORG	ORG-Scottish-National-Party
+Szwajcarii	Szwajcaria	LOC	GPE-Switzerland
+UE	UE	ORG	ORG-European-Union
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+Windrush	Windrush	PRO	PRO-Windrush
+Wyspach	Wyspy	LOC	GPE-Great-Britain
+Yvette Cooper	Yvette Cooper	PER	PER-Yvette-Cooper
+brexicie	Brexit	EVT	EVT-Brexit
+brexit	Brexit	EVT	EVT-Brexit

@@ -1,0 +1,28 @@
+bg-1537
+CNN	CNN	PRO	PRO-CNN
+The Independent	The Independent	PRO	PRO-The-Independent
+Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+Брекзит	Брекзит	EVT	EVT-Brexit
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Даунинг стрийт	Даунинг стрийт	LOC	LOC-Downing-Street
+Джеръми Корбин	Джеръми Корбин	PER	PER-Jeremy-Corbyn
+Джон МакТернан	Джон МакТернан	PER	PER-John-McTernan
+ЕС	ЕС	ORG	ORG-European-Union
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+Ирландия	Ирландия	LOC	GPE-Ireland
+Камарата на общините	Камара на общините	ORG	ORG-House-of-Commons
+Камдън	Камдън	LOC	LOC-Camden-Town
+Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+Лиъм Фокс	Лиъм Фокс	PER	PER-Liam-Fox
+Лондон	Лондон	LOC	GPE-London
+Мартин Донъли	Мартин Донъли	PER	PER-Martin-Donnelly
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+Партия на труда	Партия на труда	ORG	ORG-Labour-Party-UK
+Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+Тереза Май	Тереза Мей	PER	PER-Theresa-May
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Теса Йоуъл	Теса Йоуъл	PER	PER-Tessa-Jowell
+Тони Блеър	Тони Блеър	PER	PER-Tony-Blair
+Уестминстър	Уестминстър	LOC	LOC-Westminster
+демократична юнионистка партия	Демократична юнионистка партия	ORG	ORG-DUP-Democratic-Unionist-Party
+шотландската народна партия	Шотландска народна партия	ORG	ORG-Scottish-National-Party

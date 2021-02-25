@@ -1,0 +1,47 @@
+pl-1477
+Anglicy	Anglicy	PER	GPE-Great-Britain
+Anglików	Anglicy	PER	GPE-Great-Britain
+Bank Anglii	Bank Anglii	ORG	ORG-Bank-of-England
+Brexit	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+City	City	LOC	LOC-City-of-London
+Czarna Środa	Czarna Środa	EVT	EVT-Black-Wednesday
+David Cameron	David Cameron	PER	PER-David-Cameron
+EBC	EBC	ORG	ORG-European-Central-Bank
+ECB	ECB	ORG	ORG-European-Central-Bank
+ERM	ERM	ORG	ORG-ERM-European-Exchange-Rate-Mechanism
+Europa	Europa	LOC	LOC-Europe
+Europejskiego Banku Centralnego	Europejski Bank Centralny	ORG	ORG-European-Central-Bank
+Francja	Francja	LOC	GPE-France
+Frankfurtu	Frankfurt	LOC	GPE-Frankfurt-am-Main
+Grecja	Grecja	LOC	GPE-Greece
+Grecji	Grecja	LOC	GPE-Greece
+Hotel California	Hotel California	PRO	PRO-Hotel-California
+Janis Warufakis	Janis Warufakis	PER	PER-Janis-Warufakis
+Kalifornia	Kalifornia	LOC	GPE-California
+Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+Londyn	Londyn	LOC	GPE-London
+Londynu	Londyn	LOC	GPE-London
+Maciej Domagała	Maciej Domagała	PER	PER-Maciej-Domagała
+Niemcy	Niemcy	LOC	GPE-Germany
+Norman Tebbit	Norman Tebbit	PER	PER-Norman-Tebbit
+Nowego Jorku	Nowy Jork	LOC	GPE-New-York
+Paryża	Paryż	LOC	GPE-Paris
+Project Syndicate	Project Syndicate	PRO	PRO-Project-Syndicate
+The Eagles	The Eagles	ORG	ORG-The-Eagles
+Theresa May	Theresa May	PER	PER-Theresa-May
+UE	UE	ORG	ORG-European-Union
+USA	USA	LOC	GPE-USA
+Unia	Unia	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Warufakis	Warufakis	PER	PER-Janis-Warufakis
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wyspy	Wyspy	LOC	GPE-Great-Britain
+Włochy	Włochy	LOC	GPE-Italy
+Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+brexit	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit
+izby Lordów	izba Lordów	ORG	ORG-House-of-Lords
+kanału La Manche	Kanał La Manche	LOC	LOC-English-Channel

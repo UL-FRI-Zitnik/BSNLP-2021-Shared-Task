@@ -1,0 +1,32 @@
+cs-1019
+Brexit	Brexit	EVT	EVT-Brexit
+Britové	Britové	PER	GPE-Great-Britain
+Brity	Britové	PER	GPE-Great-Britain
+Británie	Británie	LOC	GPE-Great-Britain
+Británii	Británie	LOC	GPE-Great-Britain
+Británií	Británie	LOC	GPE-Great-Britain
+Britů	Britové	PER	GPE-Great-Britain
+Bruselem	Brusel	LOC	GPE-Brussles
+Bruselu	Brusel	LOC	GPE-Brussles
+Cyril Svozil	Cyril Svozil	PER	PER-Cyril-Svozil
+EU	EU	ORG	ORG-European-Union
+Evropská unie	Evropská unie	ORG	ORG-European-Union
+Evropské komise	Evropská komise	ORG	ORG-European-Commission
+Fenix Trading	Fenix Trading	ORG	ORG-Fenix-Trading-company
+Jurásková	Jurásková	PER	PER-Petra-Mackova-Juráskova
+Kotršál	Kotršál	PER	PER-Petr-Kotrsal
+Londýna	Londýn	LOC	GPE-London
+Londýnem	Londýn	LOC	GPE-London
+Petr Kotršál	Petr Kotršál	PER	PER-Petr-Kotrsal
+Petra Macková Jurásková	Petra Macková Jurásková	PER	PER-Petra-Mackova-Juráskova
+Spojeného království	Spojené království	LOC	GPE-Great-Britain
+Svozil	Svozil	PER	PER-Cyril-Svozil
+Terramet	Terramet	ORG	ORG-Terramet
+Třinecké železárny – Moravia Steel	Třinecké železárny – Moravia Steel	ORG	ORG-Trinecke-zelezarny-Moravia-Steel
+USA	USA	LOC	GPE-USA
+Velká Británie	Velká Británie	LOC	GPE-Great-Britain
+brexit	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit
+ČR	ČR	LOC	GPE-Czech-Republic
+České republiky	Česká republika	LOC	GPE-Czech-Republic
+Čínou	Čína	LOC	GPE-China

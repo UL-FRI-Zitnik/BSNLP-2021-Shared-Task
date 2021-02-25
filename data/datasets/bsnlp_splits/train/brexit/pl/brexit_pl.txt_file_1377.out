@@ -1,0 +1,90 @@
+pl-1377
+AggregateIQ	AggregateIQ	ORG	ORG-Aggregate-IQ
+Alexander Nix	Alexander Nix	PER	PER-Alexander-Nix
+Alexandr Kogan	Alexandr Kogan	PER	PER-Alexander-Kogan
+Alexandra Nixa	Alexandr Nix	PER	PER-Alexander-Nix
+Bannona	Bannon	PER	PER-Steve-Bannon
+BeLeave	BeLeave	ORG	ORG-BeLeave
+Bogost	Bogost	PER	PER-Ian-Bogost
+Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+Breitbart News	Breitbart News	PRO	PRO-Breitbart-News
+Breitbart	Breitbart	PRO	PRO-Breitbart-News
+Brexitu	Brexit	EVT	EVT-Brexit
+CA	CA	ORG	ORG-Cambridge-Analytica
+Cambridge Analytica	Cambridge Analytica	ORG	ORG-Cambridge-Analytica
+Cameron	Cameron	PER	PER-David-Cameron
+Channel 4	Channel 4	PRO	PRO-Channel-4
+Christopher Wylie	Christopher Wylie	PER	PER-Christopher-Wylie
+Cow Clicker	Cow Clicker	PRO	PRO-Cow-Clicker
+Cummingsa	Cummings	PER	PER-Dominic-Cummings
+DUP	DUP	ORG	ORG-DUP-Democratic-Unionist-Party
+Dariusz Ćwiklak	Dariusz Ćwiklak	PER	PER-Dariusz-Ćwiklak
+Darren Grimes	Darren Grimes	PER	PER-Darren-Grimes
+Demokratyczna Partia Unionistyczna	Demokratyczna Partia Unionistyczna	ORG	ORG-DUP-Democratic-Unionist-Party
+Demokratów	Demokraci	ORG	ORG-Democratic-Party-USA
+Dominic Cummings	Dominic Cummings	PER	PER-Dominic-Cummings
+FSB	FSB	ORG	ORG-FCB-Federal-Security-Service-of-the-Russian-Federation
+Facebooka	Facebook	PRO	PRO-Facebook
+Facebookiem	Facebook	PRO	PRO-Facebook
+Facebooku	Facebook	PRO	PRO-Facebook
+Federalną Komisję Handlu USA	Federalna Komisja Handlu USA	ORG	ORG-Federal-Trade-Commission
+Georgia Institute of Technology	Georgia Institute of Technology	ORG	ORG-Georgia-Institute-of-Technology
+Ghanie	Ghana	LOC	GPE-Ghana
+Guardian	Guardian	PRO	PRO-The-Guardian
+Ian Bogost	Ian Bogost	PER	PER-Ian-Bogost
+Kanady	Kanada	LOC	GPE-Canada
+Kanadyjczykom	Kanadyjczycy	PER	GPE-Canada
+Karaibach	Karaiby	LOC	LOC-Caribbean
+Katarzyna Szymielewicz	Katarzyna Szymielewicz	PER	PER-Katarzyna-Szymielewicz
+Kogan	Kogan	PER	PER-Alexander-Kogan
+Kongresu USA	Kongres USA	ORG	ORG-United-States-Congress
+Kosiński	Kosiński	PER	PER-Michał-Kosiński
+Leave.EU	Leave.EU	ORG	ORG-Leave-EU
+Mark Zuckerberg	Mark Zuckerberg	PER	PER-Mark-Zuckerberg
+May	May	PER	PER-Theresa-May
+Mercer	Mercer	PER	PER-Robert-mercer
+Michael Gove	Michael Gove	PER	PER-Michael-Gove
+NATO	NATO	ORG	ORG-NATO
+NFZ	NFZ	ORG	ORG-NFZ
+NHS	NHS	ORG	ORG-NHS
+Nigela Farage’a	Nigel Farage	PER	PER-Nigel-Farage
+Nigerii	Nigeria	LOC	GPE-Nigeria
+Nix	Nix	PER	PER-Alexander-Nix
+Pakistanu	Pakistan	LOC	GPE-Pakistan
+Parkinson	Parkinson	PER	PER-Stephen-Parkinson
+Parkinsona	Parkinson	PER	PER-Stephen-Parkinson
+Parlamentu Europejskiego	Parlament Europejski	ORG	ORG-European-Parliament
+Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+Roberta Mercera	Robert Mercer	PER	PER-Robert-mercer
+Robertowi Mercerowi	Robert Mercer	PER	PER-Robert-mercer
+Rosjan	Rosjanie	PER	GPE-Russia
+Rosjanami	Rosjanie	PER	GPE-Russia
+Rosjanie	Rosjanie	PER	GPE-Russia
+Rosji	Rosja	LOC	GPE-Russia
+SCL Group	SCL Group	ORG	ORG-SCL-Group
+SCL	SCL	ORG	ORG-SCL-Group
+Sanni	Sanni	PER	PER-Shahmir-Sanni
+Sanniego	Sanni	PER	PER-Shahmir-Sanni
+Shahmir Sanni	Shahmir Sanni	PER	PER-Shahmir-Sanni
+Shahmir	Shahmir	PER	PER-Shahmir-Sanni
+St. Kitt's and Nevis	St. Kitt's and Nevis	LOC	GPE-Saint-Kitts-i-Nevis
+Stephen Parkinson	Stephen Parkinson	PER	PER-Stephen-Parkinson
+Stevenowi Bannonowi	Steven Bannon	PER	PER-Steve-Bannon
+The Atlantic	The Atlantic	PRO	PRO-The-Atlantic
+Trumpa	Trump	PER	PER-Donald-Trump
+UE	UE	ORG	ORG-European-Union
+UKiP	UKiP	ORG	ORG-UK-Independence-Party
+USA	USA	LOC	GPE-USA
+Ukrainek	Ukrainki	PER	GPE-Ukraine
+UpGuard	UpGuard	ORG	ORG-UpGuard
+Veterans for Britain	Veterans for Britain	ORG	ORG-Veterans-for-Britain
+Vote Leave	Vote Leave	ORG	ORG-Vote-Leave
+Waszyngtonu	Waszyngton	LOC	GPE-WashingtonDC
+Wired	Wired	PRO	PRO-Wired
+Wylie	Wylie	PER	PER-Christopher-Wylie
+Wyliego	Wylie	PER	PER-Christopher-Wylie
+Zuckerberg	Zuckerberg	PER	PER-Mark-Zuckerberg
+parlamentu brytyjskiego	Parlament brytyjski	ORG	ORG-British-Parlament
+torysów	torysi	PER	ORG-Tories
+Łukoil	Łukoil	ORG	ORG-Łukoil
+Łukoilowi	Łukoil	ORG	ORG-Łukoil

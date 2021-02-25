@@ -1,0 +1,16 @@
+bg-1248
+Reuters	Reuters	ORG	ORG-Reuters
+Брекзит	Брекзит	EVT	EVT-Brexit
+Брюксел	Брюксел	LOC	GPE-Brussles
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+Европейският съюз	Европейски съюз	ORG	ORG-European-Union
+Закона за авторското право и сродните му права	Закон за авторското право и сродните му права	PRO	PRO-Bulgarian-Copyright-and-Related-Rights-Act
+Информационна агенция ФОКУС	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency
+Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+Найджъл Фарадж	Найджъл Фарадж	PER	PER-Nigel-Farage
+Република България	Република България	LOC	GPE-Bulgaria
+Световната търговска организация	Световна търговска организация	ORG	ORG-WTO-World-Trade-Organization
+Фарадж	Фарадж	PER	PER-Nigel-Farage
+Цанко Цолов	Цанко Цолов	PER	PER-Tsanko-Tsolov

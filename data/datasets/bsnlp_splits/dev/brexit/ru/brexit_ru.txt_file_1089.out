@@ -1,0 +1,25 @@
+ru-1089
+Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+Брекзит	Брекзит	EVT	EVT-Brexit
+Британии	Британия	LOC	GPE-Great-Britain
+Великобритании	Великобритания	LOC	GPE-Great-Britain
+Джонсон	Джонсон	PER	PER-Boris-Johnson
+Джонсона	Джонсон	PER	PER-Boris-Johnson
+Дэвидом Дэвисом	Дэвид Дэвис	PER	PER-David-Davis
+Дэвис	Дэвис	PER	PER-David-Davis
+ЕС	ЕС	ORG	ORG-European-Union
+Европейского союза	Европейский союз	ORG	ORG-European-Union
+Кремля	Кремль	LOC	LOC-Moscow-Kremlin
+МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+Мария Захарова	Мария Захарова	PER	PER-Maria-Zaharova
+Новичок	Новичок	PRO	PRO-Novichok
+Терезе Мэй	Тереза Мэй	PER	PER-Theresa-May
+Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+ЧМ-2018	ЧМ-2018	EVT	EVT-FIFA-World-Cup-2018
+Эймсбери	Эймсбери	LOC	LOC-Amesbury
+британская подданная	британская подданная	PER	GPE-Great-Britain
+британском кабинете министров	британский кабинет министров	ORG	ORG-Cabinet-of-the-United-Kingdom
+британцы	британцы	PER	GPE-Great-Britain
+правительства Т.Мэй	правительство Т.Мэй	ORG	ORG-the-UK-Government
+референдуме	референдум	EVT	EVT-Brexit-Referendum
+российского Министерства иностранных дел	российское Министерство иностранных дел	ORG	ORG-Ministry-of-Foreign-Affairs-Russia

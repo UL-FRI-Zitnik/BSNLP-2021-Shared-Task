@@ -1,0 +1,24 @@
+pl-175
+Amsterdam	Amsterdam	LOC	GPE-Amsterdam
+Amsterdamie	Amsterdam	LOC	GPE-Amsterdam
+Amsterdamu	Amsterdam	LOC	GPE-Amsterdam
+Bruno Bruins	Bruno Bruins	PER	PER-Bruno-Bruins
+EBA	EBA	ORG	ORG-EBA-European-Banking-Authority
+EMA	EMA	ORG	ORG-EMA-European-Medicines-Agency
+Europejska Agencja ds. Leków	Europejska Agencja ds. Leków	ORG	ORG-EMA-European-Medicines-Agency
+Europejski Urząd Nadzoru Bankowego	Europejski Urząd Nadzoru Bankowego	ORG	ORG-EBA-European-Banking-Authority
+Guido Rasi	Guido Rasi	PER	PER-Guido-Rasi
+Londyn	Londyn	LOC	GPE-London
+Londynie	Londyn	LOC	GPE-London
+Londynu	Londyn	LOC	GPE-London
+Mediolan	Mediolan	LOC	GPE-Milan
+Paryża	Paryż	LOC	GPE-Paris
+Polska	Polska	LOC	GPE-Poland
+Polski	Polska	LOC	GPE-Poland
+Południowej Osi	Południowa Oś	LOC	LOC-Amsterdam-Zuidas
+Sloterdijk	Sloterdijk	LOC	LOC-Amsterdam-Sloterdijk
+Spark	Spark	LOC	LOC-Spark
+Warszawy	Warszawa	LOC	GPE-Warsaw
+Zuidas	Zuidas	LOC	LOC-Amsterdam-Zuidas
+agencja ds. ochrony granic Frontex	Agencja ds. ochrony granic Frontex	ORG	ORG-Frontex
+brexitem	Brexit	EVT	EVT-Brexit

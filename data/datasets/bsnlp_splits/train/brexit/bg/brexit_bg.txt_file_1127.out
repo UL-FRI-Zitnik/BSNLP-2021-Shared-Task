@@ -1,0 +1,45 @@
+bg-1127
+Evening Standard	Evening Standard	PRO	PRO-Evening-Standard
+The Daily Express	The Daily Express	PRO	PRO-Daily-Express
+The Guardian	The Guardian	PRO	PRO-The-Guardian
+The Independent	The Independent	PRO	PRO-The-Independent
+Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+Брекзит	Брекзит	EVT	EVT-Brexit
+Брюксел	Брюксел	LOC	GPE-Brussles
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Германия	Германия	LOC	GPE-Germany
+Ги Верхофстад	Ги Верхофстад	PER	PER-Guy-Verhofstadt
+Гоув	Гоув	PER	PER-Michael-Gove
+Гърция	Гърция	LOC	GPE-Greece
+Джонсън	Джонсън	PER	PER-Boris-Johnson
+Джордж Юстис	Джордж Юстис	PER	PER-George-Eustice
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+ЕС	ЕС	ORG	ORG-European-Union
+Европа	Европа	LOC	LOC-Europe
+Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+Жан-Ив льо Дриан	Жан-Ив льо Дриан	PER	PER-Jean-Yves-Le-Drian
+Зигмар Габриел	Зигмар Габриел	PER	PER-Sigmar-Gabriel
+Информационна агенция "Фокус"	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency
+Иран	Иран	LOC	GPE-Iran
+Иранското ядрено споразумение	Иранско ядрено споразумение	PRO	PRO-Iran-nuclear-deal
+Испания	Испания	LOC	GPE-Spain
+Италия	Италия	LOC	GPE-Italy
+Кипър	Кипър	LOC	GPE-Cyprus
+Лондон	Лондон	LOC	GPE-London
+Майкъл Гоув	Майкъл Гоув	PER	PER-Michael-Gove
+Малта	Малта	LOC	GPE-Malta
+Могерини	Могерини	PER	PER-Federica-Mogherini
+Мохамад Джавад Зариф	Мохамад Джавад Зариф	PER	PER-Mohammad-Javad-Zarif
+Норвегия	Норвегия	LOC	GPE-Norway
+Португалия	Португалия	LOC	GPE-Portugal
+Рим	Рим	LOC	GPE-Rome
+САЩ	САЩ	LOC	GPE-USA
+Съединени европейски щати	Съединени европейски щати	LOC	GPE-United-States-of-Europe
+Федерика Могерини	Федерика Могерини	PER	PER-Federica-Mogherini
+Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+Франция	Франция	LOC	GPE-France
+Хамънд	Хамънд	PER	PER-Philip-Hammond
+британците	британци	PER	GPE-Great-Britain
+евродепутати	евродепутати	PER	ORG-European-Parlament

@@ -1,0 +1,23 @@
+pl-657
+Brexit	Brexit	EVT	EVT-Brexit
+Bruksela	Bruksela	LOC	GPE-Brussles
+City	City	LOC	LOC-City-of-London
+Frankfurtu	Frankfurt	LOC	GPE-Frankfurt-am-Main
+KPMG	KPMG	ORG	ORG-KPMG
+Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+Londyn	Londyn	LOC	GPE-London
+Marek Bielawski	Marek Bielawski	PER	PER-Marek-Bielawski
+Niemcy	Niemcy	LOC	GPE-Germany
+Polska	Polska	LOC	GPE-Poland
+Polski	Polska	LOC	GPE-Poland
+Przemysław Barbrich	Przemysław Barbrich	PER	PER-Przemysław-Barbrich
+UE	UE	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+Unię Europejską	Unia Europejska	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+Związku Banków Polskich	Związek Banków Polskich	ORG	ORG-ZBP-Polish-Bank-Association
+brexit	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit

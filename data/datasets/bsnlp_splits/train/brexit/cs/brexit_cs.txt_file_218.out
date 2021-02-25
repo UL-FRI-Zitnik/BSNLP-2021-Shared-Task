@@ -1,0 +1,20 @@
+cs-218
+Barnierovi	Barnier	PER	PER-Michel-Barnier
+Brexit	Brexit	EVT	EVT-Brexit
+Britové	Britové	PER	GPE-Great-Britain
+Brity	Britové	PER	GPE-Great-Britain
+Británie	Británie	LOC	GPE-Great-Britain
+Bruselu	Brusel	LOC	GPE-Brussles
+David Davis	David Davis	PER	PER-David-Davis
+Davis	Davis	PER	PER-David-Davis
+EU	EU	ORG	ORG-European-Union
+London	London	LOC	GPE-London
+Londýn	Londýn	LOC	GPE-London
+Londýně	Londýn	LOC	GPE-London
+Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+MichelBarnier	MichelBarnier	PER	PER-Michel-Barnier
+ProuzaTomas	ProuzaTomas	PER	PER-Tomas-Prouza
+Tomas Prouza	Tomas Prouza	PER	PER-Tomas-Prouza
+UK	UK	LOC	GPE-Great-Britain
+brexit	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit

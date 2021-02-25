@@ -1,0 +1,21 @@
+pl-1867
+Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+Caroline Nokes	Caroline Nokes	PER	PER-Caroline-Nokes
+Home Office	Home Office	ORG	ORG-Home-Office-UK
+MSW	MSW	ORG	ORG-Home-Office-UK
+NHS	NHS	ORG	ORG-NHS
+Nokes	Nokes	PER	PER-Caroline-Nokes
+PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+Polacy	Polacy	PER	GPE-Poland
+Polaków	Polacy	PER	GPE-Poland
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnotę	Wspólnota	ORG	ORG-European-Union
+Wyspach Brytyjskich	Wyspy Brytyjskie	LOC	GPE-Great-Britain
+brexicie	Brexit	EVT	EVT-Brexit
+brexit	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit
+narodowej służby zdrowia	Narodowa Służba Zdrowia	ORG	ORG-NHS

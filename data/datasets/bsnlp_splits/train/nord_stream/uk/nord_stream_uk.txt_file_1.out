@@ -1,0 +1,120 @@
+uk-1
+APX-Endex	APX-Endex	ORG	ORG-APX-Endex
+EEX	EEX	ORG	ORG-EEX
+EWI	EWI	ORG	ORG-EWI
+Energiewirtschaftliches Institut	Energiewirtschaftliches Institut	ORG	ORG-EWI
+Ernst&Young	Ernst&Young	ORG	ORG-Ernst-and-Young
+GasTerra	GasTerra	ORG	ORG-GasTerra
+ICE Futures Europe	ICE Futures Europe	ORG	ORG-ICE-Futures-Europe
+Mac Donald Mott	Mac Donald Mott	ORG	ORG-Mac-Donald-Mott
+NBP	NBP	ORG	ORG-NBP
+NCG	NCG	ORG	ORG-NCG-NetConnect-Germany
+National Balancing Point	National Balancing Point	ORG	ORG-National-Balancing-Point
+Nord Stream-2	Nord Stream-2	ORG	ORG-Nord-Stream-2-AG
+Statoil	Statoil	ORG	ORG-Statoil
+TTF	TTF	ORG	ORG-TTF
+ЄС	ЄС	LOC	ORG-European-Union
+Єврокомісією	Єврокомісія	ORG	ORG-European-Commission
+Єврокомісії	Єврокомісія	ORG	ORG-European-Commission
+Європи	Європа	LOC	GPE-Europe
+Європу	Європа	LOC	GPE-Europe
+Європі	Європа	LOC	GPE-Europe
+Євросоюзі	Євросоюз	LOC	ORG-European-Union
+Іспанії	Іспанія	LOC	GPE-Spain
+Азії	Азія	LOC	LOC-Asia
+Алжиру	Алжир	LOC	GPE-Algeria
+Амстердам	Амстердам	LOC	GPE-Amsterdam
+Балтії	Балтії	LOC	LOC-Baltic-countries
+Болгарія	Болгарія	LOC	GPE-Bulgaria
+Болгарією	Болгарія	LOC	GPE-Bulgaria
+Болгарії	Болгарія	LOC	GPE-Bulgaria
+Боснія і Герцеговина	Боснія і Герцеговина	LOC	GPE-Bosnia-and-Herzegovina
+Боснія	Боснія	LOC	GPE-Bosnia-and-Herzegovina
+Боснії та Герцеговині	Боснія та Герцеговина	LOC	GPE-Bosnia-and-Herzegovina
+Боснії	Боснія	LOC	GPE-Bosnia-and-Herzegovina
+Білоруссю	Білорусь	LOC	GPE-Belarus
+Білорусь	Білорусь	LOC	GPE-Belarus
+Білорусі	Білорусь	LOC	GPE-Belarus
+ВАТ "Газпром"	ВАТ "Газпром"	ORG	ORG-Gazprom
+Великій Британії	Велика Британія	LOC	GPE-Great-Britain
+Газпром	Газпром	ORG	ORG-Gazprom
+Газпромом	Газпромом	ORG	ORG-Gazprom
+Газпрому	Газпром	ORG	ORG-Gazprom
+Греція	Греція	LOC	GPE-Greece
+ДЕХ	ДЕХ	EVT	EVT-Energy-Charter-Treaty
+Договору до Енергетичної хартії	Договір до Енергетичної хартії	EVT	EVT-Energy-Charter-Treaty
+Договорі до Енергетичної хартії	Договір до Енергетичної хартії	EVT	EVT-Energy-Charter-Treaty
+Договорі про заснування Енергетичного співтовариства	Договір про заснування Енергетичного співтовариства	EVT	EVT-Energy-Community-Treaty
+Договір про заснування Енергетичного співтовариства	Договір про заснування Енергетичного співтовариства	EVT	EVT-Energy-Charter-Treaty
+Дюссельдорф	Дюссельдорф	LOC	GPE-Dusseldorf
+Енергетичної хартії	Енергетична хартія	EVT	EVT-Energy-Charter-Treaty
+Енергетичній хартії	Енергетична хартія	EVT	EVT-Energy-Charter-Treaty
+Естонії	Естонія	LOC	GPE-Estonia
+Західній Європі	Західна Європа	LOC	LOC-Western-Europe
+Кельн	Кельн	LOC	GPE-Koln
+Китаю	Китай	LOC	GPE-China
+Конференції сторін ДЕХ	Конференція сторін ДЕХ	EVT	EVT-Energy-Charter-Conference
+Конференції сторін Енергетичної хартії	Конференція сторін Енергетичної хартії	EVT	EVT-Energy-Charter-Conference
+Кремля	Кремль	ORG	ORG-Kremlin
+Латвії	Латвія	LOC	GPE-Latvia
+Лейпциг	Лейпциг	LOC	GPE-Leipzig
+Литви	Литва	LOC	GPE-Lithuania
+Литві	Литва	LOC	GPE-Lithuania
+Лондон	Лондон	LOC	GPE-London
+МЕА	МЕА	ORG	ORG-MEA
+Македонія	Македонія	LOC	GPE-Northern-Macedonia
+Македонії	Македонія	LOC	GPE-Northern-Macedonia
+Міжнародним газовим союзом	Міжнародний газовий союз	ORG	ORG-International-Gas-Union
+Мінська	Мінськ	LOC	GPE-Minsk
+НАК "Нафтогаз України"	НАК "Нафтогаз України"	ORG	ORG-Naftogaz
+НАК "Нафтогаз України	НАК "Нафтогаз України	ORG	ORG-Naftogaz
+НАКу	НАК	ORG	ORG-Naftogaz
+Нафтогазу	Нафтогаз	ORG	ORG-Naftogaz
+Нідерландах	Нідерланди	LOC	GPE-Holland
+Німеччина	Німеччина	LOC	GPE-Germany
+Польща	Польща	LOC	GPE-Poland
+Польщі	Польща	LOC	GPE-Poland
+Південний потік	Південний потік	ORG	ORG-South-Stream
+Північний поток-1	Північний поток-1	ORG	ORG-Nord-Stream-AG
+Північний потік-1	Північний потік-1	ORG	ORG-Nord-Stream-AG
+Північний потік-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+Північного потоку-1	Північний потік-1	ORG	ORG-Nord-Stream-AG
+Північного потоку-2	Північний потік-2	ORG	ORG-Nord-Stream-2-AG
+РФ	РФ	LOC	GPE-Russia
+Російської Федерації	Російська Федерація	LOC	GPE-Russia
+Росія	Росія	LOC	GPE-Russia
+Росії	Росія	LOC	GPE-Russia
+Румунію	Румунія	LOC	GPE-Romania
+Румунія	Румунія	LOC	GPE-Romania
+Румунії	Румунія	LOC	GPE-Romania
+США	США	LOC	GPE-USA
+Сербія	Сербія	LOC	GPE-Serbia
+Сербії	Сербія	LOC	GPE-Serbia
+Словаччини	Словаччина	LOC	GPE-Slovakia
+Словаччині	Словаччина	LOC	GPE-Slovakia
+Стокгольмського арбітражу	Стокгольмський арбітраж	ORG	ORG-Arbitration-Institute-of-the-Stockholm-Chamber-of-Commerce
+Стокгольмі	Стокгольм	LOC	GPE-Stockholm
+Східного Сибіру	Східний Сибір	LOC	LOC-East-Siberia
+Східної Європи	Східна Європа	LOC	LOC-Eastern-Europe
+Турецький потік	Турецький потік	ORG	ORG-TurkStream
+Туркменистані	Туркменистан	LOC	GPE-Turkmenistan
+Угода про асоціацію між Україною та ЄС	Угода про асоціацію між Україною та ЄС	EVT	EVT-Association-Agreement-Ukraine-and-European-Union
+Угорщина	Угорщина	LOC	GPE-Hungary
+Угорщини	Угорщина	LOC	GPE-Hungary
+Угорщині	Угорщина	LOC	GPE-Hungary
+Україна	Україна	LOC	GPE-Ukraine
+України	Україна	LOC	GPE-Ukraine
+Україною	Україна	LOC	GPE-Ukraine
+Україну	Україна	LOC	GPE-Ukraine
+Україні	Україна	LOC	GPE-Ukraine
+Укртрансгаз	Укртрансгаз	ORG	ORG-Ukrtransgas
+Укртрансгазу	Укртрансгаз	ORG	ORG-Ukrtransgas
+Фінляндія	Фінляндія	LOC	GPE-Finland
+Фінляндії	Фінляндія	LOC	GPE-Finland
+Центральної та Східної Європи	Центральна та Східна Європа	LOC	LOC-Central-Eastern-Europe
+Чехії	Чехія	LOC	GPE-Czech-Republic
+Швеції	Швеція	LOC	GPE-Sweden
+Ямалі	Ямал	LOC	GPE-Yamal
+арбітражного суду	арбітражний суд	ORG	ORG-Arbitration-Court
+президент Білорусі	президент Білорусі	PER	PER-Alexander-Lukashenko
+європейських країнах	європейська країна	LOC	LOC-Europe

@@ -1,0 +1,29 @@
+ru-1093
+Brexit	Brexit	EVT	EVT-Brexit
+Lenta.ru	Lenta.ru	ORG	ORG-Lenta-Ru-News-Agency
+Sky News	Sky News	PRO	PRO-Sky-News-TV
+Ангела Меркель	Ангела Меркель	PER	PER-Angela-Merkel
+Англии	Англия	LOC	GPE-Great-Britain
+Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+Брюсселем	Брюссель	LOC	GPE-Brussles
+ВВС	ВВС	PRO	PRO-BBC
+Джонсон	Джонсон	PER	PER-Boris-Johnson
+Джонсона	Джонсон	PER	PER-Boris-Johnson
+Дэвис	Дэвис	PER	PER-David-Davis
+Дэвиса	Дэвис	PER	PER-David-Davis
+ЕС	ЕС	ORG	ORG-European-Union
+Еврокомиссии	Еврокомиссия	ORG	ORG-European-Commission
+Жан-Клод Юнкер	Жан-Клод Юнкер	PER	PER-Jean-Claude-Juncker
+Лондон	Лондон	LOC	GPE-London
+МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+Мишель Барнье	Мишель Барнье	PER	PER-Michel-Barnier
+Мэй	Мэй	PER	PER-Theresa-May
+НАТО	НАТО	ORG	ORG-NATO
+Российскую Федерацию	Российская Федерация	LOC	GPE-Russia
+США	США	LOC	GPE-USA
+Твиттер	Твиттер	PRO	PRO-Twitter
+Терезе Мэй	Тереза Мэй	PER	PER-Theresa-May
+Терезы Мей	Тереза Мей	PER	PER-Theresa-May
+ФРГ	ФРГ	LOC	GPE-Germany
+кабинет премьера Мэй	кабинет премьера Мэй	ORG	ORG-Cabinet-of-the-United-Kingdom

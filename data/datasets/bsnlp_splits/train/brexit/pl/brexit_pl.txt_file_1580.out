@@ -1,0 +1,19 @@
+pl-1580
+Brexitem	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+Emilewicz	Emilewicz	PER	PER-Jadwiga-Emilewicz
+GUS	GUS	ORG	ORG-GUS-Poland
+Greg Hands	Greg Hands	PER	PER-Greg-Hands
+Hands	Hands	PER	PER-Greg-Hands
+KE	KE	ORG	ORG-European-Commission
+MPiT	MPiT	ORG	ORG-MPiT
+Ministerstwo Przedsiębiorczości i Technologii	Ministerstwo Przedsiębiorczości i Technologii	ORG	ORG-MPiT
+Niemczech	Niemcy	LOC	GPE-Germany
+Polacy	Polacy	PER	GPE-Poland
+Polska	Polska	LOC	GPE-Poland
+Polski	Polska	LOC	GPE-Poland
+Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+ambasadę brytyjską	Ambasada Brytyjska	ORG	ORG-British-Embassy

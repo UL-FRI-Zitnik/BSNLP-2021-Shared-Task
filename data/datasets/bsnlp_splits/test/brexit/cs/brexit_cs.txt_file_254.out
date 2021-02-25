@@ -1,0 +1,20 @@
+cs-254
+Blair	Blair	PER	PER-Tony-Blair
+Brexit	Brexit	EVT	EVT-Brexit
+Britové	Britové	PER	GPE-Great-Britain
+Británie	Británie	LOC	GPE-Great-Britain
+Británii	Británie	LOC	GPE-Great-Britain
+Druhé světové války	Druhá světová válka	EVT	EVT-World-War-II
+Evropou	Evropa	LOC	LOC-Europe
+Evropské unie	Evropská unie	ORG	ORG-European-Union
+Jeremyho Corbyna	Jeremy Corbyn	PER	PER-Jeremy-Corbyn
+Labouristickou stranu	Labouristická strana	ORG	ORG-Labour-Party-UK
+Labouristické strany	Labouristická strana	ORG	ORG-Labour-Party-UK
+Mayová	Mayová	PER	PER-Theresa-May
+Reuters	Reuters	ORG	ORG-Reuters
+Spojeného království	Spojenié království	LOC	GPE-Great-Britain
+Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+Tony Blair	Tony Blair	PER	PER-Tony-Blair
+Unie	Unie	ORG	ORG-European-Union
+brexit	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit

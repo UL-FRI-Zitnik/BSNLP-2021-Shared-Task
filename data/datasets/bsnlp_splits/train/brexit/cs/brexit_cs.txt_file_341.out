@@ -1,0 +1,24 @@
+cs-341
+Best for Britain	Best for Britain	ORG	ORG-Best-for-Britain
+Brity	Britové	PER	GPE-Great-Britain
+Británie	Británie	LOC	GPE-Great-Britain
+Británii	Británie	LOC	GPE-Great-Britain
+Británii	Británii	LOC	GPE-Great-Britain
+Britů	Britové	PER	GPE-Great-Britain
+Britům	Britové	PER	GPE-Great-Britain
+EU	EU	ORG	ORG-European-Union
+Evropské unie	Evropská unie	ORG	ORG-European-Union
+Evropské unii	Evropská unie	ORG	ORG-European-Union
+Evropu	Evropa	LOC	LOC-Europe
+Francie	Francie	LOC	GPE-France
+Francii	Francie	LOC	GPE-France
+Lawson	Lawson	PER	PER-Nigel-Lawson
+Lawsona	Lawson	PER	PER-Nigel-Lawson
+Nigel Lawson	Nigel Lawson	PER	PER-Nigel-Lawson
+Paul Butters	Paul Butters	PER	PER-Paul-Butters
+The Conexion	The Conexion	ORG	ORG-The-Conexion
+The Guardian	The Guardian	PRO	PRO-The-Guardian
+Unie	Unie	ORG	ORG-European-Union
+Velké Británie	Velká Británie	LOC	GPE-Great-Britain
+Vote Leave	Vote Leave	ORG	ORG-Vote-Leave
+brexit	brexit	EVT	EVT-Brexit

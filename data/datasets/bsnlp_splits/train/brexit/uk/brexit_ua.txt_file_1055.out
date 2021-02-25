@@ -1,0 +1,22 @@
+ua-1055
+Brexit	Brexit	EVT	EVT-Brexit
+ЄС	ЄС	LOC	ORG-European-Union
+Євросоюзу	Євросоюз	LOC	ORG-European-Union
+Іспанія	Іспанія	LOC	GPE-Spain
+Іспанією	Іспанія	LOC	GPE-Spain
+Борель	Борель	PER	PER-Josep-Borrell
+Британії	Британія	LOC	GPE-Great-Britain
+Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+Гибралтарську скелю	Гібралтарська скеля	LOC	GPE-Gibraltar
+Гібралтар	Гібралтар	LOC	GPE-Gibraltar
+Гібралтару	Гібралтар	LOC	GPE-Gibraltar
+МЗС	МЗС	ORG	ORG-Foreign-Office
+Мей	Мей	PER	PER-Theresa-May
+Мінфін Британії	Мінфін Британії	ORG	ORG-Ministry-of-Finance-UK
+Піренейським півостровом	Піренейський півострів	LOC	LOC-Iberian-Peninsula
+Піренейського півострова	Піренейській півострів	LOC	LOC-Iberian-Peninsula
+Рада ЄС	Рада ЄС	ORG	ORG-Council-of-the-European-Union
+Сполученим Королівством	Сполучене Королівство	LOC	GPE-Great-Britain
+Сполученого Королівства	Сполучене Королівство	LOC	GPE-Great-Britain
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Хосеп Борель	Хосеп Борель	PER	PER-Josep-Borrell

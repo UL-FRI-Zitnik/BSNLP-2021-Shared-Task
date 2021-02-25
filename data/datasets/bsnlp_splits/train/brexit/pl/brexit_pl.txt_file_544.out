@@ -1,0 +1,26 @@
+pl-544
+Berlina	Berlin	LOC	GPE-Berlin
+Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+Europoseł	Europoseł	PER	ORG-European-Parlament
+Jarosław Kaczyński	Jarosław Kaczyński	PER	PER-Jaroslav-Kaczyński
+Jarosława Kaczyńskiego	Jarosław Kaczyński	PER	PER-Jaroslav-Kaczyński
+Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+Komisją Wenecką	Komisja Wenecka	ORG	ORG-Venice-Commission
+Komisję Europejską	Komisja Europejska	ORG	ORG-European-Commission
+Krasnodębski	Krasnodębski	PER	PER-Zdzisław-Krasnodębski
+Krystyna Pawłowicz	Krystyna Pawłowicz	PER	PER-Krystyna-Pawłowicz
+Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+PiS	PiS	ORG	ORG-PiS-Law-and-Justice
+Polsce	Polska	LOC	GPE-Poland
+Polski	Polska	LOC	GPE-Poland
+Rafał Ziemkiewicz	Rafał Ziemkiewicz	PER	PER-Rafał-Ziemkiewicz
+Stanisław Janecki	Stanisław Janecki	PER	PER-Stanisław-Janecki
+UE	UE	ORG	ORG-European-Union
+Unia	Unia	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Unią	Unia	ORG	ORG-European-Union
+Warszawy	Warszawa	LOC	GPE-Warsaw
+Zdzisław Krasnodębski	Zdzisław Krasnodębski	PER	PER-Zdzisław-Krasnodębski
+brexitem	Brexit	EVT	EVT-Brexit
+polexit	Polexit	EVT	EVT-Polexit
+polexitu	Polexit	EVT	EVT-Polexit

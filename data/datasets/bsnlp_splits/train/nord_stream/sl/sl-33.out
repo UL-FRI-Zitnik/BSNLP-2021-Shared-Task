@@ -1,0 +1,91 @@
+sl-33
+Afganistanu	Afganistan	LOC	GPE-Afghanistan
+Američane	Američani	PER	GPE-USA
+Atlantika	Atlantik	LOC	LOC-Atlantic-Ocean
+Balkan	Balkan	LOC	LOC-Balkans
+BiH	BiH	LOC	GPE-Bosnia-and-Herzegovina
+Bližnjem vzhodu	Bližnji vzhod	LOC	LOC-Middle-East
+Bosni in Hercegovini	Bosna in Hercegovina	LOC	GPE-Bosnia-and-Herzegovina
+Bruslju	Bruselj	LOC	GPE-Brussels
+Ciper	Ciper	LOC	GPE-Cyprus
+Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+EU	EU	ORG	ORG-European-Union
+Evropa	Evropa	LOC	LOC-Europe
+Evrope	Evropa	LOC	LOC-Europe
+Evropejcem	Evropejci	PER	LOC-Europe
+Evropejci	Evropejci	PER	LOC-Europe
+Evropi	Evropa	LOC	LOC-Europe
+Evropo	Evropa	LOC	LOC-Europe
+Francozi	Francozi	PER	GPE-France
+Gruzije	Gruzija	LOC	GPE-Georgia
+IFOR	IFOR	PRO	PRO-Implementation-Force-IFOR
+ISAF	ISAF	PRO	PRO-International-Security-Assistance-Force-ISAF
+Iraku	Irak	EVT	EVT-Iraq-War
+Isis	Isis	ORG	ORG-ISIS-Islamic-State-of-Iraq-and-the-Levant
+Jugoslavija	Jugoslavija	LOC	GPE-Yugoslavia
+Jugoslavije	Jugoslavija	LOC	GPE-Yugoslavia
+KFOR	KFOR	ORG	ORG-KFOR
+Kanade	Kanada	LOC	GPE-Canada
+Kitajsko	Kitajska	LOC	GPE-China
+Kosovu	Kosovo	LOC	GPE-Kosovo
+Latviji	Latvija	LOC	GPE-Latvia
+Madžari	Madžari	PER	GPE-Hungary
+Makedonija	Makedonija	LOC	GPE-Northern-Macedonia
+Marshallov plan	Marshallov plan	PRO	PRO-Marshall-Plan
+Marshallovega plana	Marshallov plan	PRO	PRO-Marshall-Plan
+Michaela Rühleja	Michael Rühle	PER	PER-Michael-Rühle
+Miloševićeve	Milošević	PER	PER-Slobodan-Milošević
+Miloševićevega	Milošević	PER	PER-Slobodan-Milošević
+Nata	NATO	ORG	ORG-NATO
+Nato	Nato	ORG	ORG-NATO
+Natom	Nato	ORG	ORG-NATO
+Natovi	Natov	ORG	ORG-NATO
+Natovih	Natov	ORG	ORG-NATO
+Natovim	Natov	ORG	ORG-NATO
+Natovo	Natov	ORG	ORG-NATO
+Natu	Nato	ORG	ORG-NATO
+Nemce	Nemci	PER	GPE-Germany
+OZN	OZN	ORG	ORG-United-Nations
+Obame	Obama	PER	PER-Barack-Obama
+Poljaki	Poljaki	PER	GPE-Poland
+Poljskem	Poljska	LOC	GPE-Poland
+Portugalske	Portugalska	LOC	GPE-Portugal
+Rusija	Rusija	LOC	GPE-Russia
+Rusije	Rusija	LOC	GPE-Russia
+Rusijo	Rusija	LOC	GPE-Russia
+SFOR	SFOR	PRO	PRO-Stabilisation-Force-in-Bosnia-and-Herzegovina-SFOR
+Severne Amerike	Severna Amerika	LOC	LOC-North-America
+Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+Severno Ameriko	Severna Amerika	LOC	LOC-North-America
+Slovaki	Slovaki	PER	GPE-Slovakia
+Slovencem	Slovenci	PER	GPE-Slovenia
+Slovenci	Slovenci	PER	GPE-Slovenia
+Slovenija	Slovenija	LOC	GPE-Slovenia
+Slovenije	Slovenija	LOC	GPE-Slovenia
+Sloveniji	Slovenija	LOC	GPE-Slovenia
+Slovenske vojske	Slovenska vojska	ORG	ORG-Slovenian-Armed-Forces
+Sovjete	Sovjeti	PER	GPE-Soviet-Union-USSR
+Sovjetske zveze	Sovjetska zveza	LOC	GPE-Soviet-Union-USSR
+Sovjetsko zvezo	Sovjetska zveza	LOC	GPE-Soviet-Union-USSR
+Srbija	Srbija	LOC	GPE-Serbia
+Trumpovega	Trump	PER	PER-Donald-Trump
+Ukrajine	Ukrajina	LOC	GPE-Ukraine
+Varnostnega sveta OZN	varnostni svet OZN	ORG	ORG-United-Nations-Security-Council
+Varšavi	Varšava	LOC	GPE-Warsaw
+Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+Walesu	Wales	LOC	GPE-Wales
+ZDA	ZDA	LOC	GPE-USA
+aneksija Krima	aneksija Krima	EVT	EVT-Annexation-of-Crimea
+druge svetovne vojne	druga svetovna vojna	EVT	EVT-World-War-II
+lord Ismay	lord Ismay	PER	PER-Hastings-Ismay-1st-Baron-Ismay
+nuklearnega sporazuma z Iranom	nuklearni sporazum z Iranom	PRO	PRO-Iran-nuclear-deal
+severni Afriki	severna Afrika	LOC	LOC-North-Africa
+slovenska vojska	Slovenska vojska	ORG	ORG-Slovenian-Armed-Forces
+sueško krizo	sueška kriza	EVT	EVT-Suez-Crisis
+ustanovne listine OZN	ustanovna listina OZN	PRO	PRO-Charter-of-the-United-Nations
+vojno v Vietnamu	vojna v Vietnamu	EVT	EVT-Vietnam-War
+vzhodu Evrope	vzhod Evrope	LOC	LOC-Eastern-Europe
+washingtonske pogodbe	washingtonska pogodba	PRO	PRO-North-Atlantic-Treaty
+washingtonsko pogodbo	washingtonska pogodba	PRO	PRO-North-Atlantic-Treaty
+zahodne Evrope	zahodna Evropa	LOC	LOC-Western-Europe
+Čehi	Čehi	PER	GPE-Czech-Republic

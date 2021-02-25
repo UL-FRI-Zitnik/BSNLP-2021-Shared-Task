@@ -1,0 +1,35 @@
+pl-1993
+Brukseli	Bruksela	LOC	GPE-Brussles
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+Europejczyków	Europejczycy	PER	LOC-Europe
+GRU	GRU	ORG	ORG-GRU-(Russian-GU)
+Junckera	Juncker	PER	PER-Jean-Claude-Juncker
+Krymu	Krym	LOC	GPE-Crimea
+Londynu	Londyn	LOC	GPE-London
+MI6	MI6	ORG	ORG-MI6
+Polakami	Polacy	PER	GPE-Poland
+Polaków	Polacy	PER	GPE-Poland
+Putina	Putin	PER	PER-Vladimir-Putin
+Putinowi	Putin	PER	PER-Vladimir-Putin
+Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+Rosji	Rosja	LOC	GPE-Russia
+Rosją	Rosja	LOC	GPE-Russia
+Rosję	Rosja	LOC	GPE-Russia
+Siergiej Skripal	Siergiej Skripal	PER	PER-Siergiej-Skripal
+Siergieja Skripala	Siergiej Skripal	PER	PER-Siergiej-Skripal
+Syrii	Syria	LOC	GPE-Syria
+Tusk	Tusk	PER	PER-Donald-Tusk
+Twitterze	Twitter	PRO	PRO-Twitter
+USA	USA	LOC	GPE-USA
+Ukrainy	Ukraina	LOC	GPE-Ukraine
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wlk. Brytanii	Wlk. Brytania	LOC	GPE-Great-Britain
+Wspólnoty	Wspólnota	ORG	ORG-European-Union
+Wyspy	Wyspy	LOC	GPE-Great-Britain
+Władimir	Władimir	PER	PER-Vladimir-Putin
+Władimira Putina	Władimir Putin	PER	PER-Vladimir-Putin
+Zachodu	Zachód	LOC	LOC-West
+brexit	Brexit	EVT	EVT-Brexit
+brexitem	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit

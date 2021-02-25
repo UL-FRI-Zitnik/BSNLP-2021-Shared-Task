@@ -1,0 +1,13 @@
+pl-410
+Angeli Merkel	Angela Merkel	PER	PER-Angela-Merkel
+Angelą Merkel	Angela Merkel	PER	PER-Angela-Merkel
+Brexitem	Brexit	EVT	EVT-Brexit
+Mateusz Morawiecki	Mateusz Morawiecki	PER	PER-Mateusz-Morawiecki
+Merkel	Merkel	PER	PER-Angela-Merkel
+Morawiecki	Morawiecki	PER	PER-Mateusz-Morawiecki
+Niemiec	Niemcy	LOC	GPE-Germany
+Polska	Polska	LOC	GPE-Poland
+UE 	UE	ORG	ORG-European-Union
+UE	UE	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+wspólnej polityki rolnej	Wspólna Polityka Rolna	PRO	PRO-CAP-Common-Agricultural-Policy

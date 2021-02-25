@@ -1,0 +1,26 @@
+pl-1769
+Brexit	Brexit	EVT	EVT-Brexit
+Brexitem	Brexit	EVT	EVT-Brexit
+Brexitowi	Brexit	EVT	EVT-Brexit
+Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+Caroline Lucas	Caroline Lucas	PER	PER-Caroline-Lucas
+Downing Street	Downing Street	LOC	LOC-Downing-Street
+Gina Miller	Gina Miller	PER	PER-Gina-Miller
+Głos narodu	Głos narodu	EVT	EVT-Peoples-Vote
+Jeremy Corbyn	Jeremy Corbyn	PER	PER-Jeremy-Corbyn
+Johna Curtice'a	John Curtice	PER	PER-John-Curtice
+Liberalnych Demokratów	Liberalni Demokraci	ORG	ORG-Scottish-Liberal-Democrats
+Londynie	Londyn	LOC	GPE-London
+Open Britain	Open Britain	ORG	ORG-Open-Britain
+Partii Zielonych	Partia Zielonych	ORG	ORG-Green-Party-UK
+Partią Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+People's Vote	People's Vote	EVT	EVT-Peoples-Vote
+Survation	Survation	ORG	ORG-Survation
+Theresy May	Theresa May	PER	PER-Theresa-May
+UE	UE	ORG	ORG-European-Union
+Vince Cable	Vince Cable	PER	PER-Vince-Cable
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnoty	Wspólnota	ORG	ORG-European-Union
+Wspólnotę	Wspólnota	ORG	ORG-European-Union
+brytyjskiego parlamentu	Brytyjski Parlament	ORG	ORG-British-Parlament

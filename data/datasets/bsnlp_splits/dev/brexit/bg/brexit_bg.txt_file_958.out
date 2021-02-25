@@ -1,0 +1,31 @@
+bg-958
+Observer	Observer	PRO	PRO-The-Observer
+Reuters	Reuters	ORG	ORG-Reuters
+The Guardian	The Guardian	PRO	PRO-The-Guardian
+The Independent	The Independent	PRO	PRO-The-Independent
+Андрю Диърден	Андрю Диърдън	PER	PER-Andrew-Dearden
+Брекзит	Брекзит	EVT	EVT-Brexit
+Британската медицинска асоциация	Британска медицинска асоциация	ORG	ORG-British-Medical-Association
+Варадкар	Варадкар	PER	PER-Leo-Varadkar
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Виктор Турмаков	Виктор Турмаков	PER	PER-Viktor-Turmakov
+Джереми Хънт	Джереми Хънт	PER	PER-Jeremy-Hunt
+Джон Мейджър	Джон Мейджър	PER	PER-John-Major
+Дъблин	Дъблин	LOC	GPE-Dublin
+ЕС	ЕС	ORG	ORG-European-Union
+Европа	Европа	LOC	LOC-Europe
+Европейската агенциа за безопасността на полетите	Европейска агенция за безопасността на полетите	ORG	ORG-EASA-European-Aviation-Safety-Agency
+Европейската агенция за лекарствата	Европейска агенция за лекарствата	ORG	ORG-EMA-European-Medicines-Agency
+Европейската агенция за химикалите	Европейска агенция за химикали	ORG	ORG-European-Chemicals-Agency
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+Ирландия	Ирландия	LOC	GPE-Ireland
+Лео Варадкар	Лео Варадкар	PER	PER-Leo-Varadkar
+Лондон	Лондон	LOC	GPE-London
+Майкъл Хезълтайн	Майкъл Хезълтайн	PER	PER-Michael-Haseltine
+Мей	Мей	PER	PER-Theresa-May
+Република Ирландия	Република Ирландия	LOC	GPE-Ireland
+Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Тони Блеър	Тони Блеър	PER	PER-Tony-Blair
+Хезълтайн	Хезълтайн	PER	PER-Michael-Haseltine
+Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov

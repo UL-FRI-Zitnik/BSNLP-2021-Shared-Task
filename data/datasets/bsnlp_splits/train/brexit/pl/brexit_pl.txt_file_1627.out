@@ -1,0 +1,15 @@
+pl-1627
+DUP	DUP	ORG	ORG-DUP-Democratic-Unionist-Party
+David Davis	David Davis	PER	PER-David-Davis
+Davisem	Davis	PER	PER-David-Davis
+Demokratyczna Partia Unionistyczna	Demokratyczna Partia Unionistyczna	ORG	ORG-DUP-Democratic-Unionist-Party
+Irlandia Pn.	Irlandia Pn.	LOC	GPE-Northern-Ireland
+Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+Irlandią	Irlandia	LOC	GPE-Ireland
+May	May	PER	PER-Theresa-May
+Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+Theresa May	Theresa May	PER	PER-Theresa-May
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+brexitu	Brexit	EVT	EVT-Brexit

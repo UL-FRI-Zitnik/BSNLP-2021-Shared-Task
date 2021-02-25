@@ -1,0 +1,13 @@
+bg-175
+Brexit	Brexit	EVT	EVT-Brexit
+The Daily Express	The Daily Express	PRO	PRO-Daily-Express
+Барние	Барние	PER	PER-Michel-Barnier
+Брекзит	Брекзит	EVT	EVT-Brexit
+Брюксел	Брюксел	LOC	GPE-Brussles
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+ЕС	ЕС	ORG	ORG-European-Union
+Лондон	Лондон	LOC	GPE-London
+Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Фокус	Фокус	ORG	ORG-Focus-News-Agency

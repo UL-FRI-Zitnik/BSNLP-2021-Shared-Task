@@ -1,0 +1,24 @@
+ru-118
+Brexit	Brexit	EVT	EVT-Brexit
+Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+Брекзита	Брекзит	EVT	EVT-Brexit
+Брюсселе	Брюссель	LOC	GPE-Brussles
+Брюсселя	Брюссель	LOC	GPE-Brussles
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Европейским союзом	Европейский союз	ORG	ORG-European-Union
+ИМЭМО имени Примакова РАН	ИМЭМО имени Примакова РАН	ORG	ORG-IMEMO
+Ирландии	Ирландия	LOC	GPE-Ireland
+Константин Воронов	Константин Воронов	PER	PER-Konstantin-Voronov
+Лондон	Лондон	LOC	GPE-London
+Лондона	Лондон	LOC	GPE-London
+Лондоном	Лондон	LOC	GPE-London
+Мэй	Мэй	PER	PER-Theresa-May
+НСН	НСН	ORG	ORG-NSN
+Ольстер	Ольстер	LOC	GPE-Northern-Ireland
+РИА «Новости»	РИА «Новости»	ORG	ORG-RIA-Novosti
+Северной Ирландии	Северная Ирландия	LOC	GPE-Northern-Ireland
+Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+британского МИДа	британский МИД	ORG	ORG-Foreign-Office
+ирландцы	ирландцы	PER	GPE-Ireland
+ирландцы	ирландцы	PER	GPE-Northern-Ireland
+кабинет Терезы Мэй	кабинет Терезы Мэй	ORG	ORG-Cabinet-of-the-United-Kingdom

@@ -1,0 +1,12 @@
+pl-703
+Brexit	Brexit	EVT	EVT-Brexit
+Grupy Wyszehradzkiej	Grupa Wyszehradzka	ORG	ORG-Visegrád-Group
+Jerzy Kwieciński	Jerzy Kwieciński	PER	PER-Jerzy-Kwieciński
+Kwieciński	Kwieciński	PER	PER-Jerzy-Kwieciński
+Niemczech	Niemcy	LOC	GPE-Germany
+PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+Polska	Polska	LOC	GPE-Poland
+UE	UE	ORG	ORG-European-Union
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+brexicie	Brexit	EVT	EVT-Brexit
+wspólną politykę rolną	Wspólna polityka rolna	PRO	PRO-CAP-Common-Agricultural-Policy

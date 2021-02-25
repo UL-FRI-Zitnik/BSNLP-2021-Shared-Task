@@ -1,0 +1,16 @@
+bg-1710
+Apple	Apple	ORG	ORG-Apple
+Брекзит	Брекзит	EVT	EVT-Brexit
+Британците	британци	PER	GPE-Great-Britain
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+ЕС	ЕС	ORG	ORG-European-Union
+Европа	Европа	LOC	LOC-Europe
+Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+Испания	Испания	LOC	GPE-Spain
+Лондон	Лондон	LOC	GPE-London
+Саджид Джавид	Саджид Джавид	PER	PER-Sajid-Javid
+Франция	Франция	LOC	GPE-France
+британци	британци	PER	GPE-Great-Britain
+британците	британци	PER	GPE-Great-Britain
+европейци	европейци	PER	PER-Europe
+европейците	европейци	PER	LOC-Europe

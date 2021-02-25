@@ -1,0 +1,27 @@
+cs-1890
+Angličan	Angličan	PER	GPE-Great-Britain
+Brexit	Brexit	EVT	EVT-Brexit
+Británie	Británie	LOC	GPE-Great-Britain
+Dánsko	Dánsko	LOC	GPE-Denmark
+EU	EU	ORG	ORG-European-Union
+Evropské unii	Evropská unie	ORG	ORG-European-Union
+Evropě	Evropa	LOC	LOC-Europe
+Francii	Francie	LOC	GPE-France
+Itálie	Itálie	LOC	GPE-Italy
+Karla Marxe	Karl Marx	PER	PER-Karl-Marx
+Maďarsko	Maďarsko	LOC	GPE-Hungary
+Meghan	Meghan	PER	PER-Meghan-Markle-Duchess-of-Sussex
+Německu	Německo	LOC	GPE-Germany
+Polsko	Polsko	LOC	GPE-Poland
+Poláky	Polák	PER	GPE-Poland
+Pákistance	Pákistanec	PER	GPE-Pakistan
+Rakousko	Rakousko	LOC	GPE-Austria
+Slovensko	Slovensko	LOC	GPE-Slovakia
+Tyler Dooley	Tyler Dooley	PER	PER-Tyler-Dooley
+VELKÁ BRITÁNIE	VELKÁ BRITÁNIE	LOC	GPE-Great-Britain
+brexit	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit
+czexit	czexit	EVT	EVT-Czexit
+czexitu	czexit	EVT	EVT-Czexit
+konzervativců	konzervativci	PER	ORG-Conservative-and-Unionist-Party-UK
+ČR	ČR	LOC	GPE-Czech-Republic

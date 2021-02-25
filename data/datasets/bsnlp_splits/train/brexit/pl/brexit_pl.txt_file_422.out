@@ -1,0 +1,20 @@
+pl-422
+27	27	ORG	ORG-European-Union
+Brexitu	Brexit	EVT	EVT-Brexit
+Brukseli	Bruksela	LOC	GPE-Brussles
+David Davis	David Davis	PER	PER-David-Davis
+Londynu	Londyn	LOC	GPE-London
+Michela Barniera	Michel Barnier	PER	PER-Michel-Barnier
+PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+Radzie UE	Rada UE	ORG	ORG-European-Council
+TSUE	TSUE	ORG	ORG-European-Court-of-Justice
+Trybunału Sprawiedliwości Unii Europejskiej	Trybunał Sprawiedliwości Unii Europejskiej	ORG	ORG-European-Court-of-Justice
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnotę	Wspólnota	ORG	ORG-European-Union
+Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+Zjednoczonym Królestwie	Zjednoczone Królestwo	LOC	GPE-Great-Britain

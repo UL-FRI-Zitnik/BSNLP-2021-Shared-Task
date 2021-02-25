@@ -1,0 +1,24 @@
+cs-453
+Brexit	Brexit	EVT	EVT-Brexit
+Británie	Británie	LOC	GPE-Great-Britain
+DUP	DUP	ORG	ORG-DUP-Democratic-Unionist-Party
+Demokratická unionistická strana	Demokratická unionistická strana	ORG	ORG-DUP-Democratic-Unionist-Party
+EU	EU	ORG	ORG-European-Union
+Evropské unie	Evropská unie	ORG	ORG-European-Union
+Garrym Adamsovi	Garry Adams	PER	PER-Gerry-Adams
+Irska	Irsko	LOC	GPE-Ireland
+Irskou republikou	Irská republika	LOC	GPE-Ireland
+Irsku	Irsko	LOC	GPE-Ireland
+Londýně	Londýn	LOC	GPE-London
+Mary Lou McDonaldová	Mary Lou McDonaldová	PER	PER-Mary-Lou-McDonald
+McDonaldová	McDonaldová	PER	PER-Mary-Lou-McDonald
+Severním Irskem	Severní Irsko	LOC	GPE-Northern-Ireland
+Severním Irsku	Severní Irsko	LOC	GPE-Northern-Ireland
+Sinn Féin	Sinn Féin	ORG	ORG-Sinn-Fein
+Spojeného království	Spojené království	LOC	GPE-Great-Britain
+Unii	Uniie	ORG	ORG-European-Union
+Velkopáteční dohodu	Velkopáteční dohoda	PRO	PRO-GFA-Good-Friday-Agreement
+Velkopáteční dohody	Velkopáteční dohoda	PRO	PRO-GFA-Good-Friday-Agreement
+Velkopáteční mírová dohoda	Velkopáteční mírová dohoda	PRO	PRO-GFA-Good-Friday-Agreement
+brexit	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit

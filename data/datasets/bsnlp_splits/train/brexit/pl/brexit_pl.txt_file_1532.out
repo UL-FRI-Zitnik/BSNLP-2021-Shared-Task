@@ -1,0 +1,20 @@
+pl-1532
+Brexitu	Brexit	EVT	EVT-Brexit
+Brukseli	Bruksela	LOC	GPE-Brussles
+Europejczyków	Europejczycy	PER	LOC-Europe
+Europy	Europa	LOC	LOC-Europe
+Niemiec	Niemcy	LOC	GPE-Germany
+POLITICO	Politico	PRO	PRO-Politico
+Parlamentu Europejskiego	Parlament Europejski	ORG	ORG-European-Parliament
+Polacy	Polacy	PER	GPE-Poland
+Polaków	Polacy	PER	GPE-Poland
+Polsce	Polska	LOC	GPE-Poland
+Polska	Polska	LOC	GPE-Poland
+Polski	Polska	LOC	GPE-Poland
+Ryana Heatha	Ryan Heath	PER	PER-Ryan-Heath
+UE	UE	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnocie	Wspólnota	ORG	ORG-European-Union
+wspólnoty	Wspólnota	ORG	ORG-European-Union

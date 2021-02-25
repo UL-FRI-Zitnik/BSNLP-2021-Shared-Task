@@ -1,0 +1,13 @@
+cs-243
+Barnier	Barnier	PER	PER-Michel-Barnier
+Britové	Britové	PER	GPE-Great-Britain
+Brity	Britové	PER	GPE-Great-Britain
+Británie	Británie	LOC	GPE-Great-Britain
+Britů	Britové	PER	GPE-Great-Britain
+EU	EU	ORG	ORG-European-Union
+Evropské unie	Evropská unie	ORG	ORG-European-Union
+Farage	Farage	PER	PER-Nigel-Farage
+Farge	Farage	PER	PER-Nigel-Farage
+UKIP	UKIP	ORG	ORG-UK-Independence-Party
+brexit	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit

@@ -1,0 +1,21 @@
+pl-1136
+Brexicie	Brexit	EVT	EVT-Brexit
+Danii	Dania	LOC	GPE-Denmark
+Duńczycy	Duńczycy	PER	GPE-Denmark
+Europy	Europa	LOC	LOC-Europe
+Finlandii	Finlandia	LOC	GPE-Finland
+Finowie	Fin	PER	GPE-Finland
+Finów	Fin	PER	GPE-Finland
+Gazprom	Gazprom	ORG	ORG-Gazprom
+Gazpromu	Gazprom	ORG	ORG-Gazprom
+NCG	NCG	ORG	ORG-NCG-NetConnect-Germany
+NetConnect Germany	NetConnect Germany	ORG	ORG-NCG-NetConnect-Germany
+Niemcy	Niemcy	LOC	GPE-Germany
+Nord Stream-2 AG	Nord Stream-2 AG	ORG	ORG-Nord-Stream-2-AG
+Nord Stream-2	Nord Stream-2	PRO	PRO-Nord-Stream-2
+Regionalną Agencję Administracyjną Południowej Finlandii	Regionalna Agencja Administracyjna Południowej Finlandii	ORG	ORG-Regional-State-Administrative-Agency-for-Southern-Finland
+Rosji	Rosja	LOC	GPE-Russia
+Szwecji	Szwecja	LOC	GPE-Sweden
+Unia	Unia	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Ustawą o wodzie	Ustawa o wodzie	PRO	PRO-The-Water-Act

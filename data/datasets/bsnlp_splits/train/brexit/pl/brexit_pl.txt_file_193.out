@@ -1,0 +1,23 @@
+pl-193
+Antonio Tajani	Antonio Tajani	PER	PER-Antonio-Tajani
+Brexitu	Brexit	EVT	EVT-Brexit
+Europejczyków	Europejczycy	PER	LOC-Europe
+Europy	Europa	LOC	LOC-Europe
+Irlandia	Irlandia	LOC	GPE-Ireland
+Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+Irlandii	Irlandia	LOC	GPE-Ireland
+Leo Varadkarem	Leo Varadkar	PER	PER-Leo-Varadkar
+Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+Parlament Europejski	Parlament Europejski	ORG	ORG-European-Parliament
+Parlament	Parlament	ORG	ORG-European-Parliament
+Parlamentowi Europejskiemu	Parlament Europejski	ORG	ORG-European-Parliament
+Parlamentu Europejskiego	Parlament Europejski	ORG	ORG-European-Parliament
+UE	UE	ORG	ORG-European-Union
+Unia	Unia	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Unię	Unia	ORG	ORG-European-Union
+Varadkar	Varadkar	PER	PER-Leo-Varadkar
+Varadkara	Varadkar	PER	PER-Leo-Varadkar
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+porozumienia wielkopiątkowego	Porozumienie wielkopiątkowe	PRO	PRO-GFA-Good-Friday-Agreement
+traktatu lizbońskiego	Traktat lizboński	PRO	PRO-Treaty-of-Lisbon

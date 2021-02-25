@@ -1,0 +1,27 @@
+pl-362
+Berlinie	Berlin	LOC	GPE-Berlin
+Brexicie	Brexit	EVT	EVT-Brexit
+City	City	LOC	LOC-City-of-London
+Davis	Davis	PER	PER-David-Davis
+Davisa	Davis	PER	PER-David-Davis
+Europejczycy	Europejczycy	PER	LOC-Europe
+Europy	Europa	LOC	LOC-Europe
+Florencji	Florencja	LOC	GPE-Florence
+Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+Irlandią	Irlandia	LOC	GPE-Ireland
+Japonia	Japonia	LOC	GPE-Japan
+Kanada	Kanada	LOC	GPE-Canada
+Londynie	Londyn	LOC	GPE-London
+Manchesterze	Manchester	LOC	GPE-Manchester
+Norwegia	Norwegia	LOC	GPE-Norway
+PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+Telegrapha	Telegraph	PRO	PRO-The-Daily-Telegraph
+Theresa May	Theresa May	PER	PER-Theresa-May
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnotą	Wspólnota	ORG	ORG-European-Union
+Wspólnotę	Wspólnota	ORG	ORG-European-Union
+brexitu	Brexit	EVT	EVT-Brexit
+brytyjskiemu parlamentowi	Brytyjski Parlament	ORG	ORG-British-Parlament

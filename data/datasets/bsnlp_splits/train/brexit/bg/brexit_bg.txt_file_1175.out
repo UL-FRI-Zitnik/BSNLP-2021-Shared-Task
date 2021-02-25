@@ -1,0 +1,40 @@
+bg-1175
+Evening Standard	Evening Standard	PRO	PRO-Evening-Standard
+Guardian	Guardian	PRO	PRO-The-Guardian
+The Times	The Times	PRO	PRO-The-Times
+Барние	Барние	PER	PER-Michel-Barnier
+Борис Джонсън	Борис Джонсън	PER	PER-Boris-Johnson
+Брекзит	Брекзит	EVT	EVT-Brexit
+Вашингтон	Вашингтон	LOC	GPE-WashingtonDC
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Грийн	Грийн	PER	PER-Damian-Green
+Деймиън Грийн	Деймиън Грийн	PER	PER-Damian-Green
+Джереми Корбин	Джереми Корбин	PER	PER-Jeremy-Corbyn
+Джонсън	Джонсън	PER	PER-Boris-Johnson
+Доналд Тръмп	Доналд Тръмп	PER	PER-Donald-Trump
+ЕС	ЕС	ORG	ORG-European-Union
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+Информационна агенция "Фокус"	Информационна агенция Фокус	ORG	ORG-Focus-News-Agency
+Канада	Канада	LOC	GPE-Canada
+Ким Чен-ун	Ким Чен-ун	PER	PER-Kim-Jong-Un
+Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+Корбин	Корбин	PER	PER-Jeremy-Corbyn
+Лейбъристката партия	Лейбъристка партия	ORG	ORG-Labour-Party-UK
+Лондон	Лондон	LOC	GPE-London
+Макрон	Макрон	PER	PER-Emmanuel-Macron
+Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+НАТО	НАТО	ORG	ORG-NATO
+Париж	Париж	LOC	GPE-Paris
+Пхенян	Пхенян	LOC	GPE-Pyongyang
+Рикетс	Рикетс	PER	PER-Peter-Ricketts
+САЩ	САЩ	LOC	GPE-USA
+Северна Корея	Северна Корея	LOC	GPE-North-Korea
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Тръмп	Тръмп	PER	PER-Donald-Trump
+Форин офис	Форин офис	ORG	ORG-Foreign-Office
+Франция	Франция	LOC	GPE-France
+Южна Корея	Южна Корея	LOC	GPE-South-Korea
+Южна	Южна	LOC	GPE-South-Korea
+Япония	Япония	LOC	GPE-Japan
+консерватори	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK

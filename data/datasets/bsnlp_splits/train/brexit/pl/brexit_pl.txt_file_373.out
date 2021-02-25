@@ -1,0 +1,20 @@
+pl-373
+Baker	Baker	PER	PER-Steve-Baker
+Brexitu	Brexit	EVT	EVT-Brexit
+BuzzFeed	BuzzFeed	PRO	PRO-Buzzfeed-website
+Buzzfeed	Buzzfeed	PRO	PRO-Buzzfeed-website
+Europejskim Obszarze Gospodarczym	Europejski Obszar Gospodarczy	ORG	ORG-EEA-European-Economic-Area
+Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+Komisją Europejską	Komisja Europejska	ORG	ORG-European-Commission
+Steve Baker	Steve Baker	PER	PER-Steve-Baker
+Theresy May	Theresa May	PER	PER-Theresa-May
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnocie	Wspólnota	ORG	ORG-European-Union
+Wspólnoty	Wspólnota	ORG	ORG-European-Union
+Wspólnotę	Wspólnota	ORG	ORG-European-Union
+brexitu	Brexit	EVT	EVT-Brexit
+Światową Organizację Handlu	Światowa Organizacja Handlu	ORG	ORG-WTO-World-Trade-Organization

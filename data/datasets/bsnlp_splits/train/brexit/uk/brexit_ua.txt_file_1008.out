@@ -1,0 +1,17 @@
+ua-1008
+Brexit	Brexit	EVT	EVT-Brexit
+Twitter	Twitter	PRO	PRO-Twitter
+ЄС	ЄС	LOC	ORG-European-Union
+Європейського Союзу	Європейський Союз	ORG	ORG-European-Union
+Європейського союзу	Європейський союз	ORG	ORG-European-Union
+Барклі	Барклі	PER	PER-Stiven-Barkli
+Британія	Британія	LOC	GPE-Great-Britain
+Британії	Британія	LOC	GPE-Great-Britain
+Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+Великій Британії	Велика Британія	LOC	GPE-Great-Britain
+Домініка Рабе	Домінік Рабе	PER	PER-Dominic-Raab
+Північної Ірландії	Північна Ірландія	LOC	GPE-Northern-Ireland
+Сполученого Королівства	Сполучене Королівство	LOC	GPE-Great-Britain
+Стівен Барклі	Стівен Барклі	PER	PER-Stiven-Barkli
+Стівена Барклі	Стівен Барклі	PER	PER-Stiven-Barkli
+УНІАН	УНІАН	ORG	ORG-UNIAN

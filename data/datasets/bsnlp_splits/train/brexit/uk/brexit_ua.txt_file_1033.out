@@ -1,0 +1,16 @@
+ua-1033
+Brexit	Brexit	EVT	EVT-Brexit
+The Guardian	The Guardian	ORG	ORG-The-Guardian
+ЄС	ЄС	LOC	ORG-European-Union
+Європейського союзу	Європейський союз	ORG	ORG-European-Union
+Євросоюз	Євросоюз	ORG	ORG-European-Union
+Барньє	Барньє	PER	PER-Michel-Barnier
+Великобританія	Великобританія	LOC	GPE-Great-Britain
+Великобританією	Великобританія	LOC	GPE-Great-Britain
+Великобританії	Великобританія	LOC	GPE-Great-Britain
+Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+Мей	Мей	PER	PER-Theresa-May
+Мішель Барньє	Мішель Барньє	PER	PER-Michel-Barnier
+Північної Ірландії	Північна Ірландія	LOC	GPE-Northern-Ireland
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Терези Мей	Тереза Мей	PER	PER-Theresa-May

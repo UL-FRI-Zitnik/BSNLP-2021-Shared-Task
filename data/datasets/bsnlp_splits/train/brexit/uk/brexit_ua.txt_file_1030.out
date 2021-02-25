@@ -1,0 +1,13 @@
+ua-1030
+Brexit	Brexit	EVT	EVT-Brexit
+Reuters	Reuters	ORG	ORG-Reuters
+ЄС	ЄС	LOC	ORG-European-Union
+Євросоюз	Євросоюз	ORG	ORG-European-Union
+Євросоюзу	Євросоюз	LOC	ORG-European-Union
+Ірландією	Ірландія	LOC	GPE-Ireland
+Барньє	Барньє	PER	PER-Michel-Barnier
+Великобританії	Великобританія	LOC	GPE-Great-Britain
+Мішель Барньє	Мішель Барньє	PER	PER-Michel-Barnier
+Північною Ірландією	Північна Ірландія	LOC	GPE-Northern-Ireland
+Ради ЄС	Рада ЄС	ORG	ORG-Council-of-the-European-Union
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May

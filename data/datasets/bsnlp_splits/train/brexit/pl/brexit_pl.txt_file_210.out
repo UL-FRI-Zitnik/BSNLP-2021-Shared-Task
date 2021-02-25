@@ -1,0 +1,20 @@
+pl-210
+Amsterdam	Amsterdam	LOC	GPE-Amsterdam
+Amsterdamu	Amsterdam	LOC	GPE-Amsterdam
+Brexicie	Brexit	EVT	EVT-Brexit
+Brexitem	Brexit	EVT	EVT-Brexit
+Discovery	Discovery	ORG	ORG-Discovery-Inc
+Europę	Europa	LOC	LOC-Europe
+Guardianem	Guardian	PRO	PRO-The-Guardian
+Katarzynę Kieli	Katarzyna Kieli	PER	PER-Katarzyna-Kieli
+Londynie	Londyn	LOC	GPE-London
+Londynu	Londyn	LOC	GPE-London
+Netflix	Netflix	ORG	ORG-Netflix
+Polski	Polska	LOC	GPE-Poland
+The Guardian	The Guardian	PRO	PRO-The-Guardian
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Warszawa	Warszawa	LOC	GPE-Warsaw
+Warszawy	Warszawa	LOC	GPE-Warsaw
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain

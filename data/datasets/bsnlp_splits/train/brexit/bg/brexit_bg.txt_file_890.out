@@ -1,0 +1,15 @@
+bg-890
+Барние	Барние	PER	PER-Michel-Barnier
+Брекзит	Брекзит	EVT	EVT-Brexit
+България	България	LOC	GPE-Bulgaria
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+ЕК	ЕК	ORG	ORG-European-Commission
+ЕС	ЕС	ORG	ORG-European-Union
+Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+Европейския съд	Европейски съд	ORG	ORG-European-Court-of-Justice
+Екатерина Захариева	Екатерина Захариева	PER	PER-Ekaterina-Zakharieva
+Лондон	Лондон	LOC	GPE-London
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+Съвета по общи въпроси	Съвет по общи въпроси	ORG	ORG-General-Affairs-Council
+Съветът на ЕС	Съвет на ЕС	ORG	ORG-Council-of-the-European-Union
+българското европредседателство	Българско европредседателство	EVT	EVT-Bulgarian-Presidency-EU

@@ -1,0 +1,71 @@
+bg-1061
+Airbus	Airbus	ORG	ORG-Airbus-SE
+BMW	BMW	ORG	ORG-BMW-Company
+CBI	CBI	ORG	ORG-CBI-Confederation-of-British-Industry
+LBC	LBC	PRO	PRO-LBC
+Momentum	Momentum	ORG	ORG-Momentum
+Siemens	Siemens	ORG	ORG-Siemens-AG
+The Daily Express	The Daily Express	PRO	PRO-Daily-Express
+The Economist	The Economist	PRO	PRO-The-Economist
+The Guardian	The Guardian	PRO	PRO-The-Guardian
+The Independent	The Independent	PRO	PRO-The-Independent
+The Observer	The Observer	PRO	PRO-The-Observer
+The Times	The Times	PRO	PRO-The-Times
+Амбър Ръд	Амбър Ръд	PER	PER-Amber-Rudd
+Белфаст	Белфаст	LOC	GPE-Belfast
+Брекзит	Брекзит	EVT	EVT-Brexit
+Брекзитът	Брекзит	EVT	EVT-Brexit
+Брюксел	Брюксел	LOC	GPE-Brussles
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Дауининг стрийт	Даунинг стрийт	LOC	LOC-Downing-Street
+Даунинг стрийт	Даунинг стрийт	LOC	LOC-Downing-Street
+Джереми Корбин	Джереми Корбин	PER	PER-Jeremy-Corbyn
+Джереми Хънт	Джереми Хънт	PER	PER-Jeremy-Hunt
+Дъблин	Дъблин	LOC	GPE-Dublin
+ЕС	ЕС	ORG	ORG-European-Union
+Европа	Европа	LOC	LOC-Europe
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+Европейският съюз	Европейски съюз	ORG	ORG-European-Union
+Ирландия	Ирландия	LOC	GPE-Ireland
+Йонислав Дочев	Йонислав Дочев	PER	PER-Yonislav-Donchev
+Камарата на общините	Камара на общините	ORG	ORG-House-of-Commons
+Консервативната партия	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+Консервативната партията	Консервативна партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+Корбин	Корбин	PER	PER-Jeremy-Corbyn
+Кортес	Кортес	PER	PER-Manuel-Cortes
+Коувъни	Коувъни	PER	PER-Simon-Coveney
+Лейбъристката партия	Лейбъристка партия	ORG	ORG-Labour-Party-UK
+Лондон	Лондон	LOC	GPE-London
+Майкъл Чесъм	Майкъл Чесъм	PER	PER-Michael-Chessum
+Мануел Кортес	Мануел Кортес	PER	PER-Manuel-Cortes
+Маргарет Тачър	Маргарет Тачър	PER	PER-Margaret-Thatcher
+Мей	Мей	PER	PER-Theresa-May
+Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+НЗС Англия	НЗС Англия	ORG	ORG-NHS-England
+НЗС	НЗС	ORG	ORG-NHS
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+Оливър Робинс	Оливър Робинс	PER	PER-Oliver-Robbins
+Офисът за бюджетна отговорност	Офис за бюджетна отговорност	ORG	ORG-Office-for-Budget-Responsibility
+Пал Мол	Пал Мол	LOC	LOC-Pall-Mall
+Разпети петък	Разпети петък	EVT	EVT-Good-Friday
+Република Ирландия	Република Ирландия	LOC	GPE-Ireland
+Робинс	Робинс	PER	PER-Oliver-Robbins
+Ръд	Ръд	PER	PER-Amber-Rudd
+Саджид Джавид	Саджид Джавид	PER	PER-Sajid-Javid
+Саймън Коувъни	Саймън Коувъни	PER	PER-Simon-Coveney
+Саймън Стивънс	Саймън Стивънс	PER	PER-Simon-Stevens
+Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+Тереза Май	Тереза Мей	PER	PER-Theresa-May
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Уайтхол	Уайтхол	LOC	LOC-Whitehall
+Уелс	Уелс	LOC	GPE-Wales
+Уиндръш	Уиндръш	EVT	EVT-Windrush-scandal
+Филип Хамънд	Филип Хамънд	PER	PER-Philip-Hammond
+Чесъм	Чесъм	PER	PER-Michael-Chessum
+Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
+консерватори	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+консерваторите	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+лейбъристи	лейбъристи	PER	ORG-Labour-Party-UK
+лейбъристите	лейбъристи	PER	ORG-Labour-Party-UK
+лейбъристката партия	Лейбъристка партия	ORG	ORG-Labour-Party-UK
+либерал-демократи	либерал-демократи	PER	ORG-Liberal-Democrats-UK

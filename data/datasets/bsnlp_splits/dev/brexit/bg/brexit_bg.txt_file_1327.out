@@ -1,0 +1,26 @@
+bg-1327
+Брекзит	Брекзит	EVT	EVT-Brexit
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+ЕК	ЕК	ORG	ORG-European-Commission
+ЕС	ЕС	ORG	ORG-European-Union
+Европа	Европа	LOC	LOC-Europe
+Европарламента	европарламент	ORG	ORG-European-Parliament
+Европейската икономическа зона	Европейска икономическа зона	ORG	ORG-EEA-European-Economic-Area
+Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+Европейския съвет	Европейски съвет	ORG	ORG-European-Council
+Европейският парламент	Европейски парламент	ORG	ORG-European-Parliament
+Европейският съвет	Европейски съвет	ORG	ORG-European-Council
+Евросъюзът	Евросъюз	ORG	ORG-European-Union
+Ирландия	Ирландия	LOC	GPE-Ireland
+Канада	Канада	LOC	GPE-Canada
+Ламанша	Ламанша	LOC	LOC-English-Channel
+Лондон	Лондон	LOC	GPE-London
+Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+Съда на ЕС	Съд на ЕС	ORG	ORG-European-Court-of-Justice
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+британците	британци	PER	GPE-Great-Britain
+евродепутатите	евродепутати	PER	ORG-European-Parlament
+европейците	европейци	PER	LOC-Europe
+многогодишна финансова рамка	Многогодишна финансова рамка	PRO	PRO-Multiannual-Financial-Framework

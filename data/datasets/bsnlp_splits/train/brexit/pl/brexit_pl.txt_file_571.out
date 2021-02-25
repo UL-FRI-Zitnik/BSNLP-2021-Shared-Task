@@ -1,0 +1,34 @@
+pl-571
+Azji	Azja	LOC	LOC-Asia
+Brexicie	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+Chiny	Chiny	LOC	GPE-China
+Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+Europa	Europa	LOC	LOC-Europe
+Europę	Europa	LOC	LOC-Europe
+Kim Dzong Unowi	Kim Dzong Un	PER	PER-Kim-Dzong-Un
+Korea Płn.	Korea Płn.	LOC	GPE-North-Korea
+Korei Północnej	Korea Północna	LOC	GPE-North-Korea
+Korei Płn.	Korea Płn.	LOC	GPE-North-Korea
+Korei	Korea	LOC	GPE-North-Korea
+Kuzia	Kuź	PER	PER-Michał-Kuź
+Kuź	Kuź	PER	PER-Michał-Kuź
+NATO	NATO	ORG	ORG-NATO
+Rosja	Rosja	LOC	GPE-Russia
+Rosji	Rosja	LOC	GPE-Russia
+Rosją	Rosja	LOC	GPE-Russia
+Rosję	Rosja	LOC	GPE-Russia
+Seulu	Seul	LOC	GPE-Seoul
+Stany Zjednoczone	Stany Zjednoczone	LOC	GPE-USA
+Trumpa	Trump	PER	PER-Donald-Trump
+Trumpowi	Trump	PER	PER-Donald-Trump
+USA	USA	LOC	GPE-USA
+Ukraina	Ukraina	LOC	GPE-Ukraine
+Ukrainy	Ukraina	LOC	GPE-Ukraine
+Ukrainę	Ukraina	LOC	GPE-Ukraine
+Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain

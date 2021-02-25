@@ -1,0 +1,33 @@
+pl-123
+Australia	Australia	LOC	GPE-Australia
+Australii	Australia	LOC	GPE-Australia
+BZ WBK	BZ WBK	ORG	ORG-BZ-WBK
+Banku Zachodniego WBK	Bank Zachodni WBK	ORG	ORG-BZ-WBK
+Brexitu	Brexit	EVT	EVT-Brexit
+Brytyjki	Brytyjki	PER	GPE-Great-Britain
+CTPA	CTPA	ORG	ORG-CTPA-Cosmetic-Toiletry-and-Perfumery-Association
+Chiny	Chiny	LOC	GPE-China
+Cosmetic, Toiletry and Perfumery Association	Cosmetic, Toiletry and Perfumery Association	ORG	ORG-CTPA-Cosmetic-Toiletry-and-Perfumery-Association
+Deloitte	Deloitte	ORG	ORG-Deloitte
+Huda Beauty	Huda Beauty	PRO	PRO-Huda-Beauty
+Inglot	Inglot	ORG	ORG-Inglot
+Jowita Kotuła	Jowita Kotuła	PER	PER-Jowita-Kotuła
+Kat von D	Kat von D	PRO	PRO-Kat-von-D
+L'Oreal	LOreal	PRO	PRO-LOreal
+Maybelline	Maybelline	PRO	PRO-Maybelline
+Meksyk	Meksyk	LOC	GPE-Mexico
+Niemcy	Niemcy	LOC	GPE-Germany
+Niemczech	Niemcy	LOC	GPE-Germany
+Piotr Bielski	Piotr Bielski	PER	PER-Piotr-Bielski
+Polsce	Polska	LOC	GPE-Poland
+Polska	Polska	LOC	GPE-Poland
+Polski	Polska	LOC	GPE-Poland
+Rosja	Rosja	LOC	GPE-Russia
+Sephorze	Sephora	ORG	ORG-Sephora
+The Eraser Eye	The Eraser Eye	PRO	PRO-The-Eraser-Eye
+UK	UK	LOC	GPE-Great-Britain
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wyspy	Wyspy	LOC	GPE-Great-Britain
+brexicie	Brexit	EVT	EVT-Brexit

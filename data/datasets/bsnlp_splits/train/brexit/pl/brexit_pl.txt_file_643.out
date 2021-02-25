@@ -1,0 +1,19 @@
+pl-643
+ACEA	ACEA	ORG	ORG-ACEA
+Brexit	Brexit	EVT	EVT-Brexit
+Brukseli	Bruksela	LOC	GPE-Brussles
+Carlos Tavares	Carlos Tavares	PER	PER-Carlos-Tavares
+Europa	Europa	LOC	LOC-Europe
+Europie	Europa	LOC	LOC-Europe
+Francji	Francja	LOC	GPE-France
+Grupy PSA	Grupa PSA	ORG	ORG-PSA-Group
+Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+Niemczech	Niemcy	LOC	GPE-Germany
+PSA	PSA	ORG	ORG-PSA-Group
+Tavares	Tavares	PER	PER-Carlos-Tavares
+Unia	Unia	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+W. Brytanię	W. Brytania	LOC	GPE-Great-Britain
+W.Brytanii	W.Brytania	LOC	GPE-Great-Britain
+brexitu	Brexit	EVT	EVT-Brexit

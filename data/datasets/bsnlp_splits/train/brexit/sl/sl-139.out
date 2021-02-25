@@ -1,0 +1,45 @@
+sl-139
+Angela Merkel	Angela Merkel	PER	PER-Angela-Merkel
+Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+Brexit	Brexit	EVT	EVT-Brexit
+Brexitirji	Brexitar	PER	EVT-Brexit
+Britancev	Britanec	PER	GPE-Great-Britain
+Britanci	Britanec	PER	GPE-Great-Britain
+Britanije	Britanija	LOC	GPE-Great-Britain
+Britaniji	Britanija	LOC	GPE-Great-Britain
+Brusljem	Bruselj	LOC	GPE-Brussles
+Carney	Carney	PER	PER-Mark-Carney
+David Davis	David Davis	PER	PER-David-Davis
+Downing Streetu 10	Downing Street 10	LOC	LOC-Downing-Street
+Državni inštitut za ekonomske in družbene raziskave	Državni inštitut za ekonomske in družbene raziskave	ORG	ORG-National-Institute-for-Economic-and-Social-Research-UK
+EU	EU	ORG	ORG-European-Union
+Emmanuelom Macronom	Emmanuel Macron	PER	PER-Emmanuel-Macron
+Evropske unije,	Evropska unija	ORG	ORG-European-Union
+Evropski uniji	Evropska unija	ORG	ORG-European-Union
+Fort de Brégançon	Fort de Brégançon	LOC	LOC-Fort-de-Brégançon
+Francijo	Francija	LOC	GPE-France
+Gardskem jezeru	Gardsko jezero	LOC	LOC-Lake-Garda
+Hunt	Hunt	PER	PER-Jeremy-Hunt
+Italiji	Italija	LOC	GPE-Italy
+Jeremy Hunt	Jeremy Hunt	PER	PER-Jeremy-Hunt
+Jeremyja Corbyna	Jeremy Corbyn	PER	PER-Jeremy-Corbyn
+Londonom	London	LOC	GPE-London
+Macron	Macron	PER	PER-Emmanuel-Macron
+Macrona	Macron	PER	PER-Emmanuel-Macron
+Macronom	Macron	PER	PER-Emmanuel-Macron
+Macronove	Macron	PER	PER-Emmanuel-Macron
+Macronu	Macron	PER	PER-Emmanuel-Macron
+Mark Carney	Mark Carney	PER	PER-Mark-Carney
+Marklova	Merkel	PER	PER-Angela-Merkel
+Mayeva	May	PER	PER-Theresa-May
+Mayeve	May	PER	PER-Theresa-May
+Merklova	Merkel	PER	PER-Angela-Merkel
+Nemčije	Nemčija	LOC	GPE-Germany
+Theresa May	Theresa May	PER	PER-Theresa-May
+Velike Britanije	Velika Britanija	LOC	GPE-Great-Britain
+angleške centralne banke	angleška centralna banka	ORG	ORG-Bank-of-England
+brexit	brexit	EVT	EVT-Brexit
+brexita	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit
+evropska komisija	evropska komisija	ORG	ORG-European-Commission
+laburistov	laburist	ORG	ORG-Labour-Party-UK

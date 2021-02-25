@@ -1,0 +1,50 @@
+bg-1422
+BBC	BBC	PRO	PRO-BBC
+Huffington Post	Huffington Post	PRO	PRO-Huffington-Post
+Observer	Observer	PRO	PRO-The-Observer
+Reuters	Reuters	ORG	ORG-Reuters
+The Guardian	The Guardian	PRO	PRO-The-Guardian
+The Independent	The Independent	PRO	PRO-The-Independent
+Алеш Шмелар	Алеш Шмелар	PER	PER-Ales-Chmelar
+Андрю Диърден	Андрю Диърдън	PER	PER-Andrew-Dearden
+Брекз	Брекзит	EVT	EVT-Brexit
+Брекзит	Брекзит	EVT	EVT-Brexit
+Британската медицинска асоциация	Британска медицинска асоциация	ORG	ORG-British-Medical-Association
+Брюксел	Брюксел	LOC	GPE-Brussles
+Брюно Льо Мер	Брюно Льо Мер	PER	PER-Bruno-Le-Maire
+Варадкар	Варадкар	PER	PER-Leo-Varadkar
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Виктор Турмаков	Виктор Турмаков	PER	PER-Viktor-Turmakov
+Ги Верхофстад	Ги Верхофстад	PER	PER-Guy-Verhofstadt
+Джереми Хънт	Джереми Хънт	PER	PER-Jeremy-Hunt
+Джон Мейджър	Джон Мейджър	PER	PER-John-Major
+Дъблин	Дъблин	LOC	GPE-Dublin
+ЕНП	ЕНП	ORG	ORG-EPP
+ЕП	ЕП	ORG	ORG-European-Parliament
+ЕС	ЕС	ORG	ORG-European-Union
+Европа	Европа	LOC	LOC-Europe
+Европейската агенция за лекарствата	Европейска агенция за лекарствата	ORG	ORG-EMA-European-Medicines-Agency
+Европейската агенция за сигурността на полетите	Европейска агенция за сигурността на полетите	ORG	ORG-EASA-European-Aviation-Safety-Agency
+Европейската агенция за химикалите	Европейска агенция за химикали	ORG	ORG-European-Chemicals-Agency
+Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+Европейския съд	Европейски съд	ORG	ORG-European-Court-of-Justice
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+Евросъюза	Евросъюз	ORG	ORG-European-Union
+Ирландия	Ирландия	LOC	GPE-Ireland
+Канада	Канада	LOC	GPE-Canada
+Лео Варадкар	Лео Варадкар	PER	PER-Leo-Varadkar
+Лондон	Лондон	LOC	GPE-London
+Майкъл Хезълтайн	Майкъл Хезълтайн	PER	PER-Michael-Haseltine
+Манфред Вебер	Манфред Вебер	PER	PER-Manfred-Weber
+Мей	Мей	PER	PER-Theresa-May
+Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+Норвегия	Норвегия	LOC	GPE-Norway
+Република Ирландия	Република Ирландия	LOC	GPE-Ireland
+Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Тони Блеър	Тони Блеър	PER	PER-Tony-Blair
+Франция	Франция	LOC	GPE-France
+Хезълтайн	Хезълтайн	PER	PER-Michael-Haseltine
+Цанко Цолов	Цанко Цолов	PER	PER-Tsanko-Tsolov
+Юлиян Марков	Юлиян Марков	PER	PER-Yuliyan-Markov
+консерваторите	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK

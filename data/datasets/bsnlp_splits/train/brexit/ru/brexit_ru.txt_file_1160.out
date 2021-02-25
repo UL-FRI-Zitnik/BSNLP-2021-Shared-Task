@@ -1,0 +1,29 @@
+ru-1160
+ Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+ Лондон	Лондон	LOC	GPE-London
+Brexit	Brexit	EVT	EVT-Brexit
+Cергей Скрипаль 	Cергей Скрипаль 	PER	PER-Siergiej-Skripal
+Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+Британия	Британия	LOC	GPE-Great-Britain
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+ГРУ	ГРУ	ORG	ORG-GRU-(Russian-GU)
+Главного разведывательного управления 	Главное разведывательное управление	ORG	ORG-GRU-(Russian-GU)
+Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt
+Джонсон	Джонсон	PER	PER-Boris-Johnson
+Джонсона	Джонсон	PER	PER-Boris-Johnson
+Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+ЕС	ЕС	ORG	ORG-European-Union
+Евросоюза	Евросоюз	ORG	ORG-European-Union
+МИД Британии	МИД Британии	ORG	ORG-Foreign-Office
+Москва	Москва	LOC	GPE-Moscow
+Мэй	Мэй	PER	PER-Theresa-May
+Новичок	Новичок	PRO	PRO-Novichok
+Россию	Россия	LOC	GPE-Russia
+Сергея Скрипаля	Сергей Скрипаль	PER	PER-Siergiej-Skripal
+Солсбери	Солсбери	LOC	GPE-Salisbury
+Терезу Мэй	Тереза Мэй	PER	PER-Theresa-May
+Хант	Хант	PER	PER-Jeremy-Hunt
+Юлии	Юлия	PER	PER-Yulia-Skripal
+Юлия	Юлия	PER	PER-Yulia-Skripal
+делу Скрипалей	дело Скрипалей	EVT	EVT-Scripals'-poisoning
+министерства иностранных дел Великобритании	министерство иностранных дел Великобритании	ORG	ORG-Foreign-Office

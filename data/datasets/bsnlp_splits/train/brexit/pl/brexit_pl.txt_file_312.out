@@ -1,0 +1,25 @@
+pl-312
+Bruksela	Bruksela	LOC	GPE-Brussles
+Brukseli	Bruksela	LOC	GPE-Brussles
+EU Observer	EU Observer	PRO	PRO-EUobserver
+Gareth’a Goldsmith’a	Gareth Goldsmith	PER	PER-Gareth-Goldsmith
+Goldsmith	Goldsmith	PER	PER-Gareth-Goldsmith
+Guenther Oettinger	Guenther Oettinger	PER	PER-Guenther-Oettinger
+Hiszpania	Hiszpania	LOC	GPE-Spain
+Holandia	Holandia	LOC	GPE-Holland
+Komisji	Komisja	ORG	ORG-European-Commission
+Londyn	Londyn	LOC	GPE-London
+Marrakeszu	Marrakesz	LOC	GPE-Marrakesh
+Oettinger	Oettinger	PER	PER-Guenther-Oettinger
+Paryżu	Paryż	LOC	GPE-Paris
+Roma Bojanowicz	Roma Bojanowicz	PER	PER-Roma-Bojanowicz
+Rumunia	Rumunia	LOC	GPE-Romania
+UE	UE	ORG	ORG-European-Union
+Unii 	Unia	ORG	ORG-European-Union
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Włochy	Włochy	LOC	GPE-Italy
+Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+b rexitu	Brexit	EVT	EVT-Brexit
+brexicie	Brexit	EVT	EVT-Brexit
+brexit	Brexit	EVT	EVT-Brexit
+parlamencie UE	Parlament UE	ORG	ORG-European-Parliament

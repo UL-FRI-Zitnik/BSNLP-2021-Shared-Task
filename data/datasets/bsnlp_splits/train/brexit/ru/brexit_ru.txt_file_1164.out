@@ -1,0 +1,28 @@
+ru-1164
+Brexit	Brexit	EVT	EVT-Brexit
+Reuters	Reuters	ORG	ORG-Reuters
+Twitter	Twitter	PRO	PRO-Twitter
+gordonua.com	gordonua.com	PRO	PRO-Gordonua
+Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+Британии	Британия	LOC	GPE-Great-Britain
+Британскую прокуратуру	Британская прокуратура	ORG	ORG-Attorney-General
+Великобритании	Великобритания	LOC	GPE-Great-Britain
+Джереми Райт	Джереми Райт	PER	PER-Jeremy-Wright
+Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt
+Джереми Ханта	Джереми Хант	PER	PER-Jeremy-Hunt
+Джеффри Кокс	Джеффри Кокс	PER	PER-Geoffrey-Cox
+Джонсон	Джонсон	PER	PER-Boris-Johnson
+Евросоюза	Евросоюз	ORG	ORG-European-Union
+Лондона	Лондон	LOC	GPE-London
+МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+МИД	МИД	ORG	ORG-Foreign-Office
+Мэй	Мэй	PER	PER-Theresa-May
+Мэтт Хэнкок	Мэтт Хэнкок	PER	PER-Matthew-Hancock
+Олимпиаде 2012	Олимпиада 2012	EVT	EVT-2012-Summer_Olympics
+Райта	Райт	PER	PER-Jeremy-Wright
+Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+Хант	Хант	PER	PER-Jeremy-Hunt
+Ханта	Хант	PER	PER-Jeremy-Hunt
+Хэнкока	Хэнкок	PER	PER-Matthew-Hancock
+министерства культуры, СМИ и спорта	министерство культуры, СМИ и спорта	ORG	ORG-UK-Department-for-Digital-Culture-Media-and-Sport

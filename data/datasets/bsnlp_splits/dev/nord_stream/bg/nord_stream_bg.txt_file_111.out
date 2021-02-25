@@ -1,0 +1,19 @@
+bg-111
+ENGIE	ENGIE	ORG	ORG-Engie
+N.V. Nederlandse Gasunie	N.V. Nederlandse Gasunie	ORG	ORG-Nederlandse-Gasunie
+Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+Nord Stream AG	Nord Stream AG	ORG	ORG-Nord-Stream-AG
+PEG Infrastruktur	PEG Infrastruktur	ORG	ORG-PEG-Infrastruktur
+Wintershall	Wintershall	ORG	ORG-Wintershall
+Брюксел	Брюксел	LOC	GPE-Brussles
+България	България	LOC	GPE-Bulgaria
+Газпром	Газпром	ORG	ORG-Gazprom
+Германия	Германия	LOC	GPE-Germany
+ЕС	ЕС	ORG	ORG-European-Union
+Северен поток 1	Северен поток 1	PRO	PRO-Nord-Stream-1
+Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+Спутник	Спутник	PRO	PRO-Sputnik
+Стокхолм	Стокхолм	LOC	GPE-Stockholm
+Украйна	Украйна	LOC	GPE-Ukraine
+Цуг	Цуг	LOC	GPE-Zug
+Швейцария	Швейцария	LOC	GPE-Switzerland

@@ -1,0 +1,16 @@
+cs-465
+Barnier	Barnier	PER	PER-Michel-Barnier
+Barnierova	Barnier	PER	PER-Michel-Barnier
+Britů	Britové	PER	GPE-Great-Britain
+EU	EU	ORG	ORG-European-Union
+Evropská komise	Evropská komise	ORG	ORG-European-Commission
+Evropské rady	Evropská rada	ORG	ORG-European-Council
+Londýn	Londýn	LOC	GPE-London
+Londýně	Londýn	LOC	GPE-London
+Mayovou	Mayová	PER	PER-Theresa-May
+Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+Tuskova	Tusk	PER	PER-Donald-Tusk
+Velkou Británií	Velká Británie	LOC	GPE-Great-Britain
+brexitu	brexit	EVT	EVT-Brexit
+lisabonské smlouvy	lisabonská smlouva	PRO	PRO-Treaty-of-Lisbon
+článku 50	článek 50	PRO	PRO-Article-50

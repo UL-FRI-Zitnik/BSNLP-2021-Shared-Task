@@ -1,0 +1,15 @@
+bg-123
+БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+Би Би Си	Би Би Си	PRO	PRO-BBC
+Брекзит	Брекзит	EVT	EVT-Brexit
+Брекзита	Брекзит	EVT	EVT-Brexit
+Брюксел	Брюксел	LOC	GPE-Brussles
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+ЕС	ЕС	ORG	ORG-European-Union
+Еманюел Макрон	Еманюел Макрон	PER	PER-Emmanuel-Macron
+Лондон	Лондон	LOC	GPE-London
+Макрон	Макрон	PER	PER-Emmanuel-Macron
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+Съда на ЕС	Съд на ЕС	ORG	ORG-European-Court-of-Justice
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+референдума от 2016 г. за излизане на Великобритания от съюза	референдум от 2016 г. за излизане на Великобритания от съюза	EVT	EVT-Brexit-Referendum

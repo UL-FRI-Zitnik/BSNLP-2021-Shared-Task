@@ -1,0 +1,16 @@
+pl-240
+Brexit	Brexit	EVT	EVT-Brexit
+Holandia	Holandia	LOC	GPE-Holland
+Holandię	Holandia	LOC	GPE-Holland
+Macieja Wituckiego	Maciej Witucki	PER	PER-Maciej-Witucki
+Niemcy	Niemcy	LOC	GPE-Germany
+Polaków	Polacy	PER	GPE-Poland
+Polski	Polska	LOC	GPE-Poland
+Rz	Rz	PRO	PRO-Rzeczpospolita
+Rzeczpospolitej	Rzeczpospolita	PRO	PRO-Rzeczpospolita
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Work Service	Work Service	ORG	ORG-Work-Service
+Wyspach Brytyjskich	Wyspy Brytyjskie	LOC	GPE-Great-Britain
+Wyspach	Wyspy	LOC	GPE-Great-Britain
+brexitu	Brexit	EVT	EVT-Brexit

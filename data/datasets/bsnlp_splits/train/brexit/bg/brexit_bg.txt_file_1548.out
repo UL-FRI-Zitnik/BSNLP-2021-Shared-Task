@@ -1,0 +1,15 @@
+bg-1548
+Brexit	Brexit	EVT	EVT-Brexit
+БГНЕС	БГНЕС	ORG	ORG-BGNES-Agency
+Блеър	Блеър	PER	PER-Tony-Blair
+Брекзит	Брекзит	EVT	EVT-Brexit
+Брюксел	Брюксел	LOC	GPE-Brussles
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Джон Мейджър	Джон Мейджър	PER	PER-John-Major
+ЕС	ЕС	ORG	ORG-European-Union
+Европа	Европа	LOC	LOC-Europe
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+Тони Блеър	Тони Блеър	PER	PER-Tony-Blair
+Франс прес	Франс прес	ORG	ORG-France-Presse
+британците	британци	PER	GPE-Great-Britain

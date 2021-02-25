@@ -1,0 +1,33 @@
+sl-128
+Abba	Abba	PER	PER-Abba
+Birminghamu	Birmingham	LOC	GPE-Birmingham
+Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+Brexit	Brexit	EVT	EVT-Brexit
+Bruslja	Bruselj	LOC	GPE-Brussles
+Brusljem	Bruselj	LOC	GPE-Brussles
+Bruslju	Bruselj	LOC	GPE-Brussles
+Dancing Queen	Dancing Queen	PRO	PRO-Dancing-Queen
+EU	EU	ORG	ORG-European-Union
+Evropske unije	Evropska unija	ORG	ORG-European-Union
+Irsko	Irsko	LOC	GPE-Ireland
+Johnson	Johnson	PER	PER-Boris-Johnson
+Kanado	Kanada	LOC	GPE-Canada
+London	London	LOC	GPE-London
+Londonu	London	LOC	GPE-London
+Mayeva	May	PER	PER-Theresa-May
+Mayeve	May	PER	PER-Theresa-May
+Republiko Irsko	Republika Irska	LOC	GPE-Republic-of-Ireland
+Severno Irsko	Severna Irska	LOC	GPE-Northern-Ireland
+Theresa May	Theresa May	PER	PER-Theresa-May
+Therese May	Theresa May	PER	PER-Theresa-May
+Velika Britanija	Velika Britanija	LOC	GPE-Great-Britain
+Veliko Britanijo	Velika Britanija	LOC	GPE-Great-Britain
+Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+Združeno kraljestvo	Združeno kraljestvo	LOC	GPE-Great-Britain
+brexit	brexit	EVT	EVT-Brexit
+brexita	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit
+konservativce	konservativci	ORG	ORG-Conservative-and-Unionist-Party-UK
+konservativcev	konservativci	PER	ORG-Conservative-and-Unionist-Party-UK
+konservativci	konservativci	PER	ORG-Conservative-and-Unionist-Party-UK
+konservativne stranke	konservativna stranka	ORG	ORG-Conservative-and-Unionist-Party-UK

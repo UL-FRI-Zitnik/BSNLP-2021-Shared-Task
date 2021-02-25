@@ -1,0 +1,19 @@
+cs-1929
+Brity	Britové	PER	GPE-Great-Britain
+Británie	Británie	LOC	GPE-Great-Britain
+Britů	Britové	PER	GPE-Great-Britain
+EU	EU	ORG	ORG-European-Union
+Evropskou unii	Evropská unie	ORG	ORG-European-Union
+Evropské unie	Evropská unie	ORG	ORG-European-Union
+Francie	Francie	LOC	GPE-France
+Francii	Francie	LOC	GPE-France
+Irskem	Irsko	LOC	GPE-Ireland
+Le Figaro	Le Figaro	PRO	PRO-Le-Figaro-newspaper
+PAŘÍŽ	PAŘÍŽ	LOC	GPE-Paris
+PRAHA	PRAHA	LOC	GPE-Prague
+Reuters	Reuters	ORG	ORG-Reuters
+Spojené království	Spojené království	LOC	GPE-Great-Britain
+Velké Británie	Velké Británie	LOC	GPE-Great-Britain
+brexit	brexit	EVT	EVT-Brexit
+brexitem	brexit	EVT	EVT-Brexit
+francouzského ministerstva vnitra	francouzské ministerstvo vnitra	ORG	ORG-Minister-of-the-Interior-France

@@ -1,0 +1,23 @@
+ru-114
+ EC 	ЕС	ORG	ORG-European-Union
+ Болтона 	Болтон	PER	PER-John-Bolton
+ Лондоном	Лондон	LOC	GPE-London
+Brexit	Brexit	EVT	EVT-Brexit
+Англии	Англия	LOC	GPE-Great-Britain
+Болтон	Болтон	PER	PER-John-Bolton
+Брексита.	Брексит	EVT	EVT-Brexit
+Британских островах 	Британские острова	LOC	GPE-Great-Britain
+Брюсселе	Брюссель	LOC	GPE-Brussles
+Вашингтона	Вашингтон	LOC	GPE-WashingtonDC
+Джон Болтон	Джон Болтон	PER	PER-John-Bolton
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+ЕС	ЕС	ORG	ORG-European-Union
+Европейского союза 	Европейский союз	ORG	ORG-European-Union
+Европейского союза	Европейский союз	ORG	ORG-European-Union
+Европейской исследовательской группы евроскептиков 	Европейская исследовательская группа евроскептиков	ORG	ORG-European-Research-Group
+Консервативной партии	Консервативная партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+Лондоном	Лондон	LOC	GPE-London
+Марком Седвиллом	Марк Седвилл	PER	PER-Mark-Sedwill
+Соединенных Штатов	Соединенные Штаты	LOC	GPE-USA
+Трампа	Трам	PER	PER-Donald-Trump
+брексита	брексит	EVT	EVT-Brexit

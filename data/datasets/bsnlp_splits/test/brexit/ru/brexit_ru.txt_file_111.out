@@ -1,0 +1,21 @@
+ru-111
+Brexit	Brexit	EVT	EVT-Brexit
+Telegraph	Telegraph	PRO	PRO-The-Daily-Telegraph
+The Telegraph	The Telegraph	PRO	PRO-The-Daily-Telegraph
+Англии	Англия	LOC	GPE-Great-Britain
+Болтон	Болтон	PER	PER-John-Bolton
+Британии	Британия	LOC	GPE-Great-Britain
+Группы европейских исследований	Группа европейских исследований	ORG	ORG-European-Research-Group
+Джон Болтон	Джон Болтон	PER	PER-John-Bolton
+Дональд Трамп	Дональд Трамп	PER	PER-Donald-Trump
+Дональда Трампа	Дональд Трамп	PER	PER-Donald-Trump
+ЕС	ЕС	ORG	ORG-European-Union
+Европейского союза	Европейский союз	ORG	ORG-European-Union
+Лондоном	Лондон	LOC	GPE-London
+Марком Седвиллом	Марк Седвилл	PER	PER-Mark-Sedwill
+США	США	LOC	GPE-USA
+Трамп	Трамп	PER	PER-Donald-Trump
+Трампа	Трамп	PER	PER-Donald-Trump
+брексита	брексит	EVT	EVT-Brexit
+столице Англии	столица Англии	LOC	GPE-London
+тори	тори	ORG	ORG-Conservative-and-Unionist-Party-UK

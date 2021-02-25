@@ -1,0 +1,25 @@
+bg-1873
+BMG	BMG	ORG	ORG-BMG
+Brexit	Brexit	EVT	EVT-Brexit
+Daily Telegraph	Daily Telegraph	PRO	PRO-The-Daily-Telegraph
+Deutsche Welle	Deutsche Welle	PRO	PRO-Deutsche-Welle
+Брекзита	Брекзит	EVT	EVT-Brexit
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+ЕС	ЕС	ORG	ORG-European-Union
+Европа	Европа	LOC	LOC-Europe
+Европарламента	европарламент	ORG	ORG-European-Parliament
+Кристоф Хаселбах	Кристоф Хаселбах	PER	PER-Christoph-Hasselbach
+Лейбъристката партия	Лейбъристка партия	ORG	ORG-Labour-Party-UK
+Найджъл Фараж	Найджъл Фараж	PER	PER-Nigel-Farage
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Том Брейк	Том Брейк	PER	PER-Tom-Brake
+Фараж	Фараж	PER	PER-Nigel-Farage
+Хаселбах	Хаселбах	PER	PER-Christoph-Hasselbach
+Хенри Болтън	Хенри Болтън	PER	PER-Henry-Bolton
+Чъка Умуна	Чъка Умуна	PER	PER-Chuka-Umunna
+ЮКИП	ЮКИП	ORG	ORG-UK-Independence-Party
+британския парламент	британски парламент	ORG	ORG-British-Parlament
+британци	британци	PER	GPE-Great-Britain
+британците	британци	PER	GPE-Great-Britain
+консерваторите	консерватори	PER	ORG-Conservative-and-Unionist-Party-UK
+лейбъристите	лейбъристи	PER	ORG-Labour-Party-UK

@@ -1,0 +1,14 @@
+pl-687
+Brexicie	Brexit	EVT	EVT-Brexit
+Brexit	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+Cameron	Cameron	PER	PER-David-Cameron
+Camerona	Cameron	PER	PER-David-Cameron
+David Cameron	David Cameron	PER	PER-David-Cameron
+Davos	Davos	LOC	GPE-Davos
+Forum Ekonomicznego	Forum Ekonomiczne	EVT	EVT-World-Economic-Forum-Davos
+Gisela Stuart	Gisela Stuart	PER	PER-Gisela-Stuart
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanię	Wielka Brytania	LOC	GPE-Great-Britain
+mPolska24	mPolska24	PRO	PRO-mPolska24

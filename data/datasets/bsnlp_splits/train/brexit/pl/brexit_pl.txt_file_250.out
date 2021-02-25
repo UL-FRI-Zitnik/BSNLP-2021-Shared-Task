@@ -1,0 +1,29 @@
+pl-250
+Brexicie	Brexit	EVT	EVT-Brexit
+Brexit	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+David Davis	David Davis	PER	PER-David-Davis
+Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+Guy Verhofstadt	Guy Verhofstadt	PER	PER-Guy-Verhofstadt
+Independent	Independent	PRO	PRO-The-Independent
+Jean-Claude Juncker	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+Juncker	Juncker	PER	PER-Jean-Claude-Juncker
+KE	KE	ORG	ORG-European-Commission
+Komisji Europejskiej	Komisja Europejska	ORG	ORG-European-Commission
+Londyn	Londyn	LOC	GPE-London
+Londynie	Londyn	LOC	GPE-London
+PE	PE	ORG	ORG-European-Parliament
+Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+RE	RE	ORG	ORG-European-Council
+Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+Rady Europy	Rada Europy	ORG	ORG-European-Council
+Theresy May	Theresa May	PER	PER-Theresa-May
+Tusk	Tusk	PER	PER-Donald-Tusk
+Tuska	Tusk	PER	PER-Donald-Tusk
+Twitterze	Twitter	PRO	PRO-Twitter
+UE	UE	ORG	ORG-European-Union
+Unia	Unia	ORG	ORG-European-Union
+Verhofstadt	Verhofstadt	PER	PER-Guy-Verhofstadt
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Zjednoczone Królestwo	Zjednoczone Królestwo	LOC	GPE-Great-Britain

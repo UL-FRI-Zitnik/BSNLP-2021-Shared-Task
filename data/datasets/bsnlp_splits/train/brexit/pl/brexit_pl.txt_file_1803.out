@@ -1,0 +1,15 @@
+pl-1803
+27	27	ORG	ORG-European-Union
+Barnier	Barnier	PER	PER-Michel-Barnier
+Brexitu	Brexit	EVT	EVT-Brexit
+Brukseli	Bruksela	LOC	GPE-Brussles
+Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+Europejczyków	Europejczycy	PER	LOC-Europe
+Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+Irlandią	Irlandia	LOC	GPE-Ireland
+Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+Theresy May	Theresa May	PER	PER-Theresa-May
+Tusk	Tusk	PER	PER-Donald-Tusk
+UE	UE	ORG	ORG-European-Union
+kanał La Manche	Kanał La Manche	LOC	LOC-English-Channel
+traktat o wyjściu Wielkiej Brytanii z UE	Traktat o wyjściu Wielkiej Brytanii z UE	PRO	PRO-Brexit-withdrawal-agreement

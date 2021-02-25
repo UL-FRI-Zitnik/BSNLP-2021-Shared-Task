@@ -1,0 +1,29 @@
+ru-1124
+Brexit	Brexit	EVT	EVT-Brexit
+Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+Брюсселе	Брюссель	LOC	GPE-Brussles
+Великобритании	Великобритания	LOC	GPE-Great-Britain
+Великобританию	Великобритания	LOC	GPE-Great-Britain
+Даунинг-Стрит	Даунинг-Стрит	LOC	LOC-Downing-Street
+Даунинг-стрит	Даунинг-стрит	LOC	LOC-Downing-Street
+Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt
+Джереми Ханта	Джереми Хант	PER	PER-Jeremy-Hunt
+Джонсон	Джонсон	PER	PER-Boris-Johnson
+ЕС	ЕС	ORG	ORG-European-Union
+Евросоюзу	Евросоюз	ORG	ORG-European-Union
+Консервативной партии	Консервативная партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+Лондон	Лондон	LOC	GPE-London
+Люсии Гуо	Люсия Гуо	PER	PER-Lucia-Guo
+МИД Великобритании	МИД Великобритании	ORG	ORG-Foreign-Office
+МИД	МИД	ORG	ORG-Foreign-Office
+Мэттью Хэнкок	Мэттью Хэнкок	PER	PER-Matthew-Hancock
+Содружества Наций	Содружество Наций	ORG	ORG-The-Commonwealth
+УНИАН	УНИАН	ORG	ORG-UNIAN
+Хант	Хант	PER	PER-Jeremy-Hunt
+Ханта	Хант	PER	PER-Jeremy-Hunt
+британских ВМФ	британский ВМФ	ORG	ORG-Royal-Navy
+британском ВМФ	британский ВМФ	ORG	ORG-Royal-Navy
+кабинете Дэвида Кэмерона	кабинет Дэвида Кэмерона	ORG	ORG-Cabinet-of-the-UK-Cameron
+кабинете Терезы Мэй	кабинет Терезы Мэй	ORG	ORG-Cabinet-of-the-United-Kingdom
+правительстве Британии	правительство Британии	ORG	ORG-the-UK-Government

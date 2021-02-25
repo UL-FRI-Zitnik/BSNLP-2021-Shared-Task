@@ -1,0 +1,24 @@
+ua-1004
+Brexit	Brexit	EVT	EVT-Brexit
+dpa	dpa	ORG	ORG-DPA
+ЄС	ЄС	LOC	ORG-European-Union
+Європейської Ради	Європейська Рада	ORG	ORG-Council-of-Europe
+Євросоюзу	Євросоюз	LOC	ORG-European-Union
+Ірландією	Ірландія	LOC	GPE-Ireland
+Британії	Британія	LOC	GPE-Great-Britain
+Брюсселя	Брюссель	LOC	GPE-Brussles
+Брюсселі	Брюссель	LOC	GPE-Brussles
+Великобританії	Великобританія	LOC	GPE-Great-Britain
+Домінік Рааб	Домінік Рааб	PER	PER-Dominic-Raab
+Дональд Туск	Дональд Туск	PER	PER-Donald-Tusk
+Ембер Радд	Ембер Радд	PER	PER-Amber-Rudd
+Лондон	Лондон	LOC	GPE-London
+МВС	МВС	ORG	ORG-Home-Office-UK
+Мей	Мей	PER	PER-Theresa-May
+Мішель Барньє	Мішель Барньє	PER	PER-Michel-Barnier
+Північною Ірландією	Північна Ірландія	LOC	GPE-Northern-Ireland
+Північної Ірландії	Північна Ірландія	LOC	GPE-Northern-Ireland
+Сполучене Королівство	Сполучене Королівство	LOC	GPE-Great-Britain
+Стівен Барклі	Стівен Барклі	PER	PER-Stiven-Barkli
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Шайлеш Вара	Шайлеш Вара	PER	PER-Shailesh-Vara

@@ -1,0 +1,9 @@
+pl-1943
+Brexit	Brexit	EVT	EVT-Brexit
+Brukseli	Bruksela	LOC	GPE-Brussles
+Günther Oettinger	Günther Oettinger	PER	PER-Guenther-Oettinger
+KE	KE	ORG	ORG-European-Commission
+Parlament Europejski	Parlament Europejski	ORG	ORG-European-Parliament
+UE	UE	ORG	ORG-European-Union
+WPR	WPR	PRO	PRO-CAP-Common-Agricultural-Policy
+Wspólnej Polityki Rolnej	Wspólna Polityka Rolna	PRO	PRO-CAP-Common-Agricultural-Policy

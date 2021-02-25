@@ -1,0 +1,21 @@
+pl-610
+Brexicie	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+Bruksela	Bruksela	LOC	GPE-Brussles
+Brukseli	Bruksela	LOC	GPE-Brussles
+Brukselę	Bruksela	LOC	GPE-Brussles
+Guardian	Guardian	PRO	PRO-The-Guardian
+Guardiana	Guardian	PRO	PRO-The-Guardian
+Londyn	Londyn	LOC	GPE-London
+Londynu	Londyn	LOC	GPE-London
+May	May	PER	PER-Theresa-May
+Norwegia	Norwegia	LOC	GPE-Norway
+Norwegii	Norwegia	LOC	GPE-Norway
+Norwegię	Norwegia	LOC	GPE-Norway
+Norwegowie	Norwegowie	PER	GPE-Norway
+The Guardian	The Guardian	PRO	PRO-The-Guardian
+Theresa May	Theresa May	PER	PER-Theresa-May
+UE	UE	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnotą	Wspólnota	ORG	ORG-European-Union

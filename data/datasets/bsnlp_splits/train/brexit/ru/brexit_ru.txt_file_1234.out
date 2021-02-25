@@ -1,0 +1,29 @@
+ru-1234
+Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+Brexit	Brexit	EVT	EVT-Brexit
+The Independent	The Independent	PRO	PRO-The-Independent
+Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+Брюсселем	Брюссель	LOC	GPE-Brussles
+Великобритании	Великобритания	LOC	GPE-Great-Britain
+Джеймс Брокеншир	Джеймс Брокеншир	PER	PER-James-Brokenshire
+Дэвис	Дэвис	PER	PER-David-Davis
+Дэвиса	Дэвис	PER	PER-David-Davis
+ЕС	ЕС	ORG	ORG-European-Union
+Консервативной партии	Консервативная партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+Лиам Фокс	Лиам Фокс	PER	PER-Liam-Fox
+Лондона	Лондон	LOC	GPE-London
+МВД	МВД	ORG	ORG-Home-Office-UK
+МИД	МИД	ORG	ORG-Foreign-Office
+Майкл Фэллон	Майкл Фэллон	PER	PER-Michael-Fallon
+Минфина	Минфин	ORG	ORG-Chancellor-of-the-Exchequer
+Мэй	Мэй	PER	PER-Theresa-May
+Прити Пател	Прити Пател	PER	PER-Priti-Patel
+Республикой Ирландия	Республика Ирландия	LOC	GPE-Ireland
+Северной Ирландии	Северная Ирландия	LOC	GPE-Northern-Ireland
+Соединенному Королевству	Соединенное Королевство	LOC	GPE-Great-Britain
+ТАСС	ТАСС	ORG	ORG-TASS-Agency
+Таможенному союзу ЕС	Таможенный союз ЕС	ORG	ORG-European-Union-Customs-Union
+Филипом Хаммондом	Филип Хаммонд	PER	PER-Philip-Hammond
+Эмбер Радд	Эмбер Радд	PER	PER-Amber-Rudd
+лондонского Сити	лондонское Сити	LOC	LOC-City-of-London
+тори	тори	PER	ORG-Conservative-and-Unionist-Party-UK

@@ -1,0 +1,22 @@
+pl-1235
+Barnier	Barnier	PER	PER-Michel-Barnier
+Brexicie	Brexit	EVT	EVT-Brexit
+Brexit	Brexit	EVT	EVT-Brexit
+Brexitem	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+Brukseli	Bruksela	LOC	GPE-Brussles
+David Davis	David Davis	PER	PER-David-Davis
+Irlandią Płn.	Irlandia Płn.	LOC	GPE-Northern-Ireland
+Irlandią	Irlandia	LOC	GPE-Ireland
+Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+Polaków	Polacy	PER	GPE-Poland
+Trybunału Sprawiedliwości UE	Trybunał Sprawiedliwości UE	ORG	ORG-European-Court-of-Justice
+Tusk	Tusk	PER	PER-Donald-Tusk
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+wyspy	Wyspy	LOC	GPE-Great-Britain

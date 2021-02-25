@@ -1,0 +1,23 @@
+ua-10
+Brexit	Brexit	EVT	EVT-Brexit
+ZIK	ZIK	ORG	ORG-ZIK
+«Брекзиту»	Брекзит	EVT	EVT-Brexit
+ЄС	ЄС	ORG	ORG-European-Union
+Європа	Європа	LOC	GPE-Europe
+Європейський Союз	Європейський Союз	ORG	ORG-European-Union
+Європейського Союзу	Європейський Союз	ORG	ORG-European-Union
+Європі	Європа	LOC	GPE-Europe
+Євросоюз	Євросоюз	ORG	ORG-European-Union
+Близькому Сході	Близький Схід	LOC	LOC-Middle-East
+Брекзиту	Брекзит	EVT	EVT-Brexit
+Брюссель	Брюссель	LOC	GPE-Brussles
+Брюсселя	Брюссель	LOC	GPE-Brussles
+Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+Громадської ліги Україна НАТО	Громадська ліга Україна НАТО	ORG	ORG-Gazprom
+Громадської ліги Україна НАТО	Громадська ліга Україна НАТО	ORG	ORG-Hromadsʹka-liha-Ukrayina-NATO
+Нідерландах	Нідерланди	LOC	GPE-Holland
+Об’єднаним Королівством	Об'єднане Королівство	LOC	GPE-Great-Britain
+Перші про головне	Перші про головне	PRO	PRO-Pershi-pro-holovne
+Сергій Джердж	Сергій Джердж	PER	PER-Serhiy-Dzherdzh
+Сирії	Сирія	LOC	GPE-Syria
+Франції	Франція	LOC	GPE-France

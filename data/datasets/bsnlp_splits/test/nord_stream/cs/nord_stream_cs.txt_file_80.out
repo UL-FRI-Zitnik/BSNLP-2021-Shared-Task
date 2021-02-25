@@ -1,0 +1,24 @@
+cs-80
+Baltské moře	Baltské moře	LOC	LOC-Baltic-Sea
+Dánsku	Dánsko	LOC	GPE-Denmark
+Evropy	Evropa	LOC	LOC-Europe
+Finsku	Finsko	LOC	GPE-Finland
+Gazpromu	Gazprom	ORG	ORG-Gazprom
+Kišiněv	Kišiněv	LOC	GPE-Chisinau
+Kyjev	Kyjev	LOC	GPE-Kiev
+Litva	Litva	LOC	GPE-Lithuania
+Lotyšsko	Lotyšsko	LOC	GPE-Latvia
+Naftogaz	Naftogaz	ORG	ORG-Naftogaz
+Nord Stream 2 AG	Nord Stream 2 AG	ORG	ORG-Nord-Stream-2-AG
+Nord Stream-2	Nord Stream-2	PRO	PRO-Nord-Stream-2
+Nord Streamem-2	Nord Stream-2	PRO	PRO-Nord-Stream-2
+Nord Streamu	Nord Stream	PRO	PRO-Nord-Stream-1
+Německa	Německo	LOC	GPE-Germany
+Německo	Německo	LOC	GPE-Germany
+Polsko	Polsko	LOC	GPE-Poland
+Ruska	Rusko	LOC	GPE-Russia
+Rusku	Rusko	LOC	GPE-Russia
+Spojených států	Spojené státy	LOC	GPE-USA
+Zemljanskij	Zemljanskij	PER	PER-Valentin-Zemlyansky
+Zemljanského	Zemljanskij	PER	PER-Valentin-Zemlyansky
+Švédsku	Švědsko	LOC	GPE-Sweden

@@ -1,0 +1,21 @@
+cs-1299
+Asie	Asie	LOC	LOC-Asia
+Brexit	Brexit	EVT	EVT-Brexit
+Británie	Británie	LOC	GPE-Great-Britain
+Británii	Británie	LOC	GPE-Great-Britain
+Citi-bank Europe	Citi-bank Europe	ORG	ORG-Citybank-Europe
+Citibank Europe	Citibank Europe	ORG	ORG-Citybank-Europe
+Citigroup	Citigroup	ORG	ORG-Citygroup
+Dublinu	Dublin	LOC	GPE-Dublin
+EU	EU	ORG	ORG-European-Union
+Evropské unie	Evropská unie	ORG	ORG-European-Union
+Evropy	Evropa	LOC	LOC-Europe
+HN	HN	PRO	PRO-Hospodarske-Noviny
+Irsku	Irsko	LOC	GPE-Ireland
+Londýn	Londýn	LOC	GPE-London
+Londýna	Londýn	LOC	GPE-London
+USA	USA	LOC	GPE-USA
+Velké Británie	Velká Británie	LOC	GPE-Great-Britain
+Zdeněk Turek	Zdeněk Turek	PER	PER-Zdenek-Turek
+brexitu	brexit	EVT	EVT-Brexit
+Čech	Čech	PER	GPE-Czech-Republic

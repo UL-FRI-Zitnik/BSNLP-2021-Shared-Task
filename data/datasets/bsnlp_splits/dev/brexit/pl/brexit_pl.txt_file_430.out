@@ -1,0 +1,34 @@
+pl-430
+ Polską	Polska	LOC	GPE-Poland
+Brexitem	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+Brukseli	Bruksela	LOC	GPE-Brussles
+Brukselą	Bruksela	LOC	GPE-Brussles
+Brukselę	Bruksela	LOC	GPE-Brussles
+EPL	EPL	ORG	ORG-EPP-European-Peoples-Party
+Europejskiej Partii Ludowej	Europejska Partia Ludowa	ORG	ORG-EPP-European-Peoples-Party
+Europie	Europa	LOC	LOC-Europe
+FT	FT	PRO	PRO-Financial-Times
+Fideszu	Fidesz	ORG	ORG-Fidesz
+KE	KE	ORG	ORG-European-Commission
+Komisja Europejska	Komisja Europejska	ORG	ORG-European-Commission
+Niemczech	Niemcy	LOC	GPE-Germany
+Orban	Orban	PER	PER-Viktor-Orban
+Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+Polsce	Polska	LOC	GPE-Poland
+Polska	Polska	LOC	GPE-Poland
+Polski	Polska	LOC	GPE-Poland
+Polskę	Polska	LOC	GPE-Poland
+Rachman	Rachman	PER	PER-Gideon-Rachman
+Rachmana	Rachman	PER	PER-Gideon-Rachman
+UE	UE	ORG	ORG-European-Union
+Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+Unię	Unia	ORG	ORG-European-Union
+Viktor	Viktor	PER	PER-Viktor-Orban
+Viktora Orbana	Viktor Orban	PER	PER-Viktor-Orban
+Warszawie	Warszawa	LOC	GPE-Warsaw
+Warszawy	Warszawa	LOC	GPE-Warsaw
+Warszawą	Warszawa	LOC	GPE-Warsaw
+Warszawę	Warszawa	LOC	GPE-Warsaw
+Węgry	Węgry	LOC	GPE-Hungary
+druga wojna światowa	Druga Wojna Światowa	EVT	EVT-World-War-II

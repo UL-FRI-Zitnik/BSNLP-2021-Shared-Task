@@ -1,0 +1,14 @@
+bg-1773
+Aston Martin	Aston Martin	ORG	ORG-Aston-Martin-Company
+BT	BT	ORG	ORG-BT
+Balfour Beatty	Balfour Beatty	ORG	ORG-Balfour-Beatty
+Brexit	Brexit	EVT	EVT-Brexit
+GlaxoSmithKline	GlaxoSmithKline	ORG	ORG-GlaxoSmithKline
+Tesco	Tesco	ORG	ORG-Tesco
+Брекзит	Брекзит	EVT	EVT-Brexit
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+ЕС	ЕС	ORG	ORG-European-Union
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+Лондон	Лондон	LOC	GPE-London
+Ройтерс	Ройтерс	ORG	ORG-Reuters
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May

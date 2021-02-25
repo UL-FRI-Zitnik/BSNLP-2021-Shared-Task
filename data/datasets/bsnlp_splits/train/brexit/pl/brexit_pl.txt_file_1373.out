@@ -1,0 +1,11 @@
+pl-1373
+Brexit	Brexit	EVT	EVT-Brexit
+Izba Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+Izba Lordów	Izba Lordów	ORG	ORG-House-of-Lords
+Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+parlamentu	Parlament	ORG	ORG-European-Parliament

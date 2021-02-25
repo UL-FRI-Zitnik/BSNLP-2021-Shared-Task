@@ -1,0 +1,38 @@
+pl-582
+27	27	ORG	ORG-European-Union
+Anglii	Anglia	LOC	GPE-England
+Australią	Australią	LOC	GPE-Australia
+Birmingham	Birmingham	LOC	GPE-Birmingham
+Brexitu	Brexit	EVT	EVT-Brexit
+Brukseli	Bruksela	LOC	GPE-Brussles
+BuzzFeed	BuzzFeed	PRO	PRO-Buzzfeed-website
+Chinami	Chiny	LOC	GPE-China
+Europejskim Obszarze Gospodarczym	Europejski Obszar Gospodarczy	ORG	ORG-EEA-European-Economic-Area
+Indiami	Indie	LOC	GPE-India
+Irlandia Północna	Irlandia Północna	LOC	LOC-Irlends-countries
+Irlandią	Irlandia	LOC	GPE-Ireland
+Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+Jakub Krupa	Jakub Krupa	PER	PER-Jakub-Krupa
+Komisją Europejską	Komisja Europejska	ORG	ORG-European-Commission
+Londynu	Londyn	LOC	GPE-London
+Michela Barniera	Michel Barnier	PER	PER-Michel-Barnier
+PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+Stanami Zjednoczonymi	Stany Zjednoczone	LOC	GPE-USA
+Steve Baker	Steve Baker	PER	PER-Steve-Baker
+The Times	The Times	PRO	PRO-The-Times
+Theresy May	Theresa May	PER	PER-Theresa-May
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+W.Brytania	W.Brytania	LOC	GPE-Great-Britain
+WTO	WTO	ORG	ORG-WTO-World-Trade-Organization
+West Midlands	West Midlands	LOC	LOC-West-Midlands
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnocie	Wspólnota	ORG	ORG-European-Union
+Wspólnoty	Wspólnota	ORG	ORG-European-Union
+Wspólnotę	Wspólnota	ORG	ORG-European-Union
+Zatoki Perskiej	Zatoka Perska	LOC	LOC-Persian-Gulf
+Zjednoczonym Królestwie	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+ministerstwa ds. wyjścia z Unii Europejskiej	Ministerstwo ds. wyjścia z Unii Europejskiej	ORG	ORG-Ministry-of-Brexity
+Światową Organizację Handlu	Światowa Organizacja Handlu	ORG	ORG-WTO-World-Trade-Organization

@@ -1,0 +1,30 @@
+pl-1858
+Barnier	Barnier	PER	PER-Michel-Barnier
+Brexicie	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+Grupę Sterującą ds. Brexitu	Grupa Sterująca ds. Brexitu	ORG	ORG-Brexit-Steering-Group
+Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+Irlandii	Irlandia	LOC	GPE-Ireland
+Jean-Claude Juncker	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+KE	KE	ORG	ORG-European-Commission
+Komisję Europejską	Komisja Europejska	ORG	ORG-European-Commission
+Londynem	Londyn	LOC	GPE-London
+Luksemburgu	Luksemburg	LOC	GPE-Luxembourg
+Michel Barnier	Michel Barnier	PER	PER-Michel-Barnier
+PE	PE	ORG	ORG-European-Parliament
+Parlamentu	Parlament	ORG	ORG-European-Parliament
+Porozumienie o wystąpieniu Wielkiej Brytanii z Unii	Porozumienie o wystąpieniu Wielkiej Brytanii z Unii	PRO	PRO-Brexit-withdrawal-agreement
+Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+TSUE	TSUE	ORG	ORG-European-Court-of-Justice
+Trybunału Sprawiedliwości Unii Europejskiej	Trybunał Sprawiedliwości Unii Europejskiej	ORG	ORG-European-Court-of-Justice
+Tuska	Tusk	PER	PER-Donald-Tusk
+UE	UE	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+W. Brytanią	W. Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnoty	Wspólnota	ORG	ORG-European-Union
+Zjednoczonym Królestwem	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+porozumieniu wielkopiątkowym	Porozumienie wielkopiątkowe	PRO	PRO-GFA-Good-Friday-Agreement
+umowa o wolnym handlu	Umowa o wolnym handlu	PRO	PRO-FTA-Free-Trade-Agreement

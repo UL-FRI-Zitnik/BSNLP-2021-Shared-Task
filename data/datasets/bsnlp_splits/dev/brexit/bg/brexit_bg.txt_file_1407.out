@@ -1,0 +1,13 @@
+bg-1407
+Reuters	Reuters	ORG	ORG-Reuters
+Барние	Барние	PER	PER-Michel-Barnier
+Брекзит	Брекзит	EVT	EVT-Brexit
+Брюксел	Брюксел	LOC	GPE-Brussles
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+ЕК	ЕК	ORG	ORG-European-Commission
+ЕС	ЕС	ORG	ORG-European-Union
+Ирландия	Ирландия	LOC	GPE-Ireland
+Лондон	Лондон	LOC	GPE-London
+Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+Фокус	Фокус	ORG	ORG-Focus-News-Agency

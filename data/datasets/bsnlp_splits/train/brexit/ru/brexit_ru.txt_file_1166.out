@@ -1,0 +1,81 @@
+ru-1166
+ Скрипали 	Скрипали	PER	PER-Siergiej-Skripal
+Brexit	Brexit	EVT	EVT-Brexit
+iz.ru	iz.ru	PRO	PRO-IZ.RU
+«новичка»	«новичок»	PRO	PRO-Novichok
+«новичком»	«новичок»	PRO	PRO-Novichok
+Андреа Лидсом	Андреа Лидсом	PER	PER-Andrea-Leadsom
+Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+Борис	Борис	PER	PER-Boris-Johnson
+Бориса Джонсона	Борис Джонсон	PER	PER-Boris-Johnson
+Британии	Британия	LOC	GPE-Great-Britain
+Британию	Британия	LOC	GPE-Great-Britain
+Британия	Британия	LOC	GPE-Great-Britain
+Брюссель	Брюссель	LOC	GPE-Brussles
+Гитлеру	Гитлер	PER	PER-Adolf-Hitler
+Гоув	Гоув	PER	PER-Michael-Gove
+Гоува	Гоув	PER	PER-Michael-Gove
+Гэвина Уильямсона	Гэвин Уильямсон	PER	PER-Gavin-Williamson
+Дело Скрипалей	Дело Скрипалей	EVT	EVT-Scripals'-poisoning
+Джавид 	Джавид	PER	PER-Sajid-Javid
+Джейкоба Рис-Могга	Джейкоб Рис-Могг	PER	PER-Jacob-Rees-Mogg
+Джереми Корбин	Джереми Корбин	PER	PER-Jeremy-Corbyn
+Джереми Хант	Джереми Хант	PER	PER-Jeremy-Hunt
+Джереми Ханта	Джереми Хант	PER	PER-Jeremy-Hunt
+Джонсон	Джонсон	PER	PER-Boris-Johnson
+Джонсона	Джонсон	PER	PER-Boris-Johnson
+Доминика Рааба	Доминик Рааб	PER	PER-Dominic-Raab
+Дэвид Дэвис	Дэвид Дэвис	PER	PER-David-Davis
+Дэвид Кэмерон	Дэвид Кэмерон	PER	PER-David-Cameron
+Дэвис	Дэвис	PER	PER-David-Davis
+Дэвиса	Дэвис	PER	PER-David-Davis
+ЕС	ЕС	ORG	ORG-European-Union
+Европы	Европа	LOC	LOC-Europe
+Евросоюзом	Евросоюз	ORG	ORG-European-Union
+Кабинет	Кабинет	ORG	ORG-Cabinet-of-the-United-Kingdom
+Консервативной партии	Консервативная партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+Лайма Фокса	Лайм Фокс	PER	PER-Liam-Fox
+Лондона	Лондон	LOC	GPE-London
+МВД	МВД	ORG	ORG-Ministry-of-Internal-Affairs-Russia
+МИД	МИД	ORG	ORG-Foreign-Office
+Майкла Гоува	Майкл Гоув	PER	PER-Michael-Gove
+Маргарет Тэтчер	Маргарет Тэтчер	PER	PER-Margaret-Thatcher
+Москвы	Москва	LOC	GPE-Moscow
+Мэй 	Мэй	PER	PER-Theresa-May
+Мэй	Мэй	PER	PER-Theresa-May
+Невиллом Чемберленом	Невилл Чемберлен	PER	PER-Nevill-Chamberlain
+Россией	Россия	LOC	GPE-Russia
+Россию	Россия	LOC	GPE-Russia
+Саджида Джавида	Саджид Джавид	PER	PER-Sajid-Javid
+Скрипали	Скрипали	PER	PER-Yulia-Skripal
+Содружества	Содружество	ORG	ORG-The-Commonwealth
+Соединенного Королевства	Соединенное Королевство	LOC	GPE-Great-Britain
+Стив Бейкер	Стив Бейкер	PER	PER-Steve-Baker
+Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+Тереза	Тереза	PER	PER-Theresa-May
+Терезе Мэй	Тереза Мэй	PER	PER-Theresa-May
+Терезы Мэй	Тереза Мэй	PER	PER-Theresa-May
+Терезы	Тереза	PER	PER-Theresa-May
+Тэтчер	Тэтчер	PER	PER-Margaret-Thatcher
+Уильямсон	Уильямсон	PER	PER-Gavin-Williamson
+Чехословакию	Чехословакия	LOC	GPE-Czechoslovakia
+Эймсбери	Эймсбери	LOC	LOC-Amesbury
+Эндрю Бриджен	Эндрю Бриджен	PER	PER-Andrew-Bridgen
+британский народ	британский народ	PER	GPE-Great-Britain
+британских	британский	LOC	GPE-Great-Britain
+брюссельскому 	брюссельский	LOC	GPE-Brussles
+дела Скрипалей	дело Скрипалей	EVT	EVT-Scripals'-poisoning
+июньскими выборами 2017 года	июньские выборы 2017 года	EVT	EVT-General-Elections-2017-UK
+кабинет	кабинет	ORG	ORG-Cabinet-of-the-United-Kingdom
+кабинета	кабинет	ORG	ORG-Cabinet-of-the-United-Kingdom
+консервативной партии	консервативная партия	ORG	ORG-Conservative-and-Unionist-Party-UK
+консерваторы	консерватор	ORG	ORG-Conservative-and-Unionist-Party-UK
+лейбористов	лейборист	ORG	ORG-Labour-Party-UK
+минздрава	минздрав	ORG	ORG-Department-of-Health
+нижней палаты парламента	нижняя палата парламента	ORG	ORG-House-of-Commons
+отравления Скрипалей	отравление Скрипалей	EVT	EVT-Amesbury-poisoning
+правительства	правительство	ORG	ORG-the-UK-Government
+правительство	правительство	ORG	ORG-the-UK-Government
+референдума 	референдум	EVT	EVT-Brexit-Referendum
+российских	российский	LOC	GPE-Russia
+саммит глав Содружества	саммит глав Содружества	EVT	EVT-Summit-Commonwealth-of-Nations

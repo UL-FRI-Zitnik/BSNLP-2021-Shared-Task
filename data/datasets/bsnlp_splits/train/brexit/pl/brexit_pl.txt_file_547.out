@@ -1,0 +1,18 @@
+pl-547
+Anglii	Anglia	LOC	GPE-England
+Biskup	Biskup	PER	PER-Przemysław-Biskup
+Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+Irlandia Północna	Irlandia Północna	LOC	LOC-Irlends-countries
+Margaret Thatcher	Margaret Thatcher	PER	PER-Margaret-Thatcher
+Szkocja	Szkocja	LOC	GPE-Scotland
+Tony’ego Blaira	Tony Blair	PER	PER-Tony-Blair
+UE	UE	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Unię Europejską	Unia Europejska	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnoty	Wspólnota	ORG	ORG-European-Union
+Wyspach	Wyspy	LOC	GPE-Great-Britain
+brexit	Brexit	EVT	EVT-Brexit
+brexitem	Brexit	EVT	EVT-Brexit

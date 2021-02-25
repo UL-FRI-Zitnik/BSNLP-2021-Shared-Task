@@ -1,0 +1,18 @@
+cs-1085
+Anglie	Anglie	LOC	GPE-England
+Dolní sněmovna	Dolní sněmovna	ORG	ORG-House-of-Commons
+EU	EU	ORG	ORG-European-Union
+Evropské unie	Evropská unie	ORG	ORG-European-Union
+Irskem	Irsko	LOC	GPE-Ireland
+Lukáš Vaněk	Lukáš Vaněk	PER	PER-Lukas-Vanek
+Mayové	Mayová	PER	PER-Theresa-May
+Severní Irsko	Severní Irsko	LOC	GPE-Northern-Ireland
+Skotsko	Skotsko	LOC	GPE-Scotland
+Sněmovna lordů	Sněmovna lordů	ORG	ORG-House-of-Lords
+Sněmovny lordů	Sněmovna lordů	ORG	ORG-House-of-Lords
+Spojeného království	Spojené království	LOC	GPE-Great-Britain
+Theresa Mayová	Theresa Mayová	PER	PER-Theresa-May
+Wales	Wales	LOC	GPE-Wales
+brexit	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit
+konzervativci	konzervativci	PER	ORG-Conservative-and-Unionist-Party-UK

@@ -1,0 +1,22 @@
+sl-10
+Brexit	Brexit	EVT	EVT-Brexit
+Britanski parlament	Britanski parlament	ORG	ORG-British-Parlament
+Bruselj	Bruselj	LOC	GPE-Brussles
+Bruslju	Bruselj	LOC	GPE-Brussles
+EU	EU	ORG	ORG-European-Union
+Evropa	Evropa	LOC	LOC-Europe
+Evropske unije	Evropska unija	ORG	ORG-European-Union
+Grahama Bradyja	Graham Brady	PER	PER-Graham-Brady
+Jeremya Corbyna	Jeremy Corbyn	PER	PER-Jeremy-Corbyn
+Mayeva	May	PER	PER-Theresa-May
+Theresa May	Theresa May	PER	PER-Theresa-May
+Thereso May	Theresa May	PER	PER-Theresa-May
+Tuskove	Tusk	PER	PER-Donald-Tusk
+Združenega kraljestva	Združeno kraljestvo	LOC	GPE-Great-Britain
+brexit	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit
+britanske strani	britanska stran	LOC	GPE-Great-Britain
+britanskega parlamenta	britanski parlament	ORG	ORG-British-Parlament
+laburistov	laburist	PER	ORG-Labour-Party-UK
+torijcev	torijec	PER	ORG-Conservative-and-Unionist-Party-UK
+twitterja	twitter	PRO	PRO-Twitter

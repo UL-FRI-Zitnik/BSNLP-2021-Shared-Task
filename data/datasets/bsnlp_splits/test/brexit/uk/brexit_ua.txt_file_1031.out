@@ -1,0 +1,12 @@
+ua-1031
+Brexit	Brexit	EVT	EVT-Brexit
+Reuters	Reuters	ORG	ORG-Reuters
+ЄС	ЄС	LOC	ORG-European-Union
+Барньє	Барньє	PER	PER-Michel-Barnier
+Брюсселем	Брюссель	LOC	GPE-Brussles
+Брюсселі	Брюссель	LOC	GPE-Brussles
+Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+Лондоні	Лондон	LOC	GPE-London
+Мішель Барньє	Мішель Барньє	PER	PER-Michel-Barnier
+Рада ЄС	Рада ЄС	ORG	ORG-Council-of-the-European-Union
+кабінет міністрів Великої Британії	кабінет міністрів Великої Британії	ORG	ORG-Cabinet-of-the-United-Kingdom

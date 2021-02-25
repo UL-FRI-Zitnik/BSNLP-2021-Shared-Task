@@ -1,0 +1,16 @@
+cs-831
+Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+Británii	Británie	LOC	GPE-Great-Britain
+Bruselu	Brusel	LOC	GPE-Brussles
+Dolní sněmovnou	Dolní sněmovna	ORG	ORG-House-of-Commons
+Dolní sněmovny	Dolní sněmovna	ORG	ORG-House-of-Commons
+EU	EU	ORG	ORG-European-Union
+Evropskou unii	Evropská unie	ORG	ORG-European-Union
+Londýnu	Londýn	LOC	GPE-London
+Sněmovna lordů	Sněmovna lordů	ORG	ORG-House-of-Lords
+Sněmovnou lordů	Sněmovna lordů	ORG	ORG-House-of-Lords
+Spojené království	Spojené království	LOC	GPE-Great-Britain
+Theresy Mayové	Theresa Mayová	PER	PER-Theresa-May
+brexitovou dohodu	brexitová dohoda	PRO	PRO-Brexit-withdrawal-agreement
+brexitu	brexit	EVT	EVT-Brexit
+britského parlamentu	britský parlament	ORG	ORG-British-Parlament

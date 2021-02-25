@@ -1,0 +1,14 @@
+cs-232
+Brexit	Brexit	EVT	EVT-Brexit
+Británie	Británie	LOC	GPE-Great-Britain
+Británii	Británie	LOC	GPE-Great-Britain
+Brusel	Brusel	LOC	GPE-Brussles
+Chuka Umunna	Chuka Umunna	PER	PER-Chuka-Umunna
+EU	EU	ORG	ORG-European-Union
+Johnson	Johnson	PER	PER-Boris-Johnson
+Johnsonova	Johnson	PER	PER-Boris-Johnson
+Johnsonův	Johnson	PER	PER-Boris-Johnson
+Labouristické strany	Labouristická strana	ORG	ORG-Labour-Party-UK
+Londýn	Londýn	LOC	GPE-London
+Tom Brake	Tom Brake	PER	PER-Tom-Brake
+brexitu	brexit	EVT	EVT-Brexit

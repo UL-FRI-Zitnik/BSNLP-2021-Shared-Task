@@ -1,0 +1,47 @@
+pl-1399
+Anglii	Anglia	LOC	GPE-England
+Brexit	Brexit	EVT	EVT-Brexit
+Bruksela	Bruksela	LOC	GPE-Brussles
+Brukselą	Bruksela	LOC	GPE-Brussles
+Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+City	City	LOC	LOC-City-of-London
+DUP	DUP	ORG	ORG-DUP-Democratic-Unionist-Party
+EIU	EIU	ORG	ORG-EIU-Economist-Intelligence-Unit
+Economist Intelligence Unit	Economist Intelligence Unit	ORG	ORG-EIU-Economist-Intelligence-Unit
+FTA	FTA	PRO	PRO-FTA-Free-Trade-Agreement
+Francji	Francja	LOC	GPE-France
+Irlandia Północna	Irlandia Północna	LOC	LOC-Irlends-countries
+Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+Kanadą	Kanada	LOC	GPE-Canada
+Londyn	Londyn	LOC	GPE-London
+Londynie	Londyn	LOC	GPE-London
+Niemczech	Niemcy	LOC	GPE-Germany
+Parlament Europejski	Parlament Europejski	ORG	ORG-European-Parliament
+Polaków	Polacy	PER	GPE-Poland
+Polsce	Polska	LOC	GPE-Poland
+Polskę	Polska	LOC	GPE-Poland
+Radzie UE	Rada UE	ORG	ORG-European-Council
+Republiką Irlandii	Republika Irlandii	LOC	GPE-Ireland
+Szkocja	Szkocja	LOC	GPE-Scotland
+Theresy May	Theresa May	PER	PER-Theresa-May
+Tony'ego Blaira	Tony Blair	PER	PER-Tony-Blair
+UE	UE	ORG	ORG-European-Union
+Ulster	Ulster	LOC	GPE-Ulster
+Unii	Unia	ORG	ORG-European-Union
+Unilever	Unilever	ORG	ORG-Unilever
+Unią	Unia	ORG	ORG-European-Union
+WTO	WTO	ORG	ORG-WTO-World-Trade-Organization
+Westminster	Westminster	LOC	LOC-Westminster-Hall
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnoty	Wspólnota	ORG	ORG-European-Union
+Wspólnotą	Wspólnota	ORG	ORG-European-Union
+Wyspami	Wyspy	LOC	GPE-Great-Britain
+Zielonej Wyspy	Zielona Wyspa	LOC	GPE-Ireland
+brexit	Brexit	EVT	EVT-Brexit
+brexitem	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit
+torysami	torysi	PER	ORG-Tories
+umowa o wolnym handlu	Umowa o wolnym handlu	PRO	PRO-FTA-Free-Trade-Agreement
+umowy o wolnym handlu	Umowa o wolnym handlu	PRO	PRO-FTA-Free-Trade-Agreement
+Światowej Organizacji Handlu	Światowa Organizacja Handlu	ORG	ORG-WTO-World-Trade-Organization

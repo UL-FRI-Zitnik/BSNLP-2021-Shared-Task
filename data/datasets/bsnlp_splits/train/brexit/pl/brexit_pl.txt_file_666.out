@@ -1,0 +1,22 @@
+pl-666
+BBC	BBC	PRO	PRO-BBC
+Brukselą	Bruksela	LOC	GPE-Brussles
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Donalda Trumpa	Donald Trump	PER	PER-Donald-Trump
+Francji	Francja	LOC	GPE-France
+Francuzi	Francuzi	PER	GPE-France
+Haiti	Haiti	LOC	GPE-Haiti
+Kanadą	Kanada	LOC	GPE-Canada
+Macron	Macron	PER	PER-Emmanuel-Macron
+Norwegią	Norwegia	LOC	GPE-Norway
+Theresą May	Theresa May	PER	PER-Theresa-May
+Theresę May	Theresa May	PER	PER-Theresa-May
+Trumpa	Trump	PER	PER-Donald-Trump
+Twitterze	Twitter	PRO	PRO-Twitter
+UE	UE	ORG	ORG-European-Union
+USA	USA	LOC	GPE-USA
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+brexit	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit

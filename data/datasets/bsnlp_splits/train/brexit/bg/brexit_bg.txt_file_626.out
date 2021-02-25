@@ -1,0 +1,14 @@
+bg-626
+Brexit	Brexit	EVT	EVT-Brexit
+АФП	АФП	ORG	ORG-France-Presse
+БГНЕС	БГНЕС	ORG	ORG-BGNES-Agency
+Брекзит	Брекзит	EVT	EVT-Brexit
+Брюксел	Брюксел	LOC	GPE-Brussles
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+ЕС	ЕС	ORG	ORG-European-Union
+Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+Европейският съюз	Европейски съюз	ORG	ORG-European-Union
+Лондон	Лондон	LOC	GPE-London
+Люксембург	Люксембург	LOC	GPE-Luxembourg
+Обединеното кралство	Обединеното кралство	LOC	GPE-Great-Britain
+Съда на Европейския съюз	Съд на Европейския съюз	ORG	ORG-European-Court-of-Justice

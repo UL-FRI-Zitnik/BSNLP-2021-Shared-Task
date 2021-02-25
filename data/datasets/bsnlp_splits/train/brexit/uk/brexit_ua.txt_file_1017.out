@@ -1,0 +1,13 @@
+ua-1017
+BrexitCentral	BrexitCentral	PRO	PRO-BrexitCentral
+Brexit	Brexit	EVT	EVT-Brexit
+Reuters	Reuters	ORG	ORG-Reuters
+ЄС	ЄС	LOC	ORG-European-Union
+Євросоюз	Євросоюз	ORG	ORG-European-Union
+Великобританією	Великобританія	LOC	GPE-Great-Britain
+Великобританії	Великобританія	LOC	GPE-Great-Britain
+Мей	Мей	PER	PER-Theresa-May
+Північної Ірландії	Північна Ірландія	LOC	GPE-Northern-Ireland
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Терези Мей	Тереза Мей	PER	PER-Theresa-May
+Терезі Мей	Тереза Мей	PER	PER-Theresa-May

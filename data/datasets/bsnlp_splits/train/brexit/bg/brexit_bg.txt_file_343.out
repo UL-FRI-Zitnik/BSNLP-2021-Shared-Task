@@ -1,0 +1,22 @@
+bg-343
+bnr.bg	bnr.bg	PRO	PRO-bnr.bg
+Адам	Адам	PER	PER-Adam-Lazowski
+Брекзит	Брекзит	EVT	EVT-Brexit
+Брюксел	Брюксел	LOC	GPE-Brussles
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Дейвид Дейвис	Дейвид Дейвис	PER	PER-David-Davis
+Днес+	Днес+	ORG	ORG-DnesPlus
+ЕС	ЕС	ORG	ORG-European-Union
+Европа	Европа	LOC	LOC-Europe
+Кър	Кър	PER	PER-John-Kerr
+Лазовски	Лазовски	PER	PER-Adam-Lazowski
+Лейбъристката партия	Лейбъристка партия	ORG	ORG-Labour-Party-UK
+Лисабонския договор	Лисабонски договор	PRO	PRO-Treaty-of-Lisbon
+Мишел Барние	Мишел Барние	PER	PER-Michel-Barnier
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Чука Умуна	Чука Умуна	PER	PER-Chuka-Umunna
+британците	британци	PER	GPE-Great-Britain
+лейбъристите	лейбъристи	PER	ORG-Labour-Party-UK
+референдума за Брекзит	референдум от 2016 г. за излизане на Великобритания от съюза	EVT	EVT-Brexit-Referendum
+университета Уестминстър	университет Уестминстър	ORG	ORG-University-of-Westminster
+член 50	член 50	PRO	PRO-Article-50

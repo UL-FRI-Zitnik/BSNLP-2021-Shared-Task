@@ -1,0 +1,65 @@
+sl-3
+ Azije	Azija	LOC	LOC-Asia
+Alžirije	Alžirija	LOC	GPE-Algeria
+Američani	Američani	PER	GPE-USA
+BP	BP	ORG	ORG-BP
+Baltskega morja	Baltsko morje	LOC	LOC-Baltic-Sea
+Baumgarten	Baumgarten	LOC	GPE-Baumgarten
+Bližnjega vzhoda	Bližnji vzhod	LOC	LOC-Middle-East
+Bolgarije	Bolgarija	LOC	GPE-Bulgaria
+Bolgariji	Bolgarija	LOC	GPE-Bulgaria
+Bruslja	Bruselj	LOC	GPE-Brussles
+Bruslju	Bruselj	LOC	GPE-Brussles
+Charlie Riedl	Charlie Riedl	PER	PER-Charlie-Riedl
+Chevron	Chevron	ORG	ORG-Chevron-Corporation
+Donald Trump	Donald Trump	PER	PER-Donald-Trump
+Dunaja	Dunaj	LOC	GPE-Vienna
+EU	EU	ORG	ORG-European-Union
+Evropa	Evropa	LOC	LOC-Europe
+Evrope	Evropa	LOC	LOC-Europe
+Evropi	Evropa	LOC	LOC-Europe
+Evropo	Evropa	LOC	LOC-Europe
+Evropska komisija	Evropska komisija	ORG	ORG-European-Commission
+Evropske komisije	Evropska komisija	ORG	ORG-European-Commission
+Evropskim parlamentom	Evropski parlament	ORG	ORG-European-Parliament
+Exxon Mobil	Exxon Mobil	ORG	ORG-Exxon-Mobil-Corporation
+Forbes	Forbes	ORG	ORG-Forbes
+Francija	Francija	LOC	GPE-France
+Frankfurter Allgemeine Zeitung	Frankfurter Allgemeine Zeitung	PRO	PRO-Frankfurter-Allgemeine-Zeitung
+Gazprom	Gazprom	ORG	ORG-Gazprom
+Gazpromom	Gazprom	ORG	ORG-Gazprom
+Geoplin	Geoplin	ORG	ORG-Geoplin
+Grčiji	Grčija	LOC	GPE-Greece
+Handelsblatta	Handelsblatt	ORG	ORG-Handelsblatt
+IEA	IEA	ORG	ORG-International-Energy-Agency
+Italijo	Italija	LOC	GPE-Italy
+Jean-Claude Juncker	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+Južni tok	Južni tok	PRO	PRO-South-Stream
+Kitajsko	Kitajska	LOC	GPE-China
+Madžarsko	Madžarska	LOC	GPE-Hungary
+Mednarodna agencija za energijo	Mednarodna agencija za energijo	ORG	ORG-International-Energy-Agency
+Mehiškem zalivu	Mehiški zaliv	LOC	LOC-Gulf-of-Mexico
+Nemci	Nemci	PER	GPE-Germany
+Nemčija	Nemčija	LOC	GPE-Germany
+Nemčiji	Nemčija	LOC	GPE-Germany
+Nemčijo	Nemčija	LOC	GPE-Germany
+OMV	OMV	ORG	ORG-OMV
+Poljski	Poljska	LOC	GPE-Poland
+Rainer Seele	Rainer Seele	PER	PER-Rainer-Seele
+Richard Grenell	Richard Grenell	PER	PER-Richard-Grenell
+Rusija	Rusija	LOC	GPE-Russia
+Rusije	Rusija	LOC	GPE-Russia
+Rusijo	Rusija	LOC	GPE-Russia
+STA	STA	ORG	ORG-Slovenian-Press-Agency
+Severni tok 1	Severni tok 1	PRO	PRO-Nord-Stream-1
+Severni tok 2	Severni tok 2	PRO	PRO-Nord-Stream-2
+Severni tok	Severni tok	PRO	PRO-Nord-Stream-1
+Shell 	Shell	ORG	ORG-Royal-Dutch-Shell-BG-Group
+Slovenija	Slovenija	LOC	GPE-Slovenia
+Slovenije	Slovenija	LOC	GPE-Slovenia
+Slovenijo	Slovenija	LOC	GPE-Slovenia
+Srbijo	Srbija	LOC	GPE-Serbia
+Total	Total	ORG	ORG-Total-SE
+ZDA	ZDA	LOC	GPE-USA
+južne Rusije	južna Rusija	LOC	GPE-Russia
+Črnega morja	Črno morje	LOC	LOC-Black-Sea

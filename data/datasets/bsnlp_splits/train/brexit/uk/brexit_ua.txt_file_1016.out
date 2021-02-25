@@ -1,0 +1,21 @@
+ua-1016
+Brexit	Brexit	EVT	EVT-Brexit
+Deutsche Welle	Deutsche Welle	ORG	ORG-Deutsche-Welle
+Sky News	Sky News	ORG	ORG-Sky-News
+ЄС	ЄС	LOC	ORG-European-Union
+Європейському союзі	Європейський союз	ORG	ORG-European-Union
+Євросоюзу	Євросоюз	LOC	ORG-European-Union
+Борис Джонсон	Борис Джонсон	PER	PER-Boris-Johnson
+Британія	Британія	LOC	GPE-Great-Britain
+Британії	Британія	LOC	GPE-Great-Britain
+Велика Британія	Велика Британія	LOC	GPE-Great-Britain
+Великобританії	Великобританія	LOC	GPE-Great-Britain
+Великої Британії	Велика Британія	LOC	GPE-Great-Britain
+Домінік Рааб	Домінік Рааб	PER	PER-Dominic-Raab
+Естер Маквей	Естер Маквей	PER	PER-Ester-Makvi
+МЗС	МЗС	ORG	ORG-Foreign-Office
+Мей	Мей	PER	PER-Theresa-May
+Північної Ірландії	Північна Ірландія	LOC	GPE-Northern-Ireland
+Раніл Джаявардена	Раніл Джаяварден	PER	PER-Ranil-Dzhayavardena
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Шейлеш Вара	Шейлеш Вара	PER	PER-Shailesh-Vara

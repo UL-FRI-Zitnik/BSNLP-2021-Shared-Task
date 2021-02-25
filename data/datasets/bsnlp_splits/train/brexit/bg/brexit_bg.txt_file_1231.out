@@ -1,0 +1,14 @@
+bg-1231
+Apple	Apple	ORG	ORG-Apple
+Брекзит	Брекзит	EVT	EVT-Brexit
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+ЕС	ЕС	ORG	ORG-European-Union
+Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+Испания	Испания	LOC	GPE-Spain
+Лондон	Лондон	LOC	GPE-London
+Саджид Джавид	Саджид Джавид	PER	PER-Sajid-Javid
+Франция	Франция	LOC	GPE-France
+британци	британци	PER	GPE-Great-Britain
+британците	британци	PER	GPE-Great-Britain
+европейци	европейци	PER	PER-Europe
+европейците	европейци	PER	LOC-Europe

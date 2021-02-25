@@ -1,0 +1,25 @@
+pl-607
+Brexicie	Brexit	EVT	EVT-Brexit
+Brexit	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+Downing Street	Downing Street	LOC	LOC-Downing-Street
+ERG	ERG	ORG	ORG-European-Research-Group
+European Research Group	European Research Group	ORG	ORG-European-Research-Group
+Irlandia Północna	Irlandia Północna	LOC	LOC-Irlends-countries
+Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+Irlandii Płn.	Irlandia Płn.	LOC	GPE-Northern-Ireland
+Irlandii	Irlandia	LOC	GPE-Ireland
+Jacob Rees-Mogg	Jacob Rees-Mogg	PER	PER-Jacob-Rees-Mogg
+Karen Bradley	Karen Bradley	PER	PER-Karen-Bradley
+May	May	PER	PER-Theresa-May
+Partii Konserwatywnej	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+Theresę May	Theresa May	PER	PER-Theresa-May
+Times	Times	PRO	PRO-The-Times
+Timesa	Times	PRO	PRO-The-Times
+UE	UE	ORG	ORG-European-Union
+Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+W.Brytania	W.Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Zjednoczonego Królestwa	Zjednoczone Królestwo	LOC	GPE-Great-Britain
+porozumienia wielkopiątkowego	Porozumienie wielkopiątkowe	PRO	PRO-GFA-Good-Friday-Agreement
+torysów	torysi	PER	ORG-Tories

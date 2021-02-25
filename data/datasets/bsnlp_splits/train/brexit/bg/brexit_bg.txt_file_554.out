@@ -1,0 +1,13 @@
+bg-554
+Bank of America	Bank of America	ORG	ORG-Bank-of-America
+Bloomberg	Bloomberg	ORG	ORG-Bloomberg-LP
+Deutsche Bank	Deutsche Bank	ORG	ORG-Deutsche-Bank
+Goldman Sachs	Goldman Sachs	ORG	ORG-Goldman-Sachs
+Morgan McKinley	Morgan McKinley	PER	PER-Morgan-McKinley
+Брекзит	Брекзит	EVT	EVT-Brexit
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+ЕС	ЕС	ORG	ORG-European-Union
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+Лондон	Лондон	LOC	GPE-London
+Париж	Париж	LOC	GPE-Paris
+Франкфурт	Франкфурт	LOC	GPE-Frankfurt-am-Main

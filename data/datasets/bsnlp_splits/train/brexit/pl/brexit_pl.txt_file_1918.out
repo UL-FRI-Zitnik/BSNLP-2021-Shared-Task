@@ -1,0 +1,25 @@
+pl-1918
+Brexicie	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+David Davis	David Davis	PER	PER-David-Davis
+Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+Donalda Tuska	Donald Tusk	PER	PER-Donald-Tusk
+Donek	Donek	PER	PER-Donald-Tusk
+Jean-Claude Juncker	Jean-Claude Juncker	PER	PER-Jean-Claude-Juncker
+KE	KE	ORG	ORG-European-Commission
+Londynie	Londyn	LOC	GPE-London
+Parlamencie Europejskim	Parlament Europejski	ORG	ORG-European-Parliament
+Patrick O'Flynn	Patrick OFlynn	PER	PER-Patrick-OFlynn
+Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+Richard Tice	Richard Tice	PER	PER-Richard-Tice
+Theresy May	Theresa May	PER	PER-Theresa-May
+Tusk	Tusk	PER	PER-Donald-Tusk
+Tuska	Tusk	PER	PER-Donald-Tusk
+UE	UE	ORG	ORG-European-Union
+Unia	Unia	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wielką Brytanią	Wielka Brytania	LOC	GPE-Great-Britain
+brexicie	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit

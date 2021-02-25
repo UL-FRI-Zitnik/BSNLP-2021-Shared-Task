@@ -1,0 +1,32 @@
+pl-510
+Anglii	Anglia	LOC	GPE-England
+Brexicie	Brexit	EVT	EVT-Brexit
+Brexit	Brexit	EVT	EVT-Brexit
+CBI	CBI	ORG	ORG-CBI-Confederation-of-British-Industry
+City of London	City of London	LOC	LOC-City-of-London
+Corbyn	Corbyn	PER	PER-Jeremy-Corbyn
+Corbyna	Corbyn	PER	PER-Jeremy-Corbyn
+Coventry	Coventry	LOC	GPE-Coventry
+Europy	Europa	LOC	LOC-Europe
+Irlandią Północną	Irlandia Północna	LOC	LOC-Irlends-countries
+Irlandią	Irlandia	LOC	GPE-Ireland
+Jakub Krupa 	Jakub Krupa	PER	PER-Jakub-Krupa
+Jeremy Corbyn	Jeremy Corbyn	PER	PER-Jeremy-Corbyn
+Londynu	Londyn	LOC	GPE-London
+PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+Partia Konserwatywna	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+Partia Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+Partii Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+Theresa May	Theresa May	PER	PER-Theresa-May
+UE	UE	ORG	ORG-European-Union
+Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+W. Brytanii	W. Brytania	LOC	GPE-Great-Britain
+W.Brytania	W.Brytania	LOC	GPE-Great-Britain
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnoty	Wspólnota	ORG	ORG-European-Union
+Wspólnotą	Wspólnota	ORG	ORG-European-Union
+Wspólnotę	Wspólnota	ORG	ORG-European-Union
+laburzystów	laburzyści	PER	ORG-Labour-Party-UK

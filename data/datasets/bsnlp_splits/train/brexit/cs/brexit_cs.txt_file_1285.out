@@ -1,0 +1,18 @@
+cs-1285
+Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+Británie	Británie	LOC	GPE-Great-Britain
+Británii	Británie	LOC	GPE-Great-Britain
+Británií	Británie	LOC	GPE-Great-Britain
+EU	EU	ORG	ORG-European-Union
+Evropskou unií	Evropská unie	ORG	ORG-European-Union
+Evropské unie	Evropská unie	ORG	ORG-European-Union
+Irskem	Irsko	LOC	GPE-Ireland
+Irsku	Irsko	LOC	GPE-Ireland
+Johnson	Johnson	PER	PER-Boris-Johnson
+Konzervativní strany	Konzervativní strana	ORG	ORG-Conservative-and-Unionist-Party-UK
+Londýn	Londýn	LOC	GPE-London
+Mayová	Mayová	PER	PER-Theresa-May
+Severním Irsku	Severní Irsko	LOC	GPE-Northern-Ireland
+Sněmovna lordů	Sněmovna lordů	ORG	ORG-House-of-Lords
+brexit	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit

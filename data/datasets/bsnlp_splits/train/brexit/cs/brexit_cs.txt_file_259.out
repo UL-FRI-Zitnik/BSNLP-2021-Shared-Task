@@ -1,0 +1,17 @@
+cs-259
+Brexit	Brexit	EVT	EVT-Brexit
+Brightonu	Brighton	LOC	GPE-Brighton
+Bristolu	Bristol	LOC	GPE-Bristol
+Británie	Británie	LOC	GPE-Great-Britain
+Británii	Británie	LOC	GPE-Great-Britain
+Cambridge	Cambridge	LOC	GPE-Cambridge
+EU	EU	ORG	ORG-European-Union
+Facebook	Facebook	PRO	PRO-Facebook
+Farage	Farage	PER	PER-Nigel-Farage
+Kirkup	Kirkup	PER	PER-James-Kirkup
+Londýna	Londýn	LOC	GPE-London
+Oxfordu	Oxford	LOC	GPE-Oxford
+Twitter	Twitter	PRO	PRO-Twitter
+Unií	Unie	ORG	ORG-European-Union
+brexit	brexit	EVT	EVT-Brexit
+brexitu	brexit	EVT	EVT-Brexit

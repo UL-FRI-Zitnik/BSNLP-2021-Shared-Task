@@ -39,7 +39,7 @@ def convert_sentences(raw_sentences, lang):
             if len(token.words) > 1:
                 print(f"MORE WORDS: {token.words}")
             tokens.append({
-                "id": token.index if lang == 'sl' else token.id[0],
+                "id": token.index if lang in ['sl', 'bg'] else token.id[0],
                 "text": ''.join([w.text for w in token.words]),
                 "calcLemma": ' '.join([w.lemma for w in token.words if w.lemma is not None]),
                 "upos": ' '.join([w.xpos for w in token.words if w.xpos is not None]),

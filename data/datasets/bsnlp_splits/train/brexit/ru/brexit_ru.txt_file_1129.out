@@ -1,0 +1,14 @@
+ru-1129
+Boris Johnson	Boris Johnson	PER	PER-Boris-Johnson
+Brexit	Brexit	EVT	EVT-Brexit
+Sam Coates	Sam Coates	PER	PER-Sam-Coates
+The Times	The Times	PRO	PRO-The-Times
+Theresa May	Theresa May	PER	PER-Theresa-May
+Times	Times	PRO	PRO-The-Times
+Борису Джонсону	Борис Джонсон	PER	PER-Boris-Johnson
+Великобритании	Великобритания	LOC	GPE-Great-Britain
+Джонсона	Джонсон	PER	PER-Boris-Johnson
+Министерства иностранных дел	Министерство иностранных дел	ORG	ORG-Foreign-Office
+Сэм Коутс	Сэм Коутс	PER	PER-Sam-Coates
+Тереза Мэй	Тереза Мэй	PER	PER-Theresa-May
+Чекерс	Чекерс	LOC	LOC-Chequers-Court

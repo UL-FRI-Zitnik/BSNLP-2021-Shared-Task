@@ -1,0 +1,16 @@
+cs-958
+Brexit	Brexit	EVT	EVT-Brexit
+Britové	Britové	PER	GPE-Great-Britain
+Británie	Británie	LOC	GPE-Great-Britain
+EU	EU	ORG	ORG-European-Union
+Evropské komise	Evropská komise	ORG	ORG-European-Commission
+Galilea	Galileo	PRO	PRO-Galileo-satellite-navigation
+Galileo	Galileo	PRO	PRO-Galileo-satellite-navigation
+Galileu	Galileo	PRO	PRO-Galileo-satellite-navigation
+Londýn	Londýn	LOC	GPE-London
+Londýna	Londýn	LOC	GPE-London
+Martin Selmayr	Martin Selmayr	PER	PER-Martin-Selmayr
+Praze	Praha	LOC	GPE-Prague
+Spojené království	Spojené království	LOC	GPE-Great-Britain
+brexitu	brexit	EVT	EVT-Brexit
+ČTK	ČTK	ORG	ORG-CTK

@@ -1,0 +1,31 @@
+bg-1020
+Австрия	Австрия	LOC	GPE-Austria
+Балтийско море	Балтийско море	LOC	LOC-Baltic-Sea
+България	България	LOC	GPE-Bulgaria
+Вагнер	Вагнер	ORG	ORG-Wagner-Group
+Владимир Путин	Владимир Путин	PER	PER-Vladimir-Putin
+Германия	Германия	LOC	GPE-Germany
+ЕС	ЕС	ORG	ORG-European-Union
+Европа	Европа	LOC	LOC-Europe
+Европейската комисия	Европейска комисия	ORG	ORG-European-Commission
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+Евросъюза	Евросъюз	ORG	ORG-European-Union
+Куртика	Куртика	PER	PER-Michal-Kurtyka
+Латвия	Латвия	LOC	GPE-Latvia
+Литва	Литва	LOC	GPE-Lithuania
+Михал Куртика	Михал Куртика	PER	PER-Michal-Kurtyka
+Москва	Москва	LOC	GPE-Moscow
+Новая	Новая газета	PRO	PRO-Novaya-gazeta
+Полско радио	Полско радио	PRO	PRO-Polish-Radio
+Полша	Полша	LOC	GPE-Poland
+РИА-Новости	РИА Новости	ORG	ORG-RIA-Novosti
+Реджеп Тайип Ердоган	Реджеп Тайип Ердоган	PER	PER-Recep-Tayyip-Erdoğan
+Русия	Русия	LOC	GPE-Russia
+САЩ	САЩ	LOC	GPE-USA
+Северен поток 2	Северен поток 2	PRO	PRO-Nord-Stream-2
+Северен поток	Северен поток	PRO	PRO-Nord-Stream-1
+Украйна	Украйна	LOC	GPE-Ukraine
+Централна Африка	Централна Африка	LOC	LOC-Central-Africa
+австрийците	австрийци	PER	GPE-Austria
+турците	турци	PER	GPE-Turkey
+“Северен поток“2	Северен поток 2	PRO	PRO-Nord-Stream-2

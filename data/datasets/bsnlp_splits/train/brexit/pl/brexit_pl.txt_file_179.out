@@ -1,0 +1,54 @@
+pl-179
+Atlantyku	Atlantyk	LOC	LOC-Atlantic-Ocean
+Blair	Blair	PER	PER-Tony-Blair
+Blaira	Blair	PER	PER-Tony-Blair
+Brexit	Brexit	EVT	EVT-Brexit
+Brytyjczycy	Brytyjczycy	PER	GPE-Great-Britain
+Brytyjczykom	Brytyjczycy	PER	GPE-Great-Britain
+Brytyjczyków	Brytyjczycy	PER	GPE-Great-Britain
+Chin	Chiny	LOC	GPE-China
+Davida Camerona	David Cameron	PER	PER-David-Cameron
+Emmanuela Macrona	Emmanuel Macron	PER	PER-Emmanuel-Macron
+Europa	Europa	LOC	LOC-Europe
+Europie	Europa	LOC	LOC-Europe
+Europy	Europa	LOC	LOC-Europe
+Gordonowi Brownowi	Gordon Brown	PER	PER-Gordon-Brown
+Indii	Indie	LOC	GPE-India
+Iraku	Irak	LOC	GPE-Iraq
+Irlandii Północnej	Irlandia Północna	LOC	LOC-Irlends-countries
+Irlandią	Irlandia	LOC	GPE-Ireland
+Izbie Gmin	Izba Gmin	ORG	ORG-House-of-Commons
+Jeremy'ego Corbyna	Jeremy Corbyn	PER	PER-Jeremy-Corbyn
+May	May	PER	PER-Theresa-May
+Niemcami	Niemcy	LOC	GPE-Germany
+Nigel Farage	Nigel Farage	PER	PER-Nigel-Farage
+Partia Konserwatywna	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+Partia Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+Partii Niepodległości Zjednoczonego Królestwa	Partia Niepodległości Zjednoczonego Królestwa	ORG	ORG-UK-Independence-Party
+Partię Konserwatywną	Partia Konserwatywna	ORG	ORG-Conservative-and-Unionist-Party-UK
+Partię Pracy	Partia Pracy	ORG	ORG-Labour-Party-UK
+Polaków	Polacy	PER	GPE-Poland
+Polsce	Polska	LOC	GPE-Poland
+Polską	Polska	LOC	GPE-Poland
+Polskę	Polska	LOC	GPE-Poland
+Theresie May	Theresa May	PER	PER-Theresa-May
+Theresy May	Theresa May	PER	PER-Theresa-May
+Tony Blair	Tony Blair	PER	PER-Tony-Blair
+Torysi	torysi	PER	ORG-Tories
+UE	UE	ORG	ORG-European-Union
+Unia Europejska	Unia Europejska	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Unią Europejską	Unia Europejska	ORG	ORG-European-Union
+Warszawie	Warszawa	LOC	GPE-Warsaw
+Wielka Brytania	Wielka Brytania	LOC	GPE-Great-Britain
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Wspólnoty	Wspólnota	ORG	ORG-European-Union
+brexit	Brexit	EVT	EVT-Brexit
+brexitu	Brexit	EVT	EVT-Brexit
+brytyjski parlament	Brytyjski Parlament	ORG	ORG-British-Parlament
+brytyjskiego parlamentu	Brytyjski Parlament	ORG	ORG-British-Parlament
+drugiej wojny światowej	Druga wojna światowa	EVT	EVT-World-War-II
+laburzysty	laburzysta	PER	ORG-Labour-Party-UK
+laburzystów	laburzyści	PER	ORG-Labour-Party-UK
+laburzyści	laburzyści	PER	ORG-Labour-Party-UK
+torys	torys	PER	ORG-Tories

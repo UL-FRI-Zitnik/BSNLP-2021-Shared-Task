@@ -1,0 +1,25 @@
+cs-1095
+Brexit	Brexit	EVT	EVT-Brexit
+Brexit	brexit	EVT	EVT-Brexit
+Británie	Británie	LOC	GPE-Great-Britain
+Bruselem	Brusel	LOC	GPE-Brussles
+DUBLIN	DUBLIN	LOC	GPE-Dublin
+Dublin	Dublin	LOC	GPE-Dublin
+EU	EU	ORG	ORG-European-Union
+Irskem	Irsko	LOC	GPE-Ireland
+Irsko	Irsko	LOC	GPE-Ireland
+Irskou republikou	Irská republika	LOC	GPE-Ireland
+Irsku	Irsko	LOC	GPE-Ireland
+Joseph Brady	Joseph Brady	PER	PER-Joseph-Brady
+Kanadou	Kanada	LOC	GPE-Canada
+LN	LN	PRO	PRO-Lidove-Noviny
+Londýna	Londýn	LOC	GPE-London
+Norskem	Norsko	LOC	GPE-Norway
+PRAHA	PRAHA	LOC	GPE-Prague
+Reuters	Reuters	ORG	ORG-Reuters
+Severního Irska	Severní Irsko	LOC	GPE-Northern-Ireland
+Severním Irskem	Severní Irsko	LOC	GPE-Northern-Ireland
+Severním Irsku	Severní Irsko	LOC	GPE-Northern-Ireland
+USA	USA	LOC	GPE-USA
+brexitu	brexit	EVT	EVT-Brexit
+Švédskem	Švédsko	LOC	GPE-Sweden

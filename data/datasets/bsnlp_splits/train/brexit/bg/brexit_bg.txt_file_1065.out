@@ -1,0 +1,32 @@
+bg-1065
+Англия	Англия	LOC	GPE-England
+Асошиейтед прес	Асошиейтед прес	ORG	ORG-AP-The-Associated-Press
+БТА	БТА	ORG	ORG-Bulgarian-News-Agency
+Брекзит	Брекзит	EVT	EVT-Brexit
+Брекзита	Брекзит	EVT	EVT-Brexit
+Брекзитът	Брекзит	EVT	EVT-Brexit
+Брюксел	Брюксел	LOC	GPE-Brussles
+Великобритания	Великобритания	LOC	GPE-Great-Britain
+Верхофстат	Верхофстат	PER	PER-Guy-Verhofstadt
+Ги Верхофстат	Ги Верхофстат	PER	PER-Guy-Verhofstadt
+Дания	Дания	LOC	GPE-Denmark
+Декзит	Декзит	EVT	EVT-Dexit
+Демократична юнионистка партия	Демократична юнионистка партия	ORG	ORG-DUP-Democratic-Unionist-Party
+Джон Лонгуърт	Джон Лонгуърт	PER	PER-John-Longworth
+ЕС	ЕС	ORG	ORG-European-Union
+Европейския парламент	Европейски парламент	ORG	ORG-European-Parliament
+Европейския съюз	Европейски съюз	ORG	ORG-European-Union
+Ирландия	Ирландия	LOC	GPE-Ireland
+Крис Лесли	Крис Лесли	PER	PER-Chris-Leslie
+Ламанша	Ламанша	LOC	LOC-English-Channel
+Мей	Мей	PER	PER-Theresa-May
+Напускането означава напускане	Напускането означава напускане	ORG	ORG-Leave-Means-Leave
+Роб Форд	Роб Форд	PER	PER-Rob-Ford
+Северна Ирландия	Северна Ирландия	LOC	GPE-Northern-Ireland
+Тереза Мей	Тереза Мей	PER	PER-Theresa-May
+Уелс	Уелс	LOC	GPE-Wales
+Франция	Франция	LOC	GPE-France
+Фрекзит	Фрекзит	EVT	EVT-Frexit
+Хекзит	Хекзит	EVT	EVT-Hexit
+Холандия	Холандия	LOC	GPE-Holland
+Шотландия	Шотландия	LOC	GPE-Scotland

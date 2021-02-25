@@ -1,0 +1,32 @@
+pl-264
+Amber Rudd	Amber Rudd	PER	PER-Amber-Rudd
+Androidem	Android	PRO	PRO-Android
+Apple	Apple	ORG	ORG-Apple
+Brexicie	Brexit	EVT	EVT-Brexit
+Brexit	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+Bruksela	Bruksela	LOC	GPE-Brussles
+EU	EU	ORG	ORG-European-Union
+Empire Windrush	Empire Windrush	PRO	PRO-Windrush
+Europoseł	Europoseł	PER	ORG-European-Parlament
+Grupy Sterującej PE ds. Brexitu	Grupa Sterująca PE ds. Brexitu	ORG	ORG-Brexit-Steering-Group
+Guy Verhofstadt	Guy Verhofstadt	PER	PER-Guy-Verhofstadt
+II wojnie światowej	II wojna światowa	EVT	EVT-World-War-II
+IOS	IOS	PRO	PRO-IOS
+Javid	Javid	PER	PER-Sajid-Javid
+MSW	MSW	ORG	ORG-Home-Office-UK
+Ogólnego rozporządzenia o ochronie danych	Ogólne rozporządzenie o ochronie danych	PRO	PRO-GDPR-The-General-Data-Protection-Regulation
+PAP	PAP	ORG	ORG-PAP-Polish-Press-Agency
+PE	PE	ORG	ORG-European-Parliament
+RODO	RODO	PRO	PRO-GDPR-The-General-Data-Protection-Regulation
+Sajida Javida	Sajid Javid	PER	PER-Sajid-Javid
+The Guardian	The Guardian	PRO	PRO-The-Guardian
+UE	UE	ORG	ORG-European-Union
+Unii Europejskiej	Unia Europejska	ORG	ORG-European-Union
+Unii	Unia	ORG	ORG-European-Union
+Verhofstadt	Verhofstadt	PER	PER-Guy-Verhofstadt
+Verhofstadta	Verhofstadt	PER	PER-Guy-Verhofstadt
+Vershofstadt	Vershofstadt	PER	PER-Guy-Verhofstadt
+Wielkiej Brytanii	Wielka Brytania	LOC	GPE-Great-Britain
+Windrush	Windrush	PRO	PRO-Windrush
+Wspólnoty Narodów	Wspólnota Narodów	ORG	ORG-The-Commonwealth

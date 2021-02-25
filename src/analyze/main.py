@@ -82,7 +82,7 @@ def list_datasets(datasets: list) -> dict:
                 digits_a = ''.join([d for d in r if d.isdigit()])
                 if digits_a != digits_r:
                     raise Exception(f'NO MATCH:\n{base_raw}/{r}\n{base_ann}/{a}')
-            dataset_files[dataset][languages_ann[lang_id]] = [{'raw': f'{base_raw}/{r}', 'annotated': f'{base_ann}/{a}', 'raw_fname': r, 'raw_aname': a} for r, a in zip(sorted(os.listdir(base_raw)),  sorted(os.listdir(base_ann)))]
+            dataset_files[dataset][languages_ann[lang_id]] = [{'raw': f'{base_raw}/{r}', 'annotated': f'{base_ann}/{a}', 'raw_fname': r, 'ann_fname': a} for r, a in zip(sorted(os.listdir(base_raw)),  sorted(os.listdir(base_ann)))]
     return dataset_files
 
 

@@ -1,0 +1,24 @@
+pl-1919
+Brexit	Brexit	EVT	EVT-Brexit
+Brexitu	Brexit	EVT	EVT-Brexit
+Conora McGregora	Conor McGregor	PER	PER-Conor-McGregor
+Donald Tusk	Donald Tusk	PER	PER-Donald-Tusk
+Donalda Tuska	Donald Tusk	PER	PER-Donald-Tusk
+Dublinie	Dublin	LOC	GPE-Dublin
+Europy	Europa	LOC	LOC-Europe
+Irlandczyków	Irlandczycy	PER	GPE-Ireland
+Irlandii	Irlandia	LOC	GPE-Ireland
+Londynie	Londyn	LOC	GPE-London
+MMA	MMA	ORG	ORG-MMA
+Nowym Jorku	Nowy Jork	LOC	GPE-New-York
+Platformy Obywatelskiej	Platforma Obywatelska	ORG	ORG-PO-Civic-Platform
+Porozumień wielkopiątkowych	Porozumienia wielkopiątkowe	PRO	PRO-GFA-Good-Friday-Agreement
+Rady Europejskiej	Rada Europejska	ORG	ORG-European-Council
+Smoleńsku	Smoleńsk	LOC	GPE-Smolensk
+Starego Kontynentu	Stary Kontynent	LOC	LOC-Old-World
+Starym Kontynencie	Stary Kontynent	LOC	LOC-Old-World
+Tusk	Tusk	PER	PER-Donald-Tusk
+U2	U2	ORG	ORG-U2
+Ulsterze	Ulster	LOC	GPE-Ulster
+University College Dublin	University College Dublin	ORG	ORG-University-College-Dublin
+Zieloną Wyspę	Zielona Wyspa	LOC	GPE-Ireland
