@@ -33,15 +33,15 @@ logger = logging.getLogger('TrainEvalModels')
 
 class BertModel(Model):
     def __init__(
-        self,
-        tag2code,
-        code2tag,
-        output_model_path: str,  # this is the output dir
-        output_model_fname: str,   # this is the output file name
-        tune_entire_model: bool,
-        epochs: int = 3,
-        max_grad_norm: float = 1.0,
-        input_model_path: str = 'data/models/cro-slo-eng-bert',  # this is a directory
+            self,
+            tag2code,
+            code2tag,
+            output_model_path: str,  # this is the output dir
+            output_model_fname: str,  # this is the output file name
+            tune_entire_model: bool,
+            epochs: int = 3,
+            max_grad_norm: float = 1.0,
+            input_model_path: str = 'data/models/cro-slo-eng-bert',  # this is a directory
 
     ):
         super().__init__()
@@ -106,7 +106,8 @@ class BertModel(Model):
             truncating="post",
             padding="post"
         )).to(self.device)
-        masks = torch.as_tensor(np.array([[float(token != 0.0) for token in sentence] for sentence in tokens])).to(self.device)
+        masks = torch.as_tensor(np.array([[float(token != 0.0) for token in sentence] for sentence in tokens])).to(
+            self.device)
         data = TensorDataset(tokens, masks, tags)
         sampler = RandomSampler(data)
         return DataLoader(data, sampler=sampler, batch_size=self.BATCH_SIZE)
@@ -115,12 +116,12 @@ class BertModel(Model):
         pass
 
     def train(
-        self,
-        data_loaders: dict
+            self,
+            data_loaders: dict
     ):
         logger.info(f"Loading the pre-trained model `{self.input_model_path}`...")
         model = AutoModelForTokenClassification.from_pretrained(
-        # model = BertCRFForTokenClassification.from_pretrained(
+            # model = BertCRFForTokenClassification.from_pretrained(
             self.input_model_path,
             num_labels=len(self.tag2code),
             label2id=self.tag2code,
@@ -135,7 +136,8 @@ class BertModel(Model):
 
         for dataset, dataloader in data_loaders.items():
             logger.info(f'Training on `{dataset}`')
-            model, optimizer, loss = self.__train(model, train_data=dataloader.train(), validation_data=dataloader.dev())
+            model, optimizer, loss = self.__train(model, train_data=dataloader.train(),
+                                                  validation_data=dataloader.dev())
 
         out_fname = f"{self.output_model_path}/{self.output_model_fname}"
         logger.info(f"Saving the model at: {out_fname}")
@@ -144,10 +146,10 @@ class BertModel(Model):
         logger.info("Done!")
 
     def __train(
-        self,
-        model,
-        train_data: pd.DataFrame,
-        validation_data: pd.DataFrame
+            self,
+            model,
+            train_data: pd.DataFrame,
+            validation_data: pd.DataFrame
     ):
         logger.info("Loading the training data...")
         train_data = self.convert_input(train_data)
@@ -223,7 +225,7 @@ class BertModel(Model):
                 # update the learning rate (lr)
                 scheduler.step()
 
-            avg_epoch_train_loss = total_loss/len(train_data)
+            avg_epoch_train_loss = total_loss / len(train_data)
             logger.info(f"Avg train loss = {avg_epoch_train_loss:.4f}")
             training_loss.append(avg_epoch_train_loss)
 
@@ -365,9 +367,125 @@ def main():
     logger.info(f"Torch version {torch.__version__}")
     logger.info(f"Transformers version {transformers.__version__}")
 
+    train_bundles = {
+        "slo_misc": {
+            "models": [
+                "cro-slo-eng-bert",
+                "bert-base-multilingual-cased",
+                "bert-base-multilingual-uncased",
+                "sloberta-1.0",
+                "sloberta-2.0",
+            ],
+            "train": {
+                "ssj500k-bsnlp2017-iterative": {
+                    "ssj500k": LoadSSJ500k(),
+                    "bsnlp-2017": LoadBSNLP(lang='sl', year='2017'),
+                },
+                "ssj500k-bsnlp-2017-combined": {
+                    "combined": LoadCombined([LoadSSJ500k(), LoadBSNLP(lang='sl', year='2017')]),
+                },
+                "ssj500k-bsnlp-2021-iterative": {
+                    "ssj500k": LoadSSJ500k(),
+                    "bsnlp2021": LoadBSNLP(lang='sl', year='2021'),
+                },
+                "ssj500k-bsnlp-2021-combined": {
+                    "combined": LoadCombined([LoadSSJ500k(), LoadBSNLP(lang='sl', year='2021')]),
+                },
+                "ssj500k-bsnlp-all-iterative": {
+                    "ssj500k": LoadSSJ500k(),
+                    "bsnlp2017": LoadBSNLP(lang='sl', year='all'),
+                },
+                "ssj500k-bsnlp-all-combined": {
+                    "combined": LoadCombined([LoadSSJ500k(), LoadBSNLP(lang='sl', year='all')]),
+                },
+                "ssj500k": {
+                    "ssj500k": LoadSSJ500k(),
+                },
+                "bsnlp-2017": {
+                    "bsnlp-2017": LoadBSNLP(lang='sl', year='2017'),
+                },
+                "bsnlp-2021": {
+                    "bsnlp-2021": LoadBSNLP(lang='sl', year='2021'),
+                },
+                "bsnlp-all": {
+                    "bsnlp-all": LoadBSNLP(lang='sl', year='all'),
+                },
+            },
+            "test": {
+                "ssj500k": LoadSSJ500k(),
+                "bsnlp-2017": LoadBSNLP(lang='sl', year='2017'),
+                "bsnlp-2021": LoadBSNLP(lang='sl', year='2021'),
+                "bsnlp-all": LoadBSNLP(lang='sl', year='all')
+            },
+        },
+        "slo_misc-only": {
+            "models": [
+                "cro-slo-eng-bert",
+                "bert-base-multilingual-cased",
+                "bert-base-multilingual-uncased",
+                "sloberta-1.0",
+                "sloberta-2.0",
+            ],
+            "train": {
+                "bsnlp-2021": {
+                    "bsnlp-2021": LoadBSNLP(lang='sl', year='2021', merge_misc=False, misc_data_only=True),
+                }
+            },
+            "test": {
+                "bsnlp-2021": LoadBSNLP(lang='sl', year='2021', merge_misc=False, misc_data_only=True),
+            },
+        },
+        "slo_all": {
+            "models": [
+                "cro-slo-eng-bert",
+                "bert-base-multilingual-cased",
+                "bert-base-multilingual-uncased",
+                "sloberta-1.0",
+                "sloberta-2.0",
+            ],
+            "train": {
+                "bsnlp-2021": {
+                    "bsnlp-2021": LoadBSNLP(lang='sl', year='2021', merge_misc=False),
+                }
+            },
+            "test": {
+                "bsnlp-2021": LoadBSNLP(lang='sl', year='2021', merge_misc=False),
+            }
+        },
+        "multilang_all": {
+            "models": [
+                "bert-base-multilingual-cased",
+            ],
+            "train": {
+                'bsnlp-2021-bg': {'bsnlp-2021-bg': LoadBSNLP(lang='bg', year='2021', merge_misc=False)},
+                'bsnlp-2021-cs': {'bsnlp-2021-cs': LoadBSNLP(lang='cs', year='2021', merge_misc=False)},
+                'bsnlp-2021-pl': {'bsnlp-2021-pl': LoadBSNLP(lang='pl', year='2021', merge_misc=False)},
+                'bsnlp-2021-ru': {'bsnlp-2021-ru': LoadBSNLP(lang='ru', year='2021', merge_misc=False)},
+                'bsnlp-2021-sl': {'bsnlp-2021-sl': LoadBSNLP(lang='sl', year='2021', merge_misc=False)},
+                'bsnlp-2021-uk': {'bsnlp-2021-uk': LoadBSNLP(lang='uk', year='2021', merge_misc=False)},
+                'bsnlp-2021-all': {'bsnlp-2021-all': LoadBSNLP(lang='all', year='2021', merge_misc=False)},
+            },
+            "test": {
+                "bsnlp-2021-bg": LoadBSNLP(lang='bg', year='2021', merge_misc=False),
+                "bsnlp-2021-cs": LoadBSNLP(lang='cs', year='2021', merge_misc=False),
+                "bsnlp-2021-pl": LoadBSNLP(lang='pl', year='2021', merge_misc=False),
+                "bsnlp-2021-ru": LoadBSNLP(lang='ru', year='2021', merge_misc=False),
+                "bsnlp-2021-sl": LoadBSNLP(lang='sl', year='2021', merge_misc=False),
+                "bsnlp-2021-uk": LoadBSNLP(lang='uk', year='2021', merge_misc=False),
+                "bsnlp-2021-all": LoadBSNLP(lang='all', year='2021', merge_misc=False),
+            }
+        }
+    }
+
+    chosen_bundle = 'slo_misc-only'
+    bundle = train_bundles[chosen_bundle]
+    models = bundle['models']
+    train_data = bundle['train']
+    test_data = bundle['test']
+
     if not args.run_path:
         run_time = datetime.now().isoformat()[:-7]  # exclude the ms
-        run_path = f'./data/runs/run_{JOB_ID if JOB_ID is not None else run_time}'
+        run_path = f'./data/runs/run_{JOB_ID if JOB_ID is not None else run_time}_{chosen_bundle}'
     else:
         run_path = args.run_path
         run_time = run_path.split('/')[-1][4:]
@@ -376,98 +494,12 @@ def main():
     pathlib.Path(f'{run_path}/models').mkdir(parents=True, exist_ok=True)
     logger.info(f'Running path: `{run_path}`, run time: `{run_time}`')
 
-    model_names = [
-        # "cro-slo-eng-bert",
-        "bert-base-multilingual-cased",
-        # "bert-base-multilingual-uncased",
-        # "sloberta-1.0",
-        # "sloberta-2.0",
-    ]
+    tag2code, code2tag = list(test_data.values())[0].encoding()
 
-    slo_ssj_train_datasets = {
-        "ssj500k-bsnlp2017-iterative": {
-            "ssj500k": LoadSSJ500k(),
-            "bsnlp-2017": LoadBSNLP(lang='sl', year='2017'),
-        },
-        "ssj500k-bsnlp-2017-combined": {
-            "combined": LoadCombined([LoadSSJ500k(), LoadBSNLP(lang='sl', year='2017')]),
-        },
-        "ssj500k-bsnlp-2021-iterative": {
-            "ssj500k": LoadSSJ500k(),
-            "bsnlp2021": LoadBSNLP(lang='sl', year='2021'),
-        },
-        "ssj500k-bsnlp-2021-combined": {
-            "combined": LoadCombined([LoadSSJ500k(), LoadBSNLP(lang='sl', year='2021')]),
-        },
-        "ssj500k-bsnlp-all-iterative": {
-            "ssj500k": LoadSSJ500k(),
-            "bsnlp2017": LoadBSNLP(lang='sl', year='all'),
-        },
-        "ssj500k-bsnlp-all-combined": {
-            "combined": LoadCombined([LoadSSJ500k(), LoadBSNLP(lang='sl', year='all')]),
-        },
-        "ssj500k": {
-            "ssj500k": LoadSSJ500k(),
-        },
-        "bsnlp-2017": {
-            "bsnlp-2017": LoadBSNLP(lang='sl', year='2017'),
-        },
-        "bsnlp-2021": {
-            "bsnlp-2021": LoadBSNLP(lang='sl', year='2021'),
-        },
-        "bsnlp-all": {
-            "bsnlp-all": LoadBSNLP(lang='sl', year='all'),
-        },
-    }
-    slo_ssj_test_datasets = {
-        "ssj500k": LoadSSJ500k(),
-        "bsnlp-2017": LoadBSNLP(lang='sl', year='2017'),
-        "bsnlp-2021": LoadBSNLP(lang='sl', year='2021'),
-        "bsnlp-all": LoadBSNLP(lang='sl', year='all')
-    }
-
-    slo_ssj_train_misc_datasets = {
-        "bsnlp-2021": {
-            "bsnlp-2021": LoadBSNLP(lang='sl', year='2021', merge_misc=False, misc_data_only=True),
-        }
-    }
-    slo_ssj_test_misc_datasets = {
-        "bsnlp-2021": LoadBSNLP(lang='sl', year='2021', merge_misc=False, misc_data_only=True),
-    }
-
-    # TODO: Fix this
-    tag2code, code2tag = LoadBSNLP("sl", year='2021', merge_misc=False).encoding()
-    slo_train_datasets = {
-        "bsnlp-2021": {
-            "bsnlp-2021": LoadBSNLP(lang='sl', year='2021', merge_misc=False),
-        }
-    }
-    slo_test_datasets = {
-        "bsnlp-2021": LoadBSNLP(lang='sl', year='2021', merge_misc=False),
-    }
-
-    multi_lang_train_datasets = {
-        'bsnlp-2021-bg': {'bsnlp-2021-bg': LoadBSNLP(lang='bg', year='2021', merge_misc=False)},
-        'bsnlp-2021-cs': {'bsnlp-2021-cs': LoadBSNLP(lang='cs', year='2021', merge_misc=False)},
-        'bsnlp-2021-pl': {'bsnlp-2021-pl': LoadBSNLP(lang='pl', year='2021', merge_misc=False)},
-        'bsnlp-2021-ru': {'bsnlp-2021-ru': LoadBSNLP(lang='ru', year='2021', merge_misc=False)},
-        'bsnlp-2021-sl': {'bsnlp-2021-sl': LoadBSNLP(lang='sl', year='2021', merge_misc=False)},
-        'bsnlp-2021-uk': {'bsnlp-2021-uk': LoadBSNLP(lang='uk', year='2021', merge_misc=False)},
-        'bsnlp-2021-all': {'bsnlp-2021-all': LoadBSNLP(lang='all', year='2021', merge_misc=False)},
-    }
-    multi_lang_test_datasets = {
-        "bsnlp-2021-bg": LoadBSNLP(lang='bg', year='2021', merge_misc=False),
-        "bsnlp-2021-cs": LoadBSNLP(lang='cs', year='2021', merge_misc=False),
-        "bsnlp-2021-pl": LoadBSNLP(lang='pl', year='2021', merge_misc=False),
-        "bsnlp-2021-ru": LoadBSNLP(lang='ru', year='2021', merge_misc=False),
-        "bsnlp-2021-sl": LoadBSNLP(lang='sl', year='2021', merge_misc=False),
-        "bsnlp-2021-uk": LoadBSNLP(lang='uk', year='2021', merge_misc=False),
-        "bsnlp-2021-all": LoadBSNLP(lang='all', year='2021', merge_misc=False),
-    }
     test_f1_scores = []
-    for model_name, fine_tuning in product(model_names, [True, False]):
+    for model_name, fine_tuning in product(models, [True, False]):
         logger.info(f"Working on model: `{model_name}`...")
-        for train_bundle, loaders in multi_lang_train_datasets.items():
+        for train_bundle, loaders in train_data.items():
             bert = BertModel(
                 tag2code=tag2code,
                 code2tag=code2tag,
@@ -485,7 +517,7 @@ def main():
                 bert.train(loaders)
 
             if args.test:
-                for test_dataset, dataloader in multi_lang_test_datasets.items():
+                for test_dataset, dataloader in test_data.items():
                     logger.info(f"Testing on `{test_dataset}`")
                     p, r, f1 = bert.test(test_data=dataloader.test())
                     test_f1_scores.append({
