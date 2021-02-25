@@ -1,4 +1,5 @@
 import sys
+import os
 import argparse
 import json
 import pathlib
@@ -25,7 +26,8 @@ logger = logging.getLogger('DedupeMatching')
 
 BASE_FNAME: str = "./data/deduper"
 run_time = datetime.now().isoformat()[:-7]  # exclude the ms
-RUN_BASE_FNAME = f"{BASE_FNAME}/runs/run_{run_time}"
+JOB_ID = os.environ['SLURM_JOB_ID'] if 'SLURM_JOB_ID' in os.environ else run_time
+RUN_BASE_FNAME = f"{BASE_FNAME}/runs/run_{JOB_ID}"
 
 RELEVANT_LANGS: list = ['bg', 'cs', 'pl', 'ru', 'sl', 'uk']
 
@@ -199,7 +201,7 @@ def cluster_data(
     lang: str,
     items: dict
 ) -> None:
-    logger.info(f"Clustering `{dataset}`")
+    logger.info(f"Clustering `{dataset}/{lang}`")
 
     learned_settings_fname = f'{RUN_BASE_FNAME}/learned_settings-{dataset}-{lang}.bin'
     settings_file = pathlib.Path(learned_settings_fname)
@@ -217,9 +219,7 @@ def cluster_data(
     clusters_report_fname = f'{RUN_BASE_FNAME}/clusters_report-{dataset}-{lang}.txt'
     with open(clusters_report_fname, 'w') as f:
         for clid, (rec, score) in enumerate(clustered):
-            row = f"{clid}: {','.join(rec)}"
-            logger.info(row)
-            print(row, file=f)
+            print(f"{clid}: {','.join(rec)}", file=f)
 
     clustered_data_fname = f'{RUN_BASE_FNAME}/clusters-{dataset}-{lang}.json'
     clusters = get_clustered_ids(clustered)
@@ -239,7 +239,7 @@ def parse_args():
 def main():
     args = parse_args()
     
-    global RUN_BASE_FNAME, SEARCH_CLOSEST, CLUSTER_THRESHOLD
+    global RUN_BASE_FNAME, SEARCH_CLOSEST, CLUSTER_THRESHOLD, JOB_ID
     RUN_BASE_FNAME = args.run_path if args.run_path is not None else RUN_BASE_FNAME
     pathlib.Path(RUN_BASE_FNAME).mkdir(parents=True, exist_ok=True)
     
@@ -248,6 +248,7 @@ def main():
     SEARCH_CLOSEST = args.closest
 
     logger.info("Running Dedupe Entity Matching")
+    logger.info(f"SLURM_JOB_ID = {JOB_ID}")
     logger.info(f"Run path = {RUN_BASE_FNAME}")
     logger.info(f"Number of cores = {DEDUPE_CORES_USED}")
     logger.info(f"Dedupe threshold = {CLUSTER_THRESHOLD}")

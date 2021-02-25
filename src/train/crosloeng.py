@@ -353,6 +353,10 @@ def parse_args():
 
 def main():
     args = parse_args()
+    global JOB_ID
+    JOB_ID = os.environ['SLURM_JOB_ID'] if 'SLURM_JOB_ID' in os.environ else None
+    logger.info(f"Training new NER models")
+    logger.info(f"SLURM_JOB_ID = {JOB_ID}")
     logger.info(f"Training: {args.train}")
     logger.info(f"Train iterations: {args.train_iterations}")
     logger.info(f"Epochs: {args.epochs}")
@@ -363,7 +367,7 @@ def main():
 
     if not args.run_path:
         run_time = datetime.now().isoformat()[:-7]  # exclude the ms
-        run_path = f'./data/runs/run_{run_time}'
+        run_path = f'./data/runs/run_{JOB_ID if JOB_ID is not None else run_time}'
     else:
         run_path = args.run_path
         run_time = run_path.split('/')[-1][4:]
@@ -373,11 +377,11 @@ def main():
     logger.info(f'Running path: `{run_path}`, run time: `{run_time}`')
 
     model_names = [
-        "cro-slo-eng-bert",
+        # "cro-slo-eng-bert",
         "bert-base-multilingual-cased",
-        "bert-base-multilingual-uncased",
-        "sloberta-1.0",
-        "sloberta-2.0",
+        # "bert-base-multilingual-uncased",
+        # "sloberta-1.0",
+        # "sloberta-2.0",
     ]
 
     slo_ssj_train_datasets = {
@@ -463,7 +467,7 @@ def main():
     test_f1_scores = []
     for model_name, fine_tuning in product(model_names, [True, False]):
         logger.info(f"Working on model: `{model_name}`...")
-        for train_bundle, loaders in slo_train_datasets.items():
+        for train_bundle, loaders in multi_lang_train_datasets.items():
             bert = BertModel(
                 tag2code=tag2code,
                 code2tag=code2tag,
@@ -481,7 +485,7 @@ def main():
                 bert.train(loaders)
 
             if args.test:
-                for test_dataset, dataloader in slo_test_datasets.items():
+                for test_dataset, dataloader in multi_lang_test_datasets.items():
                     logger.info(f"Testing on `{test_dataset}`")
                     p, r, f1 = bert.test(test_data=dataloader.test())
                     test_f1_scores.append({

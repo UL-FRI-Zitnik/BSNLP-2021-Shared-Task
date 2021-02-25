@@ -1,9 +1,9 @@
 # BSNLP Shared task 2021
 *Laboratory for Data Technologies, University of Ljubljana*
 
-Shared task official Web site: [link](http://bsnlp.cs.helsinki.fi/shared-task.html)
+Shared task official [website](http://bsnlp.cs.helsinki.fi/shared-task.html)
 
-Guidelines (to be updated): [link](http://bsnlp.cs.helsinki.fi/System_response_guidelines-1.2.pdf)
+The guidelines are [here](http://bsnlp.cs.helsinki.fi/System_response_guidelines-1.2.pdf).
 
 ## Setup
 

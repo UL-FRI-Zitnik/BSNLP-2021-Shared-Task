@@ -3,10 +3,12 @@ classla==0.0.11
 stanza==1.2
 fuzzywuzzy==0.18.0
 scikit-learn==0.24.1
-snap-stanford==6.0.0
-networkx==2.5
 matplotlib==3.3.4
 dedupe==2.0.6
 pyconll==3.0.3
 tensorflow==2.3.1
 tensorflow-estimator==2.3.0
+transformers==3.5.1
+keras==2.4.3
+keras-preprocessing==1.1.2
+seqeval==1.2.2
