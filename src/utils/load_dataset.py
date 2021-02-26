@@ -2,9 +2,8 @@ import pandas as pd
 import pyconll
 import numpy as np
 
-from sklearn.model_selection import train_test_split
 from src.utils.utils import list_dir
-from typing import Iterable
+from typing import Union
 
 # pd.set_option('display.max_rows', None)  # only for debugging purposes
 
@@ -29,6 +28,13 @@ class LoadDataset:
 
     def test(self) -> pd.DataFrame:
         return pd.DataFrame()
+
+    def load_all(self) -> pd.DataFrame:
+        return pd.concat([
+            self.train(),
+            self.dev(),
+            self.test()
+        ])
 
     def encoding(self) -> (dict, dict):
         data = self.train()
@@ -82,6 +88,7 @@ class LoadBSNLP(LoadDataset):
         lang: str = 'all',
         year: str = 'all',
         data_set: str = 'all',
+        exclude: Union[str, None] = None,
         merge_misc: bool = True,
         misc_data_only: bool = False,
         print_debug: bool = False
@@ -102,6 +109,13 @@ class LoadBSNLP(LoadDataset):
             self.data_set = self.datasets[year]
         else:
             raise Exception(f"Invalid dataset chosen: {data_set}")
+
+        if exclude is not None:
+            if print_debug: print(f"Excluding {exclude}")
+            self.data_set = [ds for ds in self.data_set if ds != exclude]
+
+        if not self.data_set:
+            raise Exception(f"Empty data set chosen? {self.data_set}")
 
         # assert language
         if lang in self.available_langs:

@@ -33,21 +33,23 @@ logger = logging.getLogger('TrainEvalModels')
 
 class BertModel(Model):
     def __init__(
-            self,
-            tag2code,
-            code2tag,
-            output_model_path: str,  # this is the output dir
-            output_model_fname: str,  # this is the output file name
-            tune_entire_model: bool,
-            epochs: int = 3,
-            max_grad_norm: float = 1.0,
-            input_model_path: str = 'data/models/cro-slo-eng-bert',  # this is a directory
-
+        self,
+        tag2code,
+        code2tag,
+        output_model_path: str,  # this is the output dir
+        output_model_fname: str,  # this is the output file name
+        tune_entire_model: bool,
+        epochs: int = 3,
+        max_grad_norm: float = 1.0,
+        input_model_path: str = 'data/models/cro-slo-eng-bert',  # this is a directory
+        use_test: bool = False
     ):
         super().__init__()
         self.input_model_path = input_model_path
         self.output_model_path = output_model_path
         self.output_model_fname = output_model_fname
+        self.use_test = use_test
+
         logger.info(f"Output model at: {output_model_path}")
 
         logger.info(f"Tuning entire model: {tune_entire_model}")
@@ -134,7 +136,9 @@ class BertModel(Model):
 
         for dataset, dataloader in data_loaders.items():
             logger.info(f'Training on `{dataset}`')
-            model, optimizer, loss = self.__train(model, train_data=dataloader.train(),
+            # hack to use entire dataset, leaving the validation data intact
+            td = pd.concat([dataloader.train(), dataloader.test()]) if self.use_test else dataloader.train()
+            model, optimizer, loss = self.__train(model, train_data=td,
                                                   validation_data=dataloader.dev())
 
         out_fname = f"{self.output_model_path}/{self.output_model_fname}"
