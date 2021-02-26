@@ -23,13 +23,12 @@ logging.basicConfig(
 logger = logging.getLogger('TrainEvalModels')
 
 DEBUG = False
-warnings = []
 
 
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--lang', type=str, default='all')
-    parser.add_argument('--merge-misc', type=bool, default=False)
+    parser.add_argument('--merge-misc', action='store_true')
     parser.add_argument('--run-path', type=str, default=None)
     return parser.parse_args()
 
@@ -75,6 +74,7 @@ def looper(
     predictions = {}
     data = loader.load_merged()
     tdset = tqdm.tqdm(data.items(), desc="Dataset")
+    scores = []
     for dataset, langs in tdset:
         tdset.set_description(f'Dataset: {dataset}')
         tlang = tqdm.tqdm(langs.items(), desc="Language")
@@ -88,8 +88,9 @@ def looper(
                     # categorize the PRO and EVT to MISC, as the model only knows about it
                     to_pred.loc[to_pred['ner'].isin(['B-PRO', 'B-EVT']), 'ner'] = f'B-MISC'
                     to_pred.loc[to_pred['ner'].isin(['I-PRO', 'I-EVT']), 'ner'] = f'I-MISC'
-                scores, pred_data = predictor.predict(to_pred, tag2code, code2tag)
-                logger.info(f'\n{scores["report"]}')
+                doc_scores, pred_data = predictor.predict(to_pred, tag2code, code2tag)
+                doc_scores['id'] = f'{lang};{docId}'
+                scores.append(doc_scores)
                 if pred_misc is not None and len(pred_data.loc[pred_data['ner'].isin(['B-MISC', 'I-MISC'])]) > 0:
                     misc_data = pd.DataFrame(doc['content'])
                     if len(misc_data.loc[~(misc_data['ner'].isin(['B-MISC', 'I-MISC']))]) > 0:
@@ -98,7 +99,7 @@ def looper(
                         misc_data.loc[(misc_data['ner'] == 'B-MISC'), 'ner'] = f'B-{cat}'
                         misc_data.loc[(misc_data['ner'] == 'I-MISC'), 'ner'] = f'I-{cat}'
                     misc_data.loc[~(misc_data['ner'].isin(['B-PRO', 'B-EVT', 'I-PRO', 'I-EVT'])), 'ner'] = 'O'
-                    scores_misc, misc_pred = pred_misc.predict(misc_data, misctag2code, misccode2tag)
+                    _, misc_pred = pred_misc.predict(misc_data, misctag2code, misccode2tag)
                     pred_data['ner'] = pd.DataFrame(doc['content'])['ner']
                     # update the entries
                     # update wherever there is misc in the original prediction
@@ -111,8 +112,8 @@ def looper(
     logger.info(f"Done predicting for {model_name}")
     return {
         'model': model_name,
-        'preds': predictions
-    }
+        'preds': predictions,
+    }, scores
 
 
 def main():
@@ -132,17 +133,17 @@ def main():
     # predictions = pool.map(looper, tmodel)
     # predictions = list(map(looper, tmodel))
     predictions = []
+    doc_scores = {}
     for model in tqdm.tqdm(models, desc="Model"):
-        predictions.append(looper(run_path, lang, model))
-    logger.info(predictions)
+        preds, scores = looper(run_path, lang, model, merge_misc)
+        predictions.append(preds)
+        doc_scores[model]= scores
+    # logger.info(predictions)
     
     with open(f'{run_path}/all_predictions.json', 'w') as f:
         json.dump(predictions, f)
-    
-    logger.info("Warnings that occcured:")
-    logger.info(f"{warnings}")
-    with open(f'{run_path}/pred_warnings.json', 'w') as f:
-        json.dump(warnings, f, indent=4)
+    with open(f'{run_path}/all_scores.json', 'w') as f:
+        json.dump(predictions, f)
     logger.info("Done.")
 
 

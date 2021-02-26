@@ -151,8 +151,6 @@ def data_looper(
 ) -> Callable:
     def loop_through():
         for dataset, langs in data.items():
-            if dataset in ['asia_bibi', 'ec', 'trump']:
-                continue
             # for lang, items in langs.items():
             #     try:
             #         call_fun(dataset, lang, items)

@@ -536,7 +536,7 @@ def main():
                     logger.info(f"[{train_bundle}][{test_dataset}] P = {p:.4f}, R = {r:.4f}, F1 = {f1:.4f}")
     if args.test:
         scores = pd.DataFrame(test_f1_scores)
-        scores.to_csv(f'{run_path}/training_scores-{run_time}.csv', index=False)
+        scores.to_csv(f'{run_path}/training_scores-{chosen_bundle}-{JOB_ID}.csv', index=False)
     logger.info(f'Entire training suite is done.')
 
 
