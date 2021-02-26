@@ -35,7 +35,7 @@ RELEVANT_LANGS: list = ['bg', 'cs', 'pl', 'ru', 'sl', 'uk']
 SEARCH_CLOSEST: bool = True
 CHOOSE_K: int = 3  # determines how many samples of equivalent values to choose
 CLUSTER_THRESHOLD: float = 0.65
-DEDUPE_CORES_USED: int = 63
+DEDUPE_CORES_USED: int = 1
 dedupe_variables: list = [
     # document structure: docId,sentenceId,tokenId,text,lemma,calcLemma,upos,xpos,ner,clID
     # variables to consider:
@@ -47,13 +47,46 @@ dedupe_variables: list = [
 ]
 
 
+def merge_nes(
+    nes: list
+) -> list:
+    """
+        Merges the NEs in the form of the expected output
+    :param nes:
+    :return:
+    """
+    merged = []
+    for i, ne in enumerate(nes):
+        if ne['ner'].startswith('I-'):
+            continue
+        j = i + 1
+        ne['numTokens'] = 1
+        while j < len(nes) and not nes[j]['ner'].startswith('B-'):
+            ne['text'] = f'{ne["text"]} {nes[j]["text"]}'
+            ne['lemma'] = f'{ne["lemma"]} {nes[j]["lemma"]}'
+            ne['calcLemma'] = f'{ne["calcLemma"]} {nes[j]["calcLemma"]}'
+            ne['sentenceId'] = f'{ne["sentenceId"]},{nes[j]["sentenceId"]}'
+            ne['tokenId'] = f'{ne["tokenId"]},{nes[j]["tokenId"]}'
+            ne['upos'] = f'{ne["upos"]},{nes[j]["upos"]}'
+            ne['xpos'] = f'{ne["xpos"]},{nes[j]["xpos"]}'
+            if nes[j]["clID"] != ne['clID']:
+                print(f"Inconsistent cluster ids: {nes[j]['clID']} vs {ne['clID']}, NE: {ne}")
+            ne['numTokens'] += 1
+            j += 1
+        ne['ner'] = ne['ner'][2:]
+        merged.append(ne)
+    return merged
+
+
 def load_nes(
     datasets: dict,
-) -> dict:
+) -> (dict, dict):
     documents = {}
+    doc_alphabet = {}
     for dataset, langs in datasets.items():
         dataset_name = dataset.split('/')[-1]
         documents[dataset_name] = {}
+        doc_alphabet[dataset_name] = defaultdict(dict)
         for lang in langs.keys():
             if lang.lower() not in RELEVANT_LANGS:
                 logger.info(f"Skipping {dataset_name}/{lang}")
@@ -66,17 +99,25 @@ def load_nes(
                 df = pd.read_csv(f'{ne_path}/{file}', dtype={'docId': str, 'sentenceId': str, 'tokenId': str, 'clID': str,'text': str,'lemma': str,'calcLemma': str,'upos': str,'xpos': str,'ner': str})
                 df['lang'] = lang
                 df = df.fillna('N/A')
-                for item in df.loc[~(df['ner'] == 'O')].to_dict(orient='records'):
+                records = merge_nes(df.loc[~(df['ner'] == 'O')].to_dict(orient='records'))
+                for item in records:
                     dkey = f"{lang};{item['docId']};{item['sentenceId']};{item['tokenId']};{item['text']}"
+                    fchar = item['text'][0].upper()
+                    if dkey in doc_alphabet[dataset_name][fchar]:
+                        raise Exception(f"[doc_alphabet] COLLISION!!! {dkey}")
+                    doc_alphabet[dataset_name][fchar][dkey] = item
                     if dkey in documents[dataset_name][lang]:
-                        raise Exception(f"COLLISION!!! {dkey}")
+                        raise Exception(f"[documents] COLLISION!!! {dkey}")
                     documents[dataset_name][lang][dkey] = item
-    return documents
+    return {
+        "normal": documents,
+        "alphabetized": doc_alphabet,
+    }
 
 
 def load_data(
     clear_cache: bool = False
-) -> dict:
+) -> (dict, dict):
     cache_path = f'{RUN_BASE_FNAME}/cached_data.json'
     cached_file = pathlib.Path(cache_path)
     if not clear_cache and cached_file.exists() and cached_file.is_file():
@@ -90,7 +131,6 @@ def load_data(
         logger.info(f"Storing cached data at: {cache_path}")
         json.dump(data, f)
     return data
-
 
 
 def get_clustered_ids(
@@ -148,18 +188,20 @@ def generate_training_examples(
 def data_looper(
     data: dict,
     call_fun: Callable,
+    train_all: bool = False
 ) -> Callable:
     def loop_through():
         for dataset, langs in data.items():
-            # for lang, items in langs.items():
-            #     try:
-            #         call_fun(dataset, lang, items)
-            #     except Exception as e:
-            #         logger.error(f"ERROR OCCURED WHEN WORKING ON {dataset}/{lang}, {e}")
-            try:
-                call_fun(dataset, "all", {k:v for lang, docs in langs.items() for k, v in docs.items()})
-            except Exception as e:
-                logger.error(f"ERROR OCCURED WHEN WORKING ON {dataset}/all, {e}")
+            for lang, items in langs.items():
+                try:
+                    call_fun(dataset, lang, items)
+                except Exception as e:
+                    logger.error(f"ERROR OCCURED WHEN WORKING ON {dataset}/{lang}, {e}")
+            if train_all:
+                try:
+                    call_fun(dataset, "all", {k:v for lang, docs in langs.items() for k, v in docs.items()})
+                except Exception as e:
+                    logger.error(f"ERROR OCCURED WHEN WORKING ON {dataset}/all, {e}")
     return loop_through
 
 
@@ -172,7 +214,9 @@ def train(
 
     # prepare training examples: generate matches and distinct cases
     td = generate_training_examples(items)
-    train_data_fname = f'{RUN_BASE_FNAME}/train-{dataset}-{lang}.json'
+    train_path = f'{RUN_BASE_FNAME}/{dataset}'
+    pathlib.Path(train_path).mkdir(parents=True, exist_ok=True)
+    train_data_fname = f'{train_path}/train-{lang}.json'
     with open(train_data_fname, 'w') as tf:
         json.dump(td, tf)
 
@@ -231,10 +275,12 @@ def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--closest', action='store_true')
     parser.add_argument('--train', action='store_true')
+    parser.add_argument('--train-chars', action='store_true')
     parser.add_argument('--test', action='store_true')
     parser.add_argument('--run-path', type=str, default=None)
     parser.add_argument('--tsh', type=float, default=None)
     return parser.parse_args()
+
 
 def main():
     args = parse_args()
@@ -254,9 +300,11 @@ def main():
     logger.info(f"Dedupe threshold = {CLUSTER_THRESHOLD}")
     logger.info(f"Choose k = {CHOOSE_K}")
     logger.info(f"Closest string search: {SEARCH_CLOSEST}")
+    logger.info(f"Train on chars: {args.train_chars}")
 
     logger.info("Loading the data...")
     data = load_data()
+    data = data['alphabetized'] if args.train_chars else data['normal']
 
     trainer = data_looper(data, train)
     if args.train:
