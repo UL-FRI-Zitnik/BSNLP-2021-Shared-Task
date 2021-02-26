@@ -73,19 +73,19 @@ class BertModel(Model):
     def convert_input(self, input_data: pd.DataFrame):
         tokens = []
         tags = []  # NER tags
-        # TODO: add doc, sentence, token ids
 
-        for sentence, data in input_data.groupby("sentence"):
+        if 'docId' not in input_data.columns:
+            input_data['docId'] = 'xxx'
+
+        for (_, sentence), data in input_data.groupby(["docId", "sentenceId"]):
             sentence_tokens = []
             sentence_tags = []
             for id, word_row in data.iterrows():
-                word_tokens = self.tokenizer.tokenize(str(word_row["word"]))
+                word_tokens = self.tokenizer.tokenize(str(word_row["text"]))
                 sentence_tokens.extend(word_tokens)
                 sentence_tags.extend([self.tag2code[word_row["ner"]]] * len(word_tokens))
 
             sentence_ids = self.tokenizer.convert_tokens_to_ids(sentence_tokens)
-            # if len(sentence_ids) > self.MAX_LENGTH:
-            #     logger.error(f"SENTENCE {sentence} LONGER THAN {self.MAX_LENGTH}: {len(sentence_ids)}")
             tokens.append(sentence_ids)
             tags.append(sentence_tags)
         # padding is required to spill the sentence tokens in case there are sentences longer than 128 words
@@ -121,7 +121,6 @@ class BertModel(Model):
     ):
         logger.info(f"Loading the pre-trained model `{self.input_model_path}`...")
         model = AutoModelForTokenClassification.from_pretrained(
-            # model = BertCRFForTokenClassification.from_pretrained(
             self.input_model_path,
             num_labels=len(self.tag2code),
             label2id=self.tag2code,
@@ -129,8 +128,7 @@ class BertModel(Model):
             output_attentions=False,
             output_hidden_states=False
         )
-        # model = torch.nn.DataParallel(model.cuda(), device_ids=[0])
-        # model = model.cuda()
+
         model = model.to(self.device)
         optimizer, loss = None, None
 
@@ -346,6 +344,7 @@ def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--train', action='store_true')
     parser.add_argument('--train-iterations', type=int, default=1)
+    parser.add_argument('--train-bundle', type=str, default="slo_misc-only")
     parser.add_argument('--epochs', type=int, default=3)
     parser.add_argument('--test', action='store_true')
     parser.add_argument('--run-path', type=str, default=None)
@@ -361,6 +360,7 @@ def main():
     logger.info(f"SLURM_JOB_ID = {JOB_ID}")
     logger.info(f"Training: {args.train}")
     logger.info(f"Train iterations: {args.train_iterations}")
+    logger.info(f"Train bundle: {args.train_bundle}")
     logger.info(f"Epochs: {args.epochs}")
     logger.info(f"Full finetuning: {args.full_finetuning}")
     logger.info(f"Testing: {args.test}")
@@ -477,7 +477,10 @@ def main():
         }
     }
 
-    chosen_bundle = 'slo_misc-only'
+    chosen_bundle = args.train_bundle
+    if chosen_bundle not in train_bundles:
+        raise Exception(f"Invalid bundle chosen: {chosen_bundle}")
+
     bundle = train_bundles[chosen_bundle]
     models = bundle['models']
     train_data = bundle['train']

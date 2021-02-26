@@ -12,3 +12,4 @@ transformers==3.5.1
 keras==2.4.3
 keras-preprocessing==1.1.2
 seqeval==1.2.2
+torch==1.7.0

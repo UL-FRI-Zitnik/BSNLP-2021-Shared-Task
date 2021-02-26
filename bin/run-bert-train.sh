@@ -19,7 +19,7 @@ echo "$SLURM_JOB_ID -> Training the model..."
 srun \
     --container-image "$CONTAINER_IMAGE_PATH" \
     --container-mounts "$PWD":/workspace,/shared/datasets/rsdo:/data \
-    --container-entrypoint /workspace/bin/exec-bert.sh --epochs 5 --test --run-path "./data/runs/run_2021-02-17T11:42:19_slo-models"
+    --container-entrypoint /workspace/bin/exec-bert.sh --train --epochs 5 --test --train-bundle "slo_misc"
 
 echo "$SLURM_JOB_ID -> Done."
 

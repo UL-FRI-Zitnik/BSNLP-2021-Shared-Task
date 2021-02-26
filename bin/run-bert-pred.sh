@@ -11,7 +11,7 @@
 
 set -euo pipefail
 
-CONTAINER_IMAGE_PATH="$PWD/containers/pytorch-image.sqfs"
+CONTAINER_IMAGE_PATH="$PWD/containers/pytorch-image-new.sqfs"
 
 echo "$SLURM_JOB_ID -> Predicting from the model..."
 
@@ -20,7 +20,8 @@ echo "$SLURM_JOB_ID -> Predicting from the model..."
 srun \
     --container-image "$CONTAINER_IMAGE_PATH" \
     --container-mounts "$PWD":/workspace,/shared/datasets/rsdo:/data \
-    --container-entrypoint /workspace/bin/exec-pred.sh --lang all --run-path "./data/runs/run_2021-02-16T11:43:57_bert-multi-cased_all-langs"
+    --container-entrypoint /workspace/bin/exec-pred.sh --lang all --run-path "./data/runs/run_2497_multilang_all"
+    # --container-entrypoint /workspace/bin/exec-pred.sh --lang sl --run-path "./data/runs/run_2496_slo_all"
     # --container-entrypoint /workspace/bin/exec-pred.sh --lang sl --run-path "./data/runs/run_2021-02-19T08:02:08_slo-misc-models"
     # --container-entrypoint /workspace/bin/exec-pred.sh --lang sl --run-path "./data/runs/run_2021-02-17T11:42:19_slo-models"
 

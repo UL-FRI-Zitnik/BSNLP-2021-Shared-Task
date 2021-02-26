@@ -39,9 +39,9 @@ Should you need to run the code in a singularity-enabled SLURM cluster, take a l
 6. run [`src/matching/match_dedupe.py`](./src/matching/match_dedupe.py) ([script](./bin/run-dedupe.sh)) to obtain the NE linkage. Results stored in `./data/deduper/runs/run_<JOB_ID>/` (self-created)
 7. run (TODO) to merge the results from the entity linking and the NER tasks.
 8. run [`src/utils/prepare_output.py`](`./src/utils/prepare_output.py`) ([script](./bin/exec-output.sh)) to generate the output files in BSNLP-compliant format
-9. run the evaluation [script](./bin/run-eval.sh) provided by BSNLP organizers to obtain final results. Note: you need to provide a golden standard dataset, see the script on more info.
+9. run [`bin/run-eval.sh`](./bin/run-eval.sh), which is a wrapper of the evaluation script provided by BSNLP organizers to obtain final results. More details can be found [here](./java-eval/readme.txt).
 
- Mind the arguments you pass into the scripts, for more details look at the `parse_args` functions in the respective `.py` files, such as [here](./src/train/crosloeng.py).
+Mind the arguments you pass into the scripts, for more details look at the `parse_args` functions in the respective `.py` files, such as [here](./src/train/crosloeng.py).
 
 ## Algorithm (open setting):
 

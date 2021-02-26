@@ -52,13 +52,11 @@ class LoadSSJ500k(LoadDataset):
             for word in sentence:
                 if word.upos == 'PROPN':  # check if the token is a NER
                     annotation = list(word.misc.keys())[0]
-                    data.append({"word": word.form, "sentence": id, "ner": annotation.upper()})
+                    data.append({"docId": "xxx", "text": word.form, "sentenceId": id, "ner": annotation.upper()})
                     # NOTE: we cannot use the just <TYPE> annotation without `B-` (begin) or `I-` (inside) `<TYPE>`
                     # because we would not be compliant with the CoNLL format
-                    # annotation = annotation if annotation != "O" else "B-O"
-                    # data.append({"word": word.form, "sentence": id, "ner": annotation.split("-")[1].upper()})
                 else:
-                    data.append({"word": word.form, "sentence": id, "ner": "O"})
+                    data.append({"docId": "xxx", "text": word.form, "sentenceId": id, "ner": "O"})
         return pd.DataFrame(data)
 
     def train(self) -> pd.DataFrame:
