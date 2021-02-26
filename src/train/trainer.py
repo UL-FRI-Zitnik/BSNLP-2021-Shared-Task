@@ -3,6 +3,7 @@ import sys
 import logging
 import pandas as pd
 
+from tqdm import tqdm
 from datetime import datetime
 
 from src.train.crosloeng import BertModel
@@ -25,7 +26,8 @@ def main():
     fine_tuning = True
     model_name = 'bert-base-multilingual-cased'
     test_scores = []
-    for test_dataset in LoadBSNLP.datasets['2021']:
+    for test_dataset in rqdm(LoadBSNLP.datasets['2021'], desc='Excluded Dataset'):
+        logger.info(f"Excluding {test_dataset}")
         train_bundle = f'bsnlp-exclude-{test_dataset}'
         train_datasets = {
             train_bundle: LoadBSNLP(

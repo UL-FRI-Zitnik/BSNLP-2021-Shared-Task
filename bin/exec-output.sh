@@ -2,4 +2,4 @@
 set -euo pipefail
 
 echo "Generating output files..."
-PYTHONPATH=. python src/analyze/main.py "$@"
+PYTHONPATH=. python src/utils/prepare_output.py "$@"

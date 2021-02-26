@@ -17,7 +17,7 @@ echo "$SLURM_JOB_ID -> Generating the clusters for the model..."
 srun \
     --container-image "$CONTAINER_IMAGE_PATH" \
     --container-mounts "$PWD":/workspace,/shared/datasets/rsdo:/data \
-    --container-entrypoint /workspace/bin/exec-clustering.sh --train --test --tsh 0.35 
-    # --container-entrypoint /workspace/bin/exec-clustering.sh --train --train-chars --test --tsh 0.35 
+    --container-entrypoint /workspace/bin/exec-clustering.sh --test --tsh 0.35 --train
+    # --container-entrypoint /workspace/bin/exec-clustering.sh --test --tsh 0.35 --train-chars --train
 
 echo "$SLURM_JOB_ID -> Done."

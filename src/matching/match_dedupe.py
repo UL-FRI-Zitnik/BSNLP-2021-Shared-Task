@@ -247,7 +247,7 @@ def cluster_data(
 ) -> None:
     logger.info(f"Clustering `{dataset}/{lang}`")
 
-    learned_settings_fname = f'{RUN_BASE_FNAME}/{dataset}/learned_settings--{lang}.bin'
+    learned_settings_fname = f'{RUN_BASE_FNAME}/{dataset}/learned_settings-{lang}.bin'
     settings_file = pathlib.Path(learned_settings_fname)
     if not (settings_file.exists() or settings_file.is_file()):
         logger.info(f"Settings file `{learned_settings_fname}` does not exist or it's not a file.")
@@ -301,12 +301,14 @@ def main():
     logger.info(f"Choose k = {CHOOSE_K}")
     logger.info(f"Closest string search: {SEARCH_CLOSEST}")
     logger.info(f"Train on chars: {args.train_chars}")
+    logger.info(f"Train: {args.train}")
+    logger.info(f"Test: {args.test}")
 
     logger.info("Loading the data...")
     data = load_data()
     data = data['alphabetized'] if args.train_chars else data['normal']
 
-    trainer = data_looper(data, train)
+    trainer = data_looper(data, train, train_all=True)
     if args.train:
         logger.info("Training on the data...")
         trainer()
