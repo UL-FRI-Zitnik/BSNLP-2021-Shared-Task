@@ -35,7 +35,7 @@ RELEVANT_LANGS: list = ['bg', 'cs', 'pl', 'ru', 'sl', 'uk']
 SEARCH_CLOSEST: bool = True
 CHOOSE_K: int = 3  # determines how many samples of equivalent values to choose
 CLUSTER_THRESHOLD: float = 0.65
-DEDUPE_CORES_USED: int = 1
+DEDUPE_CORES_USED: int = 31
 dedupe_variables: list = [
     # document structure: docId,sentenceId,tokenId,text,lemma,calcLemma,upos,xpos,ner,clID
     # variables to consider:
@@ -235,7 +235,7 @@ def train(
     deduper.train()
 
     # store the learned settings
-    learned_settings_fname = f'{RUN_BASE_FNAME}/learned_settings-{dataset}-{lang}.bin'
+    learned_settings_fname = f'{train_path}/learned_settings-{lang}.bin'
     with open(learned_settings_fname, 'wb') as ts:
         deduper.write_settings(ts)
 
@@ -247,7 +247,7 @@ def cluster_data(
 ) -> None:
     logger.info(f"Clustering `{dataset}/{lang}`")
 
-    learned_settings_fname = f'{RUN_BASE_FNAME}/learned_settings-{dataset}-{lang}.bin'
+    learned_settings_fname = f'{RUN_BASE_FNAME}/{dataset}/learned_settings--{lang}.bin'
     settings_file = pathlib.Path(learned_settings_fname)
     if not (settings_file.exists() or settings_file.is_file()):
         logger.info(f"Settings file `{learned_settings_fname}` does not exist or it's not a file.")
@@ -260,12 +260,12 @@ def cluster_data(
     # cluster the data
     clustered = deduper.partition(items, threshold=CLUSTER_THRESHOLD)
 
-    clusters_report_fname = f'{RUN_BASE_FNAME}/clusters_report-{dataset}-{lang}.txt'
+    clusters_report_fname = f'{RUN_BASE_FNAME}/{dataset}/clusters_report-{lang}.txt'
     with open(clusters_report_fname, 'w') as f:
         for clid, (rec, score) in enumerate(clustered):
             print(f"{clid}: {','.join(rec)}", file=f)
 
-    clustered_data_fname = f'{RUN_BASE_FNAME}/clusters-{dataset}-{lang}.json'
+    clustered_data_fname = f'{RUN_BASE_FNAME}/{dataset}/clusters-{lang}.json'
     clusters = get_clustered_ids(clustered)
     with open(clustered_data_fname, 'w') as f:
         json.dump(clusters, fp=f, indent=4)

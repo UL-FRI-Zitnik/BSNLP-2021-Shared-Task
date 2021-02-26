@@ -2,7 +2,7 @@
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
 #SBATCH --mem=256GB
-#SBATCH --cpus-per-task=64
+#SBATCH --cpus-per-task=32
 #SBATCH --time=3-00:00:00
 #SBATCH --output=logs/BSNLP-cluster-%J.out
 #SBATCH --error=logs/BSNLP-cluster-%J.err
@@ -17,6 +17,7 @@ echo "$SLURM_JOB_ID -> Generating the clusters for the model..."
 srun \
     --container-image "$CONTAINER_IMAGE_PATH" \
     --container-mounts "$PWD":/workspace,/shared/datasets/rsdo:/data \
-    --container-entrypoint /workspace/bin/exec-clustering.sh --test --tsh 0.35 --run-path "data/deduper/runs/run_2021-02-24T09:05:35"
+    --container-entrypoint /workspace/bin/exec-clustering.sh --train --test --tsh 0.35 
+    # --container-entrypoint /workspace/bin/exec-clustering.sh --train --train-chars --test --tsh 0.35 
 
 echo "$SLURM_JOB_ID -> Done."
