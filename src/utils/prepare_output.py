@@ -22,12 +22,13 @@ def convert_files(
         print(f"Working on {dir}")
         loader = LoadBSNLPDocuments(lang=lang, path=f'{run_path}/predictions/bsnlp/{dir}')
         updater = UpdateBSNLPDocuments(lang=lang, path=f'{run_path}/out/{dir}')
-        data = loader.load_predicted()
+        data = loader.load_predicted(folder='clustered')
         updater.update_predicted(data)
+        break
 
 
 if __name__ == '__main__':
     args = parser_args()
-    print(args.run_path)
+    print(f'Run path: {args.run_path}')
     convert_files(args.run_path, lang=args.lang)
 

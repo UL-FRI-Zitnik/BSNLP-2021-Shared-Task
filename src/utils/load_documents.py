@@ -79,7 +79,7 @@ class LoadBSNLPDocuments(LoadDocuments):
             }
         return self.load('merged', merged_loader)
 
-    def load_predicted(self) -> dict:
+    def load_predicted(self, folder: str = 'predicted') -> dict:
         def predicted_loader(fpath: str) -> dict:
             df = pd.read_csv(fpath)
             docId = df.iloc[0]['docId']
@@ -87,7 +87,7 @@ class LoadBSNLPDocuments(LoadDocuments):
                 'docId': docId,
                 'content': df
             }
-        return self.load('predicted', predicted_loader)
+        return self.load(folder, predicted_loader)
 
     def load_annotated(self):
         def annotated_loader(fpath: str) -> dict:

@@ -1,0 +1,35 @@
+pl-374
+G7	G7	ORG	77-30
+Fed	Fed	ORG	106-34
+EBC	EBC	ORG	53-46
+BoJ	BoJ	ORG	86-132
+Brexitu	Brexit	EVT	86-22
+Mundial	Mundial	EVT	58-245
+FOMC	FOMC	ORG	106-35
+USA	USA	LOC	54-2
+Brexit	Brexit	EVT	86-22
+Wlk . Brytanii	wlktonąt . Brytania	LOC	111-39
+Australii	Australia	LOC	66-49
+Rady Prezesów	rada prezes	ORG	95-51
+Draghi	Draghi	PER	79-60
+Wielkiej Brytanii	Wielki Brytania	LOC	111-17
+May	May	PER	58-34
+UE	UE	ORG	54-7
+Europejskim Obszarze Gospodarczym	europejski obszar gospodarczy	ORG	53-25
+”	”	EVT	xxx
+BoE	BoE	ORG	86-121
+Harry'ego	Harry	PER	94-7
+Meghan Markle	Meghan Markle	PER	58-48
+Polsce	Polska	LOC	59-44
+EM	EM	ORG	xxx
+Japonii	Japonia	LOC	51-47
+Banku Japonii	bank Japonia	ORG	86-133
+RBA	RBA	ORG	95-65
+Lowe’a	Lowexe	PER	100-99
+AUD	Audo	ORG	xxx
+Aussie	Aussa	ORG	xxx
+NZD	NZD	PRO	xxx
+Kanadzie	Kanada	LOC	72-14
+CAD	CAD	ORG	xxx
+BoC	BoC	ORG	86-316
+NAFTA	NAFTA	ORG	88-103

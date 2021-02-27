@@ -92,7 +92,9 @@ class UpdateBSNLPDocuments(UpdateDocuments):
             if 'calcLemma' not in df.columns:
                 print(f"MISSING LEMMA: `{fpath}`")
                 df['calcLemma'] = 'xxx'
-            df['calcClId'] = 'xxx'
+            if 'calcClId' not in df.columns:
+                print(f"MISSING caclClId in `{fpath}`")
+                df['calcClId'] = 'xxx'
             if 'calcNer' in df.columns:
                 df = df.rename(columns={'calcNer': 'calcNER'})
             df = df[['text', 'calcLemma', 'calcNER', 'calcClId']]
