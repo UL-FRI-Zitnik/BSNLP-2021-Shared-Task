@@ -58,6 +58,11 @@ class UpdateBSNLPDocuments(UpdateDocuments):
             df.to_csv(fpath, index=False)
         self.__update('predicted', new_data, update_merged)
 
+    def update_clustered(self, new_data) -> None:
+        def update_merged(fpath: str, doc: dict) -> None:
+            doc['content'].to_csv(fpath, index=False)
+        self.__update('clustered', new_data, update_merged)
+
     def __merge_records(
         self,
         nes: pd.DataFrame
