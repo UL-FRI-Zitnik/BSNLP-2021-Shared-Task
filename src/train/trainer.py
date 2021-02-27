@@ -2,6 +2,7 @@ import os
 import sys
 import logging
 import pandas as pd
+import pathlib
 
 from tqdm import tqdm
 from datetime import datetime
@@ -19,31 +20,30 @@ logger = logging.getLogger('TrainL1OStrategy')
 run_time = datetime.now().isoformat()[:-7]  # exclude the ms
 JOB_ID = os.environ['SLURM_JOB_ID'] if 'SLURM_JOB_ID' in os.environ else None
 run_path = f'./data/runs/run_l1o_{JOB_ID if JOB_ID is not None else run_time}'
-
+pathlib.Path(run_path).mkdir(parents=True, exist_ok=True)
+pathlib.Path(f'{run_path}/models').mkdir(parents=True, exist_ok=True)
 
 def main():
     epochs = 5
     fine_tuning = True
     model_name = 'bert-base-multilingual-cased'
     test_scores = []
-    for test_dataset in rqdm(LoadBSNLP.datasets['2021'], desc='Excluded Dataset'):
-        logger.info(f"Excluding {test_dataset}")
-        train_bundle = f'bsnlp-exclude-{test_dataset}'
+    for excluded_dataset in tqdm(LoadBSNLP.datasets['2021'], desc='Excluded Dataset'):
+        logger.info(f"Excluding {excluded_dataset}")
+        train_bundle = f'bsnlp-exclude-{excluded_dataset}'
         train_datasets = {
             train_bundle: LoadBSNLP(
                         lang='all',
                         year='2021',
                         merge_misc=False,
-                        misc_data_only=True,
-                        exclude=test_dataset
+                        exclude=excluded_dataset
                     )
         }
         test_dataset = LoadBSNLP(
             lang='all',
             year='2021',
-            data_set=test_dataset,
+            data_set=excluded_dataset,
             merge_misc=False,
-            misc_data_only=True,
         )
         tag2code, code2tag = test_dataset.encoding()
         bert = BertModel(
@@ -60,19 +60,19 @@ def main():
         )
         logger.info(f"Training data bundle: `{train_bundle}`")
         bert.train(train_datasets)
-        logger.info(f"Testing on `{test_dataset}`")
+        logger.info(f"Testing on `{excluded_dataset}`")
         p, r, f1 = bert.test(test_data=test_dataset.load_all())
         test_scores.append({
             "model_name": model_name,
             "fine_tuned": fine_tuning,
             "train_bundle": train_bundle,
             "epochs": epochs,
-            "test_dataset": test_dataset,
+            "test_dataset": excluded_dataset,
             "precision_score": p,
             "recall_score": r,
             "f1_score": f1
         })
-        logger.info(f"[{train_bundle}][{test_dataset}] P = {p:.4f}, R = {r:.4f}, F1 = {f1:.4f}")
+        logger.info(f"[{train_bundle}][{excluded_dataset}] P = {p:.4f}, R = {r:.4f}, F1 = {f1:.4f}")
     scores = pd.DataFrame(test_scores)
     scores.to_csv(f'{run_path}/training_scores-L1O-{JOB_ID}.csv', index=False)
 

@@ -65,10 +65,10 @@ def merge_nes(
             ne['text'] = f'{ne["text"]} {nes[j]["text"]}'
             ne['lemma'] = f'{ne["lemma"]} {nes[j]["lemma"]}'
             ne['calcLemma'] = f'{ne["calcLemma"]} {nes[j]["calcLemma"]}'
-            ne['sentenceId'] = f'{ne["sentenceId"]},{nes[j]["sentenceId"]}'
-            ne['tokenId'] = f'{ne["tokenId"]},{nes[j]["tokenId"]}'
-            ne['upos'] = f'{ne["upos"]},{nes[j]["upos"]}'
-            ne['xpos'] = f'{ne["xpos"]},{nes[j]["xpos"]}'
+            ne['sentenceId'] = f'{ne["sentenceId"]}:{nes[j]["sentenceId"]}'
+            ne['tokenId'] = f'{ne["tokenId"]}:{nes[j]["tokenId"]}'
+            ne['upos'] = f'{ne["upos"]}:{nes[j]["upos"]}'
+            ne['xpos'] = f'{ne["xpos"]}:{nes[j]["xpos"]}'
             if nes[j]["clID"] != ne['clID']:
                 print(f"Inconsistent cluster ids: {nes[j]['clID']} vs {ne['clID']}, NE: {ne}")
             ne['numTokens'] += 1
@@ -276,6 +276,7 @@ def parse_args():
     parser.add_argument('--closest', action='store_true')
     parser.add_argument('--train', action='store_true')
     parser.add_argument('--train-chars', action='store_true')
+    parser.add_argument('--train-all', action='store_true')
     parser.add_argument('--test', action='store_true')
     parser.add_argument('--run-path', type=str, default=None)
     parser.add_argument('--tsh', type=float, default=None)
@@ -301,6 +302,7 @@ def main():
     logger.info(f"Choose k = {CHOOSE_K}")
     logger.info(f"Closest string search: {SEARCH_CLOSEST}")
     logger.info(f"Train on chars: {args.train_chars}")
+    logger.info(f"Train on all datasets: {args.train_all}")
     logger.info(f"Train: {args.train}")
     logger.info(f"Test: {args.test}")
 
@@ -308,7 +310,7 @@ def main():
     data = load_data()
     data = data['alphabetized'] if args.train_chars else data['normal']
 
-    trainer = data_looper(data, train, train_all=True)
+    trainer = data_looper(data, train, train_all=args.train_all)
     if args.train:
         logger.info("Training on the data...")
         trainer()

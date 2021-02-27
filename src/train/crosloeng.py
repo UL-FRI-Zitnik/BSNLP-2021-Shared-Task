@@ -293,9 +293,6 @@ class BertModel(Model):
         eval_loss = eval_loss / eval_steps
 
         predicted_tags, valid_tags, tokens = self.translate(eval_predictions, eval_labels, tokens)
-        for st, sp, sv in zip(tokens, predicted_tags, valid_tags):
-            for t, p, v in zip(st, sp, sv):
-                logger.info(f"row = {t}, {p}, {v}")
 
         score_acc = accuracy_score(valid_tags, predicted_tags)
         score_f1 = f1_score(valid_tags, predicted_tags)
