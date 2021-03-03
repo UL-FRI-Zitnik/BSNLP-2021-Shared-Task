@@ -1,0 +1,17 @@
+sl-223
+sl
+2020-04-14
+http://www.fromtheweb.eu
+Superračunalnik Univerze v Mariboru pomaga pri iskanju zdravila za Covid-19
+
+Rezultati računalniških simulacij na približno milijon povezanih računalnikih pomagajo znanstvenikom pri iskanju protiteles za zdravljenje številnih bolezni. Maiborski računalnik Maister k projektu prispeva kar 3.000 računskih jeder.
+
+V okviru svetovnega projekta Folding@home (F@H), v katerega je vključena tudi Univerza v Mariboru, raziskovalci proučujejo oblikovanje proteinov ter njihov vpliv na razne bolezni z uporabo najnaprednejših simulacijskih modelov in računskih tehnik porazdeljenega računalništva, sporočajo z mariborske univerze.
+
+"Vse od izbruha pandemije novega koronavirusa SARS-CoV-2, ki povzroča bolezen COVID-19, poteka še posebej intenzivno iskanje protiteles za zdravljenje tega virusnega obolenja. V te napore je s svojo infrastrukturo vključeno tudi Slovensko nacionalno superračunalniško omrežje (SLING). Poleg superračunalnikov na Inštitutu Jožef Štefan in ARNES je bistven tudi prispevek superračunalnikov konzorcija HPC RIVR na Fakulteti za informacijske znanosti v Novem mestu ter Univerzi v Mariboru, kjer največji javni prototipni superračunalnik HPC Maister k projektu prispeva kar 3.000 računskih jeder. SLING je med dva tisoč najaktivnejšimi skupinami izmed skupno 250.000 trenutno sodelujočih v projektu, ki skupaj zagotavljajo na okoli milijon povezanih računalnikih skupno računsko zmogljivost okoli 1,2 exaflopsa ali 1,2 milijarde milijard računskih operacij na sekundo. Rezultati računalniških simulacij pomagajo znanstvenikom bolje razumeti obnašanje različnih oblik proteinov in s tem omogočajo hitrejše določanje njihove potrebne specifične oblike za uspešno zdravljenje številnih bolezni. V tem času še posebej pri iskanju protiteles za zdravljenje virusnega obolenja Covid-19," sporočajo z univerze.
+
+Oblikovanje proteinov
+
+Proteini so dolge verige aminokislin, ki določajo biodinamiko živih bitij. Kot protitelesa prepoznajo invazivne elemente in imunskemu sistemu omogočijo, da se jih znebi. Da pa lahko opravijo to funkcijo, morajo zavzeti določeno obliko. V naravi to poteka samodejno v določenem časovnem obdobju, pri čemer pa uspeh ni vedno zagotovljen. Z razumevanjem oblikovanja proteinov pa lahko ta postopek v laboratorijih bistveno pohitrimo in zagotovimo njegovo uspešnost. V zadnjih desetletjih v te namene uporabljamo zahtevne matematične modele in računalniške simulacije, s katerimi napovedujemo delovanje različnih oblik proteinov. Pri tem je potrebno računsko preizkusiti veliko število različnih oblik proteinskih verig in njihovih variacij, za kar je potrebna velika računska moč. Projekt Folding@home omogoča, da se to opravilo deli med številnimi razpoložljivimi računalniki različne konfiguracije po svetu, ki so povezani v računalniško omrežje.
+
+“Izjemno smo veseli, da lahko z razpoložljivo superračunalniško infrastrukturo v okvirju konzorcija HPC RIVR in SLING pomembno prispevamo k skupnim naporom svetovne raziskovalne skupnosti pri iskanju učinkovitega zdravila za zdravljenje virusnega obolenja COVID-19”, pravi vodja projekta HPC RIVR, prof. dr. Zoran Ren , prorektor za raziskovalno dejavnost na Univerzi v Mariboru. "Verjamemo, da bomo z združeno uporabo svetovnih superračunalniških zmogljivosti za izvajanje zahtevnih računalniških simulacij bistveno prispevali k hitrejšemu iskanju učinkovitih zdravil tako za COVID-19 kot tudi za druga obolenja, ki jih lahko zdravimo s proteinskimi protitelesi."

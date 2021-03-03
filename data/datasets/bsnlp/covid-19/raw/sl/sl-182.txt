@@ -1,0 +1,39 @@
+sl-182
+sl
+2020-08-13
+http://www.fromtheweb.eu
+Aplikacija za covid-19 ni rešitev. Je težava.
+
+Aplikacija deluje prek tehnologije Bluetooth, ki naj bi zaznala stik s tistim, ki je v svoji aplikaciji označil, da je okužen, vendar le, če je ta stik trajal vsaj 15 minut in na razdalji manj kot dva metra. Izumitelja Bluetootha opozarjata, da je merjenje razdalje zelo nenatančno, da je ta tehnologija zelo občutljiva na ovire (steklo, oblačila, torbice ipd.), kar lahko privede do napačnih rezultatov. Še večja težava je čas povezanosti. Krajšega stika z okuženim naprava ne bo zaznala, čeprav je možnost okužbe zelo velika. Okužimo se lahko v sekundi ali minuti. Tudi to bo pomembno povečalo možnost napačnih rezultatov oziroma nekoristnost aplikacije.
+
+Hkrati je neuporabna pri kontaktu z okuženimi, ki ne vedo, da so okuženi, ali pa v svoji napravi tega niso označili, in teh stikov je lahko daleč največ. Najpogostejši prenašalci virusa so bili namreč tisti, ki za lastno okuženost niso vedeli. Stikov z okuženimi iz drugih držav, ki uporabljajo svojo aplikacijo za covid-19, naša aplikacija ne bo zaznala. Tudi v teh primerih je aplikacija neuporabna.
+
+Do zdaj (9. julij 2020) imamo v Sloveniji potrjenih 1776 okuženih oseb, mnogi med njimi so bolezen že preboleli. Samo oni zanesljivo vedo, da so (bili) okuženi in da so (bili) kužni. V resnici je trenutno kužnih morda samo 200 ali 300 oseb, razpršenih po vsej državi. Kakšna je verjetnost, da bom srečal nekoga od njih in da se bom z njim družil več kot 15 minut? Skoraj nikakršna.
+
+Kontakt med napravami ni kontakt med osebami
+
+Dejstvo, da je moja naprava zaznala drugo napravo, v kateri je njen lastnik odkljukal okence, da je kužen, ne pomeni skoraj nič. Po neki raziskavi naj bi bilo v Sloveniji več kot 60.000 okuženih, ki okužbe niso zaznali. Morda sem med njimi in sem postal imun, a bom vseeno trepetal po vsakem zabeleženem stiku.
+
+Stik z okuženim je zgolj možnost, verjetnost, ki še ne pomeni okuženosti, okuženost pa še ne pomeni bolezni. Po podatkih najmanj 80 odstotkov okuženih bolezni skoraj ne čuti. Kakšno korist bom imel, če bom na napravi videl, da je bila moja naprava v stiku s petimi ali desetimi napravami, v katerih so lastniki odkljukali neko okence, da so okuženi? Naj še jaz označim, da sem okužen? Naj grem na testiranje? V izolacijo? Kakšne bodo posledice delovanja noceba? Naj panično gledam v napravo ob vsakem stiku, vsakem dogodku, vsako uro, zvečer in naslednjih 14 ali celo 28 dni trepetam, ali bom zbolel? Naslednjih 14 ali 28 dni ponovno. Strahovanju ni ne konca ne kraja.
+
+Aplikacija bi bila učinkovita, če bi večina državljanov vestno in disciplinirano vnašala podatke v aplikacijo in če bi zanesljivo vedeli, ali so okuženi ali pa ne. Zaupanje v vlado (oblast) mora biti zelo visoko, tega pa v Sloveniji ni. Strah pred zlorabo teh podatkov je velik in upravičen. V Nemčiji, kjer je zaupanje v vlado veliko večje, je aplikacijo naložilo le 8 odstotkov državljanov (morda je ta odstotek zdaj višji, a v nobeni državi ta odstotek ni višji od 25 odstotkov), strokovnjaki pa so izračunali, da bi aplikacija lahko bila koristna, če bi jo naložilo 60 odstotkov prebivalcev.
+
+Opozoriti je tudi treba, da število naloženih aplikacij še ne pomeni, da aplikacijo vsi uporabljajo. Teh je lahko veliko manj, a tega podatka nikoli ne bomo izvedeli. Živeli bomo v iluziji, da aplikacijo uporablja veliko ljudi, resničnost pa je lahko povsem drugačna.
+
+Najbolj ogroženi nimajo pametnih telefonov
+
+Upoštevati je treba, da najbolj ogrožena populacija (starejši) večinoma nima pametnih telefonov ali pa je nevešča rokovanja z njimi. Pametnih telefonov ne uporabljajo (oziroma naj jih ne bi) otroci, pa tudi vsi odrasli nimajo dovolj pametnih telefonov za delovanje aplikacije, saj bo aplikacija delovala le v novejših operacijskih sistemih.
+
+Vnos podatka o okuženosti v aplikacijo je prostovoljen, kar pomeni veliko možnost zlorab. Če bo za okužene obvezno, da v aplikacijo vnesejo podatek o okuženosti, kaj se bo zgodilo, če bodo to v aplikaciji označevali vsi, ki nasprotujejo uvedbi aplikacije ali pa vladi? Morda zato, da bi delali paniko? Bo kdo nadziral, ali so podatki iz aplikacije resnični?
+
+Če bo v aplikaciji možno označiti, da smo (bili) okuženi, le s posebno kodo, ki nam jo bo dodelil NIJZ, bo to pomenilo, da ima država dostop do podatkov o gibanju, ne sicer prek te aplikacije, ampak na druge načine.
+
+V primeru, da aplikacija ne bo zaznala nobenih stikov z okuženimi, bomo morda živeli v iluziji, da teh stikov v resnici ni bilo, in bomo zaradi občutka varnosti manj pozorni na varno razdaljo in druge ukrepe.
+
+Nisem naletel na nobene dobre analize o tem, da bi uvedba aplikacije prispevala k zdravju vseh, kot trdi predsednik vlade. Razumem, da je bila aplikacija le eden od številnih ukrepov in da je nemogoče, oceniti njen izoliran vpliv. In prav zaradi tega to pišem, ker prepričljivih argumentov za uvedbo aplikacije ni. Trditve, da aplikacijo uspešno uporabljajo v drugih državah, ne govorijo o njeni koristnosti, ampak o tem, da aplikacija kot programska koda uspešno deluje. To, da v drugih državah aplikacijo imajo, ni argument. Marsikaj imajo v drugih razvitih državah in marsičesa nimajo, pa se ne zgledujemo po njih – mnoge na primer nimajo obveznega cepljenja, pa njihovih vlad nihče ne obtožuje, da ogrožajo zdravje vseh državljanov.
+
+Čemu bi potem takšna aplikacija koristila? Utrjevanju psihoze ogroženosti, utrujanju prebivalcev, da bi naveličani vseh omejitev, nadzora, nenehnega ustrahovanja in poslušanja o številu testiranih, obolelih in umrlih na vsakem koraku vsakih nekaj minut privolili v vse: v obvezna cepljenja, čipe, aplikacije, izolacije… Torej ni pravo vprašanje, čemu bi aplikacija koristila, ampak komu bi koristila. Prepričan sem, da državljanom ne.
+
+Karkoli imamo v telefonu, je dostopno tistim, ki so usposobljeni in imajo ustrezno opremo ter interes, da ga pregledajo in z njegovo vsebino manipulirajo. Vlada in industrija imata znanje, tehnologijo in interes. Že danes operaterji in drugi sledijo našim napravam in informacije o gibanju prodajajo industriji. Jutri so lahko ti podatki konkretnejši, dragocenejši in tudi dražji. Katero podjetje ne bi plačalo za podatek, koliko njihovih zaposlenih je okuženih ali celo kdo je okužen, s kom je v stiku?
+
+Ali torej nasprotovanje aplikaciji res ogroža zdravje vseh? Ne, ne ogroža zdravja nobenega. Tako kot nasprotovanje obveznemu cepljenju ne.

@@ -1,0 +1,31 @@
+sl-184
+sl
+2020-10-23
+http://www.fromtheweb.eu
+Raziskava IATE: Prej vas bo zadela strela, kot da bi dobili covid-19 na letalu
+
+Redko se zgodi, da stopijo skupaj vsi trije največji proizvajalci letal: Airbus, Boeing in Embraer. Na pobudo združenja IATA so skušali prikazati, kako majhna je verjetnost, da bi se potniki med letom okužili s covidom-19.
+
+Letalski sektor diha na škrge, zaradi nenehno se spreminjajočih omejitev potovanj in trenutnega povečanega števila okužb z novim koronavirusom po vsej Evropi, potniki ne samo dvakrat, temveč trikrat premislijo, preden se odpravijo na pot z avionom. Letalske družbe pa vse težje izvajajo še tistih nekaj povezav, ki jih vzdržujejo po okrnjenih voznih redih.
+
+Letalske družbe izpostavljajo, da se zrak na letalu zamenja pogosteje, kot v pisarniških prostorih, restavraciah, celo bolnišnicah.
+
+Poleg težav, ki potnike lahko pričakujejo na destinaciji (Tajska denimo, je sicer dovolila prihod turistom, a morajo ti ob prihodu v 14-dnevno karanteno, v državi pa morajo ostati najmanj mesec dni), se potujoči srečujejo tudi z možnostjo karantene ob vrnitvi v domovino, če so bili v državi s povečanim tveganjem.
+
+Okužbo dokazovali z dinamiko tekočin
+
+S pomočjo neodvisnih analiz, pri katerih so letalski proizvajalci Airbus, Boeing in Embraer z zapleteno računsko dinamiko tekočin skušali prikazati tveganje za potnike za okužbo s covidom-19. Rezultati vseh raziskav so pokazali, da je večja verjetnost, da bo potnike v letalu zadela strela, kot da bi se okužili z novim koronavirusom.
+
+Med pandemijo se je Mednarodno združenje letalskih prevoznikov (IATA) zavzelo za več ravni varnosti v celotnem potovalnem procesu. To se začne z zdravstvenim pregledom na odhodnem letališču in izvajanjem brezkontaktnih postopkov do izboljšanega razkuževanja in nošenja mask na krovu. Kljub prizadevanjem letalskih družb in letališč za zagotovitev varnega potovanja, potnikov še vedno niso prepričani. Nedavna raziskava IATE je pokazala, da 60-odstotkov vprašanih misli, da je zrak v potniški kabini letala nevaren. Njihova največja skrb je, da bodo covid-19 dobili sopotnika, ki sedi poleg njih.
+
+V okviru predstavitve izsledkov omenjenih raziskav proizvajalcev letal je dr. David Powell , zdravniški svetovalec IATE, razpravljal o dokazih za dejanski prenos okužbe, ki bi se zgodil na letalu. Na vseh letih, ki so jih izvedli od začetka pandemije (gre za približno 1,2 milijarde potnikov), je bilo potrjeno, da se je 44 ljudi okužilo na krovu, vir okužbe pa je bil drugi potnik. To pomeni eno okužbo vsakih 27,3 milijona potnikov. Powell dodaja, da tudi v primeru, če bi bilo število deset krat višje, "bi to še zmeraj pomenilo zgolj eno okužbo na vsakih 2,73 milijona potnikov". Ameriški CDC je v preteklosti izračunal, da je verjetnost, da bo osebo v ZDA zadela strela, 1:1,2 milijona. To pomeni, da je verjetnost za to dva krat višja, kot da bi se na letalu okužili s covidom-19. Tudi prvi mož mednarodnega združenja letalskih prevoznikov IATA Alexandre de Juniac je povedal, da se zaveda, da ni nobena stvar brez tveganja, a je verjetnost za okužbo označil kot zelo majnhno.
+
+Kljub polnemu letalu fizično distanco možno doseči
+
+Airbus zagotavlja, da je fizično distanco v potniški kabini mogoče doseči tudi če so vsi sedeži zasedeni. Potniki so se namreč veliko bolje počutili, če je bil vsaj sedež poleg njih prost. Izpostavljajo, da se zrak v potniški kabini popolnoma obnovi vsake 2-3 minute, filtrirni sistemi, pri katerih uporabljajo filtre HEPA, kakršne najdemo tudi v bolnišnicah, ti pa zmorejo odstraniti več kot 99,9 odstotka nevarnih delcev, nenehno v kabino dovajajo svež zrak. Tega dobijo iz letalskih motorjev. Poleg tega vsi potniki nosijo maske, prednji sedeži pa pri cirkulaciji zraka prevzamejo vlogo mehanske pregrade med potniki. Ker ti sedijo vsi obrnjeni v isto smer, tudi ni neposredne interakcije med njimi. Dodatno optimirane šobe, ki se nahajajo nad glavo potnikov, usmerijo tok zraka navzdol in tako preprečijo, da krožil in se meša med vrstami. "Onesnažen" zrak iz potniške kabine potegnejo ventilatorji, nameščeni v tleh in ga filtriranega pošljejo v mešalno enoto, kjer se obogati s svežim zrakom iz zunanjosti, preden se prečiščena zmes vrne v potniško kabino.
+
+Vsaj 54 ur bi morali leteti, da bi se okužili, pravijo Američani
+
+Tveganje za okužbo z novim koronavirusom na letalu je zelo majhno, če potniki nosijo zaščitne maske, je pokazala tudi študija, ki jo je ameriška vojska izvedla na letalih boeing 767 in 777. Raziskovalci so merili obseg okuženih aerosolov, ki jih je oddajala lutka, s katero so simulirali osebo s koronavirusom, ki diha normalno. Najbolj izpostavljene potnike, tiste tik pred, za ali ob lutki, so v študiji predstavljali senzorji, v okoli 300 testiranjih, ki so jih izvedli v osmih zaporednih dneh, pa so ugotovili, da prezračevalni sistem 99,7 odstotka okuženih delcev izloči iz zraka, preden pridejo do najbližjih sopotnikov. Ob razširitvi na 40 sedežev, ki so najbližje okuženi osebi, pa ta delež naraste na 99,99 odstotka, je še pokazala študija, ki jo je ameriška vojska izvedla v sodelovanju z letalsko družbo United Airlines. Poveljstvo ameriške vojske za transport je na podlagi študije sklenilo, da stopnja prenosa virusa med 12-urnim poletom ni omembe vredna, upoštevajoč, da je okužena zgolj ena oseba in vsi potniki ves čas nosijo maske. Niso pa ugotavljali, kaj se zgodi, če se okužena oseba premika po letalu. "Izračuni za letali 777 in 767 kažejo, da bi bilo za to, da bi posameznik vdihnil količino okuženih delcev, domnevno potrebno za okužbo, potrebnih 54 ur letenja," je pojasnil Joe Pope iz poveljstva ameriške vojske za transport.
+
+Airbus je ugotovil, da v primeru, ko potnik izkašlja 10.000 kapljic, sopotnika doseže le 5 kapljic, a le v primeru, da oba nosita masko, vmes pa svoje opravita še težnost in zračenje. Evropski letalski proizvajalec je tako prišel do spoznanja, da je sedeti z masko na polnem letalu enako, kot če bi stali 1,8 metra oddaljeni od druge osebe na tleh.

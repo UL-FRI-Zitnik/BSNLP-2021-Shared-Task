@@ -1,0 +1,17 @@
+sl-110
+sl
+2020-09-06
+http://www.fromtheweb.eu
+Slovenski znanstveniki uspešno opravili predklinična testiranja cepiva proti COVID-19
+
+»Največji pomen predstavljene raziskave je razvoj nove tehnologije, ki bo uporabna ne samo za ta virus, ampak tudi za cepiva za druge viruse v prihodnje,« poudarja prof. dr. Roman Jerala.
+
+V iskanje cepiva proti COVID-19 so se pod vodstvom biokemika prof. dr. Romana Jerale vključili tudi slovenski raziskovalci s Kemijskega inštituta. Prvi rezultati so obetavni.
+
+Cepivo so zasnovali na osnovi plazmidnega DNK, ki vsebuje zapis za virusne proteine in v človeških celicah povzroči proizvodnjo virusnih proteinov, ki sprožijo tvorbo protiteles in zaščitnih celic T. Cepivo je v testiranju na miših ustvarilo visok imunski odziv, protitelesa pa so nevtralizirala vezavo virusa v obsegu, primerljivem z drugimi cepivi in protitelesi pri bolnikih, ki so preživeli okužbo.
+
+Novost pristopa slovenskih znanstvenikov je v modifikaciji virusnih proteinov v nanodelce, ki spominjajo na viruse, s tem pa so izboljšali odziv imunskega sistema. Pripravili so pet različic virusne proteinske domene RBD, ki je odgovorna za prepoznavanje celičnega receptorja, tako da je na enem delcu od 1 do 60 kopij RBD. Pri razvoju cepiv je priprava virusom podobnih delcev uveljavljen pristop pri razvoju cepiv, toda do zdaj še ni bilo primerjanih toliko različnih načinov tvorbe nanodelcev, od katerih gre za dva izvirna pristopa.
+
+Gre za rezultate predkliničnih študij, ki so šele začetna stopnja, do uporabe cepiva je še dolga pot, saj bi bilo treba opraviti obsežne klinične študije na ljudeh. Po mnenju prof. dr. Jerale pa nima smisla nadaljevati razvoja tega cepiva, ko bo enkrat že na voljo varno in učinkovito cepivo proti COVID-19.
+
+»Največji pomen predstavljene raziskave je razvoj nove tehnologije, ki bo uporabna ne samo za ta virus, ampak tudi za cepiva za druge viruse v prihodnje,« poudarja Roman Jerala.

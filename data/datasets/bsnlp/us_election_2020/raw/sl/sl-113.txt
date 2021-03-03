@@ -1,0 +1,29 @@
+sl-113
+sl
+2020-11-13
+http://www.fromtheweb.eu
+Pozor, kaj daste na glavo! Nekatere maske manj kot 20-odstotno učinkovite
+
+Filtracijska učinkovitost je boljša pri maskah z nagubanim blagom. (Foto: Tomaž Skale)
+
+Vodja Centra za mikroskopijo in detekcijo nanodelcev na inštitutu Maja Remškar je za STA pojasnila, da so od marca do danes izdali 67 delovnih poročil o testiranjih zaščitnih mask. Večina poročil se nanaša na vsaj dva testa, nekatera tudi na več, pet ali šest. Tako so doslej naredili teste več kot 150 različnih mask in materialov, iz katerih so maske narejene. »Po poletnem zatišju maske spet prihajajo v testiranje. Poleg testiranja filtracijske učinkovitosti sodelujemo tudi pri razvoju zaščitnih mask s slovenskimi podjetji,« je navedla.
+
+Rezultati za različne materiale so bili zelo različni. Za maske FFP3, ki jih uporabljajo v zdravstvenih ustanovah, so izmerili 97-odstotno učinkovitost, ko so merili zgolj material, iz katerega je izdelana FFP3 maska, pa je bila učinkovitost 99.9-odstotna. Maske FFP2 so bile učinkovite med 49 do 75 odstotki, material zanje pa od 90 do 100 odstotkov. »Slabši rezultati za maske pomenijo, da so se maske slabše prilegale na trdo robotsko glavo, ki jo uporabljamo kot simulacijo človeške glave,« je pojasnila Remškarjeva.
+
+Filtracijska učinkovitost različnih kirurških mask je bila od 77 do 81-odstotna, njihovih materialov pa med 91 in 99,5 odstotka.
+
+Najslabši je raztegljivi material
+
+Pralne maske iz raztegljivega blaga so imele le 30-odstotno učinkovitost, maska iz umetne svile 19-odstotno. Različno blago iz bombaža je nudilo različno učinkovitost. Dvoslojno tetra blago (ta se uporablja tudi za plenice) je bilo 25-odstotno učinkovito, poplin pa 82-odstotno. »Na splošno je bila filtracijska učinkovitost boljša pri maskah z nagubanim blagom (kot ga imajo kirurške maske) in slabša pri gladkih krojih ter najslabša pri materialih iz raztegljivega blaga,« je navedla za STA.
+
+Ob tem Remškarjeva pojasnjuje, da so ugotovili, da so za filtracijsko učinkovitost pomembni gostota tkanja, torej čim manjše luknjice med vlakni filtra, tanka vlakna (z mikrometrskimi premeri), kemijska sestava vlaken in električni naboj na vlaknih, ki izboljšuje ujetje delcev.
+
+»Polimerni materiali v obliki netkanih tekstilij, ki tvorijo filtracijsko komponento FFP mask in kirurških mask, imajo naboj, ki pa se izgubi med sterilizacijo takih mask z etanolom ali s pranjem kirurških mask, zato se zmanjša tudi filtracijska učinkovitost ter z njo zaščita. Naravni materiali nimajo naboja, zato morajo biti ustrezno bolj gosto tkani ali pa kombinirani s polimernimi materiali,« je dodala.
+
+Plastični ščitniki zaščitijo le 16-odstotno
+
+Medtem pa so testirali tudi maske z plastičnim ščitom oz. vizirjem in ugotovili, da nudijo le 16-odstotno zaščito.
+
+Na inštitutu so večino mask testirali za zdravstveno stroko ter podjetja, pa tudi nekaj za fizične osebe. Tovrstne teste opravljajo za bolnišnice, zdravstvene domove, zobozdravnike, ministrstva in raziskovalce brezplačno, medtem ko za podjetja, uvoznike in tudi za fizične osebe opravijo po ceni 60 evrov plus DDV za en test. »Cena pokriva honorar študentom, ki vsak test izvajajo po več ur v zaščitni opremi, saj testiranje poteka z uporabo kvarčnega nanoprahu, ki ima velikost delcev v istem območju velikosti, kot je novi koronavirus,« je pojasnila in dodala, da je pri delu z nanoprahi potrebna posebna previdnost in ustrezna zaščita dihal. Amortizacije opreme in drugih stroškov ne zaračunavajo. Sicer pa običajno svetujejo dva testa, to je test maske in test blaga, da lahko ocenimo učinkovitost maske. Na zahtevo naročnika pa lahko izvedejo tudi samo test blaga.
+
+Ker laboratorij ni akreditiran za te meritve, ne izdajajo certifikatov za maske, ampak »le« delovno poročilo Instituta Jožef Stefan.

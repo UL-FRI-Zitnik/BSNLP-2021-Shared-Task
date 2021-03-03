@@ -1,0 +1,43 @@
+sl-112
+sl
+2020-05-06
+http://www.fromtheweb.eu
+Indija z inovacijami nad COVID-19
+
+Robot, ki ga je razvila družba Asimov Robotics. 
+
+Crowdsourcing je Indiji odprl vrata do množičnih inovacij novoustanovljenih podjetjih, ki so jih inkubirale indijske univerze.
+
+Podjetniki in inovatorji po vsej Indiji so se hitro odzvali na izziv, ki ga je postavila pandemija COVID-19. Za hiter odziv obstajajo številni razlogi, vključno z nujnostjo humanitarnih razmer in proaktivnim pristopom vladnih idej za crowdsourcing. Indija že dalj časa kaže, da ima veliko usposobljenih inženirskih talentov, kar pomaga pospeševati tako imenovan »jugaad« - inovativno idejo, ki zagotavlja hiter, alternativni način reševanja oziroma odpravljanja težave.
+
+Roboti, aplikacije in ventilatorji
+
+Socialno distanciranje in sledenje stikov po vsem svetu veljata za najpomembnejša odziva na COVID-19. A ko se omejitve začnejo umikati, poseben problem nastane pri preprečevanju širjenja virusa v javnih prostorih, na primer na letališčih ali avtobusnih postajah.
+
+Asimov Robotics, indijski startup s sedežem v Kerali, je svoje robote namestil na vhodih v poslovne stavbe in drugih javnih mestih. Slednji pomagajo pri razkuževanju rok, delitvi zaščitnih mask in z navodili za obiskovalce. Podobni roboti družbe so nameščeni tudi v bolnišničnih izolacijskih oddelkih, kjer skrbijo za prevoz hrane in zdravil, kar olajša pritisk na medicinsko osebje.
+
+V začetku aprila je indijska vlada zagnala aplikacijo za sledenje COVID-19, imenovano Aarogya Setu, ki uporablja GPS in Bluetooth za obveščanje ljudi, ko jim grozi izpostavljenost virusu. Aplikacija se je začela izvajati, preden se je podobna pobuda pojavila s strani tehnoloških velikanov Google in Apple.
+
+Startup podjetja, kot sta KlinicApp in Practo izvajajo teste COVID-19 na domu, preko njihovih platform pa se je moč opraviti posvet z zdravnikom. Za zbiranje vzorcev je na terenu ogromno flebotomistov. Slednji se obširno usposabljajo v skladu s smernicami in so opremljeni z varnostnimi oblekami za enkratno uporabo in drugimi ustreznimi pripomočki. Vsak flebotomist lahko opravi dva do tri teste na dan. Postopek testiranja za COVID-19 je namreč počasnejši od običajnega krvnega testa.
+
+Kot odziv na pomanjkanje opreme za kritično oskrbo okuženih, startup podjetja, kot so Nocca Robotics (inkubiralo na Indijskem tehnološkem inštitutu (IIT) - Kanpur), Aerobiosys Innovations (inkubiralov IIT Hyderabad) in AgVa Healthcare, razvijajo poceni, enostavne za uporabo in prenosne prezračevalnike oziroma ventilatorje, ki jih je mogoče uporabiti celo na podeželju Indije.
+
+Z razvojem tehnoloških platform za razširjanje vladnih obvestil, startup podjetja podpirajo tudi vladno javno informacijsko kampanjo o koronavirusu. Vlada indijske zvezne države Kerala je zagnala aplikacijo z imenom GoK-Kerala Direct z uporabo platforme, ki jo je razvil QKopy. COVID-19 pošilja posodobitve in informacije o potovanjih prek telefonskih obvestil in prek SMS-ov na starejše telefone za manj kot polovico indijskega prebivalstva brez pametnih telefonov. Ta sporočila se pošiljajo tako v angleščini kot v lokalnem jeziku - malajalščini.
+
+Higiena javnih površin je še eno od pomembnih inovacij. Startup podjetja, kot sta Aqoza technologies in PerSapien, trdijo, da so razvili kemične formulacije, ki razkužijo javne prostore. Pristop družbe Aqoza, ki je bila ustanovljena med izbruhom virusa Nipah v Kerali leta 2018, je razkužilo na vodni osnovi, Airlens minus Corona iz podjetja PerSapien pa je stroj, za katerega družba trdi, da izpušča ionizirane vodne kapljice za oksidacijo virusnih beljakovin.
+
+Pri startupu Droom trdijo, da so ustvarili poseben protimikrobni premaz, imenovan Corono Shield, ki zavira rast mikroorganizmov, kot so bakterije, alge, kvas in plesni na površinah vozil. Testira ga policija v Gurugramu v zvezni državi Haryana.
+
+Droni se uporabljajo tudi za dostavo medicinskih pripomočkov in s pomočjo termičnega slikanja celo za preverjanje temperature ljudi.
+
+Startup podjetja, kot je Marut Dronetech, so sodelovala z državnimi vladami, da bi preizkusila uporabo dronov za spremljanje upoštevanja pravil o socialni distanci. Droni se uporabljajo tudi za dostavo medicinskih pripomočkov in s pomočjo termičnega slikanja celo za preverjanje temperature ljudi.
+
+Crowdsourcing združuje modrosti
+
+Platforme za crowdsourcing, aktivnosti pri katerih sodeluje množica ljudi z namenom reševanja širšega problema in kjer vsak posameznik z različnimi znanji prispeva manjši del, skupek del pa predstavlja dolgoročno korist za celotno skupnost, so se izkazale tudi kot pomemben kanal za združevanje modrosti univerz, industrije in vlade.
+
+Nacionalna vlada je 16. marca naznanila izziv COVID-19, ki inovatorje poziva, naj ponudijo ideje in rešitve za reševanje pandemije. Industrijska združenja, kot je zveza indijskih gospodarskih in industrijskih zbornic, so sodelovala pri spletnem hekatonu, da bi razvila nemedicinske rešitve za COVID-19.
+
+Crowdsourcing platforme iz startup inkubatorjev, kot je BreakCorona, so v dveh dneh po lansiranju prejele 1.300 idej in 180 izdelkov. V drugem prizadevanju so prostovoljci vzpostavili spletni portal imenovan Coronasafe-Network, javno odprto platformo, ki v realnem času prikazuje podrobnosti o previdnostnih ukrepih, orodjih in odzivih na COVID-19. Slednja inovatorjem služi kot koristen vpogled v dogajanje na enem mestu.
+
+Indija si prizadeva ohraniti in morda še izboljšati podjetniško miselnost, da ustvari naslednji val inovacij za nadaljevanje boja proti COVID-19 in za družbeno-ekonomsko okrevanje, ko se začnejo umikati omejitve.

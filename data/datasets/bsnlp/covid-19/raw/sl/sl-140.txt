@@ -1,0 +1,21 @@
+sl-140
+sl
+2020-07-03
+http://www.fromtheweb.eu
+Mariborsko znanje je spet zraven: Prototipni superračunalnik Univerze v Mariboru pomaga pri iskanju zdravila za covid-19
+
+Raziskovalci Univerze v Mariboru v okviru svetovnega projekta Folding@home s prototipnim superračunalnikom proučujejo oblikovanje beljakovin in njihov vpliv na bolezni z uporabo najnaprednejših simulacijskih modelov in računskih tehnik porazdeljenega računalništva. Protitelesa, ki bi jih lahko našli, lahko pomagajo tudi pri zdravljenju covida-19.
+
+Vse od izbruha pandemije novega koronavirusa poteka še posebej intenzivno iskanje protiteles za zdravljenje tega virusnega obolenja. V te napore je s svojo infrastrukturo vključeno tudi Slovensko nacionalno superračunalniško omrežje (Sling), so sporočili z univerze.
+
+Poleg superračunalnikov na Institutu Jožef Stefan ter v Akademski in raziskovalni mreži Slovenije – Arnes je po njihovih navedbah bistven tudi prispevek superračunalnikov konzorcija HPC RIVR na novomeški Fakulteti za informacijske študije in Univerzi v Mariboru, kjer največji javni prototipni superračunalnik HPC Maister k projektu prispeva 3000 računskih jeder.
+
+Sling je med 2000 najaktivnejšimi skupinami od skupno 250.000 trenutno sodelujočih v projektu, ki skupaj zagotavljajo na okoli milijon povezanih računalnikih skupno računsko zmogljivost okoli 1,2 eksaflopsa ali 1,2 milijarde milijard računskih operacij na sekundo.
+
+“Rezultati računalniških simulacij pomagajo znanstvenikom bolje razumeti vedenje različnih oblik beljakovin in s tem omogočajo hitrejše določanje njihove potrebne specifične oblike za uspešno zdravljenje številnih bolezni. V tem času je to še posebej pomembno pri iskanju protiteles za zdravljenje covida-19,” so zapisali na univerzi.
+
+Kot so pojasnili, je mogoče z razumevanjem oblikovanja beljakovin postopek zavzemanja določene oblike beljakovine v laboratorijih bistveno pohitriti in zagotoviti njegovo uspešnost. V zadnjih desetletjih v te namene uporabljajo zahtevne matematične modele in računalniške simulacije, s katerimi napovedujejo delovanje različnih oblik beljakovin.
+
+“Pri tem je treba računsko preizkusiti veliko število različnih oblik beljakovinskih verig in njihovih variacij, za kar potrebujemo veliko računsko moč. Projekt Folding@home omogoča, da se to opravilo deli med številnimi razpoložljivimi računalniki različne konfiguracije po svetu, ki so povezani v računalniško omrežje,” so dodali.
+
+Po besedah prorektorja za raziskovalno dejavnost na Univerzi v Mariboru Zorana Rena verjamejo, da bodo z združeno uporabo svetovnih superračunalniških zmogljivosti za izvajanje zahtevnih računalniških simulacij bistveno prispevali k hitrejšemu iskanju učinkovitih zdravil tako za covid-19 kot tudi za druga obolenja, ki jih lahko zdravimo z beljakovinskimi protitelesi.

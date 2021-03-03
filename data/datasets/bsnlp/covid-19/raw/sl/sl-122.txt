@@ -1,0 +1,43 @@
+sl-122
+sl
+2020-10-23
+http://www.fromtheweb.eu
+Covid-19 je okrepil trend rasti kibernetskih napadov
+
+Večja digitalna povezanost med pandemijo je še povečala število kibernetskih napadov.
+
+Tako po pogostosti kot obsegu. Pandemija covida-19 je v zelo kratkem času močno spremenila ustaljene načine dela, saj je spodbudila izrazit porast dela na daljavo, preoblikovala vzorce potrošnje, ki so se v veliki meri premaknili k spletnemu nakupovanju, ter na splošno spremenila načine povezovanja in sodelovanja. Prav večja uporaba spletnih in digitalnih orodij tako na področju dela in šolanja kot prostega časa je dala zagon spletnim kriminalcem, zaradi česar poznavalci covid-19 že uvrščajo med največje grožnje kibernetski varnosti doslej.
+
+Več mednarodnih raziskav sicer kaže, da so se med pandemijo spletni napadalci bolj usmerili v velike korporacije, vlade in kritično infrastrukturo, saj imajo lahko od uspešnih napadov precej večje finančne koristi. Ne glede na to pa pomembne tarče kibernetskih napadov še vedno ostajajo mali podjetniki ter mala in srednja podjetja, ki so v svetu leta 2019 obsegala kar 43 % vseh tarč, predvsem zaradi pogosto pomanjkljive kibernetske zaščite.
+
+V zgodnjih fazah pandemije so spletni kriminalci pri kibernetskih napadih izkoristili strah in zmedo med prebivalstvom, zato so bili med vsemi grožnjami najbolj pogosti napadi lažnega predstavljanja in zlonamerna mesta, ki naj bi ponujala informacije in nasvete v zvezi s covidom-19, z namenom pridobiti uporabniške podatke, vključno s poverilnicami za prijavo in številkami kreditnih kartic spletnih uporabnikov, ter na uporabnikovo napravo namestiti zlonamerno vsebino. Uporabniška imena in gesla, pridobljena z ribarjenjem, omogočajo nadaljnjo zlorabo, kot je na primer vrivanje v poslovno komunikacijo. Po podatkih Nacionalnega odzivnega centra za kibernetsko varnost (SI-Cert) so bila podjetja leta 2019 z vrivanjem v poslovno komunikacijsko v povprečju oškodovana za 65.000 evrov, največje posamično oškodovanje pa je znašalo 200.000 evrov.
+
+Več analitikov in raziskovalcev s področja kibernetske varnosti je poročalo, da se je med pandemijo število zlonamernih elektronskih sporočil povečalo za nekaj sto odstotkov, število napadov z lažnim predstavljanjem z namenom ribarjenja pa se je v tem času v celoti povečalo za kar 350 %. Tarče teh napadov niso samo podjetja, ampak tudi zasebni uporabniki, ki si s prenosom aplikacij, ki naj bi bile povezane s covidom-19, na svoje pametne naprave namestijo zlonamerno programsko opremo in izsiljevalske viruse.
+
+Kibernetske grožnje pri delu na daljavo
+
+Čeprav je prehod na delo na domu številnim organizacijam in zaposlenim omogočil, da ostanejo produktivni, je prinesel tudi dodatno varnostno tveganje. Pri delu na daljavo so lahko podatki in spletne povezave manj varne, kar spletnim kriminalcem omogoča enostavnejše povezovanje s sistemi organizacij.
+
+Zaposleni so bili že pred pandemijo najpogostejša tarča kibernetskih napadov in zato glavna šibka točka pri zagotavljanju informacijske varnosti v podjetjih, zato je bistveno vlaganje v njihovo izobraževanje o varni uporabi informacijsko-komunikacijske tehnologije, kar pa v Sloveniji počne zgolj 53 % podjetij. Pričakovati je, da se bodo tudi po pandemiji ohranile določene oblike dela na daljavo, zato lahko predvidevamo, da bodo kibernetski napadi na zaposlene, ki delajo od doma, v prihodnosti postali pogostejši in bolj izpopolnjeni.
+
+Pri ponudniku celovitih komunikacijskih storitev A1 Slovenija pojasnjujejo, da je najpomembnejša naloga ekip za kibernetsko varnost v podjetjih pri prehodu na delo na daljavo posodobitev požarnih zidov ter protivirusne programske opreme na celotnem IT-območju, vključno z računalniki, ki jih zaposleni uporabljajo za delo na daljavo, saj spletni kriminalci izkoristijo kakršne koli napake pri vzdrževanju informacijskih sistemov.
+
+Skrb vzbujajoča statistika kibernetske (ne)varnosti
+
+Pandemija covida-19 je samo še poudarila trend, ki ga na področju kibernetskih napadov z zaskrbljenostjo spremljamo že vrsto let, tako po svetu kot v Sloveniji. Ker uporaba pametnih naprav, kot so mobilni telefoni, tablični, prenosni in osebni računalniki ter druge povezane naprave, hitro narašča, se povečuje tudi prostor za kibernetske napade.
+
+Največ napadov poteka prek družbenih omrežij, elektronske pošte in aplikacij za takojšnje sporočanje ( instant messaging ). Globalno smo leta 2019 v povprečju zaznali 750.000 napadov na dan oziroma 22,5 milijona na mesec, kar je 44 % več kot leta 2018. Po podatkih SI-Certa je bilo lani v Sloveniji skoraj 5.900 incidentov, kar je 12-% rast v primerjavi z letom prej. Med vsemi zaznanimi incidenti se je najbolj povečalo ribarjenje, za kar 94 %.
+
+V poslovnem svetu skrbijo predvsem trendi okužb z izsiljevalskimi virusi (t. i. ransomware ), pri katerih spletni kriminalci zadržujejo podatke ali omrežje kot talce, dokler napadeno podjetje zanje ne plača odkupnine. Lani je bila največja znana ocenjena škoda pri napadu izsiljevalskega virusa v Sloveniji 2,4 milijona evrov. Napadi z izsiljevalskimi virusi so v času pandemije dosegali predhodno nevidene razsežnosti, hekerji pa so pridobili nadzor nad sistemi nekaterih večjih globalnih podjetij in zahtevali visoke odkupnine.
+
+Varnostne rešitve A1 Slovenija
+
+A1 Slovenija ponuja širok spekter rešitev in orodij, ki lahko pomagajo preprečiti škodo, ki bi lahko nastala zaradi kibernetskega napada – poslovnim uporabnikom sta na voljo protivirusni program F-Secure in požarni zid naslednje generacije Stormshield , posameznikom pa rešitev A1 Protekt .
+
+F-Secure za računalnike in delovne postaje zagotavlja celovito zaščito pred virusi, vohunskimi programi, vdori in nezaželeno pošto, pri tem pa ne upočasnjuje delovanja računalnikov. F-Secure za mobilne naprave pa zagotavlja popolno zaščito pred krajo podatkov – zaupne podatke varuje tudi, če je naprava izgubljena ali ukradena – virusi in vohunskimi programi za pametne telefone in tablice, omogoča pa tudi iskanje izgubljene oziroma odtujene naprave.
+
+Požarni zid Stormshield je poenotena rešitev za upravljanje groženj in požarnih zidov
+
+naslednje generacije, ki uporabnikom omogoča dostop do vseh integriranih varnostnih funkcij za klasično infrastrukturo in oblak. Stormshield poenostavlja upravljanje varnosti v podjetju z enim vmesnikom, programska oprema pa med drugim vključuje algoritem, ki dinamično prilagaja varnostni pravilnik, kar pomeni, da je ob večjem tveganju stopnja zaščite višja.
+
+Zasebni uporabniki lahko s poslanim SMS-sporočilom vklopijo rešitev A1 Protekt , ki varuje mobilni telefon pred virusi, vohunsko programsko opremo, spletnimi prevarami in zlonamernimi spletnimi naslovi na mobilnem omrežju A1 .

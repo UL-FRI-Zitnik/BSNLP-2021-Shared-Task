@@ -1,0 +1,15 @@
+sl-180
+sl
+2020-10-12
+http://www.fromtheweb.eu
+Svet Evrope: Vlade morajo zagotoviti zaščito podatkov pri aplikacijah za covid-19
+
+Svet Evrope je pozval vlade, naj pri uporabi aplikacij za boj proti pandemiji covida-19 zagotovijo zaščito podatkov. V danes objavljenem poročilu med državami s pomanjkljivostmi glede zaščite podatkov omenja tudi Slovenijo in izpostavlja, da slovenske zdravstvene oblasti sezname bolnikov delijo s policijo in upravnimi organi. Poročilo z naslovom Digitalne rešitve za boj proti covidu-19 analizira vpliv pravnega okvira in politik na pravico do zasebnosti in za zaščito podatkov.
+
+Poročilo ugotavlja, da se je med 55 državami, ki so ratificirale konvencijo 108, za decentraliziran pristop pri aplikacijah za sledenje stikov z okuženimi odločilo 26 držav, med njimi Slovenija. 14 se jih je odločilo za centraliziran pristop, deset jih aplikacije bodisi razvija, se še odločajo, ali jih bodo imele ali pa jih bodo delile s sosednjimi državami. Pet držav se je že odločilo, da ne bodo imele aplikacij za sledenje stikom.
+
+Dokument vsebuje tudi poglobljen pregled aplikacij za sledenje stikov z okuženimi in orodij za nadzor in ugotavlja, da države aplikacije za boj proti covidu-19 uporabljajo predvsem za sledenje stikom z okuženimi, samodiagnozo ter ugotavljanje spoštovanja odločb o karanteni.
+
+Poročilo v vrsti držav ugotavlja pomanjkljivosti pri uresničevanju konvencije Sveta Evrope o varstvu posameznika glede na avtomatsko obdelavo osebnih podatkov, znane tudi kot konvencija 108. Te pomanjkljivosti se nanašajo predvsem na zahtevo po pravni podlagi za sprejete ukrepe, njihovo sorazmernost ter upravičenost glede na javni interes.
+
+Med državami s pomanjkljivostmi glede zaščite podatkov poročilo omenja tudi Slovenijo. Slovenske zdravstvene oblasti tako kot grške in madžarske sezname bolnikov delijo s policijo in upravnimi organi, omenja poročilo. Svet Evrope v poročilu tudi izraža obžalovanje, ker se države niso uspele dogovoriti za enotno evropsko aplikacijo za sledenje stikom z okuženimi. Zaradi številnih različnih sistemov je učinkovitost aplikacij omejena, še poudarja.

@@ -1,0 +1,35 @@
+sl-229
+sl
+2020-07-13
+http://www.fromtheweb.eu
+HUDO SE MUDI
+
+Aplikacija za sledenj covid-19 naročena, vsul se je plaz kritik
+
+Razpis je bil objavljen v nedeljo, zaključi se že v sredo.
+
+Ministrstvo za javno upravo je v nedeljo objavilo poziv za oddajo ponudbe za prilagoditev mobilne aplikacije za obveščanje o stikih z okuženimi s covid-19 za operacijska sistema iOS in Android, ki temelji na t. i. nemški aplikaciji Corona-Warn-App ter razvoj grafičnega vmesnika za povezavo na zaledni sistem covid-19 opozorilnega sistema.
+
+Upoštevane bodo ponudbe, ki bodo predložene najkasneje do srede, 15. julija do 12. ure na elektronski naslov:
+
+Ta e-poštni naslov je zaščiten proti smetenju. Potrebujete Javascript za pogled.
+
+z obveznim sklicem na zadevo 450-1003/2020.
+
+Obrazec za oddajo ponudbe in opis meril in pogojev so v tem dokumentu (prilagamo ga v dveh oblikah):
+
+JN3130-20-000430_1-JN-01_O01_Povabilo_K_Oddaji_Ponudbe_koncna_za_objavo.docx (obrazec, ki se ga lahko uporabi za digitalno oddajo ponudbe)
+
+JN3130-20-000430_1-JN-01_O01_Povabilo_K_Oddaji_Ponudbe_koncna_za_objavo_P.pdf (podpisan poziv)
+
+Tehnične specifikacije naročila so v tem dokumentu: Tehnične specifikacije_COVID19_aplikacije_koncna_za_objavo.docx
+
+Rok za dokončanje del (razvoj in prilagoditve) je 1. avgust letos, z veljavnostjo pogodbe do 31. decembra letos. Za potrebe verificiranja testov je potrebno izdelati odjemalsko aplikacijo, ki bo služila za povezavo med laboratoriji oziroma NIJZ in zalednim sistemom covid-19 opozorilne mobilne aplikacije povzete po nemškem modelu (corona-warn-app).
+
+Napovedali ustavno presojo
+
+Na ministrstvu tistim, ki se bodo prijavili predlagajo, da oddane ponudbe digitalno podpišejo, ni pa to nujno in ne vpliva na oddajo ponudbe, če posredovano ponudbo podpišete v fizični obliki.
+
+Uvedbo aplikacije je prejšnji teden v okviru četrtega paketa prorikoronske zakonodaje potrdil DZ, a je opozicija napovedala ustavno presojo. Aplikacija bo obvezna za tiste, ki so okuženi oz. v karanteni, za ostale pa me, so poudarjali pristojni.
+
+Na spletu se je vsul plaz kritik na račun kratkega roka za oddajo ponudbe in prav tako za dokončanje del. Nekateri izpostavljajo, da naročila ni spletni strani MJU pod javnimi objavami, niti ne na enarocanje.si.

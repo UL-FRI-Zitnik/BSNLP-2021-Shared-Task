@@ -1,0 +1,25 @@
+sl-23
+sl
+2020-12-08
+http://www.fromtheweb.eu
+Rezultati o učinkovitosti cepiva proti covidu-19 prvič objavljeni v strokovni reviji
+
+Rezultati o učinkovitosti cepiva proti covidu-19 so bili danes prvič objavljeni v strokovni reviji. Revija Lancet je objavila, da je cepivo AZD1222, ki sta ga razvila podjetje AstraZeneca in oxfordska univerza, varno in da ob dveh odmerkih nudi okoli 70-odstotno zaščito. To so sicer razvijalci sporočili že novembra.
+
+Cepivo se je zaenkrat izkazalo za varno. Zgolj trije od 24.000 udeležencev v kliničnem testiranju cepiva je v treh do štirih mesecih po cepljenju razvilo hude stranske učinke. Vendar pa ni jasno, ali je to posledica cepljenja. Vsi trije so ozdraveli oziroma okrevajo, po poročanju nemške tiskovne agencije dpa piše Lancet.
+
+Podatki o učinkovitosti cepiva medtem temeljijo na 11.600 udeležencih. Rezultati kažejo, da je učinkovitost močno odvisna od odmerkov, ki jih prejme posameznik. Med 4440 udeleženci, ki so prejeli dva cela odmerka, jih je za covidom-19 zbolelo 27 oziroma 0,5 odstotka. V podobno veliki kontrolni skupini pa jih je zbolelo 71 oziroma 1,6 odstotka. Učinkovitost tako ob dveh odmerkih cepiva znaša 62 odstotkov.
+
+Pri prostovoljcih, ki so najprej pomotoma prejeli samo pol odmerka, nato pa še enega celega, je učinkovitost znašala 90 odstotkov. Med 1367 ljudmi, ki so prejeli cepivo, so zboleli trije oziroma 0,2 odstotka. V podobno veliki kontrolni skupini pa 30, kar predstavlja 2,2 odstotka.
+
+Pri okužbi z novim koronavirusom, ki ne vodi v koronavirusno bolezen 19, je medtem cepivo manj učinkovito. Pri tedenskem testiranju se je izkazalo, da se je z virusom okužilo 29 od 3300 ljudi, ki so bili cepljeni. To je 0,9 odstotka. V nekoliko večji kontrolni skupini pa se jih je okužilo 40 oziroma 1,2 odstotka. To pomeni 27-odstotno učinkovitost.
+
+Pri tistih nekaj udeležencih, ki so prejeli različna odmerka, je učinkovitost pri zaščiti pred asimptomatsko okužbo znašala 59 odstotkov, še navaja dpa.
+
+Regulatorji so odobrili načrt za nadaljevanje preizkušanja cepiva v različnih odmerkih
+
+Glede tega, koliko časa cepivo nudi zaščito, medtem znanstveniki še niso mogli navesti podatkov.
+
+Objava tako potrjuje podatke, ki so jih 23. novembra sporočili razvijalci cepiva. Ti so nekaj dni kasneje priznali, da so pri odmerkih naredili napako. Sprva namreč ni bilo predvideno, da delež sodelujočih v raziskavi dobi le polovični odmerek, ampak so to storili pomotoma. Regulatorji so odobrili načrt za nadaljevanje preizkušanja cepiva v različnih odmerkih. Sprožili pa so tudi dodatno študijo.
+
+Cepivo britansko-švedskega farmacevtskega giganta AstraZeneca in oxfordske univerze uporablja oslabljeno verzijo adenovirusa, ki vsebuje genski material proteina S. Po cepljenju se v človeškem telesu razvije ta protein, ki imunski sistem pripravi na napad virusa sars-cov-2.

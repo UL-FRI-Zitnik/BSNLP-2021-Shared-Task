@@ -159,14 +159,14 @@ def generate_training_examples(
 
     for key, values in positive_examples.items():
         # logger.info(f"{key} ({len(values)}): {values}")
-        use_items = choices(values, k=3)
+        use_items = choices(values, k=CHOOSE_K)
         for comb in combinations(use_items, 2):
             matches.append(comb)
 
     clids = positive_examples.keys()
     for comb in combinations(clids, 2):
         # skip some combination with a 1/2 probability
-        if not SEARCH_CLOSEST and random() < 0.5:
+        if not SEARCH_CLOSEST and random() < 0.5:  # toss a fair coin
             # logger.info("Skipping...")
             continue
         d1 = choices(positive_examples[comb[0]], k=CHOOSE_K)

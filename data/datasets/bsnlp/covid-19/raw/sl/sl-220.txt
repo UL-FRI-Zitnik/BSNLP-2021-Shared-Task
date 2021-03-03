@@ -1,0 +1,19 @@
+sl-220
+sl
+2020-06-18
+http://www.fromtheweb.eu
+Better - platforma za obvladovanje epidemije COVID-19 v Nemčiji
+
+HiGHmed konzorcij iz Nemčije izbral platformo Better za vzpostavitev aplikacije za spremljanje širjenja in analizo COVID-19. S tem se je pridružil vrsti zdravstvenih ustanov in držav, ki že uporabljajo platformo in orodja Better za izboljšanje zdravljenja pacientov s COVID-19. Konzorcij HiGHmed sestavlja osem univerzitetnih bolnišnic, med njimi tudi Charité v Berlinu, peta s seznama najbolj kakovostnih bolnišnic na svetu po letošnjem izboru ameriške revije Newsweek.
+
+V času epidemij je še toliko bolj pomembno, da se zdravstveni podatki zbirajo v enotni obliki. To namreč omogoča, da se le-ti lahko združujejo in analizirajo v realnem času, kar posledično pomeni sprejemanje hitrih odločitev na podlagi kakovostnih podatkov in analiz. Zato so se v HiGHmed konzorciju, ki združuje osem vodilnih univerzitetnih bolnišnic v Nemčiji, med njimi tudi Heidelberg, Charité, Göttingen in Hannover, odločili uporabiti Better platformo za vzpostavitev aplikacije za spremljanje in analizo COVID-19.
+
+Stefan Becker , generalni direktor pri HiGHmed-u pojasnjuje: " Better platformo nameravamo uporabiti za našo aplikacijo SmICS (Smart Infection Control System), ki bo na voljo bolnišnicam in drugim zdravstvenim institucijam v Nemčiji. Ta nam bo omogočila detekcijo žarišč infekcij, npr. pri okužbi s COVID-19. Naš osnovni cilj je zbirati kakovostne, natančne in strukturirane podatke za nemški zdravstveni sistem in izboljšati zdravljenje obolelih s COVID-19. "
+
+Podatki v Better platformi so namreč zbirani v skladu in s standardom openEHR. Gre za odprt podatkovni standard, ki omogoča zbiranje podatkov iz heterogenih virov. Mednarodna fundacija, OpenEHR katere član je tudi Better in združuje preko 1.000 strokovnjakov kliničnih strok iz vsega sveta, je ob izbruhu pandemije COVID-19 pripravila klinične podatkovne modele za spremljanje ne le detekcije in širjenja virusa, ampak tudi zdravljenja in poročanja o pandemiji. V Better so te modele vključili v svoje produkte in zdravstvenim ustanovam ter državam omogočili hitre reakcije v času epidemije. V času epidemij je namreč ključen in odločilen hiter odziv.
+
+Tako bodo v okviru HiGHmed konzorcija s pomočjo Better platforme zbirali podatke iz različnih baz, sistemov in aplikacij. Podatke nato platforma ob uporabi kliničnih modelov normalizira in shrani. Kakovostni podatki so tako v realnem času na voljo za različne uporabe, od aplikacij kot je, npr. Smart Infection Control System, do vzpostavitve nacionalnega registra za COVID-19.
+
+Tomaž Gornik , direktor pri podjetju Better je za STA povedal: " Vesel sem, da že več kot 10 naših strank uporablja rešitve Better pri spremljanju COVIDa-19. Poleg HiGHmed konzorcija, še bolnišnica v Calgariju na Sardiniji, v Moskvi v 500 zdravstvenih domovih in 100 bolnišnicah, na uporabo se pripravljajo v Franciji, konkretneje v Strasbourg-u, kjer bodo v sodelovanju z CapGemini in Dassault system vzpostavili register za spremljanje COVID 19 v regiji GrandEst. Najdlje pa so šli v angleški bolnišnici Somerset, kjer so na podlagi kliničnih modelov in z našimi orodji v pičlih dveh tednih sami izdelali elektronske obrazce, s katerimi spremljajo potek zdravljenja že obolelih pacientov s COVID-19. "
+
+Nadaljni razvoj načrtujejo tudi v HiGHmedu, kjer že pripravljajo "dashborde" (pregled kjlučnih kazalnikov) za intenzivne oddelke za paciente s COVID-19.

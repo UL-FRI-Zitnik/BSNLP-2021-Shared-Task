@@ -1,0 +1,15 @@
+sl-13
+sl
+2020-11-17
+http://www.fromtheweb.eu
+Hekerji iz Rusije in Severne Koreje napadli razvijalce cepiva proti Covid-19
+
+Microsoft je potrdil, da so hekerji iz Rusije in Severne Koreje kebernetsko napadli razvijalce Covid-19 cepiva. Za zdaj še ni znano, katera podjetja so bila žrtev hekerskih vdorov, prav tako pa strokovne službe še preizkujejo, ali je prišlo do kakršnekoli zlorabe podatkov.
+
+Microsoft je novico objavil v svojem zapisu na spletni strani , tarče ruskih in severnokorejskih hekerjev pa naj bi bile različne korporacije, ki se že nekaj mesecev ukvarjajo z raziskavami in razvojem cepiva za Covid-19. Po zadnjih podatkih spletnega portala The Verge bi naj bile žrtve napadov sedem vodilnih farmacevtskih podjetij v ZDA, Kanadi, Franciji, Indiji in Južni Koreji.
+
+" Med tarčami je večina razvijalcev Covid-19 cepiva, ki se trenutno nahajajo v različnih fazah kliničnega testiranja ," so zapisali pri Microsoftu. Tom Burt , Microsoftov korporativni podpredsednik za varnost stran in tveganja je dejal, da za zdaj še ne morejo govoriti o imenih podjetij, prav tako pa ne morejo z gotovostjo trditi, kateri, če sploh, podatki so bili zlorabljeni. Preiskave po posameznih podjetij še potekajo, Microsoft pa je napadenim takoj ponudil potrebno pomoč in podporo. Po Microsoftovih podatkih je bila večina hekerskih napadov uspešno blokiranih, saj imajo vse tarče močno kiber zaščito.
+
+Da domišljija hekerjev dandanes resnično več ne pozna meja, dokazujejo uporabljene metode napadov. Hekerji so v tokratni akciji uporabili široko paleto zlonamernih metod, od zelo direktnih poizkusov logiranja v profile zaposlenih, do poizkusov kraje prijavnih podatkov zaposlenih in celo do "spear-phishing" napadov, v katerih so se hekerji predstavili kot rekruterji, ki iščejo kandidate za delo in kot predstavniki Svetovne zdravstvene organizacije.
+
+" V času, ko se cel svet bori s pandemijo in ko se predvsem vse zdravstvene organizacije iz dneva v dan žrtvujejo s svojm delom, so takšni napadi vredni posebej ostrega obsojanja ," je zapisal Burt. Po njegovem mnenju bi morali takšne poteze strogo obsojati v vsem civiliziranem svetu.

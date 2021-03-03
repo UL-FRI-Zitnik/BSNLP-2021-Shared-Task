@@ -1,0 +1,53 @@
+sl-133
+sl
+2020-10-28
+http://www.fromtheweb.eu
+Maja Rupnik: S covidom 19 imamo še srečo, covid 20 bi bil lahko smrtonosnejši
+
+Mikrobiologinja Maja Rupnik: »Prihodnjo jesen še en val okužb, nato umiritev.«
+
+Vodja oddelka za mikrobiološke raziskave v Nacionalnem laboratoriju za zdravje, okolje in hrano (NLZOH) Maja Rupnik meni, da bo po letošnji zimi prišel nov val okužb z novim koronavirusom še naslednjo jesen, nato pa se bo človek navadil nanj. Povsem varni pa ne bomo nikoli in v bistvu imamo srečo, da ni virus bolj smrtonosen, je povedala za STA .
+
+Koliko že poznamo virus sars-cov-2?
+
+Virus poznamo precej dobro. Še zmeraj pa je veliko težjih vprašanj nerešenih, denimo zakaj včasih povzroča težjo in zakaj lažjo obliko bolezni. Prav tako ne vemo tistih stvari, ki se bodo pokazale šele čez nekaj mesecev, npr. kakšne so trajne posledice okužbe ali kako dolgo lahko traja imunost. Odgovor na zadnje bomo dobili šele, ko bomo lahko obolele dolgo spremljali, torej šele čez kakšno leto. Na žalost raziskave za zdaj kažejo, da se začne količina protiteles pri obolelih v nekaj tednih do mesecih zmanjševati, kar pomeni, da zaščita po naravni poti najverjetneje ni dolgotrajna.
+
+Kako daleč smo pri odkrivanju virusa? Koliko smo napredovali od začetka leta?
+
+Že takoj v začetku smo imeli na razpolago najboljše mogoče teste v mikrobiološki diagnostiki, to so molekularni testi (PCR). Ti so zelo občutljivi in zelo specifični. To pomeni, da zaznajo izredno majhne količine virusa in zelo dobro razlikujejo med novim koronavirusom in starimi koronavirusi, ki so tudi prisotni v naši populaciji. Tudi ti sicer niso stoodstotno zanesljivi, a so najboljše, kar je trenutno na voljo.
+
+Na tržišču je trenutno več kot 800 različnih testov. Napredek je predvsem viden v prihodu drugega tipa testov, to so antigenski testi, znani tudi kot hitri testi. Pri teh ne določamo prisotnosti virusa tako, da bi pomnoževali virusne gene, ki so morebiti prisotni v vzorcu, pač pa uporabimo umetno izdelana protitelesa in z njimi iščemo virusne delce pri bolniku. Prednost teh testov je predvsem hitrost, saj je izid znan v nekaj minutah. Vendar se na račun hitrosti izgubi zanesljivost.
+
+Bi ti hitri testi vseeno lahko predstavljali ustrezno rešitev za lažjo organizacijo dela, na primer v bolnišnicah ali podjetjih?
+
+Le delno, na primer v bolnišnicah, saj imajo te znanje o pravilni uporabi takšnega testa; predvsem o tveganjih, ki jih takšna uporaba prinese. Kakšne druge organizacije tega znanja nimajo. Zato bi bilo nesmiselno in napačno, če bi veliki delovni obrati začeli rutinsko uporabljati te teste.
+
+Kako je z različnimi virusnimi sevi? Kaj kroži po Sloveniji in kaj drugod, so različno nevarni?
+
+Za Slovenijo je znanih pet genomov, vsak je drugačen. Če si predstavljamo genom virusa kot zaporedje 30.000 črk, potem drugačen v tem primeru pomeni, da je imel vsak od njih šest do sedem črk različnih. Te konkretne majhne spremembe za zdaj niso povezane z različno nevarnostjo ali kužnostjo. V svetu pa je bila zaznana sprememba virusa, kjer se je izgubil del genoma. Če ostanemo pri prejšnji primerjavi, se je izgubil del, dolg okoli 400 črk, in za te viruse so znanstveniki pokazali, da so povezani z blažjo obliko bolezni pri ljudeh.
+
+Spremembe v virusnem genomu so naključne, zato ni mogoče predvideti, v katero smer bo šel njegov razvoj na določenem geografskem območju. V Evropi krožijo zelo podobni virusi, a tudi sicer ne moremo reči, da je ena oblika nevarnejša kot druga, saj imamo zelo malo podatkov, kako se te spremembe, ki jih najdemo v genomu, obnašajo pri bolnikih.
+
+Nekako se zdi, da je smrtnost zaradi covida 19 zdaj manjša. Virus ni več tako močan kot na začetku leta?
+
+Virus se je razširil tudi v populacijo, pri kateri je smrtnost manjša, zato se je zmanjšala tudi celokupna smrtnost, vendar z naraščanjem števila primerov narašča tudi število težko bolnih in mrtvih, kar močno obremenjuje zdravstveni sistem. Prav tako se z naraščanjem števila primerov veča možnost nadaljevanja prenosov in s tem epidemije ter povečuje možnost vnosov v ogrožene skupine.
+
+Dokler ne najdemo zdravila ali cepiva, je edina rešitev za zajezitev širjenja virusa ustavitev javnega življenja?
+
+Dokler je virus razširjen tako globalno kot zdaj, ne pomaga, če se samo ena regija ali ena država popolnoma zapre, saj ni mogoče preprečiti vdora od zunaj, takoj ko bi se država ponovno odprla. Tako zdaj ni mogoče popolnoma ustaviti virusa, moramo pa čim bolj zmanjšati prenose. V okoljih, kjer je virusa več, je treba prenose zmanjševati bolj drastično in temu so namenjeni trenutni ukrepi. Ko se pogostost virusa v določenem okolju spet zmanjša, pa se lahko življenje spet normalizira. Mislim, da se bomo v drugem valu vsi naučili, da so ti najpreprostejši ukrepi dejansko lahko zelo učinkoviti.
+
+Kaj pomeni prihod jesenskega časa in zime za širjenje virusa?
+
+Tako kot je poletje čas okužb prebavil, je zima čas okužb dihal, zato je jesensko-zimski čas ugodnejši tudi za širjenje novega koronavirusa. Delno zato, ker hladno vreme zmanjša naše obrambne mehanizme na sluznicah, manj imamo tudi vitamina D, obenem pa omogoča boljšo obstojnost virusa v okolju. Širjenje virusa je lažje tudi zato, ker se pozimi več zadržujemo v zaprtih prostorih. Pričakujem, da se bo položaj pri nas čez prihajajočo zimo zaostroval, poleti prihodnje leto pa bo spet umiritev, kakršna je bila letos poleti.
+
+Kmalu torej še ni pričakovati konca epidemije?
+
+Epidemija se bo gotovo končala, a žal ne v dveh mesecih. Zgodovina nas uči, da bo prihodnjo jesen verjetno še en val, potem pa bo novi koronavirus počasi začel izginjati z naslovnic in nas bo začel normalno spremljati. Za viruse, ki povzročajo okužbe dihal, je naravna pot, da se počasi navadimo eden na drugega in začnemo sobivati.
+
+Težava novega koronavirusa je ravno v tem, da nam še ni znan. Na primer virus gripe je z nami že desetletja in smo nanj navajeni, zato nima takšnih razsežnosti. Naš imunski sistem ima spomin in gripe se spomni, zato bi, če bi sto ljudi prišlo v stik z gripo, zbolela manj kot polovica. Če bi teh istih sto ljudi prišlo v stik z novim koronavirusom, pa bi jih zbolelo več kot tri četrtine. In to je ta razlika. Tudi če je pri gripi in covidu 19 enak delež težjih potekov bolezni, je razlika v številu težjih bolnikov enormna.
+
+Pa lahko zatem pride covid 20?
+
+Lahko pride covid 20 ali pa nova oblika oblika gripe in lahko se zgodi, da bo naslednji novi povzročitelj še bolj nevaren. V bistvu imamo zdaj še srečo, da je prišel covid 19, ki se sicer izjemno hitro širi, a je še vedno sorazmerno blag. Lahko bi bili soočeni z obliko koronavirusa, ki bi se tako dobro širila kot covid 19, a bi bila dosti bolj smrtna.
+
+Človeštvo se že skozi vso zgodovino sooča z novoporajajočimi se boleznimi in s tega stališča trenutna epidemija ni nič izjemnega, v zadnjem času se takšni pojavi zaradi globalizacije le bolje širijo. Srečo imamo tudi zaradi dejstva, da je zaščita pred novim koronavirusom razmeroma enostavna – umivanje rok, razdalja, prezračevanje in zaščitne maske.

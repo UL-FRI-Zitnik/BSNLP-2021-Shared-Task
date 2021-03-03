@@ -1,0 +1,85 @@
+sl-166
+sl
+2020-05-04
+http://www.fromtheweb.eu
+Prihodnost informacijske tehnologije v novi Covid-19 realnosti: 5 tehnoloških trendov
+
+O tem, da je izbruh pandemije novega koronavirusa popolnoma spremenil življenja ljudi po vsem svetu, verjetno ni potrebno izgubljati besed. Poleg tega je potrebno izpostaviti še, da bo virus še kar nekaj časa med nami, vpliv, ki ga bolezen Covid-19 ima, pa bo viden tudi v razvoju tehnoloških trendov.
+
+Poslovanje podjetij in informacijska tehnologija sta med seboj neločljiva elementa in če podjetja želijo normalno poslovati, se enostavno morajo zanesti na določene oblike digitalne tehnologije. Enako velja, če želijo ostati konkurenčna, za kar nujno potrebujejo integracijo naprednih tehnologij v obstoječo poslovno strategijo. Ena od posledic pandemije bo pazljivo investiranje v zanesljive tehnologije, ljudje bodo v večji meri delali od doma, kar pomeni, da lako pričakujemo raste tega segmenta tehnologije. Torej, kateri trendi tehnologije bodo krojili prihodnost v novi Covid-19 realnosti.
+
+1. Umetna inteligenca
+
+Umetna inteligenca, ki še zdaleč ni nov pojem na področju informacijske tehnologije, iz dneva v dan povečuje svoj vpliv. Po domače rečeno, umetna inteligenca omgoča računalnikom in strojem, da delujejo na principu človeških možganov (do določene mere seveda). Umetno inteligenco uporablja že 77 % potrošnikov, do leta 2030, pa naj bi po podatkih PwC-ja, umetna inteligenca h globalni ekomoniji doprinesla 15,7 bilijona ameriških dolarjev. Umetna inteligenca je omogočila številna tehnološke inovacije, med drugim tudi vsem dobro znane, kot so podatkovno procesiranje, tehnologija prepoznavanja obraza in govora itd.
+
+Do konca leta 2020 lahko pričakujemo, da bo na trg prišlo še več po meri narejenih aplikacij in storitev, ki bodo specializirane za specifične naloge. Eden najbolj razširjenih načinov implementacije umetne inteligence v prakso je uporaba "chatbotov", gledano širše pa umetna inteligenca pomaga predvsem pri avtomatizaciji.
+
+V času pandemije Covid-19 so se praktični načini uporabe umetne inteligence izkazali, kot še bolj pomembni in zato bo umetne inteligence skoraj gotovo del tehnoloških trendov ne samo letos, temveč na dolgi rok. Glavni razlog? Učinkovitost, neverjetna hitrost in natančnost, zmožnost dela 24/7, manj napak v primerjavi z ljudmi. Slabosti umetne inteligence? Visoki stroški, omejitve glede kode in odvisnost od strojev oz. računalnikov.
+
+2. Internet stvar
+
+Internet stvari omogoča internetno povezavo med praktično vsemi napravami, ki obstajajo. Govorimo o različnih senzorjih, vgradnih tehnologijah in funkcionalni programski opremi. IoT ("Internet of Things") naprave so v večini del pametnih domov, nosljive tehnologije, varnosti in pametnih mest. IoT ime ogromen potencial tudi na področju medicine - napovedovanje in zdravljenje ljudi pred pojavom simptomov, personaliziran pristop pri predpisovanju zdravil itd.
+
+Leta 2019 je po podatkih portala statista.com bilo na svetu 26 milijard IoT naprav. Do konca letošnjega leta bi naj številka dosegla 30,73 milijard, do leta 2025 pa celo 75,44 milijard IoT naprav. IoT poleg vseg poganja "edge computing", shranjevanje podatkov pa je danes bližje podjetjem, kot kdajkoli prej.
+
+IoT bo močno spremenil uporabniško izkušnjo in omogočil stvari, ki do danes niso bile možne. Če se spet dotaknemo pandemije, se bodo naprave, ki življenje dokazano izboljšajo in ga naredijo bolj udobnega, verjetno ostale med nami. Tak primer je recimo telemedicina in pa IoT naprave, ki pomagajo pri spremljanju zdravstvenega stanja ljudi.
+
+Največje nevarnosti za ta informacijsko-tehnološki trend so varnost, manko mednarodnih standardov kompatibilnosti ter potencialno zmanjševanje zaposlitev. Istočano IoT nudi možnost dobrega nadzora in avtomatizacijo, prihrani denar in čas, pogosto pa dejansko izboljšuje kvaliteto življenja.
+
+S tem, ko se veča število med seboj povezanih naprav, se veča tudi količina kiber napadov na te naprave. Po navadi je glavni cilj hekerjev priti do podatkov uporabnikov ali od njih izterjati denar. Dejstvo je, da bo število napadov samo še naraščalo, sofisticiranost napadalcev pa kratično ne pozna meja. Zaščita računalnikov in ostalih naprav se izvaja z "next-gen" požarnimi zidovi, DNS filtriranjem, programsko opremo in preventivnimi pristopi uporabnikov.
+
+Kiber varnost je eden ključnih trendov informacijske tehnologije za vse organizacije, katerih poslovanje vsaj v določeni meri sloni na podatkovni tehnologiji. Podjetja in organizacije dajejo kiber varnosti veliko več pozornosti, od kar je bil sprejet GDPR. Po napovedih podjetja ElevenPaths bodo v letošnjem letu najbolj na udaru kiber kriminalcev podatki v oblakih, strojno učenje, odprto bančništvo in mobilne naprave s 5G tehnologijo. Eden od načinov, kako zaščititi svoje podatke, še posebej tukaj mislimo na IoT naprave, je "blockchain" tehnologija. V letu 2019 so za namene povečanja svoje kiber varnosti tehnologijo veriženja blokov začele uporabljati korporacije, kot so FedEx, IBM, Walmart in Mastercard.
+
+Danes, ko masa ljudi dela od doma oz. na daljavo, je količina podatkov, ki so potencialna tarča hekerjev, največja do zdaj. Ogromne količine od teh podatkov niso ustrezno zaščitine, kar pa je po drugi strani potencial, da se podjetja dodatno zapodijo v razvoj novih načinov kiber varnosti. To področje informacijske tehnologije ima potencial na področjih "crowdfundinga", shranjevanja podatkov, napovedovanja trgov, zaščite intelektualne vsebine, IoT-ja in trgovanja z delnicami.
+
+4. XR ("Extended Reality")
+
+XR tehnologije v tem trenutku seveda niso revolucionarne, vendar jih je v zadnjem času intezivno začel uporabljati zabavna industrija. Zakaj? Za še bolj pristno in kvalitetno digitalno izkušnjo (Snapchat filtri, Pokemon Go-stil igre). XR najbolj pogosto vključuje virtualno, navidezno in mešano resničnost. Razlike med temi tremi tehnologijami verjetno poznamo, zato zgolj kratek pogled v prihodnost. Vpliv virtualne in navidezne resničnosti bo vedno večji na področju treninga in simulacij, prav tako pa bosta oba segmenta ponujala nove načine interakcije s potrošniki, kar pomeni novo nakupovalno izkušnjo. Leta 2020 je in še bo delovno mesto postalo manjše, predvsem zaradi uporabe kolaboracijskih orodij (Slack, Zoom, ...), ki so začela nadomeščati klasične poslovne prostore. AR in VR bosta do konca leta delavce že virutalno postavili v fizični prostor.
+
+5. 5G omrežje
+
+5G tehnologija bi naj bila prihodnost celotne mobilne industrije. Kot že verjetno veste nam bo dotična tehnologija prinesla izjemno hitre povezave (5-krat hitrejše od 4G), poleg tega pa večjo stabilnost omrežij. V bližnji prihodnosti lahko pričakujemo, da bo 5G tehnologija postala cenovno dostopnejša in bolj širše uporabljena. Napovedi kažejo, da bo po pokritosti kar hitro prehitela kabelski internet, ki ga uporablja večina gospodinjstev in podjetij. 5G bo omogočil rast števila naprav IoT, prav tako pa bodo pametne naprave zmožne zbirate in prenašati še več podatkov, kot do zdaj. 5G tehnologija bi lahko odigrala ključno vlogo tudi v primerih, kot je zdajšnja globalne pandemija, ko je dostop do interneta, predvsem na območjih brez povezave ali z nizko pokritostjo, težava.
+
+Kot ste do sedaj lahko že ugotovili, se tehnološki trendi ne bodo razvijali vsak zase, temveč s sinergiji. Razvoj 5G omrežij in "edge" računalništva bo omogočil rast zmogljivosti strojev, prav tako pa bosta dotična trenda osnova za nove generacije IoT platform. Integracija "blockchain" tehnologij z umetno inteligenco, "big data", IoT in "edge" računalništvom bo pripomogel k reševanju težav, ki se pojavljajo z mapiranje tako "on-line" kot "off-line" podatkov in sredstev. Rast in razvoj kvantnega računalništva bo dodal vitalen pomen umetni inteligenci in oblačnemu računalništvu. Kombinacija umetne inteligence in IoT-ja bo prinesla umetno inteligenco stvari (AIoT). To bo IoT napravam omogočilo, da sprejemajo odločitve same, brez vmešavanja ljudi. Ta kombinacija bi lahko vodila v pametno prodajo, monitoring z droni, pametna delovna mesta, avtonomno vožnjo avtomobilov in avtonomne dostavljalske robote.
+
+Ključne tehnološke veščine v letu 2020
+
+To je bilo torej pet najbolj obetajočih se tehnoloških trendov, ki bodo krojili dogajanje na področju informacijske tehnologije do konca letošnjega leta in verjetno še kar nekaj časa v prihodnosti. Kljub vsemu pa je za uspešno in učinkovito implementacijo teh trendov potrebno specifično znanje in veščine. Pa si poglejmo nekaj najbolj popularnih tehnoloških veščin za leto 2020:
+
+Python
+
+React (splet)
+
+Angular
+
+Strojno učenje
+
+Docker
+
+Django
+
+CompTIA
+
+Amazon AWS
+
+React Native (mobilno)
+
+Gatsby.js (spletno okolje)
+
+AWS Big Data
+
+React Hooks
+
+Microsoft Azure Architecture
+
+Next.js (spletno okolje)
+
+Apache Airflow
+
+SwiftUI
+
+Pegasystems
+
+ESP32 (internet stvari)
+
+Kvantno računalništvo

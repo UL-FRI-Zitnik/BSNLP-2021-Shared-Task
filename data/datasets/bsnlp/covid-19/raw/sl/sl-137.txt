@@ -1,0 +1,21 @@
+sl-137
+sl
+2020-07-27
+http://www.fromtheweb.eu
+Hrvati predstavili mobilno aplikacijo Stop covid-19
+
+Na hrvaškem ministrstvu za zdravstvo so danes predstavili mobilno aplikacijo Stop covid-19, s katero bo mogoče spremljati kontakte okuženih z novim koronavirusom. Uporaba aplikacije je prostovoljna, uporablja pa zgolj začasne in anonimne podatke, je poudaril hrvaški minister za zdravstvo Vili Beroš na novinarski konferenci v Zagrebu.
+
+Beroš je pojasnil, da je z aplikacijo Stop covid-19 možno zaznati kontakte uporabnikov s pomočjo tehnologije bluetooth. Oseba, ki je okužena z novim koronavirusom, bo s pomočjo aplikacije o svoji okužbi lahko obvestila druge uporabnike, ki so imele v času medsebojnega kontakta vključeno to aplikacijo.
+
+“Nobena možnost zasledovanja mobitelov ni vključena v aplikacijo. Ni geolokacije, obstaja največja možna zaščita osebnih podatkov,” je dodal Beroš. Poudaril je, da so aplikacijo pripravili v skladu s priporočili Evropske komisije.
+
+Kot je navedel, je aplikacija eno od orodij, ki lahko pomaga predvsem, ko prihaja do zbiranja večjega števila uporabnikov aplikacije na nekem mestu, v primeru, ko se pojavlja tudi večje število okuženih. Na ta način bo aplikacija lahko občutno olajšala prizadevanja epidemiologov, je dejal.
+
+Predsednik uprave državnega informacijskega podjetja APIS, ki je pripravilo aplikacijo, Saša Bilić je pojasnil, da prenosni telefoni z aplikacijo Stop covid-19 pri medsebojni komunikaciji izmenjujejo samo ključe, ne pa tudi osebnih podatkov. Izpostavlja, da nobena tretja stran ne more vedeti za komunikacijo dveh uporabnikov aplikacije.
+
+“Če bo nekdo izmed uporabnikov aplikacije zbolel, bo lahko prostovoljno odločil, ali bo obvestil ostale uporabnike, ki bodo potem dobili informacijo, da so v določnem obdobju bili v kontaktu z okuženo osebo,” je dejal Bilić. Da bi se izognili zlorabam, je možnost obveščanja mogoče aktivirati samo ob vpisovanju kode, ki jo bo okužena oseba dobila od svojega zdravnika ali epidemiologa, s katerim se bo posvetovala.
+
+Epidemiolog iz hrvaškega zavoda za javno zdravstvo (HZJZ) Tomislav Benjak je povedal, da bodo kontakti okuženega človeka dobili sporočila o tem, ali je nevarnost okužbe velika, srednja ali majhna. To bo odvisno od razdalje in časa, ko je bil nekdo v bližini okužene osebe. Visoko tveganje je, če je šlo za razdaljo dveh metrov najmanj 15 minut v 48 urah. Aplikacija bo ponudila tudi navodila, kako naj stiki okuženih ravnajo v tem primeru, je dodal.
+
+Na novinarsko vprašanje, kako bodo spodbudili državljane, da uporabljajo aplikacijo, je Beroš odgovoril, da računajo na zavest ljudi, ki z odgovornim obnašanjem pazijo nase in na druge. Povedal je, da namen hrvaških oblasti ni, da bi silili ljudi v uporabo aplikacije ali jih kaznovali, če aplikacije ne uporabljajo, temveč, da bi z izobraževanjem okrepili občutljivost ljudi na nevarnosti okužb. Omenil je, da bodo morda obravnavali tudi nek drug model aplikacije, če se bodo okoliščine epidemije na Hrvaškem spremenile.

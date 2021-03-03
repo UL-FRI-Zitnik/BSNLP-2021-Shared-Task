@@ -1,0 +1,27 @@
+sl-120
+sl
+2020-10-01
+http://www.fromtheweb.eu
+Po sledeh covid-19 sledilnika: Kaj je danes v Sloveniji drugače, kot je bilo spomladi, in kdo manipulira s podatki
+
+Slaba in nekonsistentna komunikacija s strani avtoritet vodi v negotovost in nezaupanje med ljudmi, kar daje zalet teorijam zarot. Da so se te v zadnjih tednih tako razbohotile med ljudmi najrazličnejših ozadij, gre kriviti porazno komunikacijo tistih, ki bi v teh nenavadnih in negotovih časih morali vzbujati zaupanje in občutek varnosti. Zanesljivost informacij, ki so javnosti podane na jasen in razumen način ter brez pokroviteljstva in porogljivosti, je ključna za ustvarjanje vzdušja, v katerem teorije zarot stežka pridobijo toliko sledilcev. V nasprotnem primeru, ob občutku, da te ima nekdo za slaboumnega, ko ti servira kontradiktorne informacije, je kajpada pričakovati, da se človek odzove z jezo in uporom. Prav s tem gre povezovati tisoče všečkov in izrazov zahvale, ki jih na družbenih omrežij veselo štejejo influencerji, ki so znali nagovoriti to nezadovoljstvo v ljudeh.
+
+Več testiranj, več potrjenih okužb?
+
+Mnoge v zadnjih dneh razkačijo predvsem informacije o vsakodnevnih rekordih v številu okuženih, ki da jim pogosto umanjka pomemben podatek – število opravljenih testov. Razmerje med celotnim številom testov in številom potrjenih okužb je do neke mere relevantno za razumevanje epidemije, toda argument, da se ob povečanemu testiranju linearno poveča tudi število potrjenih okužb, ne drži vode. Testiranje namreč ne poteka na naključnem vzorcu, reprezentativnem za prebivalstvo Slovenije, pri čemer bi se nato ob povečanju tega vzorca linearno povečalo število okuženih. »Trenutna testiranja večinoma potekajo na temelju izkazovanja simptomov okužbe,« so o vzorcu testiranih pojasnili statistični strokovnjaki, ki delujejo v projektu covid-19 sledilnik. Testiranje se odreja predvsem tistim, pri katerih je pričakovati, da bo rezultat testa pomagal pri zamejevanju širjenja okužbe, torej tistim, ki izkazujejo simptome koronavirusne bolezni. Razmerje med številom opravljenih testov in številom potrjenih okužb se v zadnjih dneh približuje štirim odstotkom, 12. septembra pa je celo presegel 5,5 odstotka. Tolikšen delež pozitivnih testov smo sicer imeli tudi 26. marca, ko smo ob 1014 testih našteli 61 okužb.
+
+Razmerje med številom opravljenih testov in potrjenimi okužbami se v zadnjih dneh približuje štirim odstotkom.
+
+Jasno je, da številke, ki jih vsakodnevno objavljata vlada in NIJZ, niso prikaz resničnega stanja. Nemogoče je vedeti, koliko ljudi je trenutno okuženih, ve pa se, da je realno število višje od uradnega, saj vseh primerov ni mogoče odkriti. Kadar se število testiranj povečuje hitreje, kot narašča število okužb, se resda nekoliko veča število odkritih okužb, a odstotek pozitivnih testov pada. Kadar povečujemo število testov, odstotek pa ostaja enak, to pomeni, da se število okuženih realno povečuje. Kot smo že pisali , je tako zato, ker so na testiranje napoteni tisti, ki imajo simptome in so bolj verjetno okuženi. A tudi tukaj odgovor ni povsem enoznačen, saj so vsakodnevne številke odvisne od tega, kakšen je bil vzorec testiranih.
+
+V primerjavi s pomladnimi meseci je v zadnjem času mogoče opaziti, da se je precej spremenila starostna struktura obolelih. Če smo marca in aprila spremljali tragično zgodbo širjenja virusa v domovih za starejše, smo se vsaj za zdaj temu relativno uspešno ognili. V zadnjih tednih se okužbe širijo predvsem med delovno aktivnim prebivalstvom in med mladino.
+
+V zadnjem obdobju se okužba širi med mlajšimi za razliko od marca in aprila, ko je obolevalo več starejših.
+
+Manj okužb med starejšo starostno skupino, pri kateri je težek potek bolezni v kombinaciji z zapleti pogostejši, se odraža v manjšem številu bolnišnično obravnavanih in tistih, ki potrebujejo umetno predihavanje. Še eno možno razlago za manj hospitaliziranih gre iskati v tem, da je morda tokrat na pohodu sev virusa, ki je do svojega gostitelja prizanesljivejši.
+
+Z grafa je razvidno, da v zadnjem času bolnišnično oskrbo potrebuje bistveno manj ljudi kot v spomladanskih mesecih.
+
+V spomladanskih mesecih so občasno skoraj polovico vseh potrjenih primerov sestavljali oskrbovanci domov za starejše in tamkajšnji zaposleni ter osebje v zdravstvu. Trenutna slika se od pomladi važno razlikuje tudi v tem, da je sedaj glavnina okuženih med ostalim prebivalstvom.
+
+V drugem valu se za zdaj okužba večinoma širi med prebivalstvom, ki ne dela v zdravstvu ali domovih za starejše. Pomladi je bil delež potrjenih okužb med oskrbovanci domov za starejše, tamkajšnjimi zaposlenimi in delavci v zdravstvu večji.

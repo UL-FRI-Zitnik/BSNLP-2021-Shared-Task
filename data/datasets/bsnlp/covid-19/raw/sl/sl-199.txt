@@ -1,0 +1,23 @@
+sl-199
+sl
+2020-06-11
+http://www.fromtheweb.eu
+Potek bolezni covid-19 je mogoče napovedati na podlagi krvne slike
+
+Kako hud bo potek obolenja s covidom-19 pri določenem bolniku, je mogoče že zgodaj napovedati na podlagi dveh tipov obrambnih celic v krvi, so pokazale ugotovitve raziskave na 40 obolelih v kitajskem Wuhanu, ki so jih tudi v Nemčiji s študijo potrdili na več bolnikih.
+
+Pri eni od celic gre za citotoksični limfocit, ki je znan tudi kot celica T ubijalka. Ta ubija z virusom okužene celice in tem prekine razmnoževanje novega koronavirusa. "Če imajo bolniki le malo teh celic, pri njih obstaja visoko tveganje, da bodo razvili hude simptome, kot so pljučnica ali motnje koagulacije," je dejal soavtor študije v Nemčiji, direktor inštituta za virologijo na univerzitetni kliniki v Essnu Ulf Dittmer .
+
+Drugi tip celic so t. i. nevtrofilci. "Ti so tam za to, da nas branijo pred bakterijami. Lahko pa tudi zavirajo celice T v njihovi funkciji," je pojasnil Dittmer. Zaradi tega je v vzorcih krvi z veliko nevtrofilci najti le malo celic T ubijalk, kar je nato povezano s težkim potekom bolezni.
+
+"Posebej je to prizadelo bolnike s predhodnimi obolenji, zaradi katerih so imeli nižje število celic T, kot so bolniki po presaditvah, ki so prejemali zdravila za zaviranje reakcije zavračanja," je dejal Dittmer.
+
+Prizadeti so tudi bolniki z rakom, ki se zdravijo s kemoterapijo, starejši ljudje, pri katerih je število T celic nižje zaradi starosti, ali bolniki s prekomerno težo. "Vemo, da imajo prekomerno težki ljudje manj celic T in da so te šibkejše," je pojasnil. Na kliniki v Essnu je imelo 70 odstotkov bolnikov s težkim potekom covida-19 prekomerno težo.
+
+Funkcijo celic T lahko izboljšata vitamina A in C
+
+Ugotovitve bi lahko pomagale pri določanju terapije za novo koronavirusno bolezen 19. Že v začetku okužbe bi bilo tako dobro poskusiti spodbuditi celice T, kar je mogoče z nekaterimi cepivi. Tudi vitamina A in C lahko izboljšata njihovo funkcijo. Pri ljudeh po presaditvah bi lahko zdravniki zmanjšali odmerek zdravil, ki preprečujejo zavračanje, pri rakavih bolnikih pa bi bilo treba prekiniti kemoterapijo.
+
+Dittmer poudarja, da je trenutno podrobnejšo študijo v Nemčiji težko izvesti, saj k sreči ni več dovolj bolnikov. Tako denimo na kliniki v Essnu v zadnjem tednu maja niso sprejeli nobenega na novo obolelega, v prvem tednu junija pa le enega.
+
+Imhnolog Michael Lohoff , ki pri študiji ni sodeloval, ugotovitve ocenjuje kot pozitivne, a poudarja, da je bilo število udeleženih bolnikov zelo majhno. Nujno bi bilo izsledke preveriti na še več bolnikih, da bi tako med drugim izključili kakršenkoli doprinos genetike določenega obolelega, je menil.
