@@ -1,5 +1,5 @@
 import json
-import os
+import pathlib
 import stanza
 import classla
 import pandas as pd
@@ -13,11 +13,14 @@ def split_documents(dataset_files: dict, tokenizers: dict):
     warnings = []
     files_processed = 0
     for dataset in dataset_files:
+        if dataset not in ['./data/datasets/bsnlp/covid-19', './data/datasets/bsnlp/us_election_2020']:
+            print(f"Skipping {dataset}")
+            continue
         for lang in dataset_files[dataset]:
             print(f'Dataset: {dataset}, Language: {lang}')
             merged_path = f'{dataset}/merged/{lang}'
-            if not os.path.exists(merged_path):
-                os.mkdir(merged_path)
+            if not pathlib.Path(merged_path).exists():
+                pathlib.Path(merged_path).mkdir(parents=True, exist_ok=True)
             for file in dataset_files[dataset][lang]:
                 sentences, document_id = split_document(file['raw'], tokenizers[lang], lang)
                 annotated_document, warns = annotate_document(sentences, file['annotated'], document_id, tokenizers[lang], lang)
@@ -74,12 +77,14 @@ def annotate_document(sentences: list, annotations_path: str, document_id: str, 
     # print(tf"Work on {annotations_path}")
     try:
         anns = pd.read_csv(annotations_path, names=['Mention', 'Base', 'Category', 'clID'], skiprows=[0], sep='\t')
+        ann_df = sort_by_mention_length(anns)
     except:
         print(f"CAN'T LOAD {annotations_path}")
-        return pd.DataFrame(), []
+        anns = pd.DataFrame()
+        ann_df = pd.DataFrame(columns=['Mention', 'Base', 'Category', 'clID'])
+        # return pd.DataFrame(), []
     # a hack to first look for shorter matches if mentions
     # are substrings, e.g. komisija vs Evropska Komisija
-    ann_df = sort_by_mention_length(anns)
 
     warnings = []
     if len(ann_df['Mention'].unique()) != len(ann_df.index):

@@ -73,16 +73,32 @@ def list_datasets(datasets: list) -> dict:
     for dataset in datasets:
         dataset_files[dataset] = {}
         languages_raw = sorted(os.listdir(f'{dataset}/raw'))
-        languages_ann = sorted(os.listdir(f'{dataset}/annotated'))
+        try:
+            languages_ann = sorted(os.listdir(f'{dataset}/annotated'))
+        except:
+            languages_ann = languages_raw
         for lang_id, lang in enumerate(languages_raw):
             base_raw = f'{dataset}/raw/{lang}'
-            base_ann = f'{dataset}/annotated/{languages_ann[lang_id]}'
-            for r, a in zip(sorted(os.listdir(base_raw)),  sorted(os.listdir(base_ann))):
+            base_ann = f'{dataset}/annotated/{lang}'
+
+            raw_files = sorted(os.listdir(base_raw))
+            try:
+                ann_files = sorted(os.listdir(base_ann))
+            except:
+                ann_files = raw_files
+            for r, a in zip(raw_files, ann_files):
                 digits_r = ''.join([d for d in r if d.isdigit()])
                 digits_a = ''.join([d for d in r if d.isdigit()])
                 if digits_a != digits_r:
-                    raise Exception(f'NO MATCH:\n{base_raw}/{r}\n{base_ann}/{a}')
-            dataset_files[dataset][languages_ann[lang_id]] = [{'raw': f'{base_raw}/{r}', 'annotated': f'{base_ann}/{a}', 'raw_fname': r, 'ann_fname': a} for r, a in zip(sorted(os.listdir(base_raw)),  sorted(os.listdir(base_ann)))]
+                    print(f'NO MATCH:\n{base_raw}/{r}\n{base_ann}/{a}')
+            dataset_files[dataset][languages_ann[lang_id]] = [
+                {
+                    'raw': f'{base_raw}/{r}',
+                    'annotated': f'{base_ann}/{a}',
+                    'raw_fname': r, 'ann_fname': a
+                 }
+                for r, a in zip(raw_files, ann_files)
+            ]
     return dataset_files
 
 
@@ -187,6 +203,8 @@ if __name__ == '__main__':
         './data/datasets/bsnlp/nord_stream',
         './data/datasets/bsnlp/other',
         './data/datasets/bsnlp/ryanair',
+        './data/datasets/bsnlp/covid-19',
+        './data/datasets/bsnlp/us_election_2020',
     ]
     dataset_files = list_datasets(datasets)
     logger.info('Done.')

@@ -81,6 +81,7 @@ class LoadBSNLP(LoadDataset):
         "2017": ["ec", "trump"],
         "2021": ["asia_bibi", "brexit", "nord_stream", "other", "ryanair"],
         "all": ["ec", "trump", "asia_bibi", "brexit", "nord_stream", "other", "ryanair"],
+        "test_2021": ["covid-19", "us_election_2020"],
     }
 
     def __init__(

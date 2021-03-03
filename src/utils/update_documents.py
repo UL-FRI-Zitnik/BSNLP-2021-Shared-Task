@@ -23,6 +23,7 @@ class UpdateBSNLPDocuments(UpdateDocuments):
             "2017": ["ec", "trump"],
             "2021": ["asia_bibi", "brexit", "nord_stream", "other", "ryanair"],
             "all":  ["ec", "trump", "asia_bibi", "brexit", "nord_stream", "other", "ryanair"],
+            "test_2021": ["covid-19", "us_election_2020"],
         }
         if year not in datasets:
             raise Exception(f"Invalid subset chosen: {year}")
