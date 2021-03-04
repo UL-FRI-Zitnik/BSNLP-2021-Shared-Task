@@ -29,6 +29,7 @@ def main():
     model_name = 'bert-base-multilingual-cased'
     test_scores = []
     for excluded_dataset in tqdm(LoadBSNLP.datasets['2021'], desc='Excluded Dataset'):
+        excluded_dataset = 'none'
         logger.info(f"Excluding {excluded_dataset}")
         train_bundle = f'bsnlp-exclude-{excluded_dataset}'
         train_datasets = {
@@ -36,16 +37,16 @@ def main():
                         lang='all',
                         year='2021',
                         merge_misc=False,
-                        exclude=excluded_dataset
+                        # exclude=excluded_dataset
                     )
         }
-        test_dataset = LoadBSNLP(
-            lang='all',
-            year='2021',
-            data_set=excluded_dataset,
-            merge_misc=False,
-        )
-        tag2code, code2tag = test_dataset.encoding()
+        # test_dataset = LoadBSNLP(
+        #     lang='all',
+        #     year='2021',
+        #     data_set=excluded_dataset,
+        #     merge_misc=False,
+        # )
+        tag2code, code2tag = train_datasets[train_bundle].encoding()
         bert = BertModel(
             tag2code=tag2code,
             code2tag=code2tag,
@@ -60,19 +61,20 @@ def main():
         )
         logger.info(f"Training data bundle: `{train_bundle}`")
         bert.train(train_datasets)
-        logger.info(f"Testing on `{excluded_dataset}`")
-        p, r, f1 = bert.test(test_data=test_dataset.load_all())
-        test_scores.append({
-            "model_name": model_name,
-            "fine_tuned": fine_tuning,
-            "train_bundle": train_bundle,
-            "epochs": epochs,
-            "test_dataset": excluded_dataset,
-            "precision_score": p,
-            "recall_score": r,
-            "f1_score": f1
-        })
-        logger.info(f"[{train_bundle}][{excluded_dataset}] P = {p:.4f}, R = {r:.4f}, F1 = {f1:.4f}")
+        # logger.info(f"Testing on `{excluded_dataset}`")
+        # p, r, f1 = bert.test(test_data=test_dataset.load_all())
+        # test_scores.append({
+        #     "model_name": model_name,
+        #     "fine_tuned": fine_tuning,
+        #     "train_bundle": train_bundle,
+        #     "epochs": epochs,
+        #     "test_dataset": excluded_dataset,
+        #     "precision_score": p,
+        #     "recall_score": r,
+        #     "f1_score": f1
+        # })
+        # logger.info(f"[{train_bundle}][{excluded_dataset}] P = {p:.4f}, R = {r:.4f}, F1 = {f1:.4f}")
+        break
     scores = pd.DataFrame(test_scores)
     scores.to_csv(f'{run_path}/training_scores-L1O-{JOB_ID}.csv', index=False)
 

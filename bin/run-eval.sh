@@ -12,7 +12,7 @@ CONTAINER_IMAGE_PATH="$PWD/containers/pytorch-image-new.sqfs"
 
 echo "$SLURM_JOB_ID -> Generating the clusters for the model..."
 
-BUNDLE="slo_misc"
+BUNDLE="multi_all"
 DIR_PREFIX="data/evals/$SLURM_JOB_ID-$BUNDLE"
 mkdir -p "$DIR_PREFIX/reports"
 mkdir -p "$DIR_PREFIX/error-logs"

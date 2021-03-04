@@ -28,6 +28,7 @@ DEBUG = False
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--lang', type=str, default='all')
+    parser.add_argument('--year', type=str, default='all')
     parser.add_argument('--merge-misc', action='store_true')
     parser.add_argument('--run-path', type=str, default=None)
     return parser.parse_args()
@@ -50,15 +51,18 @@ def looper(
     run_path: str,
     clang: str,
     model: str,
+    year: str,
     categorize_misc: bool = False,
 ) -> dict:
-    loader = LoadBSNLPDocuments(lang=clang, year='2021')    
-    misctag2code, misccode2tag = LoadBSNLP(lang='sl', year='2021', merge_misc=False, misc_data_only=True).encoding()
+    loader = LoadBSNLPDocuments(lang=clang, year=year)    
 
     model_name = model.split('/')[-1]
     logger.info(f"Predicting for {model_name}")
     model_path = f'{run_path}/models/{model}'
+    
     tag2code, code2tag = get_label_dicts(model_path)
+    misctag2code, misccode2tag = {}, {}
+
     logger.info(f"tag2code: {tag2code}")
     logger.info(f"code2tag: {code2tag}")
 
@@ -66,11 +70,13 @@ def looper(
     if categorize_misc:
         logger.info(f"Using misc model: {misc_model[0]}")
         misctag2code, misccode2tag = get_label_dicts(f'{run_path}/misc_models/{misc_model[0]}')
+        logger.info(f"misctag2code: {misctag2code}")
+        logger.info(f"misccode2tag: {misccode2tag}")
 
     predictor = ExtractPredictions(model_path=model_path, tag2code=tag2code, code2tag=code2tag)
     pred_misc = None if not categorize_misc else ExtractPredictions(model_path=f'./{run_path}/misc_models/{misc_model[0]}', tag2code=misctag2code, code2tag=misccode2tag)
 
-    updater = UpdateBSNLPDocuments(lang=clang, path=f'{run_path}/predictions/bsnlp/{model_name}')
+    updater = UpdateBSNLPDocuments(lang=clang, year=year, path=f'{run_path}/predictions/bsnlp/{model_name}')
     predictions = {}
     data = loader.load_merged()
     tdset = tqdm.tqdm(data.items(), desc="Dataset")
@@ -120,10 +126,12 @@ def main():
     args = parse_args()
     run_path = args.run_path if args.run_path is not None else "./data/models/"
     lang = args.lang
+    year = args.year
     merge_misc = args.merge_misc
 
     print(f"Run path: {run_path}")
     print(f"Langs: {lang}")
+    print(f"Year: {year}")
     print(f"Merge misc: {merge_misc}")
 
     models, _ = list_dir(f'{run_path}/models')
@@ -135,7 +143,10 @@ def main():
     predictions = []
     doc_scores = {}
     for model in tqdm.tqdm(models, desc="Model"):
-        preds, scores = looper(run_path, lang, model, merge_misc)
+        logger.info(f"Model: {model}")
+        if 'cro-slo-eng-bert-bsnlp-2021-5-epochs' != model:
+            continue
+        preds, scores = looper(run_path, lang, model,year, merge_misc)
         predictions.append(preds)
         doc_scores[model]= scores
     # logger.info(predictions)

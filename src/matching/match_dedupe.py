@@ -6,6 +6,7 @@ import pathlib
 import pandas as pd
 import logging
 
+from tqdm import tqdm
 from dedupe import Dedupe, StaticDedupe, console_label
 from fuzzywuzzy import fuzz
 from datetime import datetime
@@ -28,14 +29,15 @@ BASE_FNAME: str = "./data/deduper"
 run_time = datetime.now().isoformat()[:-7]  # exclude the ms
 JOB_ID = os.environ['SLURM_JOB_ID'] if 'SLURM_JOB_ID' in os.environ else run_time
 RUN_BASE_FNAME = f"{BASE_FNAME}/runs/run_{JOB_ID}"
-
+DATA_PATH = f"./data/datasets/bsnlp"
+NER_FIELD = 'calcNER'
 RELEVANT_LANGS: list = ['bg', 'cs', 'pl', 'ru', 'sl', 'uk']
 
 # Dedup configuration variables
 SEARCH_CLOSEST: bool = True
-CHOOSE_K: int = 3  # determines how many samples of equivalent values to choose
+CHOOSE_K: int = 2  # determines how many samples of equivalent values to choose
 CLUSTER_THRESHOLD: float = 0.65
-DEDUPE_CORES_USED: int = 31
+DEDUPE_CORES_USED: int = 63
 dedupe_variables: list = [
     # document structure: docId,sentenceId,tokenId,text,lemma,calcLemma,upos,xpos,ner,clID
     # variables to consider:
@@ -57,11 +59,11 @@ def merge_nes(
     """
     merged = []
     for i, ne in enumerate(nes):
-        if ne['ner'].startswith('I-'):
+        if ne[NER_FIELD].startswith('I-'):
             continue
         j = i + 1
         ne['numTokens'] = 1
-        while j < len(nes) and not nes[j]['ner'].startswith('B-'):
+        while j < len(nes) and not nes[j][NER_FIELD].startswith('B-'):
             ne['text'] = f'{ne["text"]} {nes[j]["text"]}'
             ne['lemma'] = f'{ne["lemma"]} {nes[j]["lemma"]}'
             ne['calcLemma'] = f'{ne["calcLemma"]} {nes[j]["calcLemma"]}'
@@ -73,33 +75,38 @@ def merge_nes(
                 print(f"Inconsistent cluster ids: {nes[j]['clID']} vs {ne['clID']}, NE: {ne}")
             ne['numTokens'] += 1
             j += 1
-        ne['ner'] = ne['ner'][2:]
+        ne[NER_FIELD] = ne[NER_FIELD][2:]
         merged.append(ne)
     return merged
 
 
 def load_nes(
-    datasets: dict,
+    datasets: list,
 ) -> (dict, dict):
     documents = {}
     doc_alphabet = {}
-    for dataset, langs in datasets.items():
+    # doc_alphabet = defaultdict(dict)
+    for dataset in datasets:
         dataset_name = dataset.split('/')[-1]
+        if dataset_name not in ['covid-19', 'us_election_2020']:
+            print(f"Skipping {dataset_name}")
+            continue
         documents[dataset_name] = {}
         doc_alphabet[dataset_name] = defaultdict(dict)
-        for lang in langs.keys():
+        langs, _ = list_dir(f'{dataset}/predicted')
+        for lang in langs:
             if lang.lower() not in RELEVANT_LANGS:
                 logger.info(f"Skipping {dataset_name}/{lang}")
                 continue
             documents[dataset_name][lang] = {}
             logger.info(f'Extracting from: {dataset}/{lang}')
-            ne_path = f'{dataset}/merged/{lang}'
+            ne_path = f'{dataset}/predicted/{lang}'
             _, files = list_dir(ne_path)
             for file in files:
                 df = pd.read_csv(f'{ne_path}/{file}', dtype={'docId': str, 'sentenceId': str, 'tokenId': str, 'clID': str,'text': str,'lemma': str,'calcLemma': str,'upos': str,'xpos': str,'ner': str})
                 df['lang'] = lang
                 df = df.fillna('N/A')
-                records = merge_nes(df.loc[~(df['ner'] == 'O')].to_dict(orient='records'))
+                records = merge_nes(df.loc[~(df[NER_FIELD] == 'O')].to_dict(orient='records'))
                 for item in records:
                     dkey = f"{lang};{item['docId']};{item['sentenceId']};{item['tokenId']};{item['text']}"
                     fchar = item['text'][0].upper()
@@ -125,7 +132,9 @@ def load_data(
         logger.info(f"Using cached data from `{cache_path}`, last modified at: `{mod_time.isoformat()}`")
         with open(cache_path) as f:
             return json.load(f)
-    datasets = json.load(open("./data/results/dataset_pairs.json"))
+    # datasets = json.load(open("./data/results/dataset_pairs.json"))
+    datasets, _ = list_dir(DATA_PATH)
+    datasets = [f'{DATA_PATH}/{dataset}' for dataset in datasets]
     data = load_nes(datasets)
     with open(cache_path, 'w') as f:
         logger.info(f"Storing cached data at: {cache_path}")
@@ -188,13 +197,19 @@ def generate_training_examples(
 def data_looper(
     data: dict,
     call_fun: Callable,
-    train_all: bool = False
+    mapper: dict,
+    train_all: bool = False,
 ) -> Callable:
+    chunk_size = 50
     def loop_through():
         for dataset, langs in data.items():
             for lang, items in langs.items():
                 try:
-                    call_fun(dataset, lang, items)
+                    logger.info(f"size of items for `{dataset}/{lang}`: {len(items)}")
+                    keys = list(items.keys())
+                    for i, chunk_keys in enumerate([keys[x:x+chunk_size] for x in range(0, len(keys), chunk_size)]):
+                        chunk = {k:items[k] for k in chunk_keys}
+                        call_fun(dataset, f'{lang}-{i}', chunk, mapper)
                 except Exception as e:
                     logger.error(f"ERROR OCCURED WHEN WORKING ON {dataset}/{lang}, {e}")
             if train_all:
@@ -208,7 +223,8 @@ def data_looper(
 def train(
     dataset: str,
     lang: str,
-    items: dict
+    items: dict,
+    mapper: dict,
 ) -> None:
     logger.info(f"Training on `{dataset}/{lang}`")
 
@@ -243,11 +259,19 @@ def train(
 def cluster_data(
     dataset: str,
     lang: str,
-    items: dict
+    items: dict,
+    mapper: dict
 ) -> None:
     logger.info(f"Clustering `{dataset}/{lang}`")
+    data_set_folder = f'{RUN_BASE_FNAME}/{dataset}/'
+    pathlib.Path(data_set_folder).mkdir(parents=True, exist_ok=True)
+    lang_id = lang.split('-')[0]
+    clusters_report_fname = f'{RUN_BASE_FNAME}/{dataset}/clusters_report-{lang}.txt'
+    if pathlib.Path(clusters_report_fname).exists():
+        logger.info(f"Dataset: `{dataset}/{lang}` is already processed, skipping...")
+        return
 
-    learned_settings_fname = f'{RUN_BASE_FNAME}/{dataset}/learned_settings-{lang}.bin'
+    learned_settings_fname = f'{RUN_BASE_FNAME}/{mapper[dataset]}/learned_settings-{lang_id}.bin'
     settings_file = pathlib.Path(learned_settings_fname)
     if not (settings_file.exists() or settings_file.is_file()):
         logger.info(f"Settings file `{learned_settings_fname}` does not exist or it's not a file.")
@@ -260,7 +284,6 @@ def cluster_data(
     # cluster the data
     clustered = deduper.partition(items, threshold=CLUSTER_THRESHOLD)
 
-    clusters_report_fname = f'{RUN_BASE_FNAME}/{dataset}/clusters_report-{lang}.txt'
     with open(clusters_report_fname, 'w') as f:
         for clid, (rec, score) in enumerate(clustered):
             print(f"{clid}: {','.join(rec)}", file=f)
@@ -279,6 +302,7 @@ def parse_args():
     parser.add_argument('--train-all', action='store_true')
     parser.add_argument('--test', action='store_true')
     parser.add_argument('--run-path', type=str, default=None)
+    parser.add_argument('--data-path', type=str, default=None)
     parser.add_argument('--tsh', type=float, default=None)
     return parser.parse_args()
 
@@ -286,8 +310,9 @@ def parse_args():
 def main():
     args = parse_args()
     
-    global RUN_BASE_FNAME, SEARCH_CLOSEST, CLUSTER_THRESHOLD, JOB_ID
+    global RUN_BASE_FNAME, SEARCH_CLOSEST, CLUSTER_THRESHOLD, JOB_ID, DATA_PATH
     RUN_BASE_FNAME = args.run_path if args.run_path is not None else RUN_BASE_FNAME
+    DATA_PATH = args.data_path if args.data_path is not None else DATA_PATH
     pathlib.Path(RUN_BASE_FNAME).mkdir(parents=True, exist_ok=True)
     
     CLUSTER_THRESHOLD = args.tsh if args.tsh is not None else CLUSTER_THRESHOLD
@@ -310,12 +335,17 @@ def main():
     data = load_data()
     data = data['alphabetized'] if args.train_chars else data['normal']
 
-    trainer = data_looper(data, train, train_all=args.train_all)
+    predict_from = {
+        'covid-19': 'ryanair',
+        'us_election_2020': 'brexit',
+    }
+
+    trainer = data_looper(data, train, train_all=args.train_all, mapper=predict_from)
     if args.train:
         logger.info("Training on the data...")
         trainer()
 
-    clusterer = data_looper(data, cluster_data)
+    clusterer = data_looper(data, cluster_data, mapper=predict_from)
     if args.test:
         logger.info("Clustering the data...")
         clusterer()
