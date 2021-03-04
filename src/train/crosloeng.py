@@ -419,6 +419,38 @@ def main():
                 "bsnlp-all": LoadBSNLP(lang='sl', year='all')
             },
         },
+        "slo_misc-submission": {
+            "models": [
+                "cro-slo-eng-bert",
+                "sloberta-1.0",
+                "sloberta-2.0",
+            ],
+            "train": {
+                "ssj500k-bsnlp-2021-iterative": {
+                    "ssj500k": LoadSSJ500k(),
+                    "bsnlp2021": LoadBSNLP(lang='sl', year='2021'),
+                },
+                "bsnlp-all": {
+                    "bsnlp-all": LoadBSNLP(lang='sl', year='all'),
+                },
+            },
+            "test": {
+                "bsnlp-2021": LoadBSNLP(lang='sl', year='2021'),
+            },
+        },
+        "slo_misc-only-submission": {
+            "models": [
+                "sloberta-1.0",
+            ],
+            "train": {
+                "bsnlp-2021": {
+                    "bsnlp-2021": LoadBSNLP(lang='sl', year='2021', merge_misc=False, misc_data_only=True),
+                }
+            },
+            "test": {
+                "bsnlp-2021": LoadBSNLP(lang='sl', year='2021', merge_misc=False, misc_data_only=True),
+            },
+        },
         "slo_misc-only": {
             "models": [
                 "cro-slo-eng-bert",
@@ -514,6 +546,7 @@ def main():
                                    f"{'-finetuned' if fine_tuning else ''}"
                                    f'-{args.epochs}-epochs',
                 tune_entire_model=fine_tuning,
+                use_test=True,
             )
 
             if args.train:
