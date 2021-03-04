@@ -1,7 +1,7 @@
 sl-124
 Steve Bannon	Steve Bannon	PER	817-14
 Bannona	Bannon	PER	797-7
-Gradimo zid	graditi zid	MISC	866-19
+Gradimo zid	graditi zid	PRO	866-19
 Bannon	Bannon	PER	797-7
 Briana Kolfaga	Brian Kolfag	PER	797-8
 Connecticuta	Connecticut	LOC	897-13
@@ -10,18 +10,18 @@ ZDA	ZDA	LOC	1054-0
 Na zvezno sodišče	na zvezen sodišče	ORG	xxx
 Manhattnu	Manhattan	LOC	1054-9
 Trumpove	Trumpov	PER	837-0
-Najprej Amerika	najprej Amerika	MISC	905-7
+Najprej Amerika	najprej Amerika	PRO	905-7
 New Yorka	New York	LOC	905-3
 Manhattan	Manhattan	LOC	932-10
 Wall Streeta	Wall Street	LOC	950-5
 Goldman Sachs	Goldman Sachs	ORG	866-10
-Breitbart News	Breitbart News	MISC	798-10
+Breitbart News	Breitbart News	PRO	798-10
 Bele hiše	bel hiša	LOC	798-0
 Trump	Trump	PER	837-0
 Mehiko	Mehika	LOC	932-3
 Mehike	Mehika	LOC	932-3
 Mehika	Mehika	LOC	932-3
-Trumpovega zidu	Trumpov zid	PER	837-2
+Trumpovega	Trumpov	PER	837-2
 Pentagona	Pentagon	ORG	921-3
 Trumpove New Yorka	Trumpov New York	PER	838-0
 Trumpovi	Trumpov	PER	838-0
@@ -30,4 +30,4 @@ Kate Bedingfield	Kata Bedingfield	PER	1041-22
 Novi Mehiki	nov Mehika	LOC	905-25
 Teksasu	Teksas	LOC	838-4
 Michaela Wolffa	Michael Wolff	PER	932-19
-Fox News	Fox News	ORG	980-2
+Fox News	Fox News	PRO	980-2

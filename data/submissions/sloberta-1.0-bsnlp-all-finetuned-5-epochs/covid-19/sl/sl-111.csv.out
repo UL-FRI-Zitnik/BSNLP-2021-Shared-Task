@@ -1,7 +1,6 @@
 sl-111
 Grčijo	Grčija	LOC	268-3
 Slovenije	Slovenija	LOC	235-3
-COVID	Covid	MISC	60-13
 Sloveniji	Slovenija	LOC	235-3
 Slovenija	Slovenija	LOC	235-3
 Atenah	Atene	LOC	223-8
@@ -12,6 +11,7 @@ Hrvaška	Hrvaška	LOC	325-3
 Kitajska	Kitajska	LOC	xxx
 Japonska	Japonska	LOC	320-1
 Ljubljani	Ljubljana	LOC	312-0
+COVID	Covid	PRO	60-17
 Velike Britanije	velik Britanija	LOC	xxx
 Nemčije	Nemčija	LOC	191-2
 Atene	Atene	LOC	223-8

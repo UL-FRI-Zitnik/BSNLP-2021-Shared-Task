@@ -1,11 +1,10 @@
 sl-132
 Sloveniji	Slovenija	LOC	xxx
-svetovnim dnevom sladkorne bolezni	svetoven dan sladkoren bolezen	MISC	xxx
+svetovnim dnevom	svetoven dan	EVT	xxx
 Italiji	Italija	LOC	289-1
-covid-19	covid-19	MISC	289-1
+covid-19	covid-19	PRO	289-1
 zveze društev diabetikov Slovenije	zveza društvo diabetik Slovenija	ORG	339-3
 Robert Gratton	Robert Gratton	PER	281-21
-svetovnega dneva sladkorne bolezni	svetoven dan sladkoren bolezen	MISC	xxx
 Gratton	Gratton	PER	268-8
 zdravniške zbornice Slovenije	zdravniški zbornica Slovenija	ORG	339-2
 Zdenka Čebašek-Travnik	Zdenka Čebašekstravnik	PER	339-8

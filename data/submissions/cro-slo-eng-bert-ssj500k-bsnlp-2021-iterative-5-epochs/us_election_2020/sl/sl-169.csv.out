@@ -1,5 +1,4 @@
 sl-169
-Biden	Biden	PER	xxx
 Georgii	Georgia	LOC	867-1
 Trump	Trump	PER	844-0
 Georgia	Georgia	LOC	867-1
@@ -8,6 +7,7 @@ Demokratu	Demokrat	PER	xxx
 ZDA	ZDA	LOC	1057-0
 Donaldu Trumpu	Donald Trump	PER	966-1
 Brad Raffensperger	Brad Raffensperger	PER	802-9
+Biden	Biden	PER	802-0
 Donald Trump	Donald Trump	PER	966-1
 zdaj	zdaj	LOC	1057-1
 Belo hišo	bel hiša	LOC	802-2
@@ -30,14 +30,13 @@ Trumpove	Trumpov	PER	845-0
 Rudyja Giulianija	Rudy Giuliani	PER	992-14
 Giuliani	Giuliani	PER	867-3
 Rudy Giuliani	Rudy Giuliani	PER	992-5
-Chris	Chris	PER	898-3
-Krebs	Krebs	PER	898-3
+Chris Krebs	Chris Krebs	PER	898-3
 Giulianijeva	Giulianijev	PER	867-12
 Tanzaniji	Tanzanija	LOC	845-1
 Venezuele	Venezuela	LOC	1047-6
 Kube	Kuba	LOC	1042-7
 Kitajske	Kitajska	LOC	1042-0
-My Cousin Vinny	my Cousin Vinny	MISC	934-9
+My Cousin	my Cousin	PRO	934-9
 Joe Pesci	Joe Pesci	PER	1015-10
 Arizoni	Arizona	LOC	880-3
 Novi Mehiki	nov Mehika	LOC	906-23

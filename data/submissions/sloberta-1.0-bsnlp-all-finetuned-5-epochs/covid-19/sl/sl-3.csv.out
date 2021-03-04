@@ -1,7 +1,7 @@
 sl-3
 Evropo	Evropa	LOC	306-3
-covid-19	covid-19	MISC	66-0
-covida-19	covida-19	MISC	xxx
+covid-19	covid-19	PRO	66-0
+covida-19	covida-19	PRO	xxx
 Radio Slovenija	radio Slovenija	ORG	283-1
 Nacionalnega inštituta za javno zdravje	nacionalen inštitut za javen zdravje	ORG	195-2
 NIJZ	Nijz	ORG	195-4
@@ -12,7 +12,6 @@ nas	jaz	LOC	xxx
 Hrvaškem	Hrvaško	LOC	327-1
 Slovenijo	Slovenija	LOC	xxx
 hrvaški obali	hrvaški obala	LOC	327-1
-Zaradi	zaradi	MISC	xxx
 Balkanu	Balkan	LOC	146-16
 Bosne in Hercegovine	Bosna in Hercegovina	LOC	147-7
 Srbije	Srbija	LOC	xxx
@@ -38,7 +37,6 @@ EIB	EIB	ORG	306-5
 Evropska komisija	evropski komisija	ORG	306-2
 EU	EU	ORG	306-1
 komisija	komisija	ORG	xxx
-Donatorski maraton	donatorski maraton	MISC	xxx
 Ursula von der Leyen	Ursula von der Leyen	PER	265-7
 Shakira	Shakira	PER	xxx
 Coldplay	Coldplay	PER	66-11
@@ -56,4 +54,3 @@ Emmanuela Macrona	Emmanuel Macron	PER	306-7
 Merklova	Merklov	PER	256-7
 Nemčija	Nemčija	LOC	195-1
 Nemčiji	Nemčija	LOC	195-1
-covidom-19	covidom-19	MISC	xxx

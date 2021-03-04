@@ -1,16 +1,15 @@
 sl-131
-covid-19	covid-19	MISC	xxx
+covid-19	covid-19	PRO	xxx
 Reuters	Reuters	ORG	281-5
-covidu-19	covidušče	MISC	xxx
-covid-19 univerzi v Oxfordu	covid-19 univerza v Oxford	MISC	61-16
+covidu-19	covidušče	PRO	xxx
+covid-19 univerzi v Oxfordu	covid-19 univerza v Oxford	PRO	61-16
 Paul Harrison	Paul Harrison	PER	178-20
 Harrison	Harrison	PER	325-21
 Lancet Psychiatry	Lancet Psychiatry	ORG	312-13
 ZDA	ZDA	LOC	339-0
-covida-19	covida-19	MISC	xxx
-Covid-19	covid-19	MISC	61-1
+covida-19	covida-19	PRO	xxx
 Michael Bloomfield	Michael Bloomfield	PER	252-37
 Simon	Simon	PER	xxx
 Wessely	Wessely	PER	xxx
 londonski kraljevi fakulteti	londonski kraljev fakulteta	ORG	xxx
-""""	""""	MISC	xxx
+Covid-19	covid-19	PRO	61-1

@@ -21,7 +21,7 @@ Kračun	Kračun	PER	1044-5
 Natu	Nato	ORG	908-3
 Unije	unija	ORG	1035-9
 EU	EU	ORG	1000-5
-pariškega podnebnega sporazuma	pariški podneben sporazum	MISC	925-12
+pariškega podnebnega sporazuma	pariški podneben sporazum	PRO	925-12
 Joeja Bidna	Joe Bidn	PER	1019-1
 Boštjan Udovič	Boštjan Udovič	PER	809-7
 Bidnova	Bidnov	PER	809-3
@@ -31,7 +31,7 @@ Evropo	Evropa	LOC	1000-4
 Trumpova	Trumpov	PER	856-0
 srednje	srednji	LOC	xxx
 vzhodne Evrope	vzhoden Evropa	LOC	1048-3
-ZDA-EU	Zdaveu	ORG	xxx
+ZDA-EU	Zdaveu	LOC	xxx
 Veliko Britanijo	velik Britanija	LOC	1048-4
 Johnsonom	Johnson	PER	1019-5
 Bidenom	Biden	PER	809-0
@@ -57,4 +57,4 @@ Peking	Peking	LOC	925-8
 Kitajska	Kitajska	LOC	1044-3
 Tajvana	Tajvan	LOC	856-2
 Kitajske	Kitajska	LOC	1044-3
-5 G	5 g	MISC	xxx
+5 G tehnologija	5 g tehnologija	PRO	xxx

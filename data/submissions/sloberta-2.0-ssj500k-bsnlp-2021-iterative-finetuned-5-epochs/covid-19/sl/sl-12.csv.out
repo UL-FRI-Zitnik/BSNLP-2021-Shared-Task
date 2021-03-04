@@ -1,5 +1,5 @@
 sl-12
-covidu-19	covidušče	MISC	xxx
+covidu-19	covidušče	PRO	xxx
 AstraZenece	Astrazeneca	ORG	xxx
 AstraZeneca	Astrazeneca	ORG	224-3
 Oxfordsko univerzo	oxfordski univerza	ORG	77-2
@@ -11,7 +11,7 @@ Pfizer	Pfizer	ORG	177-22
 BioNTech	Biontech	ORG	142-29
 Moderna	Moderna	ORG	251-0
 univerza Oxford	univerza Oxford	ORG	264-7
-covidom-19	covidom-19	MISC	xxx
+covidom-19	covidom-19	PRO	xxx
 Oxfordske univerze	oxfordski univerza	ORG	77-2
 Andrew Pollard	Andrew Pollard	PER	224-25
 ZDA	ZDA	LOC	338-0

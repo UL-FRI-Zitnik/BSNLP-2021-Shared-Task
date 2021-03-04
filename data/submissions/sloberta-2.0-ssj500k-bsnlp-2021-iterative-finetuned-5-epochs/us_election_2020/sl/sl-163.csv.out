@@ -28,7 +28,7 @@ Trumpove	Trumpov	PER	844-0
 Fordham	Fordham	ORG	981-7
 Wharton	Wharton	ORG	981-7
 univerzi Pensilvanija	univerza Pensilvanija	ORG	1034-15
-vietnamski vojni	vietnamski vojna	MISC	1047-4
+vietnamski vojni	vietnamski vojna	EVT	1047-4
 Trumpovo	Trumpov	PER	844-0
 New York Times	New York Times	ORG	906-5
 Trumpovega	Trumpov	PER	844-4
@@ -42,7 +42,6 @@ Miss USA	Miss USA	ORG	934-16
 Miss Teen USA	Miss Teen USA	ORG	934-17
 Miss Universe	Miss Universe	ORG	934-4
 NBC	NBC	ORG	906-3
-Vajenec	vajenec	MISC	1047-5
 Floride	Florida	LOC	981-3
 demokrat	demokrat	ORG	xxx
 republikanec	republikanec	PER	992-0
@@ -61,10 +60,10 @@ Ivanko	Ivanka	PER	889-6
 Jareda Kushnerja	Jared Kushner	PER	1015-16
 Steva Bannona	Steve Bannon	PER	818-8
 Natu	Nato	ORG	906-4
-iranskega jedrskega sporazuma	iranski jedrski sporazum	MISC	889-17
+iranskega jedrskega sporazuma	iranski jedrski sporazum	PRO	889-17
 Rusiji	Rusija	LOC	992-3
 Siriji	Sirija	LOC	818-9
-pariškega podnebnega sporazuma	pariški podneben sporazum	MISC	xxx
+pariškega podnebnega sporazuma	pariški podneben sporazum	PRO	xxx
 Jeruzalem	Jeruzalem	LOC	1015-8
 Izraela	Izrael	LOC	889-7
 Vladimir Putin	Vladimir Putin	PER	1047-0
@@ -81,6 +80,7 @@ Izraelom	Izrael	LOC	889-22
 Severno Korejo	severen Koreja	LOC	818-2
 Kitajsko	Kitajska	LOC	1042-0
 Američanom	Američan	PER	880-1
+ameriške volitve	ameriški volitev	EVT	xxx
 To odbor	ta odbor	PER	xxx
 republikansko	republikanski	ORG	xxx
 Rusi	Rus	PER	992-4

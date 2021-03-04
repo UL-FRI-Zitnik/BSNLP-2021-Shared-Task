@@ -2,12 +2,12 @@ sl-19
 Trump	Trump	PER	847-0
 Donald Trump	Donald Trump	PER	967-0
 Belo hišo	bel hiša	LOC	804-4
-republikanska	republikanski	PER	xxx
 državnega kongresa Michigana	državen kongres Michigan	ORG	xxx
 Trumpovi	Trumpov	PER	847-0
 Wayne	Wayne	LOC	951-0
 Michiganu	Michigan	LOC	935-2
 Detroit	Detroit	LOC	967-8
+republikanska	republikanski	PER	xxx
 demokrata	demokrat	PER	967-1
 Joeja Bidna	Joe Bidn	PER	1016-0
 Trump Wayne	Trump Wayne	PER	847-0
@@ -29,7 +29,7 @@ Tanzaniji	Tanzanija	LOC	847-1
 Venezuele	Venezuela	LOC	1047-6
 Kube	Kuba	LOC	1043-0
 Kitajske	Kitajska	LOC	1043-2
-My Cousin	my Cousin	MISC	935-14
+My Cousin	my Cousin	PRO	935-14
 Vinny	Vinny	PER	935-14
 Joe Pesci	Joe Pesci	PER	1016-18
 Arizoni	Arizona	LOC	881-5

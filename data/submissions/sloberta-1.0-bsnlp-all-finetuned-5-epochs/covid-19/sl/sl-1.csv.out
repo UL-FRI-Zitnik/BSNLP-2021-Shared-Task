@@ -18,10 +18,9 @@ Kitajskem	Kitajsko	LOC	335-5
 Patagonia	Patagonia	ORG	176-1
 Apple	Apple	ORG	223-10
 Warby Parker	Warby Parker	ORG	241-17
-Urban Outfitters	Urban Outfitters	ORG	263-10
-Glossier	Glossier	ORG	268-25
+Urban Outfitters	Urban Outfitters	PRO	263-10
+Glossier	Glossier	PRO	268-25
 Allbirds	Allbirds	ORG	223-23
-Koronavirus	koronavirus	MISC	335-4
 Steven Mnuchin	Steven Mnuchin	PER	235-16
 Evropo	Evropa	LOC	302-9
 Irsko	Irska	LOC	288-11

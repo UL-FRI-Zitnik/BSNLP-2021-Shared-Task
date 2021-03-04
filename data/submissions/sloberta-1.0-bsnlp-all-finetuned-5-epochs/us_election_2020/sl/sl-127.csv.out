@@ -8,6 +8,7 @@ Američani	Američan	PER	878-1
 Bidnovi Ameriki	Bidnov Amerika	LOC	798-4
 ZDA	ZDA	LOC	1054-0
 Mike Pence	Mike Pence	PER	932-17
+nacionalne konvencije	nacionalen konvencija	EVT	xxx
 republikanske stranke	republikanski stranka	ORG	990-4
 Josepha Bidna	Joseph Bidn	PER	1014-1
 Amerika	Amerika	LOC	878-0
@@ -25,13 +26,11 @@ Trumpovim	Trumpov	PER	838-0
 Američanov	Američan	PER	878-1
 Baracka Obame	Baracko Obame	PER	798-16
 Trumpovem	Trumpov	PER	838-0
-Dežela herojev	dežela heroj	MISC	964-4
 Amerike	Amerika	LOC	878-0
 Trumpovega	Trumpov	PER	838-0
 Biden	Biden	PER	798-3
 Trumpu	Trump	PER	838-0
 Washingtona	Washington	LOC	950-0
-koronavirus	koronavirus	MISC	1041-1
 Bidna	Bidn	PER	798-2
 Bernie Sanders	Bernie Sanders	PER	798-15
 Trumpa	Trump	PER	838-0
@@ -49,7 +48,7 @@ demokratom	demokrat	PER	964-0
 NFL	NFL	ORG	905-8
 Burgess Owens	Burgess Owens	PER	798-14
 Utaha	Utah	LOC	1054-6
-drugi svetovni vojni	drug svetoven vojna	MISC	964-3
+drugi svetovni vojni	drug svetoven vojna	EVT	964-3
 Sovjetsko zvezo	sovjetski zveza	LOC	817-1
 Deidre Byrne	Deidre Byrne	PER	964-5
 demokrate	demokrat	PER	964-0

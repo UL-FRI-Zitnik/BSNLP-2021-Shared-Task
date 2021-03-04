@@ -6,8 +6,7 @@ Trumpovem	Trumpov	PER	845-0
 Atlante	Atlante	LOC	880-10
 Washington	Washington	LOC	951-2
 Donald Trump	Donald Trump	PER	966-1
-Alexa Padille	Alex Padille	PER	880-13
-Bidnu	Bidn	PER	880-13
+Alexa Padille Bidnu	Alex Padille Bidn	PER	880-13
 Trumpovima	Trumpov	PER	845-3
 Koloradu	Kolorado	LOC	1042-21
 Havajih	Havaji	LOC	912-24
@@ -16,7 +15,7 @@ Bidna	Bidn	PER	802-1
 Baracka Obama	Baracko Obama	PER	803-0
 Delawara	Delawar	LOC	966-2
 Američane	Američan	PER	880-1
-pandemija covida 19	pandemija covid 19	MISC	922-20
+pandemija covida 19	pandemija covid 19	EVT	922-20
 Trumpovi	Trumpov	PER	845-0
 Trump	Trump	PER	845-0
 Georgiji	Georgija	LOC	867-4

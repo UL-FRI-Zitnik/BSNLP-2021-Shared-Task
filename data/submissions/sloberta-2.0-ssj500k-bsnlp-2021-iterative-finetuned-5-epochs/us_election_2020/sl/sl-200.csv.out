@@ -6,7 +6,7 @@ Ivanke Trump	Ivanka Trump	PER	890-2
 Jaredom Kushnerjem	Jared Kushner	PER	1017-14
 New Yorku	New York	LOC	907-0
 Ivankino	Ivankin	PER	890-3
-Vanity Fair	Vanity fair	MISC	1047-15
+Vanity Fair	Vanity fair	PRO	1047-15
 Lysandra Ohrstrom	Lysandra Ohrstrom	PER	1050-30
 Ivanko šoli Chapin	Ivanko šola Chapin	PER	890-4
 Manhattnu	Manhattan	LOC	936-25
@@ -18,8 +18,8 @@ Libanona	Libanon	LOC	1050-26
 Ivanki Trump Trump	Ivanka Trump Trump	PER	890-15
 Trumpov	Trumpov	PER	849-0
 očetov	očetov	PER	xxx
+Pulitzerjevega	Pulitzerjev	PRO	923-7
 Richarda Russoja	Richard Russoj	PER	993-11
-Empire Falls	Empire Falls	MISC	1000-0
 Ly	ly	PER	xxx
 Donald Trump	Donald Trump	PER	968-2
 Trumpovi	Trumpov	PER	849-0
@@ -28,18 +28,19 @@ Ivanka Trump	Ivanka Trump	PER	890-6
 Marija Antoaneta	Marija Antoaneta	PER	936-23
 ZDA	ZDA	LOC	1059-0
 Nihče	nihče	PER	xxx
-covidu-19	covidu-19	MISC	899-6
+covidu-19	covidu-19	PRO	899-6
 Joeja Bidna	Joe Bidn	PER	1017-0
 Trumpovim	Trumpov	PER	849-0
 republikanska	republikanski	ORG	923-13
 New Yorka	New York	LOC	907-0
 Times Squaru	Times Squar	LOC	849-3
 Jareda Kushnerja	Jared Kushner	PER	1017-19
-covida-19	covida-19	MISC	899-6
+covida-19	covida-19	PRO	899-6
 Kushnerja	Kushner	PER	1043-14
 Newyorčani	Newyorčan	PER	907-9
 newyorški Trump Tower	newyorški Trump Tower	LOC	xxx
-Trumpovega Mar-a-Lago	Trumpov Marvallago	PER	849-2
+Trumpovega	Trumpov	PER	849-2
+Mar-a-Lago	Marvallago	LOC	849-2
 Floridi	Florida	LOC	849-2
 Trump	Trump	PER	849-0
 Trump jabolka	Trump jabolko	PER	849-0

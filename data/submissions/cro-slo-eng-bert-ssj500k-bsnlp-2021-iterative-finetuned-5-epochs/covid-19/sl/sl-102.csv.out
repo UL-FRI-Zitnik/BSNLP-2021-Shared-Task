@@ -1,10 +1,7 @@
 sl-102
-Covid-19	covid-19	MISC	59-6
-prašičje gripe	prašičji gripa	MISC	xxx
 ameriškega Centra za nadzor in preprečevanje bolezni	ameriški center za nadzor in preprečevanje bolezen	ORG	xxx
 Svetovne zdravstvene organizacije	svetoven zdravstven organizacija	ORG	235-4
-WHO	WHO	ORG	241-7
-demokratični svet	demokratičen svet	ORG	xxx
+WHO svet	WHO svet	ORG	241-7
 evropske komisije	evropski komisija	ORG	303-0
 Vera Jourova	Vera Jourov	PER	xxx
 EU	EU	ORG	303-3
@@ -26,11 +23,9 @@ Aleksandru Vučiću	Aleksander Vučić	PER	223-19
 Izraelu	Izrael	LOC	288-0
 Južni Koreji	južen Koreja	LOC	320-2
 Tajvanu	Tajvan	LOC	294-15
-Koronavirus	koronavirus	MISC	335-4
 ZDA	ZDA	LOC	338-0
 Iranu	Iran	LOC	288-1
 Peruju	Peru	LOC	176-5
 Južni Afriki	južen Afrika	LOC	320-3
 Cyril Ramaphosa	Cyril Ramaphos	PER	59-10
-covida-19	covida-19	MISC	xxx
-mersom	mers	MISC	xxx
+covida-19	covida-19	PRO	xxx

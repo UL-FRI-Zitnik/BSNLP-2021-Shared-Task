@@ -1,8 +1,7 @@
 sl-164
-Covid 19	Covid 19	MISC	62-4
-COVID	Covid	MISC	62-4
+Covid 19	Covid 19	PRO	62-4
+COVID 19	Covid 19	PRO	62-4
 Slovenija	Slovenija	LOC	xxx
-1.6.2020	1.6.2020	MISC	xxx
 Zdravko Počivalšek	Zdravko Počivalšek	PER	340-4
 Sloveniji	Slovenija	LOC	xxx
 Grčiji	Grčija	LOC	269-25
@@ -11,4 +10,3 @@ Evropska komisija	evropski komisija	ORG	303-0
 Vlada	vlada	ORG	xxx
 EIB	EIB	ORG	303-24
 Evropska Investicijska banka	evropski investicijski banka	ORG	303-16
-Turizem	turizem	MISC	296-13

@@ -1,16 +1,13 @@
 sl-232
 Mariborskem UKC	Mariborsko UKC	ORG	256-3
-covid-19	covid-19	MISC	66-0
+covid-19	covid-19	PRO	66-0
 UKC Maribor	UKC Maribor	ORG	265-0
-covid	covid	MISC	xxx
 Vojko Berce	Vojko Berce	PER	xxx
 Klinike za pediatrijo UKC Maribor	Klinika za pediatrija UKC Maribor	ORG	xxx
-covida	covid	MISC	xxx
 Ljubljani	Ljubljana	LOC	314-2
 Berce	Berce	PER	146-8
 Sloveniji za pediatrjo v	Slovenija za pediatrja v	LOC	xxx
 Mariboru	Maribor	LOC	256-3
-covid večsistemskega vnetnega sindroma	covid večsistemski vneten sindrom	MISC	xxx
-Multisystem inflammatory syndrome in children	Multisystem inflammatory syndrome in children	MISC	256-33
-MIS-C	MIS-C	MISC	xxx
+MIS-C	MIS-C	PRO	xxx
 slovenski pediatri	slovenski pediater	PER	xxx
+covid	covid	PRO	66-2

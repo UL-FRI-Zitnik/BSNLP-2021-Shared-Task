@@ -1,8 +1,7 @@
 sl-154
 Pfizer	Pfizer	ORG	178-5
-Cepivo	cepivo	MISC	xxx
-za	za	MISC	xxx
-covid-19	covid-19	MISC	xxx
+Cepivo	cepivo	PRO	xxx
+covid-19	covid-19	PRO	xxx
 Ženevi	Ženeva	LOC	xxx
 Bourla	Bourla	PER	143-26
 Afriki	Afrika	LOC	225-22

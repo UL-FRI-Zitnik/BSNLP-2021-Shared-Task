@@ -1,9 +1,9 @@
 sl-210
 Kdo	kdo	LOC	xxx
-covid-19	covid-19	MISC	xxx
+covid-19	covid-19	PRO	xxx
 UNICAD	UNICAD	ORG	265-10
-Konference Združenih narodov o trgovini in razvoju	konferenca združen narod o trgovina in razvoj	ORG	xxx
-Bloomberg	Bloomberg	ORG	146-20
+Konference Združenih narodov o trgovini in razvoju	konferenca združen narod o trgovina in razvoj	EVT	xxx
+Bloomberg	Bloomberg	PRO	146-20
 Bill Gates	Bill Gates	PER	146-22
 Mednarodni denarni sklad	mednaroden denaren sklad	ORG	255-9
 IMF	IMF	ORG	290-15
@@ -14,7 +14,6 @@ Nizozemske	Nizozemska	LOC	194-4
 Zemljanov	zemljan	PER	341-15
 Tax Justice Network	Tax Justice network	ORG	297-11
 TJN	TJN	ORG	297-5
-Panamskih dokumentih	panamski dokument	MISC	180-17
 Evropi	Evropa	LOC	305-3
 Združenem kraljestvu	združen kraljestvo	LOC	341-3
 Švici	Švica	LOC	350-2
@@ -24,12 +23,11 @@ Oxfam	Oxfam	PER	78-23
 Irsko	Irska	LOC	291-0
 Malto	Malta	LOC	255-22
 Thomas Piketty	Thomas Piketty	PER	297-16
-Manifestu za demokratizacijo Evrope	manifest za demokratizacija Evropa	MISC	255-17
+Manifestu za demokratizacijo Evrope	manifest za demokratizacija Evropa	PRO	255-17
 Piketty	Piketty	PER	180-10
-Kapital	kapital	MISC	xxx
+Kapital	kapital	PRO	xxx
 Joseph Stiglitz	Joseph Stiglitz	PER	321-18
 zahodni Evropi	zahoden Evropa	LOC	341-7
 Evrope	Evropa	LOC	305-3
 svet	svet	LOC	xxx
-koronavirus	koronavirus	MISC	xxx
 Martin Luther King mlajši	Martin Luther King mlad	PER	255-24

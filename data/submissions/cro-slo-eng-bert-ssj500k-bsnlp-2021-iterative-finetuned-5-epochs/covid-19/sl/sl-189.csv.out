@@ -1,8 +1,8 @@
 sl-189
-COVID-19	covid-19	MISC	64-2
-svetovnem dnevu srca	svetoven dan srce	MISC	xxx
+COVID-19	covid-19	PRO	64-2
+svetovnem	svetoven	EVT	xxx
 Društvu za zdravje srca in ožilja Slovenije	društvo za zdravje srce in ožilje Slovenija	ORG	xxx
-SARS-CoV-2	Sarsvcoven	MISC	xxx
+SARS-CoV-2	Sarsvcoven	PRO	xxx
 Matija Cevc	Matija Cevc	PER	255-15
 Društva	društvo	ORG	xxx
 za zdravje srca in ožilja Slovenije	za zdravje srce in ožilje Slovenija	ORG	xxx

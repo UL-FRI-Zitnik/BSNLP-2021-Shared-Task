@@ -10,9 +10,8 @@ Trumpa	Trump	PER	833-3
 Trump	Trump	PER	833-5
 Bidna	Bidn	PER	794-3
 Trumpu	Trump	PER	833-3
-Trumpova	Trumpov	PER	833-4
-Proud Boys	Proud Boys	ORG	920-0
-New York Times	New York Times	MISC	904-2
+Trumpova Proud Boys	Trumpov Proud Boys	PER	833-4
+New York Times	New York Times	PRO	904-2
 Beauju	Beau	PER	794-14
 Bidnovemu	Bidnov	PER	794-19
 Hunterju	Hunter	PER	911-33
@@ -23,11 +22,11 @@ konservativna	konservativen	ORG	1040-15
 Trumpovo	Trumpov	PER	833-4
 Debata	debata	PER	xxx
 NBC	NBC	ORG	904-1
-Wall Street Journala	Wall Street Journal	ORG	950-5
+Wall Journala	Wall Journal	PRO	950-5
 Američane	Američan	PER	876-7
-twitterju	twitter	MISC	833-10
+twitterju	twitter	PRO	833-10
 Frank Luntz	Frank Luntz	PER	980-14
-Fox News	Fox News	ORG	980-2
+Fox News	Fox News	PRO	980-2
 Chris Wallace	Chris Wallace	PER	896-13
 Bidnov	Bidnov	PER	xxx
 Mika Pencea	Mika Penec	PER	931-17

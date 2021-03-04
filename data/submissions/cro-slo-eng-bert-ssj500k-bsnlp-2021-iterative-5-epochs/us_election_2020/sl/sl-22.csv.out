@@ -5,8 +5,8 @@ Pfizer	Pfizer	ORG	924-3
 Donald Trump	Donald Trump	PER	970-1
 New York	New York	LOC	908-6
 ZDA	ZDA	LOC	1060-0
+covida-19	covida-19	PRO	xxx
 Trumpove	Trumpov	PER	852-0
-Trumpova	Trumpov	PER	852-0
 Pensilvaniji	Pensilvanija	LOC	924-1
 Porter Wright Morris & Arthur	Porter Wright Morris & Arthur	ORG	924-11
 Michiganu	Michigan	LOC	937-0
@@ -15,10 +15,10 @@ Rudyja Giulianija	Rudy Giuliani	PER	994-4
 demokrate	demokrat	PER	970-2
 Giulianijevi	Giulianijev	PER	869-7
 Pfizerju	Pfizer	ORG	924-13
-Operacija hitrejše od svetlobe	operacija hiter od svetloba	MISC	1006-12
 zvezne Uprave za hrano in zdravila	zvezen uprava za hrana in zdravilo	ORG	1060-3
 FDA	FDA	ORG	982-11
 BioNTech	Biontech	ORG	807-20
+Trumpova	Trumpov	PER	853-0
 New Yorka	New York	LOC	908-6
 Andrew Cuomo	Andrew Cuomo	PER	884-22
 Trumpu	Trump	PER	853-0

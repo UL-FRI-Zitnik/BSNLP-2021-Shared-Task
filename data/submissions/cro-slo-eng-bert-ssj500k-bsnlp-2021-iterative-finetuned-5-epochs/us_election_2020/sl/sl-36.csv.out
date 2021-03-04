@@ -6,20 +6,21 @@ John F. Kennedy	John F. Kennedy	PER	1019-12
 republikanca	republikanec	PER	995-3
 Richarda Nixona	Richard Nixon	PER	995-13
 ZDA	ZDA	LOC	1062-0
-facebooka	facebook	MISC	983-1
-twitterja	twitter	MISC	857-1
+facebooka	facebook	PRO	983-1
+twitterja	twitter	PRO	857-1
 Hillary Clinton	Hillary Clinton	PER	913-1
 Bele hiše	bel hiša	ORG	xxx
 Donaldu Trumpu	Donald Trump	PER	972-0
 Trump	Trump	PER	857-0
 Georgeem Washingtonom	George Washington	PER	869-14
-Washington Post	Washington post	MISC	952-3
-New York Times	New York Times	MISC	909-2
-Twitter	Twitter	MISC	857-5
+Washington Post	Washington post	PRO	952-3
+New	New	PRO	909-2
+York Times	York Times	PRO	909-2
+Twitter	Twitter	PRO	857-5
 Ivanko	Ivanka	PER	890-4
 Jaredom Kushnerjem	Jared Kushner	PER	1019-14
-Najprej Amerika	najprej Amerika	MISC	909-10
-America First	America First	MISC	885-11
+Najprej Amerika	najprej Amerika	PRO	909-10
+America First	America First	PRO	885-11
 Američanom	Američan	PER	885-3
 Mike	Mike	PER	938-4
 Mike Pence	Mike Pence	PER	938-4
@@ -46,8 +47,6 @@ Barack Obama	Barack Obama	PER	810-3
 Obama	Obama	PER	1006-2
 To	ta	LOC	xxx
 Barack-Michelle Obama	Barackxmichelle Obama	PER	1006-6
-Forbes	Forbes	MISC	983-12
-Forbesovi	Forbesov	MISC	983-16
 Geraldine Ferraro	Geraldin Ferraro	PER	869-11
 Walter Mondale	Walter Mondale	PER	952-14
 Georgeu W. H. Bushu	George W. H. Bush	PER	870-5

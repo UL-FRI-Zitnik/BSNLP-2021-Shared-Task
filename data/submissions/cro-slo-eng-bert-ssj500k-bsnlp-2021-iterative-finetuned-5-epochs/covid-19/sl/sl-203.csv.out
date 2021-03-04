@@ -1,10 +1,10 @@
 sl-203
 Minca Mramor	Minca Mramor	PER	255-3
 Velike Britanije	velik Britanija	LOC	xxx
-Covid-19	covid-19	MISC	64-0
 Sloveniji	Slovenija	LOC	xxx
 Veliki Britaniji	velik Britanija	LOC	xxx
-kraljevi bolnišnici v Leicestru covid-19	kraljev bolnišnica v Leicester covid-19	ORG	xxx
+kraljevi bolnišnici v Leicestru	kraljev bolnišnica v Leicester	ORG	xxx
+covid-19	covid-19	PRO	xxx
 Sama	sam	PER	xxx
 kraljevo bolnišnico	kraljev bolnišnica	ORG	xxx
 Leicestru	Leicester	LOC	313-6
@@ -16,9 +16,7 @@ Kitajske	Kitajska	LOC	xxx
 Južne Koreje	južen Koreja	LOC	321-25
 VB	VB	LOC	xxx
 WHO	WHO	ORG	242-0
-covida-19	covida-19	MISC	xxx
-covid-19	covid-19	MISC	64-0
+covida-19	covida-19	PRO	xxx
 Boris Johnson	Boris Johnson	PER	145-6
 Leicester Square	Leicester Square	LOC	314-11
-Britancev covid-19	Britanec covid-19	PER	145-7
-Sloveniji covid-19	Slovenija covid-19	LOC	xxx
+Britancev	Britanec	PER	145-7

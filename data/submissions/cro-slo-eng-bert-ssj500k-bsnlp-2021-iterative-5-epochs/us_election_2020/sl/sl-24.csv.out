@@ -18,19 +18,17 @@ Bidnovo	Bidnov	PER	808-8
 Pensilvaniji	Pensilvanija	LOC	924-1
 Beli hiši	bel hiša	LOC	808-3
 Joeja Bidna	Joe Bidn	PER	1019-1
-Predsednikova	predsednikov	PER	xxx
 Bidnove	Bidnov	PER	808-4
 Jen O'Malley Dillon	Jen O'Malley Dillon	PER	1019-10
 Američanom	Američan	PER	884-0
 Trumpom	Trump	PER	854-0
 Jill	Jill	PER	1019-2
-demokratov	demokrat	ORG	971-1
+demokratov	demokrat	PER	971-1
 Trumpa	Trump	PER	854-0
 Nevadi	Nevada	LOC	908-0
 demokrata	demokrat	PER	971-2
 republikance	republikanec	PER	994-0
 Severni Karolini	severen Karolina	LOC	821-2
-U. S. Elections Project	U. S. Elections project	MISC	1035-16
 Michael McDonald	Michael McDonald	PER	937-7
 William McKinley	William Mckinley	PER	952-16
 Williama Jenningsa Bryana	William Jennings Bryan	PER	952-9
@@ -39,5 +37,5 @@ Demokratom	demokrat	PER	xxx
 AP	AP	ORG	884-4
 republikancev	republikanec	PER	994-0
 demokrati	demokrat	PER	971-2
-republikanci	republikanec	PER	994-0
-republikanskim zvezna država	republikanski zvezen država	PER	xxx
+republikanci zvezna država	republikanec zvezen država	PER	994-0
+republikanci	republikanec	ORG	994-0

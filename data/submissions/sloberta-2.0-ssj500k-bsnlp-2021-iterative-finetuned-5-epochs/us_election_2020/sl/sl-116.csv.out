@@ -15,12 +15,12 @@ Iowe	Iowe	LOC	888-24
 Buffala	Buffalo	LOC	796-23
 Clevelandu	Cleveland	LOC	896-4
 newyorški	newyorški	LOC	xxx
-Kip svobode	kip svoboda	LOC	1041-14
+Kip svobode	kip svoboda	PRO	1041-14
 John Adams	John Adams	PER	1013-7
 Johna Adamsa	John Adams	PER	1013-7
 Thomas Jefferson	Thomas Jefferson	PER	836-3
 Adamsova	Adamsov	PER	878-21
-Deklaracije neodvisnosti	deklaracija neodvisnost	MISC	963-15
+Deklaracije neodvisnosti	deklaracija neodvisnost	PRO	963-15
 Britanci	Britanec	PER	796-16
 Adams	Adams	PER	878-19
 Jeffersona	Jefferson	PER	1013-16
@@ -54,7 +54,7 @@ Kalifornije	Kalifornija	LOC	1041-21
 Stanforda	Stanford	ORG	816-8
 Avstraliji	Avstralija	LOC	878-17
 Kitajski	Kitajska	LOC	1041-2
-prve svetovne vojne	prvi svetoven vojna	MISC	921-25
+prve svetovne vojne	prvi svetoven vojna	EVT	921-25
 Hooverji	hoover	ORG	911-38
 Hoover	Hoover	PER	911-21
 Franklinu Rooseveltu	Franklin Roosevelt	PER	980-4
@@ -74,12 +74,11 @@ Iranom	Iran	LOC	888-7
 Edwardom Kennedyjem	Edward Kennedy	PER	998-13
 republikanski	republikanski	ORG	990-8
 Ronald Reagan	Ronald Reagan	PER	990-16
-Nobelova nagrada za mir	Nobelov nagrada za mir	PER	905-27
+Nobelova	Nobelov	PER	905-27
 George H. W. Bush	George H. W. Bush	PER	865-15
 Starejši Bush	star Bush	PER	xxx
 Ronalda Reagana	Ronald Reagan	PER	990-17
 Michaela Dukakisa	Michael Dukakis	PER	931-9
-zalivsko vojno	zalivski vojna	MISC	xxx
 republikanci	republikanec	PER	990-1
 Billa Clintona	Bill Clinton	PER	796-21
 Clinton	Clinton	PER	897-0

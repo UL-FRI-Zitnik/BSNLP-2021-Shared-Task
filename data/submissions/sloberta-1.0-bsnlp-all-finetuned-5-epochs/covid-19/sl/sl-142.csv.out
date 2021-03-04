@@ -1,5 +1,5 @@
 sl-142
-covid-19	covid-19	MISC	61-1
+covid-19	covid-19	PRO	61-1
 RTV Slovenija	RTV Slovenija	ORG	281-4
 Slovenija	Slovenija	LOC	xxx
 škofjeloški osnovni šoli	škofjeloški osnoven šola	LOC	349-8
@@ -20,5 +20,6 @@ Bojana Beović	Bojan Beović	PER	143-3
 Igor Kadunc	Igor Kadunc	PER	289-3
 Odgovor	odgovor	ORG	xxx
 Ljubljani	Ljubljana	LOC	313-0
+notranjim	notranji	PRO	xxx
 Nacionalnega inštituta za javno zdravje	nacionalen inštitut za javen zdravje	ORG	192-4
 NIJZ	Nijz	ORG	192-0

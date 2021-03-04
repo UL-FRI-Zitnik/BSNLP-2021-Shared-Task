@@ -1,6 +1,7 @@
 sl-34
 Bruselj	Bruselj	ORG	147-4
 AstraZeneca	Astrazeneca	ORG	227-1
+covidu-19	covidu-19	PRO	66-0
 Evropska komisija	evropski komisija	ORG	306-2
 EU	EU	ORG	306-1
 Bruslju	Bruselj	LOC	147-4
@@ -19,4 +20,4 @@ Nemčije	Nemčija	LOC	195-1
 Italije	Italija	LOC	291-1
 Nizozemske	Nizozemska	LOC	195-17
 univerza v Oxfordu	univerza v Oxford	ORG	266-3
-Faza I / II	faza I / II	MISC	274-7
+I / II	I / II	PRO	274-7

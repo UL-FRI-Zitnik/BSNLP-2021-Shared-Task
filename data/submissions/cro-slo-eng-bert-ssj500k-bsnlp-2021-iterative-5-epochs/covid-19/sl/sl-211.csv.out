@@ -1,8 +1,7 @@
 sl-211
 Biogen	Biogen	PER	xxx
-COVID-19	covid-19	MISC	65-1
-Rdečemu križu	rdeč križ	ORG	283-2
-Rdečega križa	rdeč križ	ORG	283-2
+COVID-19	covid-19	PRO	65-1
+Rdečemu križu Rdečega križa	rdeč križ rdeč križ	ORG	283-2
 Evropi	Evropa	LOC	305-3
 Španijo	Španija	LOC	350-1
 Italijo	Italija	LOC	291-1

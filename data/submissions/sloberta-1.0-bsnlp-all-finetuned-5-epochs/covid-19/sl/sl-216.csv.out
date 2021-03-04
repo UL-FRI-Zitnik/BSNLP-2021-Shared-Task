@@ -1,10 +1,12 @@
 sl-216
-covid-19	covid-19	MISC	65-0
+covid-19	covid-19	PRO	65-0
 Nizozemskem	Nizozemsko	LOC	194-4
+sars-cov-2	sars-cov-2	PRO	xxx
 univerze Berend-Jan Bosch	univerza Berendvjan Bosch	ORG	xxx
+sars-cov	sarsec	PRO	xxx
 Bosch	Bosch	PER	146-10
 Frank Grosveld	Frank Grosveld	PER	274-17
-Nature Communications	Nature Communications	ORG	194-5
+Nature Communications	Nature Communications	PRO	194-5
 Grosveld	Grosveld	PER	270-24
 Jingsong Wang	Jingsong Wang	PER	322-27
 Harbour BioMed	Harbour Biomed	ORG	327-14

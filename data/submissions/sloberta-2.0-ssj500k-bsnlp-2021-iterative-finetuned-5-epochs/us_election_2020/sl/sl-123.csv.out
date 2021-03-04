@@ -1,7 +1,6 @@
 sl-123
 Cohenova	Cohenov	PER	897-10
 Trumpu	Trump	PER	837-0
-Zlati	zlat	MISC	xxx
 Las Vegasu	Las Vegas	LOC	1049-7
 Melania	Melania	PER	932-2
 Donalda Trumpa	Donald Trump	PER	964-2
@@ -11,7 +10,8 @@ Skyhorse	Skyhorse	ORG	817-22
 Cohen	Cohen	PER	897-4
 Trumpa	Trump	PER	837-0
 Stormy Daniels	Stormy Daniels	PER	817-13
-Trumpom covida-19	Trump covida-19	PER	837-0
+Trumpom	Trump	PER	837-0
+covida-19	covida-19	PRO	xxx
 Rusi	Rus	PER	990-5
 Trumpov	Trumpov	PER	837-0
 Vladimirjem Putinom	Vladimir Putin	PER	1046-24

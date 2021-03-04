@@ -5,14 +5,12 @@ ZDA	ZDA	LOC	1052-3
 Donalda Trumpa	Donald Trump	PER	962-3
 Washington	Washington	LOC	950-0
 Trumpovi	Trumpov	PER	834-0
-Pohod milijon MAGA	pohod milijon MAGA	MISC	920-14
+Pohod MAGA	pohod MAGA	PRO	920-14
 Virginijo	Virginija	LOC	1046-4
-Trump MAGA	Trump MAGA	PER	834-0
-MAGA	MAGA	MISC	931-2
+Trump	Trump	PER	834-0
 Trumpovega	Trumpov	PER	835-1
 Ameriko	Amerika	LOC	877-2
 Joe Biden	Joe Biden	PER	1012-1
-Trump	Trump	PER	835-2
 Hillary Clinton	Hillary Clinton	PER	911-1
 Biden	Biden	PER	795-3
 Trumpa	Trump	PER	835-0

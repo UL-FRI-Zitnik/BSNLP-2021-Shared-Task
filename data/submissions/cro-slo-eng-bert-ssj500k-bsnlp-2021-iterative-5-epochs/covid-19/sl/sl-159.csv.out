@@ -2,7 +2,7 @@ sl-159
 Evropskem parlamentu	evropski parlament	ORG	303-2
 Bruslju	Bruselj	LOC	144-21
 Madžarski	Madžarska	LOC	253-0
-covid-19	covid-19	MISC	62-0
+covid-19	covid-19	PRO	62-0
 socialistov in demokratov	socialist in demokrat	ORG	xxx
 S	z	ORG	xxx
 & D	& D	ORG	xxx
@@ -11,7 +11,8 @@ Viktor Orban	Viktor Orban	PER	xxx
 Zato	zato	LOC	xxx
 Evropsko komisijo	evropski komisija	ORG	303-0
 Svet EU	svet EU	ORG	xxx
-Svet pogodbe EU	svet pogodba EU	LOC	xxx
+Svet	svet	LOC	xxx
+pogodbe EU	pogodba EU	PRO	xxx
 Evropsko ljudsko stranko	evropski ljudski stranka	ORG	303-15
 EPP	EPP	ORG	303-5
 Orbanovo	Orbanov	PER	77-7
@@ -33,9 +34,7 @@ Madžarskem	Madžarsko	LOC	253-0
 Gwendoline Delbos-Corfield	Gwendoline Delbosscorfield	PER	269-15
 Zelenih	zelen	ORG	340-19
 Christophe Hansen	Christophe Hansen	PER	62-10
-Svet	svet	ORG	xxx
 Andor Deli	Andor Deli	PER	225-31
-Identiteta in demokracija	identiteta in demokracija	MISC	289-15
 ID	ID	ORG	289-0
 Annalisa Tardino	Annalisa Tardin	PER	225-27
 Madžarsko	Madžarska	LOC	253-0
@@ -45,7 +44,6 @@ ECR	ECR	ORG	303-22
 Vera Jourova	Vera Jourov	PER	xxx
 Nikolina Brnjac	Nikolina Brnjac	PER	192-15
 Svetu EU	svet EU	ORG	xxx
-pogodbe EU	pogodba EU	MISC	xxx
 Madžarska	Madžarska	LOC	253-0
 Poljska	Poljska	LOC	179-26
 sveta EU za splošne zadeve	svet EU za splošen zadeva	ORG	xxx

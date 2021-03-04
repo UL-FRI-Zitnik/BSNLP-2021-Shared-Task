@@ -1,7 +1,8 @@
 sl-37
 Von der Leynova	von der Leynov	PER	xxx
 EU	EU	ORG	307-3
-covidu-19	covidu-19	MISC	67-2
-EU covida-19	EU covida-19	ORG	307-3
-božiču	božič	MISC	147-5
+covida-19	covida-19	PRO	xxx
+božič	božič	EVT	147-5
+božiču	božič	EVT	147-5
 von der Leynova	von der Leynov	PER	xxx
+covidu-19	covidušče	PRO	67-1

@@ -7,7 +7,6 @@ republikanci	republikanec	PER	994-0
 demokrati	demokrat	PER	994-0
 Melania sodišča	Melania sodišče	PER	937-1
 vrhovno sodišče ZDA	vrhoven sodišče ZDA	ORG	1048-18
-demokratka	demokratka	PER	970-2
 Nancy Pelosi	Nancy Pelosi	PER	908-4
 republikanec	republikanec	PER	994-0
 Mitch McConnell	Mitch Mcconnell	PER	937-4
@@ -19,7 +18,7 @@ ZDA	ZDA	LOC	1060-0
 Pelosijeva	Pelosijev	PER	924-7
 Južne Karoline	južen Karolina	LOC	1018-3
 Lindsey Graham	Lindsey Graham	PER	1051-3
-Fox News	Fox News	MISC	982-1
+Fox News	Fox News	PRO	982-1
 vrhovnega sodišča ZDA	vrhoven sodišče ZDA	ORG	xxx
 Bidna	Bidn	PER	970-4
 Graham	Graham	PER	869-3

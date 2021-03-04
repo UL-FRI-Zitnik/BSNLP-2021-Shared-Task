@@ -1,11 +1,11 @@
 sl-184
 Raziskava IATE	raziskava IATE	PER	xxx
-covid-19	covid-19	MISC	64-0
+covid-19	covid-19	PRO	64-0
 Airbus	Airbus	ORG	225-9
 Boeing	Boeing	ORG	144-7
 Embraer	Embraer	ORG	304-9
 IATA	IATA	ORG	290-6
-covidom-19	covidom-19	MISC	xxx
+covidom-19	covidom-19	PRO	xxx
 Evropi	Evropa	LOC	304-4
 Tajska	Tajska	LOC	296-17
 Mednarodno združenje letalskih prevoznikov	mednaroden združenje letalski prevoznik	ORG	254-12
@@ -16,14 +16,12 @@ CDC	CDC	ORG	64-12
 ZDA	ZDA	LOC	340-2
 mednarodnega združenja letalskih prevoznikov	mednaroden združenje letalski prevoznik	ORG	xxx
 Alexandre de Juniac	Alexandre de Juniac	PER	226-16
-HEPA	hepa	MISC	326-12
+HEPA	hepa	PRO	326-12
 Američani	Američan	PER	226-1
-boeing 767 in 777.	boeing 767 in 777.	MISC	144-20
+boeing 767 in 777.	boeing 767 in 777.	PRO	144-20
 United Airlines	United Airlines	ORG	265-1
 Poveljstvo	poveljstvo	ORG	xxx
 ameriške vojske za transport	ameriški vojska za transport	ORG	226-23
-letali	letalo	MISC	313-8
-777 in	777 in	MISC	355-23
-767	767	MISC	355-18
+777 in 767	777 in 767	PRO	355-23
 Joe Pope	Joe Pope	PER	321-14
 ameriške	ameriški	ORG	xxx

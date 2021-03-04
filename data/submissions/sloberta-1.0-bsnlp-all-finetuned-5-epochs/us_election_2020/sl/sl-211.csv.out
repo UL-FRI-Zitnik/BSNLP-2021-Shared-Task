@@ -13,13 +13,13 @@ Pensilvanijo	Pensilvanija	LOC	923-0
 Biden	Biden	PER	806-0
 Trumpom	Trump	PER	851-1
 AP	AP	ORG	883-7
-Fox News	Fox News	ORG	982-1
+Fox News	Fox News	PRO	982-1
 Arizone	Arizona	LOC	883-3
 Bidnu	Bidn	PER	806-1
 Aljaski	Aljaska	LOC	883-4
 Beli hiši	bel hiša	LOC	806-2
 Joeju Bidnu	Joe Bidn	PER	1018-1
-Twitterja	Twitter	MISC	851-2
+Twitterja	Twitter	PRO	851-2
 Bidna	Bidn	PER	969-7
 vrhovno sodišče ZDA	vrhoven sodišče ZDA	ORG	1047-2
 konservativno	konservativen	ORG	1043-16
@@ -32,7 +32,7 @@ Aljaske	Aljaska	LOC	883-4
 Mark Esper	Mark Esper	PER	936-29
 NBC	NBC	ORG	908-11
 Esper	Esper	PER	xxx
-Twitterju	Twitter	MISC	851-2
+Twitterju	Twitter	PRO	851-2
 Severna Karolina	severen Karolina	LOC	820-2
 Georgia	Georgia	LOC	869-2
 Thom Tillis	Thom Tillis	PER	851-5

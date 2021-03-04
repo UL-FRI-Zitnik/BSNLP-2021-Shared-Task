@@ -1,7 +1,7 @@
 sl-232
 Mariborskem	Mariborsko	LOC	256-3
-UKC covid-19	UKC covid-19	LOC	265-0
-UKC Maribor covid-19	UKC Maribor covid-19	LOC	265-0
+UKC	UKC	LOC	265-0
+covid-19	covid-19	PRO	66-0
 UKC Maribor	UKC Maribor	LOC	265-0
 Vojko Berce	Vojko Berce	PER	xxx
 Klinike za pediatrijo	Klinika za pediatrija	ORG	xxx
@@ -10,6 +10,5 @@ Berce	Berce	PER	146-8
 Sloveniji	Slovenija	LOC	xxx
 klinika za pediatrjo	klinika za pediatrja	ORG	xxx
 Mariboru	Maribor	LOC	256-3
-Multisystem inflammatory syndrome in children	Multisystem inflammatory syndrome in children	MISC	256-33
-MIS-C	MIS-C	MISC	xxx
-Berce covid-19	Berce covid-19	PER	146-8
+MIS-C	MIS-C	PRO	xxx
+covid	covid	PRO	66-2

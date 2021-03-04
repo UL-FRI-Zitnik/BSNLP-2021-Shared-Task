@@ -1,10 +1,11 @@
 sl-222
 ZDA	ZDA	LOC	342-1
 Trump	Trump	PER	297-1
-Covid-19	covid-19	MISC	65-0
-Donald Trump za domovinsko varnost	Donald Trump za domovinski varnost	PER	xxx
+Covid-19	covid-19	PRO	65-0
+Donald Trump	Donald Trump	PER	xxx
+zakon o vojni proizvodnji za domovinsko varnost	zakon o vojen proizvodnja za domovinski varnost	PRO	342-8
 3 M	3 m	ORG	xxx
-N95	N95	MISC	194-10
+N95	N95	PRO	194-10
 Američanom	Američan	PER	226-1
 ZDA New York	ZDA New York	LOC	342-1
 New York	New York	LOC	195-0
@@ -30,10 +31,8 @@ Zvezna agencija za posredovanje v nesrečah	zvezen agencija za posredovanje v ne
 Fema	Fema	ORG	274-19
 Andrew Cuomo	Andrew Cuomo	PER	226-22
 Chuckom Schumerjem	Chuck Schumer	PER	65-7
-Zaandam	Zaandam	MISC	342-3
-Rotterdam	Rotterdam	MISC	283-14
 Fort Lauderdalu	Fort Lauderdal	LOC	274-8
 Floridi	Florida	LOC	274-5
 Detroitu	Detroit	LOC	xxx
 Jason Hargrove	Jason Hargrove	PER	322-15
-Facebooku	Facebook	MISC	274-2
+Facebooku	Facebook	PRO	274-2

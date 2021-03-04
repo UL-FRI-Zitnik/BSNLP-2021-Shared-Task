@@ -1,8 +1,8 @@
 sl-204
-COVID-19	covid-19	MISC	xxx
 Willem H. Buiter	Willem H. Buiter	PER	242-14
 Univerzi Columbia	univerza Columbia	ORG	265-3
-Citigroup Covid-19	Citigroup covid-19	ORG	64-11
+Citigroup	Citigroup	ORG	64-11
+Covid-19	covid-19	PRO	64-11
 ameriška centralna banka	ameriški centralen banka	ORG	226-8
 Zvezne rezerve	zvezen rezerva	ORG	341-13
 Fed	Fed	ORG	274-4
@@ -12,5 +12,4 @@ Freddie Mac	Freddie Mac	ORG	274-18
 Fed centralno banko	Fed centralen banka	ORG	274-4
 Long Islanda banka	Long Island banka	LOC	314-10
 Lahko	lahko	LOC	xxx
-Fed Covid-19 državna razvojna banka	Fed covid-19 državen razvojen banka	ORG	274-4
-Covid-19	covid-19	MISC	64-0
+Covid-19 državna razvojna banka	covid-19 državen razvojen banka	PRO	341-14

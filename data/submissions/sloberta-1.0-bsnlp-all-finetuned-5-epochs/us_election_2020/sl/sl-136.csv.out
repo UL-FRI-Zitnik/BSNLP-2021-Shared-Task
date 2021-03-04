@@ -17,14 +17,12 @@ Trumpa	Trump	PER	840-0
 Bidnu	Bidn	PER	799-3
 Bidnom	Bidn	PER	xxx
 Američanov	Američan	PER	879-0
-državljanske vojne	državljanski vojna	MISC	xxx
 Suskind	Suskind	PER	817-17
 Trumpovih	Trumpov	PER	840-0
 vrhovno sodišče	vrhoven sodišče	ORG	xxx
 Trumpovim	Trumpov	PER	840-0
 konservativne	konservativen	ORG	xxx
 Trumpove	Trumpov	PER	840-0
-QAnon	QAnon	MISC	974-2
 demokrate	demokrat	PER	965-0
 Trumpu	Trump	PER	840-0
 Bidna	Bidn	PER	799-3
@@ -33,8 +31,7 @@ Bushu	Bush	PER	799-5
 Kdo	kdo	LOC	xxx
 Amerike	Amerika	LOC	879-4
 Belo hišo	bel hiša	LOC	799-2
-Fox News	Fox News	ORG	980-2
-konservativnega	konservativen	PER	xxx
+Fox News	Fox News	PRO	980-2
 Murdocha	Murdoch	PER	933-7
 Amerika Trump	Amerika Trump	LOC	905-7
 Donalda Trumpa	Donald Trump	PER	965-9
@@ -42,7 +39,6 @@ Busheve	Bushev	PER	799-8
 Evropo	Evropa	LOC	998-1
 Evropi	Evropa	LOC	998-1
 EU	EU	ORG	998-2
-Američanom	Američan	PER	879-0
 Trumpov	Trumpov	PER	840-0
 Trumpovega	Trumpov	PER	840-1
 Rudi Rizman	Rudi Rizman	PER	991-5

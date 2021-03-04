@@ -1,9 +1,11 @@
 sl-221
 ŽZ	ŽZ	ORG	xxx
-COVID-19	covid-19	MISC	65-1
-Moj Generali	moj General	MISC	256-1
+COVID-19	covid-19	PRO	65-1
+Moj Generali	moj General	PRO	256-1
 Generali	Generali	ORG	270-11
 Generaliju	Generali	ORG	270-1
-Specialisti	specialist	MISC	xxx
+080 70	080 70	PRO	xxx
+Generaliju 70	Generali 70	ORG	270-1
 Klicnega centra	klicen center	LOC	xxx
-080 81 10	080 81 10	MISC	xxx
+080 81 10	080 81 10	PRO	xxx
+www.generali.si	www.generali.si	PRO	242-5

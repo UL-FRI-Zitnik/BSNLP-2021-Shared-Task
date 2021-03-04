@@ -1,8 +1,6 @@
 sl-205
-Covid	Covid	MISC	xxx
 Olimpijski komite	olimpijski komite	ORG	78-7
-Šinzo Abe olimpijskih iger	Šinzo Abe olimpijski igra	PER	350-7
-OI	OI	MISC	78-2
+Šinzo Abe	Šinzo Abe	PER	350-7
 Tokiu	Tokio	LOC	297-4
 Predlog	predlog	PER	xxx
 Mednarodnega olimpijskega komiteja	mednaroden olimpijski komite	ORG	255-11
@@ -18,11 +16,12 @@ Seiko Hašimoto	Seiko Hašimoto	PER	xxx
 Abe	Abe	PER	xxx
 Bach	Bach	PER	145-5
 Japonska	Japonska	LOC	321-2
-OI 2021	OI 2021	MISC	78-25
-Tokio 2020.	Tokio 2020.	MISC	297-8
-Tokio 2020	Tokio 2020	MISC	297-8
+OI	OI	EVT	78-25
+poletne	poleten	EVT	xxx
+olimpijske	olimpijski	EVT	xxx
+paraolimpijske igre Tokio 2020	paraolimpijski igra Tokio 2020	EVT	xxx
 Olimpijskem komiteju Slovenije	olimpijski komite Slovenija	ORG	78-12
 OKS	OKS	ORG	78-3
 STA	biti	ORG	xxx
 Blaž Perko	Blaž Perko	PER	145-11
-agendo 2020	agenda 2020	MISC	xxx
+agendo 2020	agenda 2020	PRO	xxx

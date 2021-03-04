@@ -5,8 +5,8 @@ Yildizlar Yatirim Holding	Yildizlar Yatirim holding	ORG	259-2
 Dravograd	Dravograd	LOC	xxx
 Otiškem Vrhu ivernih plošč	otiški Vrh iveren plošča	LOC	77-0
 ministrstvo za gospodarski razvoj in tehnologijo	ministrstvo za gospodarski razvoj in tehnologija	ORG	xxx
-svetovne	svetoven	MISC	xxx
-pandemije covida-19	pandemija covida-19	MISC	xxx
+pandemije	pandemija	EVT	xxx
+covida-19	covida-19	PRO	xxx
 Koroškem	Koroško	LOC	xxx
 ministrstvu za gospodarski razvoj in tehnologijo	ministrstvo za gospodarski razvoj in tehnologija	ORG	251-22
 Yidizlar Yatirim Holding	Yidizlar Yatirim holding	ORG	259-9
@@ -21,7 +21,7 @@ Evropi	Evropa	LOC	303-4
 Slovenijo	Slovenija	LOC	xxx
 Dejana Židana	Dejan Židan	PER	xxx
 Heta Asset Resolution	Heta Asset Resolution	ORG	325-23
-Yildiz Entegre Piteşti	Yildiz Entegre Piteşti	PER	259-3
+Piteşti	Piteşti	LOC	177-6
 Kartepe	Kartepe	LOC	xxx
 Otiški Vrh	otiški vrh	LOC	77-35
 Nemčije	Nemčija	LOC	191-2

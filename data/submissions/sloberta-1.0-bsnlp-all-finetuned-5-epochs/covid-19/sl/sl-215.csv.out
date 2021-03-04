@@ -1,14 +1,10 @@
 sl-215
-Kronična vnetna črevesna bolezen	kroničen vneten črevesen bolezen	MISC	xxx
-covid-19	covid-19	MISC	65-13
-SARS-CoV-2	Sarsvcoven	MISC	65-13
-COVID-19	covid-19	MISC	65-1
-KVČB	KVČB	MISC	xxx
+covid-19	covid-19	PRO	65-13
+SARS-CoV-2	Sarsvcoven	PRO	65-13
+COVID-19	covid-19	PRO	65-1
 Matic Koželj	Matic Koželj	PER	256-0
 UKC Ljubljana	UKC Ljubljana	ORG	265-0
-društva za KVČB	društvo za KVČB	ORG	xxx
-Viva	Viva	MISC	xxx
-Medicina in ljudje	medicina in človek	MISC	xxx
+društva za	društvo za	ORG	xxx
 Mateje Saje	Mateja Saje	PER	256-12
 Dušana Barage	Dušan Baraga	PER	xxx
 Sanja Jablanovič	Sanja Jablanovič	PER	xxx
@@ -21,8 +17,9 @@ Enota za biološka zdravila	enota za biološki zdravilo	ORG	305-5
 Nataše Smrekar	Nataša Smrekar	PER	194-11
 #Nataša Smrekar	#Nataša Smrekar	PER	xxx
 Matica Koželja	Matic Koželj	PER	256-0
+KVČB	KVČB	PRO	xxx
 ZZZS	ZZZS	LOC	342-6
 Sanje Jablanovič	sanja Jablanovič	PER	xxx
-zakonu o delovnih razmerjih	zakon o deloven razmerje	MISC	342-12
-zakonu o varstvu pri delu	zakon o varstvo pri delo	MISC	342-9
+zakonu o delovnih razmerjih	zakon o deloven razmerje	PRO	342-12
+zakonu o varstvu pri delu	zakon o varstvo pri delo	PRO	342-9
 Jablanovičeva	Jablanovičev	PER	322-13

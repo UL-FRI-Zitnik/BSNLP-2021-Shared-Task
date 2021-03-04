@@ -5,7 +5,7 @@ Joeja Bidna	Joe Bidn	PER	1014-0
 Angela Merkel	Angela Merkel	PER	880-19
 Donaldom Trumpom	Donald Trump	PER	965-17
 Heiko Maas	Heiko Maas	PER	911-2
-twitterju	twitter	MISC	843-2
+twitterju	twitter	PRO	843-2
 Evropske komisije	evropski komisija	ORG	999-3
 Ursula von der Leyen	Ursula von der Leyen	PER	1034-6
 Evropska unija	evropski unija	ORG	999-2
@@ -20,7 +20,7 @@ Združenem kraljestvu	združen kraljestvo	LOC	1056-2
 Londona	London	LOC	1050-28
 Sadiq Khan	Sadiq Khan	PER	818-13
 Kamali Harris	Kamala Harris	PER	1042-5
-facebooku	facebook	MISC	981-9
+facebooku	facebook	PRO	981-9
 Boris Johnson	Boris Johnson	PER	801-10
 združenega kraljestva	združen kraljestvo	LOC	1056-8
 Škotske	Škotska	LOC	1064-3
@@ -31,7 +31,7 @@ Pariza	Pariza	LOC	922-23
 Anne Hidalgo	Anne Hidalgo	PER	880-17
 Amerika	Amerika	LOC	880-2
 Harris	Harris	PER	912-9
-Pariškega sporazuma	pariški sporazum	MISC	922-5
+Pariškega sporazuma	pariški sporazum	PRO	922-5
 Trumpove	Trumpov	PER	843-0
 Barack Obama	Barack Obama	PER	801-3
 Biden	Biden	PER	801-0

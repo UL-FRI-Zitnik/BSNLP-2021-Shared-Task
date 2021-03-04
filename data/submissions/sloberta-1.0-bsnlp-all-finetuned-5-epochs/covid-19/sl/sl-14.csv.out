@@ -6,12 +6,11 @@ Pfizer	Pfizer	ORG	178-5
 Donald Trump	Donald Trump	PER	xxx
 New York	New York	LOC	192-5
 ZDA	ZDA	LOC	339-0
-covida-19	covida-19	MISC	xxx
+covida-19	covida-19	PRO	xxx
 Trumpove	Trumpov	PER	295-0
 Trumpova	Trumpov	PER	295-0
 Pensilvaniji	Pensilvanija	LOC	178-6
-Porter Wright Morris &	Porter Wright Morris &	PER	178-10
-Arthur	Arthur	PER	178-10
+Porter Wright Morris & Arthur	Porter Wright Morris & Arthur	PER	178-10
 Trumpovi	Trumpov	PER	295-0
 Michiganu	Michigan	LOC	253-27
 Arizoni	Arizona	LOC	224-10

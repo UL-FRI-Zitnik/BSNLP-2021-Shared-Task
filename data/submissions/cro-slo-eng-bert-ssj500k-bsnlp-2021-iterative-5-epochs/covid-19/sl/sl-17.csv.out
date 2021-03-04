@@ -1,8 +1,8 @@
 sl-17
 EU	EU	LOC	304-0
-pandemija covida-19	pandemija covida-19	MISC	xxx
+covidu-19	covidu-19	PRO	62-1
+covida-19	covida-19	PRO	xxx
 Evropska unija	evropski unija	ORG	304-2
-covidu-19	covidušče	MISC	62-2
 Združeno kraljestvo	združen kraljestvo	LOC	340-11
 Britanska agencija za zdravila in medicinske izdelke	britanski agencija za zdravilo in medicinski izdelek	ORG	144-16
 MHRA	MHRA	ORG	254-2
@@ -12,7 +12,7 @@ AFP	AFP	ORG	225-3
 June Raine	June Raine	PER	321-24
 Matt Hancock	Matt Hancock	PER	254-20
 Otoku	otok	LOC	78-0
-brexita	brexit	MISC	144-10
+brexita	brexit	EVT	144-10
 Evrope	Evropa	LOC	304-4
 Hancock	Hancock	PER	326-19
 Rainova	Rainov	PER	282-23
@@ -22,12 +22,11 @@ Ema	Ema	ORG	304-6
 Slovenijo	Slovenija	LOC	xxx
 Amsterdamu	Amsterdam	LOC	225-8
 Pfizerja	Pfizer	ORG	179-0
-BioNTecha	Biontech	ORG	144-0
+BioNTecha	Biontech	PRO	144-0
 Modernino	Modernin	PER	254-3
 AstraZeneca	Astrazeneca	ORG	225-4
 oxfordska univerza	oxfordski univerza	ORG	78-1
 Evropska komisija	evropski komisija	ORG	304-1
-Pfizer BioNTech	Pfizer Biontech	ORG	179-0
 Moderna	Moderna	ORG	254-4
 Ameriškem uradu za hrano in zdravila	ameriški urad za hrana in zdravilo	ORG	225-17
 FDA	FDA	ORG	273-0
@@ -38,8 +37,7 @@ Slaoui	Slaoui	PER	xxx
 Američanov	Američan	PER	225-33
 Rusiji	Rusija	LOC	282-1
 Vladimir Putin	Vladimir Putin	PER	xxx
-Sputnik V	Sputnik v	MISC	xxx
-EpiVacCorona	Epivaccoron	MISC	304-14
+Sputnik V	Sputnik v	PRO	xxx
 Kitajskem	Kitajsko	LOC	xxx
 Wang Tao	Wang Tao	PER	242-9
 Podjetje	podjetje	ORG	xxx

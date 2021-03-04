@@ -1,27 +1,26 @@
 sl-40
 G20	G20	ORG	270-4
-covid-19	covid-19	MISC	xxx
+covid-19	covid-19	PRO	xxx
 20	20	ORG	xxx
 dpa	DPA	ORG	xxx
 Angela Merkel	Angela Merkel	PER	228-0
-covidu-19	covidušče	MISC	xxx
 Gavi	Gavi	ORG	270-20
 Merklova	Merklov	PER	181-8
 Savdska Arabija	savdski Arabija	LOC	xxx
-G20 covida-19	G20 covida-19	ORG	270-4
+covida-19	covida-19	PRO	xxx
 Salmana	Salman	PER	xxx
 Giuseppeju Conteju	Giuseppe Conte	PER	270-15
-Ta covida-19	ta covida-19	PER	xxx
+Ta	ta	PER	xxx
 Salman	Salman	PER	xxx
+covidu-19	covidušče	PRO	xxx
 Recep Tayyip Erdogan	Recep Tayyip Erdogan	PER	283-11
 Vladimir Putin	Vladimir Putin	PER	xxx
 Rusija	Rusija	LOC	283-0
-Sputnik V	Sputnik v	MISC	xxx
 Xi Jinping	XI Jinping	PER	xxx
 Kitajska	Kitajska	LOC	xxx
 ZN	ZN	ORG	343-2
 Antonio Guterres	Antonio Guterres	PER	228-19
-Covax	Covax	MISC	270-8
+Covax	Covax	PRO	270-8
 ZDA	ZDA	LOC	343-0
 Evropske komisije	evropski komisija	ORG	307-0
 Ursula von der Leyen	Ursula von der Leyen	PER	266-0

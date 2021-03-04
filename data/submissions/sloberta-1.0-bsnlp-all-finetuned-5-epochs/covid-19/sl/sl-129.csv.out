@@ -1,5 +1,5 @@
 sl-129
-covid-19	covid-19	MISC	61-1
+covid-19	covid-19	PRO	61-1
 Jessica Adams	Jessica Adams	PER	320-18
 Britanka	Britanka	PER	143-12
 Vuhanu	Vuhan	LOC	xxx
@@ -7,9 +7,9 @@ Kitajskem	Kitajsko	LOC	xxx
 Adamsova	Adamsov	PER	224-22
 Londonu	London	LOC	312-9
 Tasmaniji	Tasmanija	LOC	295-26
+božič	božič	EVT	xxx
 ZDA	ZDA	LOC	339-0
-Daily Mail	Daily Mail	MISC	xxx
-božič	božič	MISC	143-18
+Daily Mail	Daily Mail	PRO	xxx
 Harry	Harry	PER	325-4
 Meghan	Meghan	PER	252-12
 Williama	William	PER	242-13

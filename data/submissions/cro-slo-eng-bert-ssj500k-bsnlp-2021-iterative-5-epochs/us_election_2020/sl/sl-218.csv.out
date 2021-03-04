@@ -1,11 +1,10 @@
 sl-218
 ZDA	ZDA	LOC	1060-0
-Republikanec	Republikanec	PER	xxx
 Donald Trump	Donald Trump	PER	970-1
 demokrata	demokrat	PER	970-2
 Josepha Bidna	Joseph Bidn	PER	1018-8
 Trump	Trump	PER	852-0
-Fox News	Fox News	ORG	982-1
+Fox News	Fox News	PRO	982-1
 Chrisa Wallaca	Chris Wallac	PER	899-4
 Ohiu	Ohio	LOC	1006-4
 Biden	Biden	PER	807-2
@@ -15,10 +14,10 @@ Ponosni fantje	ponosen fant	ORG	924-2
 Ameriki	Amerika	LOC	883-2
 Wallaca	Wallac	PER	951-5
 Bidna	Bidn	PER	807-3
-Ponosnih fantov	ponosen fant	ORG	924-2
+Ponosnih	ponosen	ORG	924-2
 Enrique Tarrio	Enrique Tarrio	PER	1000-1
 Donald Trump mlajši	Donald Trump mlad	PER	970-1
-CBS	CBS	ORG	899-9
+CBS	CBS	PRO	899-9
 Jason Miller	Jason Miller	PER	1018-13
 Turmp	Turmp	PER	852-2
 Američanom	Američan	PER	883-0

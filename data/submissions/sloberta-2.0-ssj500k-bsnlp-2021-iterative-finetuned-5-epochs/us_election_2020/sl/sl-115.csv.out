@@ -14,13 +14,11 @@ Trump	Trump	PER	816-1
 Trumpu	Trump	PER	836-0
 Ameriki	Amerika	LOC	878-0
 Kevin Lamarque	Kevin Lamarque	PER	1041-23
-Reuters	Reuters	MISC	990-3
 Janša	Janša	ORG	xxx
 katoliška cerkev	katoliški cerkev	ORG	xxx
-Pravičnost	pravičnost	MISC	1041-24
 Noriškem kraljestvu	noriški kraljestvo	LOC	905-14
 Slovenije	Slovenija	LOC	816-1
-covida-19	covida-19	MISC	xxx
+covida-19	covida-19	PRO	xxx
 Janši	Janša	PER	xxx
 Američani	Američan	PER	878-1
 Mefistom	Mefist	ORG	931-15

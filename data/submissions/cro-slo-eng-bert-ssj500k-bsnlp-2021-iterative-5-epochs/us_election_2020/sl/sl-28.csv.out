@@ -8,9 +8,10 @@ Beli hiši	bel hiša	ORG	808-3
 demokrat	demokrat	PER	971-1
 Joe Biden	Joe Biden	PER	1019-0
 Američanov	Američan	PER	884-0
-slovenskenovice.si	slovenskenovicevsa	MISC	xxx
+ameriških volitev	ameriški volitev	EVT	xxx
+slovenskenovice.si	slovenskenovicevsa	PRO	xxx
 Michiganu Barria	Michigan Barria	LOC	937-0
-CNN	CNN	MISC	899-7
+CNN	CNN	PRO	899-7
 Trump	Trump	PER	855-1
 Pensilvaniji	Pensilvanija	LOC	925-0
 Te	ta	PER	xxx

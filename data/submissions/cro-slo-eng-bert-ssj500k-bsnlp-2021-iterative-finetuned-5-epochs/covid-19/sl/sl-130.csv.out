@@ -5,17 +5,17 @@ Trump	Trump	PER	295-0
 ZDA	ZDA	LOC	339-0
 Univerze Johna Hopkinsa	univerza John Hopkins	ORG	264-4
 Marku Meadowsu	Mark Meadows	PER	252-6
-CNN	CNN	ORG	61-8
+CNN	CNN	PRO	61-8
 Bela hiše	bel hiša	ORG	143-2
 Meadows	Meadows	PER	252-4
 AFP	AFP	ORG	224-4
-Washington Posta	Washington post	MISC	242-15
+Washington Posta	Washington post	PRO	242-15
 Bele hiše	bel hiša	LOC	143-2
 Trumpu	Trump	PER	295-0
 Melanii Trump	Melania Trump	PER	252-32
 Donald Trump	Donald Trump	PER	xxx
 Mark Meadows	Mark Meadows	PER	252-6
-covida-19	covida-19	MISC	xxx
+covida-19	covida-19	PRO	xxx
 Joe Biden	Joe Biden	PER	320-6
 Kamala Harris	Kamala Harris	PER	xxx
 republikancev	republikanec	PER	281-30

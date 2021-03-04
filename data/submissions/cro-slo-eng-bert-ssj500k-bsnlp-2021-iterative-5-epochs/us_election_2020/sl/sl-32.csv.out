@@ -19,7 +19,6 @@ Aljaski	Aljaska	LOC	885-0
 Bidnova	Bidnov	PER	xxx
 Trumpom	Trump	PER	856-0
 Bidnu	Bidn	PER	809-1
-Republikanska	republikanski	ORG	995-17
 Trumpa	Trump	PER	856-0
 ameriškega vrhovnega sodišča	ameriški vrhoven sodišče	ORG	xxx
 Samuel Alito	Samuel Alito	PER	821-21
@@ -36,6 +35,5 @@ Andreja Židanik	Andreja Židanik	PER	885-18
 Utahu	Utah	LOC	1035-17
 AP	AP	ORG	885-2
 Utah	Utah	LOC	1035-5
-RCP	RCP	MISC	995-9
 Kalifornijo	Kalifornija	LOC	1044-0
-Ballotpedia	Ballotpedio	MISC	809-4
+Ballotpedia	Ballotpedio	PRO	809-4

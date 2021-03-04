@@ -3,7 +3,7 @@ ZDA	ZDA	LOC	1052-3
 Joe Biden	Joe Biden	PER	1011-0
 Majorjem	Major	PER	931-1
 Kevin O'Connor	Kevin O'Connor	PER	1040-16
-CT	CT	MISC	896-8
+CT	CT	PRO	896-8
 Biden Roberts	Biden Roberts	PER	794-4
 Reuters	Reuters	ORG	989-7
 republikanec	republikanec	PER	989-6
@@ -13,11 +13,10 @@ Biden	Biden	PER	794-4
 Champa	Champ	PER	896-3
 Majorja	Major	PER	931-1
 Belo hišo	bel hiša	LOC	795-0
-Fox	Fox	MISC	980-2
 republikanske	republikanski	PER	xxx
 FBI	FBI	ORG	980-3
 Trump	Trump	PER	834-0
-Fox News	Fox News	ORG	980-2
+Fox News	Fox News	PRO	980-2
 Joeja Bidna	Joe Bidn	PER	1011-3
 Arizoni	Arizona	LOC	877-20
 Mario Bartiromo	Mario Bartiromo	PER	931-14

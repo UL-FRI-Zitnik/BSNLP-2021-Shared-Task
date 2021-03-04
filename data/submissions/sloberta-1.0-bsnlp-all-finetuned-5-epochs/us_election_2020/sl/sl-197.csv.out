@@ -12,7 +12,7 @@ Giulianijevi	Giulianijev	PER	868-4
 Giuliani	Giuliani	PER	868-0
 republikanske stranke	republikanski stranka	ORG	993-2
 Trumpove	Trumpov	PER	848-0
-twitterju	twitter	MISC	848-1
+twitterju	twitter	PRO	848-1
 Rudyju	Rudy	PER	993-9
 Chris Krebs	Chris Krebs	PER	899-2
 Trump	Trump	PER	848-0
@@ -25,7 +25,7 @@ Belo hišo	bel hiša	LOC	805-2
 Michigana	Michigan	LOC	935-2
 Bidna	Bidn	PER	805-0
 Wayne volilno komisijo	Wayne volilen komisija	LOC	951-0
-Biden	Biden	PER	xxx
 Georgia	Georgia	LOC	868-1
 Da	da	PER	xxx
 Brad Raffensperger	Brad Raffensperger	PER	805-5
+Biden	Biden	PER	805-1

@@ -1,11 +1,10 @@
 sl-141
-Slovenska znanost in	slovenski znanost in	ORG	xxx
-covid-19	covid-19	MISC	xxx
+Slovenska znanost	slovenski znanost	PRO	xxx
+covid-19	covid-19	PRO	xxx
 ARRS	ARRS	ORG	224-9
 Javna agencija za raziskovalno dejavnost republike Slovenije	javen agencija za raziskovalen dejavnost republika Slovenija	ORG	320-27
+covida-19	covida-19	PRO	224-24
 znanost	znanost	ORG	xxx
 Slovenji	Slovenja	LOC	xxx
-sars-cov-2	sars-cov-2	MISC	xxx
-covida-19	covida-19	MISC	xxx
+sars-cov-2	sars-cov-2	PRO	xxx
 Sloveniji	Slovenija	LOC	xxx
-Sicrisu	Sicris	MISC	xxx

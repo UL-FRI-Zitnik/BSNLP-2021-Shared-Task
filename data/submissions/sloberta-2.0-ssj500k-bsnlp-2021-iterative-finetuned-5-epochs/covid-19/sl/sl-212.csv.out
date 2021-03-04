@@ -1,6 +1,6 @@
 sl-212
 Svet za	svet za	ORG	xxx
-Covid-19	covid-19	ORG	65-0
+Covid-19	covid-19	PRO	65-0
 Mestne občine Maribor	mesten občina Maribor	ORG	255-8
 Saša Arsenovič	Saša Arsenovič	PER	xxx
 Svet za obvladovanje širjenja	svet za obvladovanje širjenje	ORG	xxx
@@ -28,5 +28,5 @@ Vojko Flis	Vojko Flis	PER	xxx
 Mestni občini Maribor	mesten občina Maribor	ORG	255-8
 Upravni enoti Maribor	upraven enota Maribor	ORG	265-26
 Območno združenje Rdečega križa Maribor	območen združenje rdeč križ Maribor	ORG	78-27
-02 22 86 200 33 31 809.	02 22 86 200 33 31 809.	LOC	xxx
+02	02	LOC	xxx
 Svet	svet	ORG	xxx

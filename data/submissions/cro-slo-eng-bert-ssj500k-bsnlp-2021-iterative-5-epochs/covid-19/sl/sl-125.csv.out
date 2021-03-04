@@ -1,16 +1,15 @@
 sl-125
 Maduro	Maduro	ORG	252-0
-covid-19	covid-19	MISC	xxx
+covid-19	covid-19	PRO	xxx
 državni raziskovalni inštitut	državen raziskovalen inštitut	ORG	xxx
 Ivic	Ivic	ORG	xxx
-DR-10	DR-10	MISC	xxx
-hepatitisa C sars-cov-2	hepatitis C sars-cov-2	MISC	325-16
+DR-10	DR-10	PRO	xxx
+sars-cov-2	sars-cov-2	PRO	xxx
 Ansa	Ansa	ORG	224-32
 Svetovni zdravstveni organizaciji	svetoven zdravstven organizacija	ORG	xxx
 WHO	WHO	ORG	242-0
-remdesivir	remdesivir	MISC	xxx
 FDA	FDA	ORG	273-0
 ZDA	ZDA	LOC	338-0
 dpa	DPA	ORG	xxx
 Venezueli	Venezuela	LOC	xxx
-covida-19	covida-19	MISC	xxx
+covida-19	covida-19	PRO	xxx

@@ -1,9 +1,10 @@
 sl-106
-covid-19	covid-19	MISC	60-0
+covid-19	covid-19	PRO	60-0
 NIJZ	Nijz	ORG	190-7
 ZDA	ZDA	LOC	338-0
-covida-19	covida-19	MISC	xxx
-NIJZ B znanost šport	Nijz B znanost šport	ORG	190-7
+covidom-19	covidom-19	PRO	xxx
+covida-19	covida-19	PRO	xxx
+NIJZ znanost šport	Nijz znanost šport	ORG	190-7
 Simona Kustec	Simona Kustec	PER	235-7
 Vlada	vlada	LOC	xxx
 Nacionalnega inštituta za javno zdravje	nacionalen inštitut za javen zdravje	ORG	190-8
@@ -18,4 +19,3 @@ EU	EU	ORG	303-3
 Berlinu	Berlin	LOC	142-31
 Evropske unije	evropski unija	ORG	303-1
 Matej Tonin	Matej Tonin	PER	251-7
-pandemiji covida-19	pandemija covida-19	MISC	xxx

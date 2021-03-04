@@ -1,6 +1,6 @@
 sl-230
 ZDA	ZDA	LOC	342-1
-covid-19	covid-19	MISC	xxx
+covid-19	covid-19	PRO	xxx
 Trumpov	Trumpov	PER	298-1
 Giuliani	Giuliani	PER	270-2
 New Yorka	New York	LOC	195-0
@@ -19,7 +19,7 @@ Bidnovo	Bidnov	PER	146-12
 Georgii	Georgia	LOC	270-23
 Brian Kemp	Brian Kemp	PER	146-13
 Kaliforniji	Kalifornija	LOC	xxx
-covida-19	covida-19	MISC	66-0
+covida-19	covida-19	PRO	66-0
 Gavin Newsom	Gavin Newsom	PER	270-13
 Teksas	Teksas	LOC	298-2
 Florida	Florida	LOC	274-5

@@ -8,15 +8,15 @@ republikanca	republikanec	PER	993-0
 Georgea W. Busha	George W. Bush	PER	868-13
 Bidna	Bidn	PER	805-0
 Janis Varufakis	Janis Varufakis	PER	1017-21
-Guardianu	Guardian	MISC	868-8
+Guardianu	Guardian	PRO	868-8
 Američani	Američan	LOC	882-1
 Trump	Trump	PER	849-0
 Američanom	Američan	PER	882-1
 Varufakis	Varufakis	PER	1047-28
-LGBT +	LGBT +	ORG	1050-20
+LGBT	LGBT	ORG	1050-20
 ZDA	ZDA	LOC	1059-0
 Branko Milanović	Branko Milanović	PER	805-15
-Global Inequality	Global Inequality	MISC	868-11
+Global Inequality	Global Inequality	PRO	868-11
 Joeja Bidna	Joe Bidn	PER	1017-0
 demokrate	demokrat	PER	968-0
 republikance	republikanec	PER	993-0
@@ -38,7 +38,6 @@ Američanov	Američan	PER	882-1
 Biden	Biden	PER	805-1
 republikancev	republikanec	ORG	993-0
 Masha Gessen	Masha Gessen	PER	xxx
-New Yorkerju	New Yorker	MISC	907-0
 Bálinta Magyarja	Bálint Magyar	PER	805-11
 Evropski uniji	evropski unija	ORG	1000-3
 Madžarskem	Madžarsko	LOC	936-21

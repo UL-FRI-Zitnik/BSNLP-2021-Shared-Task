@@ -4,12 +4,12 @@ Donald Trump	Donald Trump	PER	968-2
 ZDA	ZDA	LOC	1058-0
 zdaj	zdaj	LOC	1058-2
 Belo hišo	bel hiša	LOC	805-2
-republikanska	republikanski	PER	xxx
 državnega kongresa Michigana	državen kongres Michigan	ORG	xxx
 Trumpovi	Trumpov	PER	849-0
 Wayne	Wayne	LOC	951-0
 Michiganu	Michigan	LOC	935-2
 Detroit	Detroit	LOC	968-3
+republikanska	republikanski	PER	xxx
 demokrata	demokrat	PER	968-0
 Joeja Bidna	Joe Bidn	PER	1017-0
 Trump Wayne	Trump Wayne	PER	849-0
@@ -30,7 +30,7 @@ Tanzaniji	Tanzanija	LOC	849-7
 Venezuele	Venezuela	LOC	1047-6
 Kube	Kuba	LOC	1043-0
 Kitajske	Kitajska	LOC	1043-2
-My Cousin	my Cousin	MISC	936-26
+My Cousin	my Cousin	PRO	936-26
 Vinny	Vinny	PER	936-26
 Joe Pesci	Joe Pesci	PER	1017-12
 Arizoni	Arizona	LOC	882-3

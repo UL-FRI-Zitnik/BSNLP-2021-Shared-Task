@@ -1,14 +1,14 @@
 sl-32
 ZDA	ZDA	LOC	343-0
 Nemčijo	Nemčija	LOC	195-1
-Covid-19	covid-19	MISC	66-0
+Covid-19	covid-19	PRO	66-0
 Donald Trump	Donald Trump	PER	xxx
 Tübingenu	Tübingen	LOC	298-5
 CureVac	Curevac	ORG	66-5
 Ingmar Hoerr	Ingmar Hoerr	PER	291-7
 zveznim Paul-Ehrlich inštitutom za cepiva in zdravila	zvezen Paullehrlich inštitut za cepivo in zdravilo	ORG	xxx
-Covid-19 Trump	covid-19 Trump	MISC	291-7
-Welt am Sontag	Welt am Sontag	ORG	242-4
+Covid-19 Trump	covid-19 Trump	PRO	291-7
+Welt am Sontag	Welt am Sontag	PRO	242-4
 Nemčiji	Nemčija	LOC	195-1
 Evropi	Evropa	LOC	306-3
 ministrstvu za zdravje	ministrstvo za zdravje	ORG	xxx

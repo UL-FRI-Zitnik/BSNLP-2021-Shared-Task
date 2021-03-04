@@ -23,7 +23,6 @@ Južne Afrike	južen Afrika	LOC	1017-2
 Nelson Mandela	Nelson Mandela	PER	907-2
 Trumpovo	Trumpov	PER	850-0
 Trumpa	Trump	PER	850-0
-Starostam	starosta	MISC	820-1
 Mary Robinson	Mary Robinson	PER	936-12
 Kenije	Kenija	LOC	1043-15
 Zimbabveja	Zimbabve	LOC	1059-6
@@ -32,13 +31,11 @@ Trumpovi	Trumpov	PER	850-0
 Las Vegasa	Las Vegas	LOC	1050-23
 Sheldon Adelson	Sheldon Adelson	PER	820-10
 Ta	ta	PER	xxx
-Las Vegas Review-Journal	Las Vegas Reviewejournal	ORG	1050-24
+Las Review-Journal	Las Reviewejournal	PRO	1050-24
 Adelsonovi	Adelsonov	ORG	882-8
 Trump	Trump	PER	850-0
 Washingtonu	Washington	LOC	951-2
-Milijon MAGA pohod	milijon MAGA pohod	MISC	936-14
-Trumpovega Ameriko spet veliko	Trumpov Amerika spet veliko	PER	850-0
-Make America Great Again	Make America Great Again	MISC	xxx
+Trumpovega	Trumpov	PER	850-0
 Bele hiše	bel hiša	ORG	805-2
 Kayleigh McEnany	Kayleigh Mcenany	PER	1043-5
 Washingtona	Washingtona	LOC	951-2

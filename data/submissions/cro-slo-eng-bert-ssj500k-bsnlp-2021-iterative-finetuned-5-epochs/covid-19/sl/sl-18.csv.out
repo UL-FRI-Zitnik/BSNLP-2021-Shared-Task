@@ -1,15 +1,15 @@
 sl-18
+covidu-19	covidušče	PRO	xxx
 Nizozemska	Nizozemska	LOC	193-4
 Belgija	Belgija	LOC	144-2
 Hugo de Jonge	Hugo de Jonge	PER	326-17
 Valonija	Valonija	LOC	xxx
 Nizozemskem	Nizozemsko	LOC	193-4
-Twitterju	Twitter	MISC	296-4
+Twitterju	Twitter	PRO	296-4
 de	de	PER	xxx
 Jonge	Jonge	PER	321-20
 dpa	DPA	ORG	xxx
 Valonija Christie Morreale	Valonija Christie Morreale	LOC	xxx
-covidu-19	covidušče	MISC	63-5
 Belgiji	Belgija	LOC	144-2
 RTBF	RTBF	ORG	282-16
 Emmanuel Macron	Emmanuel Macron	PER	304-12
@@ -18,7 +18,6 @@ Parizu	Pariz	LOC	179-1
 AFP	AFP	ORG	225-3
 Evropska agencija za zdravila	evropski agencija za zdravilo	ORG	304-5
 Ema	Ema	ORG	304-6
-proti	proti	MISC	xxx
 BioNTech	Biontech	ORG	144-0
 Pfizer	Pfizer	ORG	179-0
 Moderna	Moderna	ORG	254-4

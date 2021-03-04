@@ -1,47 +1,39 @@
 sl-166
-Covid-19 realnosti	covid-19 realnost	MISC	62-0
-Covid-19	covid-19	MISC	62-0
-Covid-19 inteligenca	covid-19 inteligenca	MISC	xxx
+Covid-19 realnosti	covid-19 realnost	PRO	62-0
+Covid-19	covid-19	PRO	62-0
+Covid-19 realnosti inteligenca	covid-19 realnost inteligenca	PRO	xxx
 PwC-ja	PwC	ORG	179-9
-Umetna inteligenca	umeten inteligenca	MISC	xxx
 2.	2.	LOC	xxx
 Internet	internet	LOC	xxx
-IoT	Iot	MISC	289-7
-Internet of Things	internet of Things	MISC	289-16
-statista.com	statista.com	MISC	xxx
-GDPR	GDPR	MISC	269-8
+IoT	Iot	PRO	289-7
+""""	""""	PRO	xxx
+Internet of Things	internet of Things	PRO	289-16
+statista.com	statista.com	PRO	xxx
+GDPR	GDPR	PRO	269-8
 ElevenPaths	Elevenpaths	ORG	303-14
-5 G	5 g	MISC	xxx
+5 G	5 g	PRO	xxx
 FedEx	Fedex	ORG	273-3
 IBM	IBM	ORG	289-24
 Walmart	Walmart	ORG	242-8
 Mastercard	Mastercard	ORG	253-12
-IoT-ja	iotenj	MISC	xxx
-XR	XR	MISC	xxx
-Extended Reality	extended Reality	MISC	xxx
-Snapchat	Snapchat	MISC	xxx
-Pokemon Go-stil	Pokemon Go-stil	MISC	179-13
-Slack	Slack	MISC	xxx
-Zoom	Zoom	MISC	340-7
+XR	XR	PRO	xxx
+Pokemon Go-stil	Pokemon Go-stil	PRO	179-13
 AR	AR	LOC	225-36
 VR	VR	ORG	xxx
-4 G	4 g	MISC	xxx
-AIoT	AIOT	MISC	225-29
-Python	Python	MISC	179-23
-React	React	MISC	xxx
+4 G	4 g	PRO	xxx
+blockchain	blockchain	PRO	xxx
 splet	splet	LOC	xxx
 Angular	Angular	LOC	225-24
 Docker	Docker	ORG	xxx
 CompTIA	Comptia	ORG	xxx
-AWS	AWS	MISC	225-20
-React Native	React Native	MISC	xxx
+AWS	AWS	PRO	225-20
 Gatsby	Gatsby	PER	xxx
-AWS Big Data	AWS Big Data	MISC	225-25
+Big Data	Big Data	PRO	225-25
 React Hooks	React Hooks	ORG	xxx
 Microsoft Azure Architecture	Microsoft Azure Architecture	ORG	253-19
 Apache	Apache	ORG	225-14
 Airflow	Airflow	ORG	225-14
-SwiftUI	Swiftui	ORG	xxx
+SwiftUI	Swiftui	PRO	xxx
 Pegasystems	Pegasystems	ORG	xxx
-ESP32	esp32	MISC	303-19
-internet stvari	internet stvar	MISC	xxx
+ESP32	esp32	PRO	303-19
+internet stvari	internet stvar	PRO	xxx

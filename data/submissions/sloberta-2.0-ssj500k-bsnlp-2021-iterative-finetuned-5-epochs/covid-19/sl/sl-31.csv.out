@@ -21,10 +21,9 @@ Kitajskem	Kitajsko	LOC	xxx
 Patagonia	Patagonia	ORG	181-15
 Apple	Apple	ORG	227-19
 Warby Parker	Warby Parker	ORG	242-7
-Urban Outfitters	Urban Outfitters	ORG	265-11
-Glossier	Glossier	ORG	270-12
+Urban Outfitters	Urban Outfitters	PRO	265-11
+Glossier	Glossier	PRO	270-12
 Allbirds	Allbirds	ORG	227-10
-Koronavirus	koronavirus	MISC	xxx
 Steven Mnuchin	Steven Mnuchin	PER	xxx
 Evropo	Evropa	LOC	306-3
 Irsko	Irska	LOC	291-0

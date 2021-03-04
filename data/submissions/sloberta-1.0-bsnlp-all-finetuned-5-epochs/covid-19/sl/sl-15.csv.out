@@ -1,4 +1,5 @@
 sl-15
+covidu-19	covidušče	PRO	xxx
 Kitajskem	Kitajsko	LOC	xxx
 kitajskem centru za nadzor in preprečevanje bolezni	kitajski center za nadzor in preprečevanje bolezen	ORG	xxx
 Guizhen Wu	Guizhen Wu	PER	269-19
@@ -6,6 +7,4 @@ Reuters	Reuters	ORG	281-5
 China National Pharmaceutical Group	China National Pharmaceutical Group	ORG	62-6
 Sinopharm	Sinopharm	ORG	xxx
 Sinovac Biotech	Sinovac Biotech	ORG	xxx
-covidu-19	covidušče	MISC	xxx
 CanSino Biologics	Cansino Biologics	ORG	62-14
-kitajska	kitajski	LOC	xxx

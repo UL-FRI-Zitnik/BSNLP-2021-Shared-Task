@@ -13,7 +13,7 @@ Voham	vohati	PER	xxx
 Giuliani	Giuliani	PER	868-0
 republikanske stranke	republikanski stranka	ORG	993-2
 Trumpove	Trumpov	PER	848-0
-twitterju	twitter	MISC	848-1
+twitterju	twitter	PRO	848-1
 Rudyju	Rudy	PER	993-9
 Chris Krebs	Chris Krebs	PER	899-2
 Trump	Trump	PER	848-0
@@ -25,8 +25,8 @@ Trumpova	Trumpov	PER	848-0
 republikanske	republikanski	PER	993-2
 Joe Biden	Joe Biden	PER	1017-3
 Belo hišo	bel hiša	LOC	805-2
-republikanska	republikanski	PER	xxx
 državnega kongresa Michigana	državen kongres Michigan	ORG	xxx
+republikanska	republikanski	PER	xxx
 demokrata	demokrat	PER	968-0
 Bidna	Bidn	PER	805-0
 Trump Wayne	Trump Wayne	PER	848-0

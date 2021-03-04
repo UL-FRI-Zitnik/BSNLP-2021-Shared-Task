@@ -1,7 +1,6 @@
 sl-123
 Cohenova	Cohenov	PER	897-10
 Trumpu	Trump	PER	837-0
-Zlati tuši v	zlat tuš v	MISC	xxx
 Las Vegasu	Las Vegas	LOC	1049-7
 Melania	Melania	PER	932-2
 Donalda Trumpa	Donald Trump	PER	964-2
@@ -12,12 +11,12 @@ Cohen	Cohen	PER	897-4
 Trumpa	Trump	PER	837-0
 Stormy Daniels	Stormy Daniels	PER	817-13
 Trumpom	Trump	PER	837-0
+covida-19	covida-19	PRO	xxx
 Rusi	Rus	PER	990-5
 Skupaj	skupaj	PER	xxx
 Prav	prav	PER	xxx
 Trumpov	Trumpov	PER	837-0
 Vladimirjem Putinom	Vladimir Putin	PER	1046-24
-Kremenčkovih	Kremenčkov	MISC	1041-13
 Melanii	Melania	PER	932-2
 Trumpovo	Trumpov	PER	837-0
 Sovjetske zveze	sovjetski zveza	LOC	817-1

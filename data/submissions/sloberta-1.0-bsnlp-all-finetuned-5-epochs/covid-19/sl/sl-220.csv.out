@@ -1,26 +1,25 @@
 sl-220
 Better	Better	ORG	146-6
-COVID-19	covid-19	MISC	xxx
+COVID-19	covid-19	PRO	xxx
 Nemčiji	Nemčija	LOC	194-0
 HiGHmed	highmed	ORG	327-4
 Nemčije	Nemčija	LOC	194-0
 Charité	Charité	ORG	65-4
 Berlinu	Berlin	LOC	146-7
-Newsweek	Newsweek	ORG	194-17
+Newsweek	Newsweek	PRO	194-17
 HiGHmed konzorciju	HiGHmed konzorcij	ORG	327-4
 Heidelberg	Heidelberg	LOC	327-11
 Göttingen	Göttingen	LOC	270-17
 Hannover	Hannover	LOC	327-8
 Stefan Becker	Stefan Becker	PER	xxx
 HiGHmed-u	Highmeden	ORG	327-12
-SmICS	SmICS	MISC	xxx
-Smart Infection Control System	Smart Infection Control System	MISC	xxx
-openEHR	openehr	MISC	78-9
+SmICS	SmICS	PRO	xxx
+Smart Infection Control System	Smart Infection Control System	PRO	xxx
 Mednarodna fundacija	mednaroden fundacija	ORG	256-37
 OpenEHR	openehr	ORG	78-32
 Tomaž Gornik	Tomaž Gornik	PER	297-9
 STA	biti	ORG	xxx
-COVIDa-19	covida-19	MISC	xxx
+COVIDa-19	covida-19	PRO	xxx
 Calgariju	Calgari	LOC	65-15
 Sardiniji	Sardinija	LOC	xxx
 Moskvi	Moskva	LOC	256-36
@@ -28,7 +27,7 @@ Franciji	Francija	LOC	274-1
 Strasbourg-u	Strasbourgen	LOC	xxx
 CapGemini	Capgemin	ORG	65-6
 Dassault system	Dassault system	ORG	xxx
-COVID 19	Covid 19	MISC	65-8
+COVID 19	Covid 19	PRO	65-8
 GrandEst	Grandest	LOC	270-19
 bolnišnici Somerset	bolnišnica Somerset	LOC	xxx
 HiGHmedu	Highmed	ORG	327-4

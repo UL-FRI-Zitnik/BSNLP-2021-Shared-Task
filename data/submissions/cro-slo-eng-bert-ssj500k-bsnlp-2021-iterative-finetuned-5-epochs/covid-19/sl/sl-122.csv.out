@@ -1,15 +1,14 @@
 sl-122
-Pandemija covida-19	pandemija covida-19	MISC	xxx
-covid-19	covid-19	MISC	60-0
-covidom-19	covidom-19	MISC	60-20
+covida-19	covida-19	PRO	xxx
+covid-19	covid-19	PRO	60-0
+covidom-19	covidom-19	PRO	60-20
 Nacionalnega odzivnega centra za kibernetsko varnost	nacionalen odziven center za kibernetski varnost	ORG	191-6
 SI-Cert	SILCErt	ORG	xxx
 Sloveniji	Slovenija	LOC	xxx
 A1 Slovenija	a1 Slovenija	ORG	224-5
-covida-19	covida-19	MISC	xxx
 SI-Certa	Siqcert	ORG	xxx
-Slovenija F-Secure	Slovenija F-Secure	LOC	xxx
-Stormshield	Stormshield	MISC	xxx
-A1 Protekt	a1 protekt	MISC	224-5
-F-Secure F-Secure	F-Secure F-Secure	MISC	273-5
-A1	a1	MISC	224-5
+ransomware	ransomware	PRO	xxx
+Slovenija	Slovenija	LOC	xxx
+F-Secure	F-Secure	PRO	273-5
+Stormshield	Stormshield	PRO	xxx
+A1 Protekt	a1 protekt	PRO	224-5

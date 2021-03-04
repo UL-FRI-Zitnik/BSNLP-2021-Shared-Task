@@ -1,17 +1,13 @@
 sl-133
 Maja Rupnik	Maja Rupnik	PER	xxx
-covidom	covid	MISC	xxx
-covid	covid	MISC	xxx
 Vodja oddelka za mikrobiološke raziskave v	vodja oddelek za mikrobiološki raziskava v	ORG	xxx
 Nacionalnem laboratoriju za zdravje , okolje in hrano	nacionalen laboratorij za zdravje , okolje in hrana	ORG	191-19
 NLZOH	Nlzoh	ORG	191-21
 STA	sta	ORG	xxx
-PCR	PCR	MISC	xxx
 Sloveniji	Slovenija	LOC	xxx
 Slovenijo	Slovenija	LOC	xxx
 Evropi	Evropa	LOC	303-4
-covida 19	covid 19	MISC	xxx
-gripi	gripa	MISC	xxx
-covidu 19	covid 19	MISC	xxx
-covid 20	covid 20	MISC	61-2
-covid 19	covid 19	MISC	61-2
+covida 19	covid 19	PRO	xxx
+covidu 19	covid 19	PRO	xxx
+covid 20	covid 20	PRO	xxx
+covid 19	covid 19	PRO	61-2

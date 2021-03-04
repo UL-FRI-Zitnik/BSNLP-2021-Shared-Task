@@ -1,7 +1,8 @@
 sl-22
-Welt am Sonntag	Welt am Sonntag	MISC	242-4
+covidu-19	covidu-19	PRO	xxx
+Welt am Sonntag	Welt am Sonntag	PRO	242-4
 Berlin	Berlin	LOC	146-7
-Deutsche Welle	Deutsche Welle	ORG	xxx
+Deutsche Welle	Deutsche Welle	PRO	xxx
 DW	DW	ORG	xxx
 Evropska komisija	evropski komisija	ORG	305-2
 BioNTech	Biontech	ORG	146-3
@@ -11,11 +12,12 @@ Vlada	vlada	ORG	xxx
 Paula Ehrlicha	Paul Ehrlich	PER	291-3
 Inštitut	inštitut	ORG	xxx
 Klaus Cichutek	Klaus Cichutek	PER	xxx
-Wolfgang Albeck Trans-o-flex	Wolfgang Albeck Trans-o-flex	PER	242-6
+Wolfgang Albeck	Wolfgang Albeck	PER	242-6
+Trans-o-flex	Trans-o-flex	PRO	297-12
 Jensa Spahna	Jens Spahen	PER	322-0
 Nemčije	Nemčija	LOC	194-0
 Kühne + Nagel	Kühne + Nagel	ORG	xxx
 Accenture	Accenture	ORG	226-9
-Boeing 747.	Boeing 747.	MISC	146-18
+Boeing 747.	Boeing 747.	PRO	146-18
 Angela Merkel	Angela Merkel	PER	226-20
-božiča	božič	MISC	146-5
+božiča	božič	EVT	146-5

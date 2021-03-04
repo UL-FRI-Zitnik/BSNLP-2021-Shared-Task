@@ -3,8 +3,7 @@ Trump	Trump	PER	853-0
 republikance	republikanec	ORG	994-0
 FBI	FBI	ORG	982-0
 Donald Trump	Donald Trump	PER	970-1
-Fox	Fox	MISC	982-2
-Fox News	Fox News	MISC	982-1
+Fox News	Fox News	PRO	982-1
 demokrata	demokrat	PER	970-2
 Joeja Bidna	Joe Bidn	PER	1018-1
 Arizoni	Arizona	LOC	884-1
@@ -18,7 +17,6 @@ Briana Kempa	Brian Kemp	PER	869-6
 Kempa	Kemp	PER	1044-7
 Biden	Biden	PER	807-2
 Georgii	Georgia	LOC	869-2
-republikanski	republikanski	PER	xxx
 Kemp	Kemp	PER	xxx
 Trumpa	Trump	PER	853-0
 vrhovno sodišče ZDA	vrhoven sodišče ZDA	ORG	xxx

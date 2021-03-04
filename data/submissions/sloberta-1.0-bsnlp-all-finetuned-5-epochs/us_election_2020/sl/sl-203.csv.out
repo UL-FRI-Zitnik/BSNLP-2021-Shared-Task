@@ -2,10 +2,10 @@ sl-203
 papežem Frančiškom	papež Frančišek	PER	923-6
 ZDA	ZDA	LOC	1059-0
 Joe Biden	Joe Biden	PER	1017-3
-Johnom F. Kennedyjem	John F. Kennedy	PER	1017-20
-Frančiškom	Frančišek	PER	982-4
+Johnom F. Kennedyjem Frančiškom	John F. Kennedy Frančišek	PER	1017-20
 Bidnova	Bidnov	PER	xxx
 Biden	Biden	PER	805-1
+Frančiškom	Frančišek	PER	982-4
 Angelo Merkel	Angela Merkel	PER	882-7
 Borisom Johnsonom	Boris Johnson	PER	805-3
 Emmanuelom Macronom	Emmanuel Macron	PER	1000-13
@@ -29,11 +29,11 @@ Zimbabveja	Zimbabve	LOC	1059-6
 Trumpovi	Trumpov	PER	850-0
 Las Vegasa	Las Vegas	LOC	1050-23
 Sheldon Adelson	Sheldon Adelson	PER	820-10
-Las Vegas Review-Journal	Las Vegas Reviewejournal	MISC	1050-24
+Las Review-Journal	Las Reviewejournal	PRO	1050-24
 Adelsonovi	Adelsonov	PER	882-8
-Washingtonu MAGA	Washington MAGA	LOC	951-2
+Washingtonu	Washington	LOC	951-2
 Trumpovega	Trumpov	PER	850-0
-Ameriko America Again	Amerika America Again	LOC	882-4
+Ameriko	Amerika	LOC	882-4
 Bele hiše	bel hiša	ORG	805-2
 Kayleigh McEnany	Kayleigh Mcenany	PER	1043-5
 Washingtona	Washingtona	LOC	951-2

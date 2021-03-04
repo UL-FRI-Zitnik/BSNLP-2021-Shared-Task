@@ -1,7 +1,6 @@
 sl-209
 republikanci	republikanec	PER	993-0
 demokrati	demokrat	PER	969-0
-Senat	senat	ORG	820-4
 Amy Coney Barett	Amy Coney Barett	PER	883-6
 Nihče	nihče	PER	xxx
 Joeju Bidnu	Joe Bidn	PER	1018-1
@@ -9,8 +8,7 @@ Trumpa	Trump	PER	851-1
 republikance	republikanec	PER	994-0
 Predsedniku	predsednik	PER	xxx
 Obe	oba	ORG	xxx
-Kantor	Kantor	ORG	1043-10
-demokratska stranka	demokratski stranka	ORG	969-3
+Kantor demokratska stranka	Kantor demokratski stranka	ORG	1043-10
 demokratom	demokrat	PER	969-0
 republikancem	republikanec	PER	994-0
 Belo hišo	bel hiša	LOC	806-2

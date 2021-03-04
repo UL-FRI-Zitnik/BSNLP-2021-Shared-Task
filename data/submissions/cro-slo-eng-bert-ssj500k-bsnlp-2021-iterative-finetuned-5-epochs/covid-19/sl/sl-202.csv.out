@@ -1,7 +1,9 @@
 sl-202
+Covid-19	covid-19	PRO	64-0
 Slovenci	Slovenec	PER	xxx
 Srečkom Šestanom	Srečko Šestan	PER	xxx
 Srečko Šestan	Srečko Šestan	PER	xxx
+Civilne zaščite Vidic	civilen zaščita Vidic	ORG	64-4
 Civilne zaščite	civilen zaščita	ORG	64-4
 Sloveniji	Slovenija	LOC	xxx
 Hrvaškem	Hrvaško	LOC	327-1
@@ -9,7 +11,7 @@ Hrvatih	Hrvat	LOC	327-7
 Italiji	Italija	LOC	290-3
 Italije	Italija	LOC	290-3
 Oni	on	LOC	xxx
-zakonu o nalezljivih bolezni	zakon o nalezljiv bolezen	MISC	xxx
+zakonu o nalezljivih bolezni	zakon o nalezljiv bolezen	PRO	xxx
 Civilna zaščita	civilen zaščita	ORG	64-4
 Kitajske	Kitajska	LOC	xxx
 Kitajska	Kitajska	LOC	xxx
@@ -24,4 +26,3 @@ Svet za nacionalno varnost	svet za nacionalen varnost	ORG	xxx
 Rdeči križ	rdeč križ	ORG	xxx
 Metliki	Metlika	LOC	255-12
 Matej Tonin	Matej Tonin	PER	255-27
-migrantsko	migrantski	MISC	xxx

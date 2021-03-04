@@ -1,6 +1,7 @@
 sl-191
+covid-19	covid-19	PRO	xxx
 Sloveniji	Slovenija	LOC	xxx
-covid-19	covid-19	MISC	xxx
+covidom-19	covidom-19	PRO	xxx
 Rogaški Slatini	rogaški Slatina	LOC	282-24
 Ribnici	Ribnica	LOC	282-19
 Ilirski Bistrici	ilirski Bistrica	LOC	290-21
@@ -15,7 +16,7 @@ Izvir Vrtca Rogaška Slatina	izvir vrtec rogaški Slatina	ORG	290-17
 Majda Plavčak	Majda Plavčak	PER	255-18
 Rogatca	Rogatec	LOC	282-25
 Martin Mikolič	Martin Mikolič	PER	255-16
-covid-19 delo , družino , socialne zadeve in enake možnosti	covid-19 delo , družina , socialen zadeva in enak možnost	MISC	64-0
+covid-19 delo , družino , socialne zadeve in enake možnosti	covid-19 delo , družina , socialen zadeva in enak možnost	PRO	64-0
 Institutu Jožef Stefan	institut Jožef Stefan	ORG	290-10
 Vlada	vlada	LOC	xxx
 Španijo	Španija	LOC	350-1
@@ -46,4 +47,5 @@ Bolgarije	Bolgarija	LOC	145-2
 Franciji	Francija	LOC	274-1
 Lillu	Lill	LOC	313-9
 Kitajskem	Kitajsko	LOC	xxx
-Hongkongu covida-19	Hongkong covida-19	LOC	326-8
+Hongkongu	Hongkong	LOC	326-8
+covida-19	covida-19	PRO	326-8

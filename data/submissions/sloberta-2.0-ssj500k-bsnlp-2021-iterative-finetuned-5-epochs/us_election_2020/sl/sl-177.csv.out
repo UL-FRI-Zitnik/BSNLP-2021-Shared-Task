@@ -3,7 +3,7 @@ Nemčiji	Nemčija	LOC	907-1
 Balkana	Balkan	LOC	803-4
 Fidesz	Fidesz	ORG	981-11
 Viktor Orban	Viktor Orban	PER	1047-8
-Nedeljskega dnevnika	nedeljski dnevnik	MISC	907-19
+Nedeljskega dnevnika	nedeljski dnevnik	PRO	907-19
 Aleksander Lucu	Aleksander Lucu	PER	881-18
 Angela Merkel	Angela Merkel	PER	881-6
 Janez Janša	Janez Janša	PER	1016-3
@@ -24,7 +24,7 @@ Madžarsko	Madžarska	LOC	934-7
 Poljska	Poljska	LOC	922-9
 Madžarska	Madžarska	LOC	934-7
 Slovenija	Slovenija	LOC	819-4
-lizbonski pogodbi	lizbonski pogodba	MISC	1050-22
+lizbonski pogodbi	lizbonski pogodba	PRO	1050-22
 Lukašenkove	Lukašenkov	PER	1050-29
 Bruslju	Bruselj	LOC	803-9
 Orban	Orban	PER	1005-7

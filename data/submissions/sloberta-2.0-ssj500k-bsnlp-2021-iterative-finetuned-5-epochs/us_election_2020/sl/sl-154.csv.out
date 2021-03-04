@@ -1,20 +1,20 @@
 sl-154
 MAGA	MAGA	ORG	933-1
 Donald Trump	Donald Trump	PER	965-1
-Združenih državah Amerike America Great Again	združen država Amerika America Great Again	LOC	1056-4
+Združenih državah Amerike	združen država Amerika	LOC	1056-4
 Ameriko	Amerika	LOC	880-2
 Predsednik	predsednik	PER	xxx
 Trump	Trump	PER	842-0
 Združenih držav Amerike	združen država Amerika	LOC	1056-5
 ZDA	ZDA	LOC	1056-0
-pariški podnebni dogovor	pariški podneben dogovor	MISC	xxx
+pariški podnebni dogovor	pariški podneben dogovor	PRO	xxx
 Amerika	Amerika	LOC	880-2
 Joeja Bidna	Joe Bidn	PER	1014-0
 demokratu	demokrat	PER	1005-20
 Baracku Obami	Barack Obama	PER	800-2
 Trumpove	Trumpov	PER	842-0
-covida-19	covida-19	MISC	898-6
-drugi svetovni vojni	drug svetoven vojna	MISC	965-4
+covida-19	covida-19	PRO	898-6
+drugi svetovni vojni	drug svetoven vojna	EVT	965-4
 Američanov	Američan	PER	880-1
 Združene države Amerike	združen država Amerika	LOC	1056-3
 Atlantika	Atlantik	LOC	880-5

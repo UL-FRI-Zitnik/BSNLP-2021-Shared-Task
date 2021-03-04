@@ -1,8 +1,7 @@
 sl-169
-COVID-19	covid-19	MISC	62-0
+COVID-19	covid-19	PRO	62-0
 Sloveniji	Slovenija	LOC	xxx
 STA klubu	biti klub	ORG	xxx
-koronavirus	koronavirus	MISC	xxx
 Borut Štrukelj	Borut Štrukelj	PER	144-11
 Fakultete za farmacijo Univerze v Ljubljani	fakulteta za farmacija univerza v Ljubljana	ORG	273-21
 Roman Jerala	Roman Jerala	PER	282-12
@@ -22,7 +21,7 @@ UKC Ljubljana Tomšič	UKC Ljubljana Tomšič	ORG	264-0
 EU	EU	ORG	304-0
 OECD	OECD	ORG	78-26
 Tomšič	Tomšič	PER	296-16
-International Medis Awards	International Medis Awards	MISC	289-7
+International	International	PRO	289-7
 IMA	imeti	ORG	290-0
 Medis	Medis	ORG	254-33
 srednje	srednji	LOC	xxx

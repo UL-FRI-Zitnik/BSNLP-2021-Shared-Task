@@ -1,19 +1,18 @@
 sl-35
 Vlada	vlada	LOC	xxx
-covidu-19	covidu-19	MISC	xxx
+covidu-19	covidu-19	PRO	xxx
 Evropske komisije	evropski komisija	ORG	306-2
 EU	EU	ORG	306-1
 Evropska komisija	evropski komisija	ORG	306-9
 Slovenska	slovenski	ORG	xxx
-ESI	ESI	MISC	306-4
+ESI	ESI	ORG	306-4
 CureVac	Curevac	ORG	67-0
 Moderna	Moderna	ORG	257-0
 BioNTech /	Biontech /	ORG	147-2
 Pfizer	Pfizer	ORG	147-2
 AstraZeneca	Astrazeneca	ORG	227-1
 Janssen Pharmaceutical	Janssen Pharmaceutical	ORG	322-4
-Sanofi	Sanofi	ORG	xxx
-GSK	GSK	ORG	xxx
+Sanofi GSK	Sanofi GSK	ORG	xxx
 Novavax	Novavax	ORG	195-10
 Slovenijo	Slovenija	LOC	xxx
 Evropski agenciji za zdravila	evropski agencija za zdravilo	ORG	307-2

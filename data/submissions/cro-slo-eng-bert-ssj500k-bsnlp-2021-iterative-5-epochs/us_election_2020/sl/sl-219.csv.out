@@ -3,13 +3,13 @@ Donalda Trumpa	Donald Trump	PER	970-1
 Trumpove	Trumpov	PER	852-0
 Brada Parscaleja	Brad Parscale	PER	807-14
 Trump	Trump	PER	852-0
-Facebooku	Facebook	MISC	982-6
+Facebooku	Facebook	PRO	982-6
 demokrate	demokrat	ORG	970-2
 Največja organizacija Američanov	velik organizacija Američan	ORG	xxx
 NAACP	NAACP	ORG	908-5
-Alamo	Alamo	MISC	883-20
 San Antonia	San Antonio	LOC	821-14
 Teksasu	Teksas	LOC	852-1
+Alamo	Alamo	LOC	xxx
 Mehiška	mehiški	ORG	xxx
 Alamu	Alam	LOC	883-21
 Mehika	Mehika	LOC	937-3
@@ -20,7 +20,6 @@ Trumpovo	Trumpov	PER	852-0
 Ta	ta	ORG	xxx
 Parscale	Parscale	PER	924-14
 demokratko	demokratka	PER	xxx
-Hillary Clinton	Hillary Clinton	PER	912-1
-Največja organizacija temnopoltih Američanov	velik organizacija temnopolt Američan	ORG	xxx
+Hillary Clinton organizacija temnopoltih Američanov	Hillary Clinton organizacija temnopolt Američan	PER	912-1
 republikanci	republikanec	PER	994-0
 Facebook	facebook	PER	982-9

@@ -3,7 +3,7 @@ Trump agencije za spletno varnost	Trump agencija za spleten varnost	PER	834-3
 Krebs	Krebs	PER	1040-6
 Bele hiše	bel hiša	LOC	795-0
 Trump	Trump	PER	834-0
-twitterja	twitter	MISC	834-4
+twitterja	twitter	PRO	834-4
 Trumpovi	Trumpov	PER	834-0
 Američane	Američan	PER	877-1
 ZDA	ZDA	LOC	1052-3
@@ -27,7 +27,7 @@ Georgie Brad Raffensperger	Georgie Brad Raffensperger	PER	865-11
 Georgio	Georgio	PER	xxx
 Biden	Biden	PER	795-3
 Raffensperger	Raffensperger	PER	989-8
-Washington Post	Washington Post	MISC	950-1
+Washington Post	Washington Post	PRO	950-1
 Južne Karoline	južen Karolina	LOC	1011-7
 Lindseyja Grahama	Lindsey Graham	PER	1049-29
 Graham	Graham	PER	865-6

@@ -1,7 +1,7 @@
 sl-135
-Sloveniji covid-19	Slovenija covid-19	LOC	xxx
-Tomaža Gantarja	Tomaž Gantar	PER	295-1
 Sloveniji	Slovenija	LOC	xxx
+covid-19	covid-19	PRO	xxx
+Tomaža Gantarja	Tomaž Gantar	PER	295-1
 Gantarjevih	Gantarjev	PER	268-5
 Ministrstvo	ministrstvo	ORG	252-23
 Simona Repar Bornšek	Simona Repar Bornšek	PER	xxx
@@ -12,6 +12,5 @@ zdaj	zdaj	LOC	339-1
 UKC Maribor	UKC Maribor	ORG	264-0
 Novem mestu	nov mesto	LOC	192-2
 Murski Soboti	murski Sobota	LOC	252-10
-Novi Gorici	nov Gorica	LOC	192-2
-UKC Ljubljana	UKC Ljubljana	ORG	264-0
+Novi Gorici Ljubljana	nov Gorica Ljubljana	LOC	192-2
 Mladi zdravniki Slovenije	mlad zdravnik Slovenija	PER	xxx

@@ -1,11 +1,12 @@
 sl-192
 Trump	Trump	PER	847-0
-Washington Post	Washington post	MISC	951-3
+Post	post	PRO	951-3
 ZDA	ZDA	LOC	1058-0
 Donald Trump	Donald Trump	PER	968-2
+Washington Post	Washington post	PRO	951-3
 Predsednik	predsednik	PER	xxx
 Trumpovim	Trumpov	PER	847-0
-Georgea Busha	George Bush	PER	868-10
+Georgea Busha mlajšega	George Bush mlad	PER	868-10
 Jack Goldsmith	Jack Goldsmith	PER	1016-19
 Ovalni	ovalen	LOC	1005-2
 Sergeja Lavrova	Sergej Lavrov	PER	819-19

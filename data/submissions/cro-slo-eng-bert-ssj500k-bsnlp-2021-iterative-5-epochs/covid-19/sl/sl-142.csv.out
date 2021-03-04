@@ -1,7 +1,8 @@
 sl-142
-covid-19	covid-19	MISC	61-1
+covid-19	covid-19	PRO	61-1
 RTV Slovenija	RTV Slovenija	ORG	281-4
-Slovenija šoli	Slovenija šola	LOC	xxx
+Slovenija	Slovenija	LOC	xxx
+covid-19 šoli	covid-19 šola	PRO	xxx
 Osnovne šole Cvetka Golarja	osnoven šola Cvetko Golar	ORG	77-36
 Igorju Kaduncu	Igor Kadunc	PER	289-3
 Manici Ambrožič	Manica Ambrožič	PER	253-1
@@ -18,5 +19,6 @@ Bojana Beović	Bojan Beović	PER	143-3
 Igor Kadunc	Igor Kadunc	PER	289-3
 Odgovor	odgovor	ORG	xxx
 Ljubljani	Ljubljana	LOC	313-0
+notranjim	notranji	PRO	xxx
 Nacionalnega inštituta za javno zdravje	nacionalen inštitut za javen zdravje	ORG	192-4
 NIJZ	Nijz	ORG	192-0

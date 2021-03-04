@@ -1,9 +1,9 @@
 sl-152
 Italiji	Italija	LOC	289-1
-covid-19	covid-19	MISC	xxx
+covid-19	covid-19	PRO	xxx
 dpa	DPA	ORG	xxx
 Lombardija	Lombardija	LOC	313-1
-Facebooka	Facebook	MISC	273-4
+Facebooka	Facebook	PRO	273-4
 Lombardije	Lombardija	LOC	313-1
 Attilio Fontana	Attilio Fontana	PER	225-21
 Italije	Italija	LOC	289-1
@@ -13,4 +13,4 @@ Ansa	Ansa	ORG	225-37
 AFP	AFP	ORG	225-3
 Lombardijo	Lombardija	LOC	313-1
 Istata	Istata	ORG	289-4
-covidom-19	covidom-19	MISC	xxx
+covidom-19	covidom-19	PRO	xxx

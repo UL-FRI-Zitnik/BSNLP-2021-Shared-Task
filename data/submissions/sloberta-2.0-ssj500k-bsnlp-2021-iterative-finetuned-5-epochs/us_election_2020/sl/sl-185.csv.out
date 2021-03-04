@@ -11,7 +11,8 @@ Obamovega	Obamov	PER	1005-6
 Blinkna	Blinkna	PER	803-17
 Predsednikov	predsednikov	PER	xxx
 Jake Sullivan	Jake Sullivan	PER	1016-5
-Obamovi jedrskega sporazuma z	Obamov jedrski sporazum z	PER	1005-9
+Obamovi	Obamov	PER	1005-9
+jedrskega sporazuma	jedrski sporazum	PRO	1016-11
 Iranom	Iran	LOC	1016-11
 Sullivan	Sullivan	PER	819-17
 Amy Klobuchar	Amy Klobuchar	PER	881-23
@@ -34,7 +35,6 @@ Kerryja	Kerry	PER	1043-1
 ZDA	ZDA	LOC	1058-0
 Iraku	Irak	LOC	889-11
 Afganistanu	Afganistan	LOC	881-2
-sporazuma o omejitvi strateškega orožja	sporazum o omejitev strateški orožje	MISC	xxx
 Rusijo	Rusija	LOC	881-2
 Bidnovi	Bidnov	PER	804-7
 republikanska	republikanski	ORG	xxx

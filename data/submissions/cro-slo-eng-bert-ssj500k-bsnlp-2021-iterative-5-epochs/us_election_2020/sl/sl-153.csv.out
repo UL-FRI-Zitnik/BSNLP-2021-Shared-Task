@@ -1,19 +1,15 @@
 sl-153
-Mediji	medij	PER	933-25
 Trumpova	Trumpov	PER	842-0
 ZDA	ZDA	LOC	1055-0
 Donalda Trumpa	Donald Trump	PER	965-1
 republikanci	republikanec	PER	991-0
-Salon	Salon	MISC	818-25
-Atlantic	Atlantic	MISC	879-7
 demokrat	demokrat	PER	965-0
 Joe Biden	Joe Biden	PER	1014-2
 Trumpom	Trump	PER	842-0
 Biden	Biden	PER	xxx
-CNN	CNN	ORG	897-5
+CNN	CNN	PRO	897-5
 Trump	Trump	PER	842-0
-konservativno	konservativen	ORG	1042-2
-vrhovnega ZDA	vrhoven ZDA	ORG	xxx
+konservativno ZDA	konservativen ZDA	ORG	1042-2
 Floridi	Florida	LOC	981-3
 republikancu	republikanec	PER	991-0
 Georgeu Bushu mlajšemu	George Bush mlad	PER	867-7
@@ -27,6 +23,7 @@ Wisconsinu	Wisconsin	LOC	950-2
 Severni Karolini	severen Karolina	LOC	818-1
 republikanski	republikanski	ORG	991-1
 Mike Pence	Mike Pence	PER	933-22
+Atlantic	Atlantic	ORG	879-7
 Trumpovi	Trumpov	PER	842-0
 Trumpa	Trump	PER	842-0
 demokratom	demokrat	PER	965-0

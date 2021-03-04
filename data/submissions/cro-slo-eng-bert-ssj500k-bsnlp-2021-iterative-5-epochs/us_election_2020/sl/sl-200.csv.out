@@ -6,7 +6,7 @@ Ivanke Trump	Ivanka Trump	PER	890-2
 Jaredom Kushnerjem	Jared Kushner	PER	1017-14
 New Yorku	New York	LOC	907-0
 Ivankino	Ivankin	PER	890-3
-Vanity Fair	Vanity fair	MISC	1047-15
+Vanity Fair	Vanity fair	PRO	1047-15
 Lysandra Ohrstrom	Lysandra Ohrstrom	PER	1050-30
 Ta	ta	PER	xxx
 Ivanko Chapin	Ivanko Chapin	PER	890-4
@@ -18,8 +18,8 @@ Ivankinega	Ivankin	PER	890-10
 Libanona	Libanon	LOC	1050-26
 Ivanki Trump Trump	Ivanka Trump Trump	PER	890-15
 Trumpov	Trumpov	PER	849-0
+Pulitzerjevega	Pulitzerjev	PRO	923-7
 Richarda Russoja	Richard Russoj	PER	993-11
-Empire Falls	Empire Falls	MISC	1000-0
 »	»	PER	xxx
 Ly	ly	PER	xxx
 Donald Trump	Donald Trump	PER	968-2
@@ -28,11 +28,13 @@ Ivanke	Ivanka	PER	890-20
 Ivanka Trump	Ivanka Trump	PER	890-6
 Marija Antoaneta	Marija Antoaneta	PER	936-23
 ZDA	ZDA	LOC	1059-0
+covidu-19	covidu-19	PRO	899-6
 Joeja Bidna	Joe Bidn	PER	1017-0
 Trumpovim republikanska	Trumpov republikanski	PER	849-0
 New Yorka	New York	LOC	907-0
 Times Squaru	Times Squar	LOC	849-3
 Jareda Kushnerja	Jared Kushner	PER	1017-19
+covida-19	covida-19	PRO	899-6
 Kushnerja	Kushner	PER	1043-14
 Newyorčani	Newyorčan	PER	907-9
 Trump Tower	Trump Tower	LOC	849-2

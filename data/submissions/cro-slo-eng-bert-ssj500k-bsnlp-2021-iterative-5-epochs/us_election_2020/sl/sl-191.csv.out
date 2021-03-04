@@ -19,7 +19,6 @@ Donaldu Trumpu	Donald Trump	PER	968-2
 Georgea Floyda	George Floyd	PER	868-7
 Minneapolisu	Minneapolis	LOC	935-10
 cerkvi Sv. Janeza	cerkev sv. Janez	LOC	899-15
-Biblijo	biblija	MISC	899-15
 centra za boj proti terorizmu	center za boj proti terorizem	ORG	899-24
 Christopher C. Miller	Christopher C. Miller	PER	899-31
 FBI-ja	FBI	ORG	xxx
@@ -34,7 +33,7 @@ Hunterju	Hunter	PER	912-3
 Ukrajini	Ukrajina	LOC	1035-0
 senatnem odboru za državno varnost	senaten odbor za državen varnost	ORG	819-12
 Trumpovi	Trumpov	PER	847-0
-Joe Biden covida 19	Joe Biden covid 19	PER	1016-1
+covida 19	covid 19	PRO	899-17
 Američane	Američan	PER	881-1
 Pfizerja	Pfizer	ORG	923-9
 BioNTecha	Biontech	ORG	804-12

@@ -14,7 +14,8 @@ New Jerseyu	New Jersey	LOC	906-16
 Bidna	Bidn	PER	802-1
 Baracka Obama	Baracko Obama	PER	803-0
 Delawara	Delawar	LOC	966-2
-Američane covida 19	Američan covid 19	PER	880-1
+Američane	Američan	PER	880-1
+pandemija covida 19	pandemija covid 19	EVT	922-20
 ameriški kongres	ameriški kongres	ORG	880-15
 Trumpovi	Trumpov	PER	845-0
 Trump	Trump	PER	845-0

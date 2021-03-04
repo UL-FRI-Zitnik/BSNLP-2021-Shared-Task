@@ -11,12 +11,12 @@ Biden	Biden	PER	802-0
 Donald	Donald	PER	966-1
 zdaj	zdaj	LOC	1057-1
 Belo hišo	bel hiša	LOC	802-2
-republikanska	republikanski	PER	xxx
 državnega kongresa Michigana	državen kongres Michigan	ORG	xxx
 Trumpovi	Trumpov	PER	845-0
 Wayne	Wayne	LOC	950-9
 Michiganu	Michigan	LOC	934-0
 Detroit	Detroit	LOC	966-7
+republikanska	republikanski	PER	xxx
 demokrata	demokrat	PER	966-5
 Trump Wayne	Trump Wayne	PER	845-0
 Wilmingtonu	Wilmington	LOC	951-1
@@ -36,7 +36,7 @@ Tanzaniji	Tanzanija	LOC	845-1
 Venezuele	Venezuela	LOC	1047-6
 Kube	Kuba	LOC	1042-7
 Kitajske	Kitajska	LOC	1042-0
-My Cousin	my Cousin	MISC	934-9
+My Cousin	my Cousin	PRO	934-9
 Vinny	Vinny	PER	934-9
 Joe Pesci	Joe Pesci	PER	1015-10
 Arizoni	Arizona	LOC	880-3

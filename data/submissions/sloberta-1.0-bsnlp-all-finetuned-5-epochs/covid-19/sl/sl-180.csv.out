@@ -1,14 +1,13 @@
 sl-180
 Svet Evrope	svet Evropa	LOC	xxx
-covid-19	covid-19	MISC	xxx
+covid-19	covid-19	PRO	xxx
 Svet	svet	LOC	xxx
 Evrope	Evropa	LOC	xxx
-covida-19	covida-19	MISC	xxx
+covida-19	covida-19	PRO	xxx
 Slovenijo	Slovenija	LOC	xxx
 Poročilo	poročilo	LOC	xxx
-covidu-19	covidušče	MISC	xxx
-konvencijo 108	konvencija 108	MISC	xxx
+covidu-19	covidušče	PRO	xxx
+konvencijo 108	konvencija 108	PRO	xxx
 Slovenija	Slovenija	LOC	xxx
-konvencije	konvencija	MISC	xxx
-Sveta Evrope	svet Evropa	ORG	xxx
-konvencija 108.	konvencija 108.	MISC	xxx
+konvencije Sveta Evrope o varstvu	konvencija svet Evropa o varstvo	PRO	xxx
+konvencija 108.	konvencija 108.	PRO	xxx

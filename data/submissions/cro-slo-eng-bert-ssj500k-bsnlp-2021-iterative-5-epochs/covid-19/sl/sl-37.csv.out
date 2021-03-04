@@ -3,8 +3,8 @@ Von	von	PER	xxx
 der Leynova	der Leynov	PER	xxx
 EU	EU	ORG	307-3
 Von der Leynova	von der Leynov	PER	xxx
-covida-19	covida-19	MISC	xxx
-božič	božič	MISC	147-5
-božiču	božič	MISC	147-5
+covida-19	covida-19	PRO	xxx
+božič	božič	EVT	147-5
+božiču	božič	EVT	147-5
 von	von	PER	xxx
-covidu-19	covidušče	MISC	67-1
+covidu-19	covidušče	PRO	67-1

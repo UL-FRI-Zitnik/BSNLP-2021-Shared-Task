@@ -1,16 +1,12 @@
 sl-112
-COVID-19	covid-19	MISC	60-2
+COVID-19	covid-19	PRO	60-2
 Asimov Robotics	Asimov Robotics	ORG	223-9
-Crowdsourcing	crowdsourcing	MISC	60-11
 Indiji	Indija	LOC	288-4
 Indija	Indija	LOC	288-4
 Asimov	Asimov	PER	223-9
 Robotics	Robotics	ORG	223-9
 Kerali	Kerala	LOC	xxx
-indijska	indijski	LOC	xxx
-Aarogya Setu	Aarogya Seto	MISC	223-18
-GPS	GPS	MISC	268-43
-Bluetooth	bluetooth	MISC	142-4
+Bluetooth	bluetooth	PRO	142-4
 Google	Google	ORG	268-41
 Apple	Apple	ORG	223-10
 KlinicApp	KlinicApp	ORG	xxx
@@ -21,22 +17,22 @@ IIT	IIT	ORG	288-5
 Kanpur	Kanpur	LOC	xxx
 Aerobiosys Innovations	Aerobiosys Innovations	ORG	223-13
 IIT Hyderabad	IIT Hyderabad	ORG	288-5
-AgVa Healthcare	AgVa Healthcare	ORG	223-24
+AgVa Healthcare	AgVa Healthcare	PRO	223-24
 Indije	Indija	LOC	288-4
 Kerala	Kerala	LOC	xxx
-GoK-Kerala Direct	Gokxkerala Direct	MISC	268-28
-QKopy	QKopy	MISC	351-2
+GoK-Kerala Direct	Gokxkerala Direct	PRO	268-28
+QKopy	QKopy	PRO	351-2
 Aqoza technologies	Aqoza technologies	ORG	223-27
 PerSapien	Persapien	ORG	177-0
 Aqoza	Aqoza	ORG	223-22
-Nipah	Nipahe	MISC	xxx
 Airlens minus Corona	Airlens minus Corona	ORG	223-28
 Droom	Droom	ORG	xxx
-Corono Shield	Corona Shield	MISC	60-10
-Gurugramu	Gurugram	LOC	268-36
+Corono Shield	Corona Shield	PRO	60-10
+Gurugramu	Gurugram	PRO	268-36
 Haryana	Haryan	LOC	325-12
 Marut Dronetech	Marut Dronetech	ORG	251-13
+Crowdsourcing	crowdsourcing	ORG	xxx
 Nacionalna vlada	nacionalen vlada	ORG	xxx
 indijskih gospodarskih in industrijskih zbornic	indijski gospodarski in industrijski zbornica	ORG	288-26
-BreakCorona	Breakcorona	ORG	142-12
-Coronasafe-Network	Coronasafennetwork	MISC	60-7
+BreakCorona	Breakcorona	PRO	142-12
+Coronasafe-Network	Coronasafennetwork	PRO	60-7

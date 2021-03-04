@@ -1,13 +1,13 @@
 sl-47
 Pfizer	Pfizer	ORG	181-0
-covidu-19	covidu-19	MISC	67-2
+covidu-19	covidu-19	PRO	67-2
 BioNTech	Biontech	ORG	147-2
-Wall Street Journal	Wall Street Journal	MISC	243-1
+Wall Street Journal	Wall Street Journal	PRO	243-1
 Pfizerja	Pfizer	ORG	181-0
-Wall Street Journala	Wall Street Journal	MISC	243-1
-Deutsche Welle	Deutsche Welle	MISC	xxx
+Wall Journala	Wall Journal	PRO	243-1
+Deutsche Welle	Deutsche Welle	PRO	xxx
 DW	DW	ORG	xxx
-BioNTecha	Biontech	MISC	147-2
+BioNTecha	Biontech	PRO	147-2
 Združenem kraljestvu	združen kraljestvo	LOC	343-5
 Bahrajnu	Bahrajn	LOC	147-10
 Evropska agencija za zdravila	evropski agencija za zdravilo	ORG	307-2

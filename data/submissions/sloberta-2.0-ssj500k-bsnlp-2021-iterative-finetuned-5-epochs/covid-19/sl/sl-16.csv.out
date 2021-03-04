@@ -1,12 +1,13 @@
 sl-16
-Pfizer	Pfizer	MISC	179-0
-BioNTech	Biontech	MISC	144-0
-covidu-19	covidu-19	MISC	62-5
-BNT162b2	bnt162b2	MISC	144-19
+covidu-19	covidušče	PRO	xxx
+Pfizer	Pfizer	ORG	179-0
+BioNTech	Biontech	ORG	144-0
+BNT162b2	bnt162b2	PRO	144-19
 dpa	DPA	ORG	xxx
 Pfizerja	Pfizer	ORG	179-0
 Albert Bourla	Albert Bourla	PER	225-19
 Bourla	Bourla	PER	144-17
+covida-19	covida-19	PRO	xxx
 ameriški agenciji za zdravila in hrano	ameriški agencija za zdravilo in hrana	ORG	xxx
 BoiNtecha	Bointech	ORG	144-23
 Donald Trump	Donald Trump	PER	xxx

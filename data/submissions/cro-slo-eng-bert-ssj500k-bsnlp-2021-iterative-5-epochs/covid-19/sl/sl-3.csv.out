@@ -1,10 +1,11 @@
 sl-3
-Evropo covid-19	Evropa covid-19	LOC	306-3
-covida-19	covida-19	MISC	66-0
-Radio Slovenija	radio Slovenija	MISC	283-1
+Evropo	Evropa	LOC	306-3
+covid-19	covid-19	PRO	66-0
+covida-19	covida-19	PRO	xxx
+covida-19 Slovenija	covida-19 Slovenija	PRO	66-0
 Nacionalnega inštituta za javno zdravje	nacionalen inštitut za javen zdravje	ORG	195-2
 NIJZ	Nijz	ORG	195-4
-Milan Krek	Milan Krek	PER	256-20
+Milan Krek Slovenija	Milan Krek Slovenija	PER	256-20
 Sloveniji	Slovenija	LOC	xxx
 Hrvaškem	Hrvaško	LOC	327-1
 Slovenijo	Slovenija	LOC	xxx
@@ -16,9 +17,9 @@ Srbije	Srbija	LOC	xxx
 Severne Makedonije	severen Makedonija	LOC	xxx
 Srbiji	Srbija	LOC	xxx
 Aleksandru Vulinu	Aleksander Vulin	PER	227-17
-Maji Gojković covid-19	Maja Gojković covid-19	PER	256-24
+Maji Gojković	Maja Gojković	PER	256-24
 ZDA	ZDA	LOC	342-1
-univerze Johnsa Hopkinsa covid-19	univerza Johns Hopkins covid-19	ORG	265-5
+univerze Johnsa Hopkinsa	univerza Johns Hopkins	ORG	265-5
 zdaj	zdaj	LOC	342-0
 Floridi	Florida	LOC	274-5
 Teksasu	Teksas	LOC	298-2

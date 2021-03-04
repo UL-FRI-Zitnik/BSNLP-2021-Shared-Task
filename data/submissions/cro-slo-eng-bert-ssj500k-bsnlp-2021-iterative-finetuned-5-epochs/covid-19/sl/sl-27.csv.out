@@ -3,13 +3,16 @@ Oxforda	Oxford	LOC	78-4
 Inštitutu Jenner Univerze v Oxfordu	inštitut Jenner univerza v Oxford	ORG	291-17
 britanske	britanski	ORG	xxx
 univerze v Oxfordu	univerza v Oxford	ORG	265-29
-The Lancet	the Lancet	MISC	298-8
-deksametazon	deksametazon	MISC	xxx
+The Lancet	the Lancet	PRO	298-8
+deksametazon	deksametazon	PRO	xxx
+covidom-19	covidom-19	PRO	xxx
 Univerze v Oxfordu	univerza v Oxford	ORG	265-13
+covida-19	covida-19	PRO	xxx
+I / II	I / II	PRO	xxx
 Andrew Pollard	Andrew Pollard	PER	227-24
 Univerzi v Oxfordu Ljubljani	univerza v Oxford Ljubljana	ORG	265-15
 Pollard	Pollard	PER	181-7
-ChAdOx1 nCoV-19	Chadox1 ncov-19	MISC	66-13
+ChAdOx1 nCoV-19	Chadox1 ncov-19	PRO	66-13
 AstraZeneca	Astrazeneca	ORG	xxx
 Univerza	univerza	ORG	xxx
 Oxfordu	Oxford	LOC	78-4

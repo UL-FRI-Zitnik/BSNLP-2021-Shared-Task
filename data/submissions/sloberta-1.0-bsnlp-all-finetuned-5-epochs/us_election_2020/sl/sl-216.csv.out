@@ -1,15 +1,15 @@
 sl-216
 Slovenija	Slovenija	LOC	820-0
 ZDA	ZDA	LOC	1060-0
-5 G	5 g	MISC	xxx
+5 G	5 g	PRO	xxx
 Anže Logar	Anže Logar	PER	883-13
 Mike Pompeo	Mike Pompeo	PER	937-2
 Bledu 5 G.	Bled 5 G.	LOC	807-0
 MZZ	MZZ	ORG	937-8
-Londonski deklaraciji zveze Nato	londonski deklaracija zveza Nato	MISC	1051-9
+Londonski deklaraciji	londonski deklaracija	PRO	1051-9
 Evropske unije	evropski unija	ORG	1000-3
-resoluciji o strategiji nacionalne varnosti	resolucija o strategija nacionalen varnost	MISC	994-10
-Beli knjigi o obrambi	bel knjiga o obramba	MISC	807-12
+resoluciji o strategiji nacionalne varnosti	resolucija o strategija nacionalen varnost	PRO	994-10
+Beli knjigi o	bel knjiga o	PRO	807-12
 Slovenije	Slovenija	LOC	820-0
 Natov center odličnosti za kibernetsko obrambo	Natov center odličnost za kibernetski obramba	ORG	908-15
 Talinu	Talin	LOC	852-3
@@ -37,20 +37,20 @@ Rusije	Rusija	LOC	994-3
 Kitajske	Kitajska	LOC	1043-2
 Slovencev	Slovenec	PER	820-7
 Pompea	Pompe	PER	924-0
-Donalda Trumpa	Donald Trump	PER	970-1
-Berlinskega zidu	berlinski zid	MISC	807-11
-železne zavese	železen zavesa	MISC	xxx
+Donalda Trumpa Berlinskega zidu železne zavese	Donald Trump berlinski zid železen zavesa	PER	970-1
 slovensko	slovenski	LOC	xxx
 Rusiji	Rusija	LOC	994-8
-covida-19	covida-19	MISC	xxx
+covida-19	covida-19	PRO	xxx
 Evropo	Evropa	LOC	1000-4
 Nato	Nato	ORG	908-3
 Natu	Nato	ORG	908-3
 Svetu EU	svet EU	ORG	820-5
 Anžetom Logarjem	Anže Logar	PER	883-12
+omrežij	omrežje	PRO	xxx
 Janšo	Janša	PER	1018-10
+Slovenija 5 G	Slovenija 5 g	LOC	820-0
 Z	z	PER	xxx
-Pobudo treh morij	pobuda trije morija	MISC	924-16
+Pobudo treh morij	pobuda trije morija	PRO	924-16
 Zahodnem Balkanu	zahoden Balkan	LOC	1060-2
 Belorusiji	Belorusija	LOC	807-13
 EU	EU	ORG	1000-5

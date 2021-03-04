@@ -4,11 +4,10 @@ Titanika	Titanik	ORG	848-2
 Josepha Bidna	Joseph Bidn	PER	1017-1
 Janez Janša	Janez Janša	PER	1017-4
 Donaldu Trumpu	Donald Trump	PER	968-2
-Titanik	Titanik	MISC	848-2
-twitterju	twitter	MISC	849-4
+twitterju	twitter	PRO	849-4
 Trumpa	Trump	PER	849-0
 ZDA	ZDA	LOC	1058-0
-#MSM	#MSM	ORG	xxx
+#MSM	#MSM	PRO	xxx
 Janša	Janša	PER	1017-6
 Američani	Američan	PER	882-1
 Donalda Trumpa	Donald Trump	PER	968-2
@@ -25,7 +24,7 @@ EU	EU	ORG	999-1
 Janše	Janša	PER	1017-7
 Foreign Policy	Foreign Policy	ORG	982-7
 Trumpovemu	Trumpov	PER	849-9
-Nova24	Nova24	MISC	907-15
+Nova24	Nova24	PRO	907-15
 Orbanom	Orban	PER	1005-7
 Sloveniji	Slovenija	LOC	820-0
 Boruta Pahorja	Borut Pahor	PER	805-4
@@ -37,5 +36,5 @@ Bidnu	Bidn	PER	805-0
 Orban	Orban	PER	1005-7
 Wolfganga Ischingerja	Wolfgang Ischinger	PER	951-11
 Združenih državah	združen država	LOC	1058-9
-Münchenski varnostni konferenci	münchenski varnosten konferenca	MISC	935-22
+Münchenski varnostni konferenci	münchenski varnosten konferenca	EVT	935-22
 Janševa	Janšev	PER	1017-9

@@ -1,12 +1,14 @@
 sl-138
 Sloveniji	Slovenija	LOC	xxx
-COVID-19	covid-19	MISC	xxx
+COVID-19	covid-19	PRO	xxx
 Vlada republike Slovenije	vlada republika Slovenija	ORG	xxx
-SARS-CoV-2	Sarsvcovn2	MISC	xxx
+SARS-CoV-2	Sarsvcovn2	PRO	xxx
 Nacionalnega inštituta za javno zdravje	nacionalen inštitut za javen zdravje	ORG	192-4
-Zakon o nalezljivih boleznih	zakon o nalezljiv bolezen	MISC	339-9
+Zakon o nalezljivih boleznih	zakon o nalezljiv bolezen	PRO	339-9
 Vlada RS	vlada RS	ORG	xxx
 Vlade RS	vlada RS	ORG	xxx
+pic.twitter.com/	pic.twitter.com/	PRO	xxx
+f7vZNLA3To	fvvznllayt	PRO	xxx
 Nacionalnemu inštitutu za javno zdravje	nacionalen inštitut za javen zdravje	ORG	192-4
 DSO Hrastnik	DSO Hrastnik	LOC	xxx
 Hrastnik	Hrastnik	LOC	326-2
@@ -15,6 +17,7 @@ Lukovica	Lukovica	LOC	312-11
 Šmartno pri Litiji	Šmartno pri Litija	LOC	349-27
 Trbovlje	Trbovlje	LOC	295-12
 Zagorje ob Savi	Zagorje ob Sava	LOC	339-14
+zZFEnFlKh8	Zzfenflkh8	PRO	xxx
 Minister za javno upravo	minister za javen uprava	ORG	xxx
 Boštjan Koritnik	Boštjan Koritnik	PER	143-23
 NIJZ	Nijz	ORG	192-0

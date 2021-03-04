@@ -1,6 +1,5 @@
 sl-38
 Donald Trump	Donald Trump	PER	972-0
-purana	puran	PER	xxx
 Corna	Corn	PER	900-12
 AP	AP	ORG	885-2
 Joe Biden	Joe Biden	PER	1020-0
@@ -29,8 +28,7 @@ Huga Chaveza	Hug Chavez	PER	913-8
 Bidnova	Bidnov	PER	xxx
 centrom za preprečevanje	center za preprečevanje	ORG	xxx
 ZDA	ZDA	LOC	1063-0
-zahvalnim dnevom	zahvalen dan	MISC	xxx
-božič	božič	MISC	xxx
+božič	božič	EVT	xxx
 Američanov	Američan	PER	885-3
 Beli hiši	bel hiša	LOC	810-2
 Američani	Američan	PER	885-3

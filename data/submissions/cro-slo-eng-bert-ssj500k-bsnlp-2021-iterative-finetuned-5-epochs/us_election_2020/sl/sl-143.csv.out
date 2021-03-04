@@ -1,8 +1,7 @@
 sl-143
 Joe Biden	Joe Biden	PER	1014-2
 ZDA	ZDA	LOC	1055-0
-Donald Trump	Donald Trump	PER	965-1
-Volilna komisija	volilen komisija	ORG	1046-27
+Donald Trump komisija	Donald Trump komisija	PER	965-1
 Michigan	Michigan	LOC	1046-27
 Joseph Biden	Joseph Biden	PER	1014-8
 Bidna	Bidna	PER	799-7
@@ -11,9 +10,9 @@ Trump	Trump	PER	841-2
 Biden	Biden	PER	xxx
 John Kerry	John Kerry	PER	1014-14
 Antony Blinken	Antony Blinken	PER	879-20
-pariškemu podnebnemu sporazumu	pariški podneben sporazum	MISC	921-15
+pariškemu podnebnemu sporazumu	pariški podneben sporazum	PRO	921-15
 Svetovno zdravstveno organizacijo	svetoven zdravstven organizacija	ORG	817-27
-iranski jedrski dogovor	iranski jedrski dogovor	MISC	888-29
+iranski jedrski dogovor	iranski jedrski dogovor	PRO	888-29
 Jaka Sullivana	Jaka Sullivan	PER	1014-15
 Linda Thomas-Greenfield	Linda Thomasegrgreenfield	PER	1050-4
 Združenih narodih	združen narod	ORG	1055-4

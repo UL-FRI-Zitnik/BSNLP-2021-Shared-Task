@@ -16,7 +16,7 @@ Gabrielle Giffords	Gabrielle Giffords	PER	868-6
 Tucsonu	Tucson	LOC	850-4
 Nasine	Nasin	ORG	907-16
 Scotta Kellyja	Scott Kelly	PER	820-3
-ISS	ISS	MISC	890-12
+ISS	ISS	PRO	890-12
 Scott	Scott	PER	820-3
 demokratov	demokrat	PER	969-0
 republikanci	republikanec	PER	993-0
@@ -25,14 +25,14 @@ Kitajsko	Kitajska	LOC	1043-2
 McSallyjeve	Mcsallyjev	PER	936-4
 Trumpom	Trump	PER	850-0
 Trumpov	Trumpov	PER	850-0
-covida-19	covida-19	MISC	xxx
+covida-19	covida-19	PRO	xxx
 Bushevo	Bushev	PER	806-7
 administracijo	administracija	PER	xxx
 Savski Arabiji	savski Arabija	LOC	820-14
 Trumpa	Trump	PER	850-0
-New York Times	New York Times	MISC	907-7
-Trump	Trump	PER	850-0
-Arizona Central	Arizona Central	MISC	882-3
+New	New	PRO	907-7
+York Times	York Times	PRO	907-7
+Trump Central	Trump Central	PER	850-0
 Crystal Mercado	Crystal Mercado	PER	899-22
 Kellyja	Kelly	PER	1043-6
 Mehiko	Mehika	LOC	936-11

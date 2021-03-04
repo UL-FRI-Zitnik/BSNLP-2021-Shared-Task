@@ -1,16 +1,15 @@
 sl-163
 Jože Tanko	Jože Tanko	PER	321-0
-covid	covid	MISC	62-3
-19	19	MISC	62-3
+covid 19	covid 19	PRO	62-3
 SDS	SDS	ORG	xxx
-Twitterju	Twitter	MISC	296-4
-covid 19	covid 19	MISC	62-3
+Twitterju	Twitter	PRO	296-4
+zakona	zakon	PRO	340-3
 levičarji	levičar	PER	xxx
-Covid 19	Covid 19	MISC	62-4
+Covid 19	Covid 19	PRO	62-4
 evropske	evropski	LOC	xxx
 Borut Pahor	Borut Pahor	PER	144-1
 slovenski	slovenski	LOC	xxx
-DZ republike obrambi	DZ republika obramba	ORG	xxx
+DZ republike	DZ republika	ORG	xxx
 Matejem Toninom	Matej Tonin	PER	253-20
 Alešem Hojsom	Aleš Hojs	PER	225-28
 državnega zbora	državen zbor	ORG	xxx

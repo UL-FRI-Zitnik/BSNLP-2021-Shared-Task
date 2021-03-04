@@ -5,7 +5,7 @@ Trump	Trump	PER	847-0
 Iran	Iran	LOC	889-12
 Donald Trump	Donald Trump	PER	967-0
 Mednarodne agencije za jedrsko energijo	mednaroden agencija za jedrski energija	ORG	935-11
-New York Times	New York Times	MISC	907-7
+New York Times	New York Times	PRO	907-7
 Bližnjem vzhodu	bližnji vzhod	LOC	804-8
 Mikeom Penceom	Mikeo Pence	PER	935-19
 Mikeom Pompeom	Mikeo Pompe	PER	935-15
@@ -13,18 +13,17 @@ Christopherjem Millerjem	Christopher Miller	PER	899-28
 Markom Milleyem	Mark Milley	PER	935-13
 Biden	Biden	PER	804-0
 Trumpu	Trump	PER	847-0
-covidu-19	covidušče	MISC	899-21
+covidu-19	covidušče	PRO	899-21
 Moderna	Moderna	ORG	935-25
 Cambridgea	Cambridge	LOC	899-29
 Massachusetsu	Massachusets	LOC	935-7
 Trumpovim	Trumpov	PER	847-0
-Zoomu	Zoom	MISC	1058-4
 ZDA	ZDA	LOC	1058-0
 Wilmingtona	Wilmington	LOC	951-1
 Delawaru	Delawar	LOC	967-7
 Moody's	Moody's	ORG	935-26
 Trumpa	Trump	PER	847-0
-covida-19	covida-19	MISC	xxx
+covida-19	covida-19	PRO	xxx
 Republikanci	Republikanec	PER	993-1
 demokratom	demokrat	PER	967-1
 Bidnovih	Bidnov	PER	804-1

@@ -15,7 +15,7 @@ Severni Karolini	severen Karolina	LOC	817-2
 Biden	Biden	PER	xxx
 Ohiu	Ohio	LOC	1005-3
 Slednja	slednji	LOC	xxx
-New York Timesa	New York Times	MISC	905-5
+New York Timesa	New York Times	PRO	905-5
 Delawara Wilmingtonu	Delawar Wilmington	LOC	964-7
 demokratih	demokrat	ORG	964-0
 Hillary Clinton	Hillary Clinton	PER	911-5
@@ -23,7 +23,8 @@ Trumpa	Trump	PER	839-1
 Bidna	Bidn	PER	799-3
 demokrati	demokrat	PER	964-0
 Clintonovo	Clintonov	PER	897-7
-Bidnu RealClearPolitics	Biden Realclearpolitics	PER	799-0
+Bidnu	Biden	PER	799-0
+RealClearPolitics	Realclearpolitics	PRO	991-15
 Latinske Amerike	latinski Amerika	LOC	1050-11
 Floridi	Florida	LOC	980-7
 Barack Obama	Barack Obama	PER	799-4

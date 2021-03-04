@@ -1,10 +1,8 @@
 sl-224
-Covid-19	covid-19	MISC	66-0
 sloveniji	slovenija	LOC	xxx
 Sloveniji	Slovenija	LOC	xxx
-Zaradi	zaradi	MISC	xxx
-covida-19	covida-19	MISC	xxx
-covidom-19	covidom-19	MISC	xxx
+covida-19	covida-19	PRO	xxx
+covidom-19	covidom-19	PRO	xxx
 Jelko Kacin	Jelko Kacin	PER	322-33
 Kacin	Kacin	PER	xxx
 osrednjeslovenske	osrednjeslovenski	LOC	78-13
@@ -21,12 +19,12 @@ goriške	goriški	LOC	xxx
 posavske	posavski	LOC	xxx
 Univerzitetnem kliničnem centru	univerziteten kliničen center	ORG	265-20
 UKC Ljubljana	UKC Ljubljana	ORG	265-0
-Twitterju	Twitter	MISC	298-0
+Twitterju	Twitter	PRO	298-0
 UKC Maribor	UKC Maribor	ORG	265-0
 enoti za intenzivno	enota za intenziven	ORG	xxx
 Splošni bolnišnici Celje	splošen bolnišnica Celje	ORG	xxx
-covidom-19 terapije	covidom-19 terapija	MISC	xxx
+covidom-19 terapije	covidom-19 terapija	PRO	xxx
 Kliniki Golnik	klinika Golnik	ORG	xxx
 Splošni bolnišnici Slovenj Gradec	splošen bolnišnica Slovenj Gradec	ORG	xxx
-covid-19	covid-19	MISC	xxx
+covid-19	covid-19	PRO	xxx
 Splošne bolnišnice Slovenj Gradec	splošen bolnišnica Slovenj Gradec	ORG	xxx

@@ -1,15 +1,16 @@
 sl-197
 Verdasco	Verdasco	PER	xxx
-covid-19	covid-19	MISC	64-0
+covid-19	covid-19	PRO	64-0
 Pariz	Pariz	LOC	180-1
 Parizu	Pariz	LOC	180-1
 Fernando Verdasco	Fernando Verdasco	PER	274-22
-grand slam	grand slam	MISC	xxx
 Rolanda Garrosa	Roland Garros	LOC	282-7
-OP Francije	OP Francija	MISC	78-30
+turnirja	turnir	EVT	xxx
+velike četverice	velik četverica	EVT	xxx
+OP Francije	OP Francija	EVT	78-30
 Benoitu Pairu	Benoit Pairo	PER	145-28
 Hamburgu	Hamburg	LOC	327-2
-Roland Garrosu	Roland Garros	MISC	282-7
+Roland Garrosu	Roland Garros	EVT	282-7
 Damir Džumhur	Damir Džumhur	PER	xxx
 Džumhurja	Džumhur	PER	xxx
-Petar Popović grand slam	Petar Popović grand slam	PER	180-13
+Petar Popović grand slam v Parizu	Petar Popović grand slam v Pariz	PER	180-13

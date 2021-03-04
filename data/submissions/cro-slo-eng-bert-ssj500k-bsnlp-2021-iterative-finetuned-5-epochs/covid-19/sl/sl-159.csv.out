@@ -2,7 +2,7 @@ sl-159
 Evropskem parlamentu	evropski parlament	ORG	303-2
 Bruslju	Bruselj	LOC	144-21
 Madžarski	Madžarska	LOC	253-0
-covid-19	covid-19	MISC	62-0
+covid-19	covid-19	PRO	62-0
 socialistov in demokratov	socialist in demokrat	ORG	xxx
 S	z	ORG	xxx
 & D	& D	ORG	xxx
@@ -12,7 +12,7 @@ Zato	zato	LOC	xxx
 Evropsko komisijo	evropski komisija	ORG	303-0
 Svet EU	svet EU	ORG	xxx
 Svet	svet	LOC	xxx
-pogodbe EU	pogodba EU	MISC	xxx
+pogodbe EU	pogodba EU	PRO	xxx
 Evropsko ljudsko stranko	evropski ljudski stranka	ORG	303-15
 EPP	EPP	ORG	303-5
 Orbanovo	Orbanov	PER	77-7

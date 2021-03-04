@@ -1,13 +1,11 @@
 sl-147
 MeetUp webinar	meetup webinar	ORG	253-14
-COVID-19	covid-19	MISC	xxx
-koronavirus	koronavirus	MISC	xxx
 Evropo	Evropa	LOC	303-4
 ZDA	ZDA	LOC	339-0
-MeetUp	Meetup	MISC	253-24
+MeetUp	Meetup	PRO	253-24
 Levi Shapiro	lev Shapiro	PER	313-19
-mHealth Israel	mHealth Israel	ORG	253-2
-BioMED MBA programu	Biomed MBA program	MISC	xxx
+mHealth Israel	mHealth Israel	PRO	253-2
+BioMED MBA	Biomed MBA	PRO	xxx
 univerzi Hebrew University	univerza Hebrew University	ORG	xxx
 Nana Bit-Avragim fundaciji Charité	Nana Bitvavragim fundacija Charité	PER	192-16
 Singularity University	Singularity University	ORG	xxx
@@ -20,7 +18,7 @@ Triglav	Triglav	ORG	143-8
 Mediately	Mediately	ORG	253-3
 Mediatelyjevih	Mediatelyjev	ORG	253-4
 Mediatelyjeva	Mediatelyjev	ORG	253-4
-Register zdravil	register zdravilo	MISC	281-6
+Register zdravil	register zdravilo	PRO	281-6
 osrednji	osrednji	LOC	xxx
 vzhodni Evropi	vzhoden Evropa	LOC	xxx
 Giovanni Loser	Giovanni Loser	PER	269-20
@@ -29,4 +27,4 @@ illycaffe	illycaffe	ORG	xxx
 Fortress Investment group	Fortress investment group	ORG	273-16
 Aedes	Aedes	ORG	225-26
 Rinascente and Pirelli Group	Rinascente and Pirelli Group	ORG	281-3
-Zoom	Zoom	MISC	339-10
+Zoom	Zoom	PRO	339-10

@@ -1,9 +1,8 @@
 sl-200
-COVID-19	covid-19	MISC	64-2
+COVID-19	covid-19	PRO	64-2
 Otoku	otok	LOC	78-0
 Londonu	London	LOC	313-4
 Združenem kraljestvu	združen kraljestvo	LOC	341-3
-koronavirus	koronavirus	MISC	xxx
 Janet Djomba	Janet Djomba	PER	321-11
 londonske mestne občine Barnet enoti za varovanje zdravja	londonski mesten občina Barnet enota za varovanje zdravje	LOC	265-28
 Veliko Britanijo	velik Britanija	LOC	xxx
@@ -20,27 +19,27 @@ Barnetu	Barnet	LOC	145-12
 Italiji	Italija	LOC	290-3
 NHS	NHS	ORG	194-3
 britanski zdravstveni sistem	britanski zdravstven sistem	ORG	xxx
-SUGAR SMART Barnet	Sugar Smart Barnet	MISC	xxx
 PHE varovanje zdravja	PHE varovanje zdravje	ORG	180-2
 Vlada	vlada	LOC	xxx
-Chris Witty	Chris Witty	PER	64-10
+Chris	Chris	PER	64-10
+Witty	Witty	PRO	64-10
 Boris Johnson	Boris Johnson	PER	145-6
 Patric Vallance	Patric Vallance	PER	180-14
+chief medical officer	chief medical officer	PRO	xxx
 Agencija za javno zdravje	agencija za javen zdravje	ORG	226-11
 britanski javni zdravstveni sistem	britanski javen zdravstven sistem	ORG	xxx
 Angliji	Anglija	LOC	226-6
 Ministrstva za zdravje	ministrstvo za zdravje	ORG	255-0
 Minister	minister	ORG	xxx
 CMO	CMO	ORG	64-6
-občinskih odborov za izredne razmere	občinski odbor za izreden razmera	ORG	78-22
-Borough resilience forum zdravje	Borough resilience forum zdravje	ORG	145-10
+občinskih odborov za	občinski odbor za	ORG	78-22
+Borough resilience forum zdravje	Borough resilience forum zdravje	PRO	145-10
 Britanci	Britanec	PER	145-7
 BBC	BBC	ORG	145-25
 Londona	London	LOC	313-4
 Evropi	Evropa	LOC	305-3
 svetu	svet	LOC	xxx
 111	111	LOC	xxx
-112	112	MISC	xxx
 London	London	LOC	313-4
 Slovenijo	Slovenija	LOC	xxx
 Sloveniji	Slovenija	LOC	xxx

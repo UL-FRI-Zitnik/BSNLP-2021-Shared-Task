@@ -12,14 +12,14 @@ Washingtonu	Washington	LOC	950-0
 Sloveniji	Slovenija	LOC	816-1
 Trump	Trump	PER	816-1
 Trumpu	Trump	PER	836-0
-republikanski	republikanski	ORG	xxx
 Ameriki	Amerika	LOC	878-0
 Kevin Lamarque	Kevin Lamarque	PER	1041-23
 Janša	Janša	PER	xxx
 katoliška cerkev Pravičnost in mir	katoliški cerkev pravičnost in mir	ORG	xxx
 Noriškem kraljestvu	noriški kraljestvo	LOC	905-14
-Janši ustavnega loka	Janša ustaven lok	PER	xxx
-Slovenije covida-19	Slovenija covida-19	LOC	816-1
+Janši ustavnega	Janša ustaven	PER	xxx
+Slovenije	Slovenija	LOC	816-1
+covida-19	covida-19	PRO	xxx
 Janši	Janša	PER	xxx
 Američani	Američan	PER	878-1
 Mefistom	Mefist	ORG	931-15

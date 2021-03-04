@@ -1,8 +1,8 @@
 sl-140
 Univerze v Mariboru	univerza v Maribor	ORG	264-2
-covid-19	covid-19	MISC	61-1
-Folding@home	Folding@home	MISC	273-10
-covida-19	covida-19	MISC	xxx
+covid-19	covid-19	PRO	61-1
+Folding@home	Folding@home	PRO	273-10
+covida-19	covida-19	PRO	xxx
 Slovensko nacionalno superračunalniško omrežje	slovenski nacionalen superračunalniški omrežje	ORG	xxx
 Sling	Sling	ORG	xxx
 Institutu Jožef Stefan	institut Jožef Stefan	ORG	289-2
@@ -11,5 +11,5 @@ Arnes	Arnes	ORG	224-15
 HPC RIVR	HPC RIVR	ORG	326-5
 Fakulteti za informacijske študije	fakulteta za informacijski študija	ORG	273-6
 Univerzi v Mariboru	univerza v Maribor	ORG	264-2
-HPC Maister	HPC Maister	MISC	326-7
+HPC Maister	HPC Maister	PRO	326-7
 Zorana Rena	Zoran Ren	PER	339-15

@@ -1,33 +1,33 @@
 sl-190
-Joe Biden	Joe Biden	PER	1016-1
-New York Timesa	New York Times	MISC	907-7
+Joe Biden Timesa	Joe Biden Times	PER	1016-1
 republikanski	republikanski	ORG	xxx
 Trump	Trump	PER	847-0
 Iran	Iran	LOC	889-12
+Joe Biden	Joe Biden	PER	1016-1
 Washington	Washington	LOC	951-2
 Republikanski	republikanski	ORG	xxx
 Donald Trump	Donald Trump	PER	967-0
 Mednarodne agencije za jedrsko energijo	mednaroden agencija za jedrski energija	ORG	935-11
-New York Times	New York Times	MISC	907-7
+New York Times	New York Times	PRO	907-7
 Bližnjem vzhodu	bližnji vzhod	LOC	804-8
 Mikeom Penceom	Mikeo Pence	PER	935-19
 Mikeom Pompeom	Mikeo Pompe	PER	935-15
 Christopherjem Millerjem	Christopher Miller	PER	899-28
 Markom Milleyem	Mark Milley	PER	935-13
 Trumpu	Trump	PER	847-0
-covidu-19	covidušče	MISC	899-21
+covidu-19	covidušče	PRO	899-21
 Moderna iz Cambridgea	Moderna iz Cambridge	ORG	935-25
 Massachusetsu	Massachusets	LOC	935-7
 Biden	Biden	PER	804-0
 Trumpovim	Trumpov	PER	847-0
-Zoomu	Zoom	MISC	1058-4
 ZDA	ZDA	LOC	1058-0
 Wilmingtona	Wilmington	LOC	951-1
 Delawaru	Delawar	LOC	967-7
 Moody's	Moody's	ORG	935-26
 republikanca	republikanec	PER	993-0
 Trumpa	Trump	PER	847-0
-demokrat covida-19	demokrat covida-19	PER	xxx
+demokrat	demokrat	PER	xxx
+covida-19	covida-19	PRO	xxx
 Republikanci	Republikanec	PER	993-1
 demokratom	demokrat	PER	967-1
 Bidnovih	Bidnov	PER	804-1

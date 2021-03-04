@@ -3,18 +3,18 @@ Trumpova	Trumpov	PER	842-0
 ZDA	ZDA	LOC	1055-0
 Donalda Trumpa	Donald Trump	PER	965-1
 republikanci	republikanec	PER	991-0
-Salon	Salon	ORG	818-25
 Atlantic	Atlantic	ORG	879-7
 Joe Biden	Joe Biden	PER	1014-2
 Trumpom	Trump	PER	842-0
 Biden	Biden	PER	xxx
-CNN	CNN	ORG	897-5
+CNN	CNN	PRO	897-5
 Trump	Trump	PER	842-0
 vrhovnega sodišča ZDA	vrhoven sodišče ZDA	ORG	xxx
 Floridi	Florida	LOC	981-3
 Georgeu Bushu mlajšemu	George Bush mlad	PER	867-7
 Države	država	LOC	965-13
 Trumpov	Trumpov	PER	842-0
+Salon	salon	PER	818-12
 republikanski stranki	republikanski stranka	ORG	991-10
 Trumpove	Trumpov	PER	842-0
 Republikanci	republikanec	PER	991-2

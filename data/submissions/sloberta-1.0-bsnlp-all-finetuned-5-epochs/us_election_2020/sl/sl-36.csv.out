@@ -4,21 +4,22 @@ Joe Biden	Joe Biden	PER	1019-0
 John F. Kennedy	John F. Kennedy	PER	1019-12
 Richarda Nixona	Richard Nixon	PER	995-13
 ZDA	ZDA	LOC	1062-0
-facebooka	facebook	MISC	983-1
-twitterja	twitter	MISC	857-1
+facebooka	facebook	PRO	983-1
+twitterja	twitter	PRO	857-1
 Hillary Clinton	Hillary Clinton	PER	913-1
 Bele hiše	bel hiša	LOC	xxx
 Donaldu Trumpu	Donald Trump	PER	972-0
 Georgeem Washingtonom	George Washington	PER	869-14
-Washington Post	Washington post	MISC	952-3
+Washington Post	Washington post	PRO	952-3
 Trump	Trump	PER	857-0
-New York Times	New York Times	MISC	909-2
-Twitter	Twitter	MISC	857-5
+New	New	PRO	909-2
+York Times	York Times	PRO	909-2
+Twitter	Twitter	PRO	857-5
 Trumpovo	Trumpov	PER	857-0
 Ivanko	Ivanka	PER	890-4
 Jaredom Kushnerjem	Jared Kushner	PER	1019-14
-Amerika	Amerika	LOC	909-10
-America First	America First	LOC	885-11
+Najprej Amerika	najprej Amerika	PRO	909-10
+America First	America First	PRO	885-11
 Če	če	PER	xxx
 Američanom	Američan	PER	885-3
 Mike	Mike	PER	938-4
@@ -26,7 +27,6 @@ Mike Pence	Mike Pence	PER	938-4
 konservativec	konservativec	PER	1044-1
 Pence	Pence	PER	925-2
 Trumpovega	Trumpov	PER	857-2
-covidu-19	covidu-19	MISC	900-1
 Kamalo Harris	Kamala Harris	PER	1044-4
 konservativca	konservativec	PER	1044-1
 Trumpa	Trump	PER	857-8

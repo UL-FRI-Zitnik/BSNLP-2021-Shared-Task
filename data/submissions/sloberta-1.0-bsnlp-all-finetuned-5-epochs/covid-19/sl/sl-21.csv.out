@@ -1,14 +1,14 @@
 sl-21
-covid-19	covid-19	MISC	65-0
+covid-19	covid-19	PRO	65-0
 Veliki Britaniji	velik Britanija	LOC	xxx
 Rusiji	Rusija	LOC	282-1
 »	»	LOC	xxx
 Vlada	vlada	LOC	xxx
 neodvisne regulatorne agencije za zdravila in zdravstvene izdelke	neodvisen regulatoren agencija za zdravilo in zdravstven izdelek	ORG	xxx
-MHRA Pfizer-BioNTech	MHRA Pfizervbiontech	ORG	255-7
-covidu-19	covidu-19	MISC	xxx
-britanskega za zdravje	britanski za zdravje	ORG	xxx
 MHRA	MHRA	ORG	255-7
+Pfizer-BioNTech	Pfizervbiontech	PRO	xxx
+covidu-19	covidu-19	PRO	xxx
+britanskega za zdravje	britanski za zdravje	ORG	xxx
 BBC	BBC	ORG	146-1
 domovih za starejše	dom za star	ORG	xxx
 Velika Britanija	velik Britanija	LOC	xxx
@@ -33,8 +33,7 @@ Vladimir Putin	Vladimir Putin	PER	xxx
 Putin	Putin	PER	180-8
 Tatjano Golikovo	Tatjana Golikov	PER	297-18
 Rusija	Rusija	LOC	283-0
-Za	za	MISC	xxx
-covidom-19	covidom-19	MISC	xxx
+covidom-19	covidom-19	PRO	xxx
 Johnsa Hopkinsa	Johns Hopkins	ORG	265-5
-Sputnik V	Sputnik v	MISC	xxx
-EpiVacCorona	Epivaccoron	MISC	305-11
+Sputnik V	Sputnik v	PRO	xxx
+EpiVacCorona	Epivaccoron	PRO	305-11

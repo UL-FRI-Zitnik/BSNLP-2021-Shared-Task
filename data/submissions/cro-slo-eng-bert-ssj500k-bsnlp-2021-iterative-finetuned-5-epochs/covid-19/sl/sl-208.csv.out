@@ -1,16 +1,15 @@
 sl-208
-covid	covid	MISC	64-3
--19	-19	MISC	xxx
+covid	covid	PRO	64-3
 Celju	Celje	LOC	65-11
 Vošnjakovi ulici	Vošnjakov ulica	LOC	xxx
 Mariboru	Maribor	LOC	255-2
 Ljubljani	Ljubljana	LOC	314-2
 Kdor	kdor	PER	xxx
-covid-19	covid-19	MISC	65-0
+covid-19	covid-19	PRO	65-0
 Infekcijski kliniki UKC Ljubljana	infekcijski klinika UKC Ljubljana	ORG	290-8
 Zdravstvenem domu Ljubljana	zdravstven dom Ljubljana	ORG	341-2
 Metelkovi ulici	Metelkov ulica	LOC	255-23
 Klinike za infekcijske bolezni in infekcijska stanja	Klinika za infekcijski bolezen in infekcijski stanje	ORG	xxx
 Tatjane Lejko Zupanc	Tatjana Lejka Zupanc	PER	297-22
 Lejko-Zupančeve	Lejkošzupančev	PER	314-16
-Infekcijski kliniki covid-19	infekcijski klinika covid-19	ORG	290-8
+Infekcijski kliniki	infekcijski klinika	ORG	290-8

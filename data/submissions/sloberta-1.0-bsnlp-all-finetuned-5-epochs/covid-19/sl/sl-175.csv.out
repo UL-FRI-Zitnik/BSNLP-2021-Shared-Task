@@ -1,25 +1,24 @@
 sl-175
-covid-19	covid-19	MISC	63-4
+covid-19	covid-19	PRO	63-4
 informacijski pooblaščenec	informacijski pooblaščenec	ORG	xxx
 Google	Google	ORG	269-17
 Facebook	Facebook	ORG	274-2
 Amazon	Amazon	ORG	225-23
+covid krizo	covid kriza	EVT	63-11
 Kitajski	Kitajska	LOC	xxx
+covid	covid	EVT	63-15
 Pandorino	Pandorin	PER	179-5
-New York Times	New York Times	ORG	193-17
+New York Times	New York Times	PRO	193-17
 David Brooks	David Brooks	PER	xxx
-dataism	dataism	MISC	xxx
-Homodeus	Homodeus	MISC	326-22
+dataism	dataism	PRO	xxx
+Homodeus	Homodeus	PRO	326-22
 Yuval Noah Harari	Yuval Noah Harari	PER	259-7
-Dataizem	Dataizem	MISC	xxx
 Harari	Harari	PER	326-3
-Liquid modernity	Liquid modernity	MISC	313-18
+Liquid modernity	Liquid modernity	PRO	313-18
 Zygmunt Bauman	Zygmunt Bauman	PER	340-10
 Immanuel Wallerstein	Immanuel Wallerstein	PER	290-14
-Ali ima kapitalizem prihodnost	ali imeti kapitalizem prihodnost	MISC	xxx
+Ali ima kapitalizem	ali imeti kapitalizem	PRO	xxx
 Harariju	Harari	PER	326-3
-dataizmu	dataizem	MISC	xxx
 Maslowu	Maslow	PER	254-13
 Maslowova	Maslowov	PER	254-25
-covid	covid	MISC	xxx
-covida-19	covida-19	MISC	xxx
+covida-19	covida-19	PRO	xxx

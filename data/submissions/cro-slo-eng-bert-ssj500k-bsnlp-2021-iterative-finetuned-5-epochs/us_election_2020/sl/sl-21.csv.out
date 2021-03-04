@@ -21,9 +21,10 @@ Amerika	Amerika	LOC	883-2
 Hillary Clinton	Hillary Clinton	PER	912-1
 Eleanor Roosevelt	Eleanor Roosevelt	PER	1000-17
 Trump	Trump	PER	851-1
-Mary Jordan posla	Mary Jordan posel	PER	936-9
+Mary Jordan	Mary Jordan	PER	936-9
+Umetnost	umetnost	PRO	1035-18
 Betty Ford	Betty Ford	PER	806-6
-Washington Posta	Washington Post	ORG	951-3
+Washington Posta	Washington Post	PRO	951-3
 Melanijini	Melanijin	PER	936-6
 Trum-pu	Trumep	PER	851-4
 Jill Biden	Jill Biden	PER	1018-7
@@ -31,7 +32,6 @@ Belo hišo	bel hiša	LOC	806-2
 Bidnovim	Bidnov	PER	806-10
 Bidnov	Bidnov	PER	806-9
 Hunter	Hunter	PER	912-0
-Javnost	javnost	PER	xxx
 Hunterju Bidnu	Hunter Bidn	PER	912-25
 Joeju	Joe	PER	1018-14
 Beauja	Beau	PER	806-13

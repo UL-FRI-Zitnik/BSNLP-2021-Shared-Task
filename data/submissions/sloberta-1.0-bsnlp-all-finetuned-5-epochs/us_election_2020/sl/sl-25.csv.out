@@ -3,12 +3,12 @@ Trump	Trump	PER	854-0
 Bidnu	Bidn	PER	808-2
 Joe Biden	Joe Biden	PER	1019-0
 Donald Trump	Donald Trump	PER	971-0
-twitterju	twitter	MISC	854-1
+twitterju	twitter	PRO	854-1
 ZDA	ZDA	LOC	1061-0
 Barackom Obamo	Baracko Obama	PER	808-6
 Donaldu Trumpu	Donald Trump	PER	971-0
 Američani	Američan	PER	884-0
-Bele hiše ustave	bel hiša ustava	LOC	808-3
+Bele hiše	bel hiša	LOC	808-3
 Pensilvaniji	Pensilvanija	LOC	925-0
 Hillary Clinton	Hillary Clinton	PER	913-0
 Predsedniku	predsednik	PER	xxx
@@ -18,12 +18,10 @@ Michiganu	Michigan	LOC	937-0
 Georgii	Georgia	LOC	869-2
 Nevadi	Nevada	LOC	908-0
 Trumpa	Trump	PER	854-0
-demokratu	demokrat	PER	1048-8
 Trumpov	Trumpov	PER	854-0
 Nemčiji	Nemčija	LOC	908-8
 Richard Grenell	Richard Grenell	PER	995-7
 Las Vegasu	Las Vegas	LOC	1051-6
-Republikanci	republikanec	PER	995-11
 republikance	republikanec	PER	995-2
 ameriškega vrhovnega sodišča	ameriški vrhoven sodišče	ORG	xxx
 Arizoni	Arizona	LOC	884-1
@@ -34,7 +32,6 @@ Los Angelesu	Los Angeles	LOC	1051-7
 Čikagu	Čikago	LOC	1036-8
 Filadelfiji	Filadelfija	LOC	983-3
 Trumpovih	Trumpov	PER	854-0
-Življenja temnopoltih so pomembna	življenje temnopolt biti pomemben	MISC	xxx
 Georgea Floyda	George Floyd	PER	869-8
 Minneapolisu	Minneapolis	LOC	937-13
 Trumpu	Trump	PER	854-0
@@ -52,8 +49,8 @@ demokratom doma	demokrat dom	PER	971-1
 Nancy Pelosi	Nancy Pelosa	PER	908-4
 Alexandrie Ocasio-Cortez	Alexandria Ocasioscortez	PER	884-10
 Gora	Gora	LOC	884-12
-YouGov	Yougov	MISC	xxx
-Washington Examiner	Washington Examiner	MISC	952-6
+YouGov	Yougov	PRO	xxx
+Washington Examiner	Washington Examiner	PRO	952-6
 Amerika	Amerika	LOC	884-2
 Al Gore	Al Gore	PER	884-21
 Georgeu W. Bushu	George W. Bush	PER	869-1

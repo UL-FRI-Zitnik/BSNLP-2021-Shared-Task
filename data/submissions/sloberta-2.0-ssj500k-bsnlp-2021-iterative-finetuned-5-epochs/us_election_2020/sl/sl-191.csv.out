@@ -18,7 +18,7 @@ Esper	Esper	PER	999-8
 Donaldu Trumpu	Donald Trump	PER	968-2
 Georgea Floyda	George Floyd	PER	868-7
 Minneapolisu	Minneapolis	LOC	935-10
-cerkvi Sv. Janeza z Biblijo v roki	cerkev sv. Janez z biblija v roka	LOC	899-15
+cerkvi Sv. Janeza	cerkev sv. Janez	LOC	899-15
 Bele hiše proti terorizmu	bel hiša proti terorizem	LOC	804-4
 Christopher C. Miller	Christopher C. Miller	PER	899-31
 FBI-ja	FBI	ORG	xxx
@@ -34,7 +34,7 @@ Ukrajini	Ukrajina	LOC	1035-0
 senatnem odboru za državno varnost	senaten odbor za državen varnost	ORG	819-12
 republikanski	republikanski	ORG	xxx
 Trumpovi	Trumpov	PER	847-0
-covida 19	covid 19	MISC	899-17
+covida 19	covid 19	PRO	899-17
 Američane	Američan	PER	881-1
 Pfizerja	Pfizer	ORG	923-9
 BioNTecha	Biontech	ORG	804-12

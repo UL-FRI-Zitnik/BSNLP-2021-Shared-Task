@@ -1,6 +1,6 @@
 sl-176
 ZDA	ZDA	LOC	1057-0
-covidom-19	covidom-19	MISC	xxx
+covidom-19	covidom-19	PRO	xxx
 Donald Trump	Donald Trump	PER	967-0
 Pfizer	Pfizer	ORG	922-3
 New Yorku	New York	LOC	907-0
@@ -12,7 +12,6 @@ Trumpovo	Trumpov	PER	845-0
 Nacionalnega inštituta za zdravstvo	nacionalen inštitut za zdravstvo	ORG	907-12
 Anthony Fauci	Anthony Fauci	PER	881-13
 Fauci	Fauci	PER	981-2
-Ravnanje	ravnanje	PER	xxx
 Trumpa	Trump	PER	845-0
 Biden	Biden	PER	803-3
 Faucija	Faucija	PER	981-2

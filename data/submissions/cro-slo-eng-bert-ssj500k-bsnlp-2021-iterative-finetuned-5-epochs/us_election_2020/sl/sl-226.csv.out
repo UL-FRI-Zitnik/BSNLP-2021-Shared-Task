@@ -16,7 +16,7 @@ Trump	Trump	LOC	854-0
 republikanca	republikanec	PER	994-0
 Donalda Trumpa	Donald Trump	PER	970-1
 republikanskih	republikanski	ORG	xxx
-republikance	republikanec	ORG	994-0
+republikance	republikanec	PER	994-0
 Tom Ridge	Tom Ridge	PER	854-3
 Agencije za nacionalno varnost	agencija za nacionalen varnost	ORG	884-14
 NSA	NSA	ORG	908-13
@@ -33,4 +33,3 @@ Južnemkitajskem morju	južnemkitajski morje	LOC	1019-15
 Palestincev	Palestinec	PER	924-20
 Iraku	Irak	LOC	890-9
 Afganistanu	Afganistan	LOC	884-13
-ZDA nebu	ZDA nebo	LOC	1061-0

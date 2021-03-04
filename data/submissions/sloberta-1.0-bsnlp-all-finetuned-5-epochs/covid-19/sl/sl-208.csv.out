@@ -1,9 +1,10 @@
 sl-208
+covid	covid	PRO	64-3
 Celju	Celje	LOC	65-11
 Vošnjakovi ulici	Vošnjakov ulica	LOC	xxx
 Mariboru	Maribor	LOC	255-2
 Ljubljani	Ljubljana	LOC	314-2
-covid-19	covid-19	MISC	65-0
+covid-19	covid-19	PRO	65-0
 Infekcijski kliniki UKC Ljubljana	infekcijski klinika UKC Ljubljana	LOC	290-8
 Zdravstvenem domu Ljubljana	zdravstven dom Ljubljana	LOC	341-2
 Metelkovi ulici	Metelkov ulica	LOC	255-23

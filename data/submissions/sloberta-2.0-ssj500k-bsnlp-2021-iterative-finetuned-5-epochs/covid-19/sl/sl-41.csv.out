@@ -1,12 +1,11 @@
 sl-41
-S & P 500	z & p 500	MISC	xxx
-USD	USD	MISC	xxx
+S & P 500	z & p 500	PRO	xxx
 Joe Biden	Joe Biden	PER	322-5
 Pfizer	Pfizer	ORG	181-0
 BioNTech	Biontech	ORG	147-2
 Nasdaq	Nasdaq	ORG	195-6
 ZDA	ZDA	LOC	343-0
-covida-19	covida-19	MISC	xxx
+covida-19	covida-19	PRO	xxx
 Chicagu	Chicago	LOC	67-15
 New Yorku	New York	LOC	195-0
 Američani	Američan	PER	228-2

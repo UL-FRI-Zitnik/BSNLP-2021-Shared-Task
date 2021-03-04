@@ -1,9 +1,9 @@
 sl-225
 Raziskava	raziskava	LOC	xxx
-Covid-19	covid-19	MISC	66-0
+Covid-19	covid-19	PRO	66-0
 Sloveniji	Slovenija	LOC	xxx
 Veliki Britaniji	velik Britanija	LOC	xxx
-covida-19	covida-19	MISC	xxx
+covida-19	covida-19	PRO	xxx
 Evropi	Evropa	LOC	305-3
 ameriškega Inštituta za zdravstveno meroslovje in ocenjevanje	ameriški inštitut za zdravstven meroslovje in ocenjevanje	ORG	226-12
 IHME	IHME	ORG	291-2
@@ -23,6 +23,6 @@ Francija	Francija	LOC	274-1
 Christopherja Murraya	Christopher Murray	PER	66-15
 Inštitut	inštitut	PER	xxx
 ZDA	ZDA	LOC	342-1
-ZDA covida-19	ZDA covida-19	LOC	342-1
 Murray	Murray	PER	256-2
 Slovenijo	Slovenija	LOC	xxx
+covidu-19	covidu-19	PRO	xxx

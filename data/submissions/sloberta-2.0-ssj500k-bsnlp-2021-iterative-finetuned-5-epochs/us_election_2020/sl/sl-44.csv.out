@@ -4,13 +4,13 @@ Michelle Obama	Michelle Obama	PER	938-6
 Bernie Sandersa	Bernie Sanders	PER	811-4
 demokratov	demokrat	PER	972-1
 ZDA	ZDA	LOC	1063-0
-demokratske nacionalne konvencije	demokratski nacionalen konvencija	ORG	xxx
+demokratske nacionalne konvencije	demokratski nacionalen konvencija	EVT	xxx
 Josepha Bidna	Joseph Bidn	PER	1020-4
 republikancu	republikanec	PER	996-0
 Donaldu Trumpu	Donald Trump	PER	972-0
 Trump	Trump	PER	858-0
 Bidnom	Bidn	PER	811-1
-demokratske konvencije	demokratski konvencija	MISC	xxx
+demokratske konvencije	demokratski konvencija	EVT	xxx
 Amerika	Amerika	LOC	885-1
 Minnesoti	Minnesota	LOC	938-7
 Wisconsinu	Wisconsin	LOC	952-1
@@ -41,7 +41,6 @@ Georgea Floyda	George Floyd	PER	870-4
 Minneapolisu	Minneapolis	LOC	938-19
 Muriel Bowser	Muriel Bowser	PER	938-15
 Washingtona	Washington	LOC	952-0
-Črna življenja štejejo	črn življenje šteti	MISC	1036-6
 trgu	trg	LOC	xxx
 Lafayette	Lafayette	LOC	1051-14
 Belo hišo	bel hiša	LOC	811-0

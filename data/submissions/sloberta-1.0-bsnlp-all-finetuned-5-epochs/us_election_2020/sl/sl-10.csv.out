@@ -14,8 +14,7 @@ Američanov	Američan	PER	877-1
 Trumpa	Trump	PER	833-3
 republikancev	republikanec	ORG	989-14
 ABC	ABC	ORG	877-14
-Washington Posta	Washington post	ORG	950-12
-Rassmussen	Rassmussen	MISC	989-19
+Washington Posta	Washington post	PRO	950-12
 Trumpovega	Trumpov	PER	833-21
 Trumpovi Trump	Trumpov Trump	PER	833-4
 Trumpove	Trumpov	PER	833-17
@@ -23,5 +22,5 @@ Stuart Jolly	Stuart Jolly	PER	815-21
 ZDA	ZDA	LOC	1052-3
 Trumpova	Trumpov	PER	833-4
 Elizabeth Neumann	Elizabeth Neumann	PER	997-11
-Facebook	Facebook	MISC	980-11
-Twitter	Twitter	MISC	833-1
+Facebook	Facebook	PRO	980-11
+Twitter	Twitter	PRO	833-1

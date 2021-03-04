@@ -1,6 +1,5 @@
 sl-177
-COVID-19	covid-19	MISC	63-3
-covida-19	covida-19	MISC	xxx
+covida-19	covida-19	PRO	xxx
 Borut Pahor	Borut Pahor	PER	144-1
 Kongresnem trgu v Ljubljani	kongresen trg v Ljubljana	LOC	xxx
 Janez Janša	Janez Janša	PER	321-7
@@ -13,10 +12,8 @@ Slovenske vojske	slovenski vojska	ORG	269-12
 Robert Glavaš	Robert Glavaš	PER	282-13
 policije	policija	ORG	xxx
 Andrej Jurič	Andrej Jurič	PER	225-34
-Igor Zorčič vojni za Slovenijo ' 91	Igor Zorčič vojna za Slovenija ' 91	PER	290-4
 NOB	NOB	ORG	193-13
-Lipi sprave	Lipa sprava	MISC	313-22
-prve svetovne vojne	prvi svetoven vojna	MISC	179-15
+Lipi sprave	Lipa sprava	EVT	313-22
 Slovenske škofovske konference	slovenski škofovski konferenca	ORG	xxx
 Stanislav Zore	Stanislav Zore	PER	xxx
 Ljubljani	Ljubljana	LOC	313-0
@@ -28,6 +25,7 @@ Gorca	Gorca	LOC	269-22
 Razvanje	Razvanje	LOC	282-14
 Katoliška cerkev	katoliški cerkev	ORG	xxx
 Katoliški cerkvi	katoliški cerkev	ORG	xxx
+COVID-19	covid-19	PRO	63-3
 Vzhodu	vzhod	LOC	xxx
 Galije Cerkev	Galija cerkev	LOC	269-21
 vzhodne Cerkve	vzhoden cerkev	LOC	xxx
@@ -36,14 +34,15 @@ papež Bonifacij IV.	papež Bonifacij IV.	PER	xxx
 Pantheon	Pantheon	LOC	144-18
 Devici Mariji	devica Marija	PER	xxx
 papež Gregor III.	papež Gregor III.	PER	xxx
+731 - 741	731 - 741	PRO	xxx
 sv. Petru	sv. Peter	LOC	269-18
-Odrešeniku Gregor	odrešenik Gregor	PER	78-10
+Odrešeniku Gregor IV. - 844	odrešenik Gregor IV. - 844	PER	78-10
 Cerkvi	cerkev	LOC	xxx
 Cerkev	cerkev	ORG	63-8
 Ti	ta	PER	xxx
+C 40	C 40	PRO	xxx
 Cerkve	cerkev	ORG	63-8
-Praznik vseh svetih	praznik ves svet	MISC	xxx
-Kristusu	Kristus	MISC	xxx
-2 Tim 4,7	2 Tim 4,7	MISC	xxx
-1 Pt 1,8 Cerkve Cerkvi	1 pt 1,8 cerkev cerkev	MISC	xxx
+C 8	C 8	PRO	xxx
+2 Tim 4,7	2 Tim 4,7	PRO	xxx
+1 Pt 1,8 Cerkve Cerkvi	1 pt 1,8 cerkev cerkev	PRO	xxx
 SŠK	SŠK	ORG	xxx

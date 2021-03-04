@@ -1,15 +1,15 @@
 sl-206
-covid-19	covid-19	MISC	64-0
+covid-19	covid-19	PRO	64-0
 Slovenijo	Slovenija	LOC	xxx
 SD	SD	ORG	xxx
 LMŠ	LMŠ	ORG	314-0
 SAB	SAB	ORG	xxx
 Levica	Levica	ORG	314-1
-Zakona o obrambi	zakon o obramba	MISC	341-4
+Zakona o obrambi	zakon o obramba	PRO	341-4
 Blaž Mrevlje	Blaž Mrevlje	PER	145-8
 Janeza Janše	Janez Janša	PER	321-16
 Slovenski vojski	slovenski vojska	ORG	xxx
-Nova24TV	Novač4tv	MISC	194-7
+Nova24TV	Novač4tv	PRO	194-7
 Franc Breznik	Franc Breznik	PER	274-20
 Slovenije	Slovenija	LOC	xxx
 Slovenske vojske	slovenski vojska	ORG	xxx
@@ -21,6 +21,7 @@ Sloveniji	Slovenija	LOC	xxx
 Šarčevi	šarčev	PER	350-10
 Republike Slovenije	republika Slovenija	LOC	282-21
 Mrevlje	Mrevlje	PER	255-5
+Zakona o	zakon o	PRO	341-4
 Aleša Hojsa	Aleš Hojs	PER	226-2
 Franca Kanglerja	Franc Kangler	PER	274-10
 Vinkom Gorenakom	Vinko Gorenak	PER	xxx

@@ -1,15 +1,14 @@
 sl-26
 Italiji	Italija	LOC	291-1
+covidu-19	covidu-19	PRO	xxx
 Conte	Conte	PER	66-7
 Renzi	Renzi	PER	283-5
-covidu-19	covidu-19	MISC	xxx
-covida-19	covida-19	MISC	xxx
+covida-19	covida-19	PRO	xxx
 Italijanom	Italijan	PER	291-1
-facebook	facebook	MISC	274-2
+facebook	facebook	PRO	274-2
 Renzija	Renzi	PER	283-22
 Italijane	Italijan	PER	291-1
 Lazzaro Spallanzani	Lazzaro Spallanzani	LOC	314-14
-Cepivo	cepivo	MISC	xxx
 ReiThera	Reithera	ORG	283-20
 Castelromanu	Castelroman	LOC	66-10
 Rimu	Rim	LOC	283-10

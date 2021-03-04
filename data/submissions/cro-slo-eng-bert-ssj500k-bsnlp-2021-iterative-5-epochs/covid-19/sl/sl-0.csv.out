@@ -2,16 +2,19 @@ sl-0
 Trump	Trump	PER	294-3
 ZDA	ZDA	LOC	337-6
 univerze Johnsa Hopkinsa	univerza Johns Hopkins	ORG	263-16
+covida-19	covida-19	PRO	xxx
 Belo hišo	bel hiša	LOC	141-4
 ameriškega nacionalnega inštituta za zdravje	ameriški nacionalen inštitut za zdravje	ORG	223-21
 Anthony Fauci	Anthony Fauci	PER	223-1
+covid-19	covid-19	PRO	xxx
 Faucijem	Fauci	PER	273-15
+covidu-19	covidušče	PRO	xxx
 Američanom	Američan	PER	223-2
 Južna Dakota	južen Dakota	LOC	319-28
-covidu-19	covidu-19	MISC	xxx
 Univerza Minnesote	univerza Minnesota	ORG	263-9
 New York	New York	LOC	190-0
 Andrew Cuomo	Andrew Cuomo	PER	223-3
+covidom-19	covidom-19	PRO	xxx
 Newyorčanov	Newyorčan	PER	190-1
 Pensilvaniji	Pensilvanija	LOC	176-3
 Minnesoti	Minnesota	LOC	251-2

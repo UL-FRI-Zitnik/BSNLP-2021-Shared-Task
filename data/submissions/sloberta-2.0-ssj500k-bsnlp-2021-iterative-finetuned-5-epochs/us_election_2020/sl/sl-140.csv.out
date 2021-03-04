@@ -1,6 +1,5 @@
 sl-140
 Laškem	Laško	LOC	1050-3
-EP	EP	MISC	999-0
 Norveška	Norveška	LOC	905-10
 Danska	Danska	LOC	965-2
 norveška zveza	norveški zveza	LOC	905-29
@@ -26,7 +25,7 @@ Trondheima	Trondheim	LOC	841-7
 Krimov	Krimov	ORG	1041-9
 Uroš Bregar	Uroš Bregar	PER	1034-25
 Krim	Krim	ORG	1041-9
-Ferencvaroš prvakinj	Ferencvaroš prvakinja	ORG	980-15
+Ferencvaroš ligi prvakinj	Ferencvaroš liga prvakinja	ORG	980-15
 Krimove	Krimov	PER	1041-9
 Francozinje	Francozinja	PER	981-8
 Oceane Sercien Ugolin	Oceane Sercien Ugolin	PER	981-8
@@ -45,7 +44,8 @@ Podravke	Podravka	ORG	921-24
 Koprivnice	Koprivnica	LOC	921-24
 Bregarjev	Bregarjev	PER	799-9
 Salvador Krajnčič	Salvador Krajnčič	PER	817-10
-EP 2004 na	EP 2004 na	MISC	999-0
+EP	EP	ORG	xxx
+EP 2004	EP 2004	EVT	999-0
 Madžarskem	Madžarsko	LOC	933-2
 Salvador Kranjčič	Salvador Kranjčič	PER	817-10
 Laškem Thermana Tri lilije	Laško Therman trije lilija	LOC	1050-3

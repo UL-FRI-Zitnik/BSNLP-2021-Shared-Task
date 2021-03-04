@@ -4,8 +4,8 @@ Belo hišo	bel hiša	LOC	798-0
 Lincolnovega	Lincolnov	PER	1050-0
 Donalda Trumpa	Donald Trump	PER	964-2
 Kellyanne Conway	Kellyanne Conway	PER	1041-4
-twitterju	twitter	MISC	838-2
-Guardian	Guardian	MISC	866-13
+twitterju	twitter	PRO	838-2
+Guardian	Guardian	PRO	866-13
 ZDA	ZDA	LOC	1054-0
 Georgom Conwayjem	Georg Conway	PER	866-9
 Trumpov	Trumpov	PER	838-0
@@ -15,15 +15,14 @@ Lincolnov	Lincolnov	PER	1050-0
 George	George	PER	866-22
 Lincoln Project	Lincoln project	ORG	1050-21
 Trumpa	Trump	PER	838-0
-CNN	CNN	MISC	897-5
+CNN	CNN	PRO	897-5
 Charlottu	Charlotte	LOC	897-6
 Severni Karolini	severen Karolina	LOC	817-2
-republikanska nacionalna konvencija	republikanski nacionalen konvencija	MISC	xxx
 Trump	Trump	PER	838-0
 republikanski	republikanski	ORG	xxx
 Trumpove Conway	Trumpov Conway	PER	838-0
 Je	biti	PER	xxx
-Washington Post	Washington post	MISC	950-1
+Washington Post	Washington post	PRO	950-1
 Združenih držav Amerike	združen država Amerika	LOC	1054-5
 STA	biti	ORG	817-23
 Maryanne Trump Barry	Maryanne Trump Barry	PER	932-20

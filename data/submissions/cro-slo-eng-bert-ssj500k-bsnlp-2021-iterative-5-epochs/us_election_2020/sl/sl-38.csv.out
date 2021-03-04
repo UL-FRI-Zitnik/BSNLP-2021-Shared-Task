@@ -17,7 +17,7 @@ Trumpovega	Trumpov	PER	857-2
 Murphyjeva	Murphyjev	PER	938-5
 Michiganu	Michigan	LOC	938-0
 Pensilvaniji	Pensilvanija	LOC	925-0
-Trumpova	Trumpov	ORG	857-0
+Trumpova	Trumpov	LOC	857-0
 Sidney Powell	Sidney Powell	PER	821-9
 Kuba	Kuba	LOC	1045-9
 Kitajska	Kitajska	LOC	1045-11
@@ -25,7 +25,7 @@ Venezuela	Venezuela	LOC	1048-0
 Huga Chaveza	Hug Chavez	PER	913-8
 Bidnova	Bidnov	PER	xxx
 ZDA	ZDA	LOC	1063-0
-božič	božič	MISC	xxx
+božič	božič	EVT	xxx
 Američanov	Američan	PER	885-3
 Beli hiši	bel hiša	LOC	810-2
 Američani	Američan	PER	885-3

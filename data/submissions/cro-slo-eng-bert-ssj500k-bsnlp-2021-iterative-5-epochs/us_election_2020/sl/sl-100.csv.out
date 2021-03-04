@@ -18,9 +18,9 @@ Ameriko	Amerika	LOC	877-2
 Anthonyja Blinkna	Anthony Blinken	PER	877-9
 Trumpovih	Trumpov	PER	834-0
 Toda	toda	PER	xxx
-Težko jedrskega dogovora z Iranom	težko jedrski dogovor z Iran	LOC	xxx
-pariškemu podnebnemu sporazumu	pariški podneben sporazum	MISC	920-30
-iranski jedrski sporazum	iranski jedrski sporazum	MISC	888-22
+Težko	težko	LOC	xxx
+pariškemu podnebnemu sporazumu	pariški podneben sporazum	PRO	920-30
+iranski jedrski sporazum	iranski jedrski sporazum	PRO	888-22
 Kitajski	Kitajska	LOC	1040-2
 republikance	republikanec	PER	989-6
 Kitajske	Kitajska	LOC	1040-2
@@ -48,7 +48,7 @@ Aljaski	Aljaska	LOC	877-7
 Arktičnem rezervatu	arktičen rezervat	LOC	877-16
 ameriško vrhovno sodišče	ameriški vrhoven sodišče	ORG	877-3
 Bidnu	Bidn	PER	794-3
-republikanci	republikanec	ORG	834-2
+republikanci	republikanec	PER	834-2
 Tudi Biden	tudi Biden	PER	xxx
 Trumpove	Trumpov	PER	834-0
 Evropa	Evropa	LOC	998-1

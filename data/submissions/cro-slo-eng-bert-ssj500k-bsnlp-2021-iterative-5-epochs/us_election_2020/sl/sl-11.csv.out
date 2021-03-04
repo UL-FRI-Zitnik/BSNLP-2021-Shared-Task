@@ -8,10 +8,9 @@ stranke upokojencev	stranka upokojenec	ORG	xxx
 Bojan Velikonja	Bojan Velikonja	PER	796-18
 Karl Erjavec	Karl Erjavec	PER	1040-11
 Slovenija	Slovenija	LOC	816-1
-DeSUS-ov	Desussov	ORG	962-6
 Tomaž Gantar	Tomaž Gantar	PER	835-8
 Gantarjevega	Gantarjev	PER	865-13
-drugi svetovni vojni	drug svetoven vojna	MISC	962-16
+drugi svetovni vojni	drug svetoven vojna	EVT	962-16
 DeSUS-ovega	Desustov	ORG	962-6
 Aleksandro Pivec	Aleksandra Pivec	PER	877-6
 Zoranom Jankovićem	Zoran Janković	PER	1053-3
@@ -19,7 +18,7 @@ DeSUS-ovo	Desussov	ORG	963-9
 Janeza Janše	Janez Janša	PER	1012-3
 Komisije za preprečevanje korupcije	komisija za preprečevanje korupcija	ORG	1040-9
 Komisijo za preprečevanje korupcije	komisija za preprečevanje korupcija	ORG	1040-9
-Patria	Patria	MISC	920-22
+Patria	Patria	PRO	920-22
 Slovenijo	Slovenija	LOC	816-1
 Hrvaško	Hrvaška	LOC	911-10
 Pivčevi	pivčev	PER	920-7

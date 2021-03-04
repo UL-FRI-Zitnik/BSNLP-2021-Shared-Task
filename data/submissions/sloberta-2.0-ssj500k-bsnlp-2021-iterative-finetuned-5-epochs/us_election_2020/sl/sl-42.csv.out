@@ -25,7 +25,7 @@ Pensilvanija	Pensilvanija	LOC	926-0
 Wisconsin	Wisconsin	LOC	952-1
 Trumpu	Trump	PER	858-0
 Donald Trump	Donald Trump	PER	972-0
-Covid-19	covid-19	MISC	900-20
+Covid-19	covid-19	PRO	900-20
 Izvršni odbor sveta za vladno usklajevanje volilne infrastrukture	izvršen odbor svet za vladen usklajevanje volilen infrastruktura	ORG	891-2
 GCC	GCC	ORG	870-6
 Svet za sektorsko usklajevanje volilne infrastrukture	svet za sektorski usklajevanje volilen infrastruktura	ORG	821-4

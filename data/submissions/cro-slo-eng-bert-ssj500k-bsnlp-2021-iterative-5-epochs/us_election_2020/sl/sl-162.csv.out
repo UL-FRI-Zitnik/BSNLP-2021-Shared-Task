@@ -8,7 +8,7 @@ demokratih	demokrat	ORG	966-5
 demokratke	demokratka	PER	xxx
 Hillary Clinton	Hillary Clinton	PER	912-1
 Biden	Biden	PER	801-0
-RealClear Politics	Realclear Politics	MISC	992-20
+RealClear Politics	Realclear Politics	PRO	992-20
 Bidnom	Bidn	PER	801-2
 Clintonovo	Clintonov	PER	898-1
 Hunterja Bidna	Hunter Bidn	PER	912-23
@@ -37,7 +37,6 @@ republikancev	republikanec	PER	992-1
 Trumpove	Trumpov	PER	843-0
 Bidna	Bidn	ORG	xxx
 Američanov	Američan	PER	880-1
-republikanskih	republikanski	ORG	xxx
 Zanje	zame	PER	xxx
 demokrati	demokrat	PER	966-5
 Trumpa	Trump	PER	844-0

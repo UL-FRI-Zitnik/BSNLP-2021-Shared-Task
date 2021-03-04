@@ -1,6 +1,5 @@
 sl-136
 ZDA	ZDA	LOC	1055-0
-Foreign Affairs	Foreign Affairs	MISC	980-20
 Trumpovo	Trumpov	PER	840-0
 Trump	Trump	PER	840-0
 Erica Hofferja	Eric Hoffer	PER	998-11
@@ -32,7 +31,7 @@ Gore	Gore	PER	866-5
 Bushu	Bush	PER	799-5
 Amerike	Amerika	LOC	879-4
 Belo hišo	bel hiša	LOC	799-2
-Fox News	Fox News	MISC	980-2
+Fox News	Fox News	PRO	980-2
 Murdocha	Murdoch	PER	933-7
 Donalda Trumpa	Donald Trump	PER	965-9
 Busheve	Bushev	PER	799-8

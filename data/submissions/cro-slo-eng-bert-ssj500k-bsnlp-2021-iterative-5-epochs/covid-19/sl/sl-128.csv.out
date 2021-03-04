@@ -1,21 +1,20 @@
 sl-128
-COVID-19	covid-19	MISC	xxx
 Pošte Slovenije	pošta Slovenija	ORG	177-2
 Še	še	LOC	xxx
-Pošta Slovenije	pošta Slovenija	ORG	177-41
-COVIDA-19	covida-19	MISC	xxx
+Pošta Slovenije	pošta Slovenija	LOC	177-41
+COVIDA-19	covida-19	PRO	xxx
 Tudi	tudi	LOC	xxx
 NIJZ	Nijz	ORG	191-0
 Nacionalnega inštituta za javno zdravje Ljubljana	nacionalen inštitut za javen zdravje Ljubljana	ORG	191-1
 Univerzitetnem kliničnem centru Ljubljana Maribor	univerziteten kliničen center Ljubljana Maribor	LOC	264-1
 Univerzitetnem kliničnem centru Maribor Rakičan	univerziteten kliničen center Maribor Rakičan	LOC	264-1
-Splošne bolnišnice Murska Sobota Solčava	splošen bolnišnica murski Sobota Solčava	ORG	xxx
-3334 Luče Kuzma	3334 Luče Kuzma	LOC	xxx
+Splošne bolnišnice Murska Sobota Solčava Luče Kuzma	splošen bolnišnica murski Sobota Solčava Luče Kuzma	ORG	xxx
 Domu upokojencev Puconci	dom upokojenec Puconci	ORG	xxx
-Pošta Slovenije PS	pošta Slovenija PS	ORG	xxx
-PS 24/7	Ps 24/7	MISC	178-11
+PS Paketomatov	PS paketomat	PRO	xxx
+PS 24/7	Ps 24/7	PRO	178-11
 Ljubljani	Ljubljana	LOC	312-0
-Kopru Direct4.me	Koper direct4.me	LOC	xxx
+Kopru	Koper	LOC	xxx
+Direct4.me	direct4.me	PRO	xxx
 Sloveniji	Slovenija	LOC	xxx
 Društvo spletnih trgovcev	društvo spleten trgovec	ORG	xxx
 Slovenije	Slovenija	LOC	xxx

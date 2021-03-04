@@ -6,6 +6,7 @@ Pfizer	Pfizer	ORG	178-5
 Donald Trump	Donald Trump	PER	xxx
 New York	New York	LOC	192-5
 ZDA	ZDA	LOC	339-0
+covida-19	covida-19	PRO	xxx
 Trumpove	Trumpov	PER	295-0
 Pensilvaniji	Pensilvanija	LOC	178-6
 Porter Wright Morris & Arthur	Porter Wright Morris & Arthur	ORG	178-10
@@ -15,7 +16,6 @@ Rudyja Giulianija	Rudy Giuliani	PER	281-3
 demokrate	demokrat	PER	xxx
 Giulianijevi	Giulianijev	PER	269-11
 Pfizerju	Pfizer	ORG	178-5
-Operacija hitrejše od svetlobe	operacija hiter od svetloba	MISC	77-13
 zvezne Uprave za hrano in zdravila	zvezen uprava za hrana in zdravilo	ORG	339-5
 FDA	FDA	ORG	273-0
 BioNTech	Biontech	ORG	143-9

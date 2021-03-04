@@ -19,7 +19,7 @@ Zsuzsovi	Zsuzsov	PER	1054-2
 Marčeku	Marček	PER	932-7
 Jan	Jan	PER	1014-4
 Kuciak	Kuciak	PER	1014-4
-aktuality.sk	aktuality.sk	MISC	878-7
+aktuality.sk	aktuality.sk	PRO	878-7
 '	'	ORG	xxx
 Ndrangheto	Ndrangheta	ORG	905-9
 Ndrangheta	Ndrangheta	ORG	905-9
@@ -39,5 +39,4 @@ Marček	Marček	PER	932-7
 Szabo	Szabo	PER	817-20
 Kočnerjem	Kočner	PER	1041-7
 Petra Totha	Peter Toth	PER	921-22
-Kočnerjevih	Kočnerjev	PER	1041-7
-slovaško sodišče	slovaški sodišče	ORG	817-7
+Kočnerjevih slovaško sodišče	Kočnerjev slovaški sodišče	PER	1041-7

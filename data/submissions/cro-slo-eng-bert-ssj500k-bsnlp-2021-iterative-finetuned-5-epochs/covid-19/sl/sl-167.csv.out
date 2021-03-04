@@ -1,7 +1,8 @@
 sl-167
-Zdruzenja slovenskih organizacij bolnikov z rakom	zdruzenje slovenski organizacija bolnik z rak	ORG	340-6
-Onko net	Onko net	MISC	77-16
-covida-19	covida-19	MISC	77-16
+covid-19	covid-19	PRO	xxx
+Zdruzenja slovenskih organizacij bolnikov z rakom net	zdruzenje slovenski organizacija bolnik z rak net	ORG	340-6
+covidu-19	covidušče	PRO	xxx
+covida-19	covida-19	PRO	77-16
 Združenja organizacij bolnikov z rakom	združenje organizacija bolnik z rak	ORG	340-8
 Kristina Modic	Kristina Modic	PER	xxx
 onkološki inštitut v Ljubljani	onkološki inštitut v Ljubljana	ORG	77-30
@@ -9,7 +10,8 @@ onkološkega inštituta	onkološki inštitut	ORG	xxx
 Irena Oblak	Irena Oblak	PER	289-11
 Tine Bregant zdravje	Tina Bregant zdravje	PER	296-6
 Samo Zver	Samo Zver	PER	xxx
-Covid za gastroenterologijo UKC	coviti za gastroenterologija UKC	PER	62-9
+Covid	coviti	PER	62-9
+covidom-19 za gastroenterologijo UKC	covidom-19 za gastroenterologija UKC	PRO	xxx
 Borut Štabuc	Borut Štabuc	PER	144-9
 Tina Bregant	Tina Bregant	PER	296-6
 Danica Rotar Pavlič	Danica Rotar Pavlič	PER	xxx

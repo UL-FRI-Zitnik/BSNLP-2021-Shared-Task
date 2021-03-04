@@ -7,7 +7,7 @@ Ameriko	Amerika	LOC	878-0
 Američani	Američan	PER	878-1
 ZDA	ZDA	LOC	1054-0
 Mike Pence	Mike Pence	PER	932-17
-nacionalne	nacionalen	MISC	xxx
+nacionalne konvencije	nacionalen konvencija	EVT	xxx
 republikanske stranke	republikanski stranka	ORG	990-4
 demokrata	demokrat	PER	964-0
 Josepha Bidna	Joseph Bidn	PER	1014-1
@@ -27,7 +27,7 @@ Američanov	Američan	PER	878-1
 Ameriško	ameriški	LOC	xxx
 Baracka Obame	Baracko Obame	PER	798-16
 Trumpovem	Trumpov	PER	838-0
-Dežela herojev	dežela heroj	LOC	964-4
+Dežela	dežela	LOC	964-4
 Amerike	Amerika	LOC	878-0
 Trumpovega	Trumpov	PER	838-0
 demokrat	demokrat	PER	xxx
@@ -49,9 +49,9 @@ demokratom	demokrat	PER	964-0
 Republikanci	republikanec	PER	990-6
 NFL	NFL	ORG	905-8
 Burgess Owens	Burgess Owens	PER	798-14
-zvezni kongres	zvezen kongres	ORG	1054-6
+zvezni	zvezen	ORG	1054-6
 Utaha	Utah	LOC	1054-6
-drugi svetovni vojni	drug svetoven vojna	MISC	964-3
+drugi svetovni vojni	drug svetoven vojna	EVT	964-3
 Sovjetsko zvezo	sovjetski zveza	LOC	817-1
 Deidre Byrne	Deidre Byrne	PER	964-5
 demokrate	demokrat	PER	964-0

@@ -4,8 +4,8 @@ Joeja Bidna	Joe Bidn	PER	1017-0
 Američanov	Američan	PER	882-1
 Trumpovega	Trumpov	PER	850-0
 Združenih državah Amerike	združen država Amerika	LOC	1059-2
-Fox TV	Fox TV	ORG	982-2
-Economist	Economist	ORG	1000-12
+Fox TV	Fox TV	PRO	982-2
+Economist	Economist	PRO	1000-12
 Joeju Bidnu	Joe Bidn	PER	1017-0
 Donald Trump	Donald Trump	PER	969-2
 Trump	Trump	PER	850-0
@@ -25,27 +25,26 @@ Ukrajini	Ukrajina	LOC	1035-0
 Trumpove	Trumpov	PER	850-0
 ukrajinske	ukrajinski	LOC	1035-4
 Trumpovi republikanci	Trumpov republikanec	PER	850-0
-impeachment	impeachment	MISC	xxx
 Joe Biden	Joe Biden	PER	1017-3
 Bidnova	Bidnov	PER	806-8
-Fox News	Fox News	MISC	982-1
+Fox News	Fox News	PRO	982-1
 Trumpova	Trumpov	PER	850-0
 Kayleigh McEnany	Kayleigh Mcenany	PER	1043-5
 Američanom	Američan	PER	882-1
 Trumpu	Trump	PER	850-0
 Beli hiši	bel hiša	LOC	806-2
 Scott Atlas	Scott Atlas	PER	820-12
-Twitter	Twitter	MISC	850-2
-Atlas	Atlas	PER	882-5
+Twitter	Twitter	PRO	850-2
+Atlas	Atlas	PRO	882-5
 Trumpovih	Trumpov	PER	850-0
 Ameriškega inštituta za ekonomske raziskave	ameriški inštitut za ekonomski raziskava	ORG	882-11
-twitterja	twitter	MISC	850-3
+twitterja	twitter	PRO	850-3
 Trumpom	Trump	PER	850-0
 Delaware	Delaware	LOC	969-5
 Trumpa	Trump	PER	850-0
 Michiganu	Michigan	LOC	936-1
 Michigana	Michigan	LOC	936-1
-covida-19	covida-19	MISC	xxx
+covida-19	covida-19	PRO	xxx
 To	ta	LOC	xxx
 Biden	Biden	PER	806-0
 Philadelphii	Philadelphia	LOC	923-2

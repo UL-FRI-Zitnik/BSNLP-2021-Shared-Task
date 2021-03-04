@@ -1,13 +1,11 @@
 sl-224
 Trump	Trump	PER	853-0
-republikance	republikanec	ORG	994-0
+republikance	republikanec	PER	994-0
 FBI	FBI	ORG	982-0
 Donald	Donald	PER	970-1
 Donald Trump	Donald Trump	PER	970-1
-Fox	Fox	MISC	982-2
 republikanske	republikanski	PER	xxx
-Fox News	Fox News	ORG	982-1
-demokrata	demokrat	PER	970-2
+Fox News	Fox News	PRO	982-1
 Joeja Bidna	Joe Bidn	PER	1018-1
 Arizoni	Arizona	LOC	884-1
 Mario Bartiromo	Mario Bartiromo	PER	937-22

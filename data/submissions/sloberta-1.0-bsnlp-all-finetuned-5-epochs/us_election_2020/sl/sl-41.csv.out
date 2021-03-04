@@ -4,7 +4,7 @@ Donald Trump	Donald Trump	PER	972-0
 Reuters	Reuters	ORG	996-1
 Krebs	Krebs	PER	1045-2
 Bele hiše	bel hiša	LOC	811-0
-twitterja	twitter	MISC	857-1
+twitterja	twitter	PRO	857-1
 Trumpovi	Trumpov	PER	857-0
 Američane	Američan	PER	885-3
 ZDA	ZDA	LOC	1063-0
@@ -28,7 +28,7 @@ Georgie Brad Raffensperger	Georgie Brad Raffensperger	PER	870-1
 Georgio	Georgio	PER	xxx
 Biden	Biden	PER	811-2
 Raffensperger	Raffensperger	PER	996-2
-Washington Post	Washington Post	MISC	952-3
+Washington Post	Washington Post	PRO	952-3
 Južne Karoline	južen Karolina	LOC	1020-9
 Lindseyja Grahama	Lindsey Graham	PER	1051-3
 Graham	Graham	PER	870-2

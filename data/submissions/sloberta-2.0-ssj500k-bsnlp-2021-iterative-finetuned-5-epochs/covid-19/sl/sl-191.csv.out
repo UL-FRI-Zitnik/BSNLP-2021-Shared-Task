@@ -1,8 +1,8 @@
 sl-191
-covid-19	covid-19	MISC	xxx
+covid-19	covid-19	PRO	xxx
 Sloveniji socialnih zavodov	Slovenija socialen zavod	LOC	xxx
 Sloveniji	Slovenija	LOC	xxx
-covidom-19	covidom-19	MISC	xxx
+covidom-19	covidom-19	PRO	xxx
 Rogaški Slatini	rogaški Slatina	LOC	282-24
 Ribnici	Ribnica	LOC	282-19
 Ilirski Bistrici	ilirski Bistrica	LOC	290-21
@@ -48,4 +48,4 @@ Franciji	Francija	LOC	274-1
 Lillu	Lill	LOC	313-9
 Kitajskem	Kitajsko	LOC	xxx
 Hongkongu	Hongkong	LOC	326-8
-covida-19	covida-19	MISC	326-8
+covida-19	covida-19	PRO	326-8

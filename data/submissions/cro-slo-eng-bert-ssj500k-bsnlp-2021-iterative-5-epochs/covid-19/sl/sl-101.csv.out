@@ -1,11 +1,12 @@
 sl-101
 Še	še	PER	xxx
-covid-19	covid-19	MISC	59-6
+covid-19	covid-19	PRO	59-6
 Franciji	Francija	LOC	273-2
 Kitajskem	Kitajsko	LOC	335-5
-covida-19	covida-19	MISC	xxx
+covida-19	covida-19	PRO	xxx
 evropska agencija za zdravila	evropski agencija za zdravilo	ORG	302-13
 Javni agenciji RS za zdravila in medicinske pripomočke	javen agencija RS za zdravilo in medicinski pripomoček	ORG	319-14
+covidom-19	covidom-19	PRO	xxx
 Evropi	Evropa	LOC	302-9
 Novartis	Novartis	ORG	190-14
 Sloveniji za zdravila	Slovenija za zdravilo	LOC	235-3
@@ -16,6 +17,9 @@ UKC ) Maribor	UKC ) Maribor	ORG	264-0
 STA	sta	ORG	235-12
 UKC Maribor	UKC Maribor	ORG	264-0
 Ljubljani	Ljubljana	LOC	312-0
+klorokin	klorokin	PRO	xxx
+lopinavir	lopinavir	PRO	xxx
+ritonavir	ritonavir	PRO	xxx
 Janez Tomažič	Janez Tomažič	PER	319-16
 zdravniške zbornice	zdravniški zbornica	ORG	337-21
 ISIS	ISIS	ORG	288-6
@@ -24,9 +28,7 @@ Aleš Rozman	Aleš Rozman	PER	223-20
 Golniku	Golnik	LOC	268-7
 Francije	Francija	LOC	273-2
 Tomažiča	Tomažič	PER	294-4
-favipiravir	favipiravirati	MISC	xxx
 Japonskem	Japonsko	LOC	320-0
-umifenovir	umifenovir	MISC	xxx
 Rusiji	Rusija	LOC	280-6
 Zavoda za transfuzijo krvi	zavod za transfuzija kri	ORG	337-18
 Tomažič	Tomažič	PER	294-4

@@ -1,8 +1,8 @@
 sl-116
 Trumpovih	Trumpov	PER	836-0
 ZDA	ZDA	LOC	1053-0
-Grover Cleveland	Grover Cleveland	MISC	865-9
 New Yorka	New York	LOC	905-3
+Grover Cleveland	Grover Cleveland	PER	865-9
 Jamesa Blaina	James Blain	PER	1013-20
 republikancu	republikanec	PER	990-0
 Indiane	Indiana	LOC	888-10
@@ -12,13 +12,14 @@ Harrisona	Harrison	PER	911-3
 Jasona Weaverja	Jason Weaver	PER	1013-17
 Iowe	Iowe	LOC	888-24
 Buffala	Buffalo	LOC	796-23
-Clevelandu svobode	Cleveland svoboda	LOC	896-4
+Clevelandu	Cleveland	LOC	896-4
+Kip svobode	kip svoboda	PRO	1041-14
 John Adams	John Adams	PER	1013-7
 Johna Adamsa	John Adams	PER	1013-7
 Thomas Jefferson	Thomas Jefferson	PER	836-3
 Adamsova	Adamsov	PER	878-21
 Bil	biti	PER	xxx
-Deklaracije neodvisnosti	deklaracija neodvisnost	MISC	963-15
+Deklaracije neodvisnosti	deklaracija neodvisnost	PRO	963-15
 Britanci	Britanec	PER	796-16
 Adams	Adams	PER	878-19
 Jeffersona	Jefferson	PER	1013-16
@@ -57,12 +58,11 @@ Herbert Hoover	Herbert Hoover	PER	911-4
 Stanforda	Stanford	ORG	816-8
 Avstraliji	Avstralija	LOC	878-17
 Kitajski	Kitajska	LOC	1041-2
-prve svetovne vojne	prvi svetoven vojna	MISC	921-25
+prve svetovne vojne	prvi svetoven vojna	EVT	921-25
 Franklinu Rooseveltu	Franklin Roosevelt	PER	980-4
 Gerald Ford	Gerald Ford	PER	865-19
 Politik	politik	PER	921-13
-Omahi	Omaha	LOC	1005-17
-Watergate	Watergate	MISC	878-16
+Omahi Watergate	Omaha Watergate	LOC	1005-17
 Richard Nixon	Richard Nixon	PER	990-18
 Ford	Ford	PER	980-19
 Nixona	Nixon	PER	905-15
@@ -76,13 +76,11 @@ Iranom	Iran	LOC	888-7
 Edwardom Kennedyjem	Edward Kennedy	PER	998-13
 republikanski	republikanski	ORG	990-8
 Ronald Reagan	Ronald Reagan	PER	990-16
-Nobelova nagrada za mir	Nobelov nagrada za mir	MISC	905-27
 George	George	PER	865-15
 H. W. Bush	H. W. Bush	PER	865-15
 Starejši Bush	star Bush	PER	xxx
 Ronalda Reagana	Ronald Reagan	PER	990-17
 Michaela Dukakisa	Michael Dukakis	PER	931-9
-zalivsko vojno	zalivski vojna	MISC	xxx
 republikanci	republikanec	PER	990-1
 Billa Clintona	Bill Clinton	PER	796-21
 Clinton	Clinton	PER	897-0

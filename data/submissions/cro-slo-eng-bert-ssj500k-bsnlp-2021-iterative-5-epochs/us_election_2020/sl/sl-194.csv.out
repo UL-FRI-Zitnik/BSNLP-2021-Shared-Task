@@ -8,7 +8,7 @@ Donald Trump za kibernetsko varnost in infrastrukturo domovinsko varnost	Donald 
 Chrisa Krebsa	Chris Krebs	PER	899-3
 Trumpovi	Trumpov	PER	848-0
 Bele hiše	bel hiša	ORG	804-4
-twitterja	twitter	MISC	848-1
+twitterja	twitter	PRO	848-1
 Američane	Američan	PER	882-1
 ZDA	ZDA	LOC	1058-0
 Bidnove	Bidnov	PER	xxx
@@ -29,7 +29,7 @@ Georgia	Georgia	LOC	868-1
 Brad Raffensperger	Brad Raffensperger	PER	804-13
 Biden	Biden	PER	804-0
 Raffensperger	Raffensperger	PER	993-3
-Washington Post	Washington Post	MISC	951-3
+Washington Post	Washington Post	PRO	951-3
 Južne Karoline	južen Karolina	LOC	1017-11
 Lindseyja Grahama	Lindsey Graham	PER	1050-2
 Georgii	Georgia	LOC	868-1

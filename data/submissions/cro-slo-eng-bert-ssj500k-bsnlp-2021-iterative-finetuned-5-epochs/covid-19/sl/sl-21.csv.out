@@ -1,12 +1,11 @@
 sl-21
-covid-19	covid-19	MISC	65-0
+covid-19	covid-19	PRO	65-0
 Veliki Britaniji	velik Britanija	LOC	xxx
 Rusiji	Rusija	LOC	282-1
 neodvisne regulatorne agencije za zdravila in zdravstvene izdelke	neodvisen regulatoren agencija za zdravilo in zdravstven izdelek	ORG	xxx
-MHRA Pfizer-BioNTech	MHRA Pfizervbiontech	ORG	255-7
-covidu-19	covidu-19	MISC	xxx
-Cepivo	cepivo	MISC	xxx
-MHRA covid-19	MHRA covid-19	ORG	255-7
+MHRA	MHRA	ORG	255-7
+Pfizer-BioNTech	Pfizervbiontech	PRO	xxx
+covidu-19	covidu-19	PRO	xxx
 BBC	BBC	ORG	146-1
 Velika Britanija	velik Britanija	LOC	xxx
 Veliko Britanijo	velik Britanija	LOC	xxx
@@ -21,10 +20,8 @@ AFP	AFP	ORG	226-7
 Pfizer	Pfizer	ORG	180-4
 Borut Štrukelj	Borut Štrukelj	PER	146-25
 fakultete za farmacijo	fakulteta za farmacija	ORG	xxx
-protein S	protein s	MISC	180-15
 Evropski agenciji za zdravila	evropski agencija za zdravilo	ORG	305-0
 Ema	Ema	ORG	305-8
-proti	proti	MISC	xxx
 EU	EU	ORG	305-1
 ameriškem uradu za hrano in zdravila	ameriški urad za hrana in zdravilo	ORG	226-21
 FDA	FDA	ORG	274-0
@@ -32,9 +29,9 @@ Vladimir Putin	Vladimir Putin	PER	xxx
 Putin	Putin	PER	180-8
 Tatjano Golikovo	Tatjana Golikov	PER	297-18
 Rusija	Rusija	LOC	283-0
+covidom-19	covidom-19	PRO	xxx
 ameriške	ameriški	ORG	xxx
-univerze	univerza	ORG	265-5
-Johnsa Hopkinsa	Johns Hopkins	ORG	265-5
+univerze Johnsa Hopkinsa	univerza Johns Hopkins	ORG	265-5
 Moskva	Moskva	PER	255-6
-Sputnik V	Sputnik v	MISC	xxx
-EpiVacCorona	Epivaccoron	MISC	305-11
+Sputnik V	Sputnik v	PRO	xxx
+EpiVacCorona	Epivaccoron	PRO	305-11

@@ -18,12 +18,10 @@ Američanom	Američan	PER	885-3
 Aljaski	Aljaska	LOC	885-0
 Bidnova	Bidnov	PER	xxx
 Trumpom	Trump	PER	856-0
-Bidnu	Bidn	PER	809-1
-Republikanska stranka	republikanski stranka	ORG	995-17
+Bidnu stranka	Bidn stranka	PER	809-1
 Trumpa	Trump	PER	856-0
 ameriškega vrhovnega sodišča	ameriški vrhoven sodišče	ORG	xxx
 Samuel Alito	Samuel Alito	PER	821-21
-pensilvanskih	pensilvanski	PER	925-7
 republikancev	republikanec	PER	925-7
 konservativni	konservativen	ORG	1044-1
 demokrate	demokrat	PER	972-1
@@ -37,4 +35,4 @@ AP	AP	ORG	885-2
 Utah	Utah	LOC	1035-5
 RCP	RCP	ORG	995-9
 Kalifornijo	Kalifornija	LOC	1044-0
-Ballotpedia	Ballotpedio	MISC	809-4
+Ballotpedia	Ballotpedio	PRO	809-4

@@ -1,8 +1,8 @@
 sl-192
 Hrastniku	Hrastnik	LOC	327-0
-covid-19	covid-19	MISC	xxx
+covid-19	covid-19	PRO	xxx
 Marko Funkl	Marko Funkl	PER	255-1
-Covid-19	covid-19	MISC	64-0
+Covid-19	covid-19	PRO	64-0
 Hrastnik	Hrastnik	LOC	327-0
 Hrastniku Hrastnik	Hrastnik Hrastnik	LOC	327-0
 NIJZ-ja	NIJZ	ORG	193-2
@@ -11,5 +11,5 @@ Dom starejših občanov v Hrastniku	dom star občan v Hrastnik	ORG	xxx
 Drago Kopušar	Drago Kopušar	PER	xxx
 hrastniške doma starejših	hrastniški doma star	ORG	xxx
 Kopušar	Kopušar	PER	xxx
-Gregorja Pajiča 54 451.	Gregor Pajič 54 451.	PER	269-13
+Gregorja Pajiča	Gregor Pajič	PER	269-13
 Pajič	Pajič	PER	179-12

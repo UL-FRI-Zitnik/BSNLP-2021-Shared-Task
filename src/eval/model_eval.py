@@ -14,6 +14,9 @@ from src.utils.load_dataset import LoadBSNLP
 from src.utils.update_documents import UpdateBSNLPDocuments
 from src.utils.utils import list_dir
 
+pd.set_option('display.max_rows', None)
+pd.set_option('display.max_columns', None)
+
 
 logging.basicConfig(
     stream=sys.stdout,
@@ -97,7 +100,8 @@ def looper(
                 doc_scores, pred_data = predictor.predict(to_pred, tag2code, code2tag)
                 doc_scores['id'] = f'{lang};{docId}'
                 scores.append(doc_scores)
-                if pred_misc is not None and len(pred_data.loc[pred_data['ner'].isin(['B-MISC', 'I-MISC'])]) > 0:
+                # if pred_misc is not None and :
+                if categorize_misc and len(pred_data.loc[pred_data['calcNER'].isin(['B-MISC', 'I-MISC'])]) > 0:
                     misc_data = pd.DataFrame(doc['content'])
                     if len(misc_data.loc[~(misc_data['ner'].isin(['B-MISC', 'I-MISC']))]) > 0:
                         # randomly choose a category for (B|I)-MISC category
@@ -106,13 +110,16 @@ def looper(
                         misc_data.loc[(misc_data['ner'] == 'I-MISC'), 'ner'] = f'I-{cat}'
                     misc_data.loc[~(misc_data['ner'].isin(['B-PRO', 'B-EVT', 'I-PRO', 'I-EVT'])), 'ner'] = 'O'
                     _, misc_pred = pred_misc.predict(misc_data, misctag2code, misccode2tag)
-                    pred_data['ner'] = pd.DataFrame(doc['content'])['ner']
+                    # pred_data['ner'] = pd.DataFrame(doc['content'])['ner']
                     # update the entries
                     # update wherever there is misc in the original prediction
                     pred_data.loc[pred_data['calcNER'].isin(['B-MISC', 'I-MISC']), 'calcNER'] = misc_pred.loc[pred_data['calcNER'].isin(['B-MISC', 'I-MISC']), 'calcNER']
                     # update wherever the new predictor made a prediction
                     pred_data.loc[misc_pred['calcNER'].isin(['B-PRO', 'B-EVT', 'I-PRO', 'I-EVT']), 'calcNER'] = misc_pred.loc[misc_pred['calcNER'].isin(['B-PRO', 'B-EVT', 'I-PRO', 'I-EVT']), 'calcNER']
                 doc['content'] = pred_data.to_dict(orient='records')
+                miscs = [r['calcNER'] for r in doc['content'] if r['calcNER'] in ['B-MISC', 'I-MISC']]
+                if len(miscs) > 0:
+                    raise Exception(f"STILL MORE MISCS??? {docId}, {miscs}")
                 predictions[dataset][lang][docId] = pred_data.loc[~(pred_data['calcNER'] == 'O')].to_dict(orient='records')
     updater.update_merged(data)
     logger.info(f"Done predicting for {model_name}")

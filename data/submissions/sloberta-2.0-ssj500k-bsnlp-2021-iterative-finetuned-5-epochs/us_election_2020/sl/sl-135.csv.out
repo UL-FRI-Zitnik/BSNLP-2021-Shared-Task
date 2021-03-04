@@ -13,7 +13,7 @@ Michiganu	Michigan	LOC	933-0
 Pensilvaniji	Pensilvanija	LOC	921-2
 Severni Karolini	severen Karolina	LOC	817-2
 Ohiu	Ohio	LOC	1005-3
-New York Timesa	New York Times	MISC	905-5
+New York Timesa	New York Times	PRO	905-5
 Delawara	Delawar	LOC	964-7
 Wilmingtonu	Wilmington	LOC	950-3
 demokratih	demokrat	ORG	964-0
@@ -24,7 +24,7 @@ Bidna	Bidn	PER	799-3
 demokrati	demokrat	PER	964-0
 Clintonovo	Clintonov	PER	897-7
 Bidnu	Biden	PER	799-0
-RealClearPolitics	Realclearpolitics	ORG	991-15
+RealClearPolitics	Realclearpolitics	PRO	991-15
 Latinske Amerike	latinski Amerika	LOC	1050-11
 Floridi	Florida	LOC	980-7
 Barack Obama	Barack Obama	PER	799-4

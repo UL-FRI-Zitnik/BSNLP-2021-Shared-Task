@@ -1,12 +1,10 @@
 sl-229
 HUDO	hudo	PER	xxx
-covid-19	covid-19	MISC	xxx
+covid-19	covid-19	PRO	xxx
 Ministrstvo za javno upravo	ministrstvo za javen uprava	ORG	256-21
-iOS	iOS	MISC	291-13
-Android	Android	MISC	227-8
-Corona-Warn-App	Corona-Warn-App	MISC	227-8
-Javascript	Javascript	MISC	322-20
+iOS	iOS	PRO	291-13
+Android	Android	PRO	227-8
+Tehnične	tehničen	PRO	xxx
 NIJZ	Nijz	ORG	xxx
 DZ	DZ	ORG	xxx
 MJU	MJU	ORG	256-10
-enarocanje.si	enarocanje.si	MISC	xxx

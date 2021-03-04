@@ -9,7 +9,7 @@ Esperjem	Esper	PER	999-8
 Washington	Washington	LOC	951-2
 ZDA	ZDA	LOC	1058-0
 Donald Trump	Donald Trump	PER	968-2
-Marka Esperja urada	Marko Esper urad	PER	935-9
+Marka Esperja preiskovalnega urada	Marko Esper preiskovalen urad	PER	935-9
 Christopherja Wraya	Christopher Wray	PER	899-0
 Cia	Cia	ORG	899-5
 Gino Haspel	Gina Haspel	PER	868-15
@@ -32,7 +32,7 @@ Hunterju	Hunter	PER	912-3
 Ukrajini	Ukrajina	LOC	1035-0
 senatnem odboru za državno varnost	senaten odbor za državen varnost	ORG	819-12
 Trumpovi	Trumpov	PER	847-0
-Joe Biden covida 19	Joe Biden covid 19	PER	1016-1
+covida 19	covid 19	PRO	899-17
 Američane	Američan	PER	881-1
 Pfizerja	Pfizer	ORG	923-9
 BioNTecha	Biontech	ORG	804-12

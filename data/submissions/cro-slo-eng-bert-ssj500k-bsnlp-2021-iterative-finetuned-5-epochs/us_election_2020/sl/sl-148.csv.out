@@ -1,28 +1,29 @@
 sl-148
 G20	G20	ORG	866-7
+covid-19	covid-19	PRO	897-16
 Salmana	Salman	PER	818-3
-covida-19	covida-19	MISC	xxx
+covida-19	covida-19	PRO	xxx
 Salman	Salman	PER	818-3
 dpa	DPA	ORG	965-3
 Rijadu	Rijad	LOC	991-7
 Rusija	Rusija	LOC	991-3
 Boris Johnson	Boris Johnson	PER	800-11
 Recep Tayyip Erdogan	Recep Tayyip Erdogan	PER	991-17
-vrhu G20	vrh G20	MISC	xxx
+vrhu G20	vrh G20	EVT	xxx
 Vladimir Putin	Vladimir Putin	PER	1047-0
 Reuters	Reuters	ORG	991-11
-Sputnik	Sputnik	MISC	818-20
+Sputnik	Sputnik	PRO	818-20
 zdaj	zdaj	LOC	xxx
 Xi Jinping	XI Jinping	PER	1069-2
+covidu-19	covidu-19	PRO	xxx
 Kitajska	Kitajska	LOC	1041-2
 ZN	ZN	ORG	1055-5
 Antonio Guterres	Antonio Guterres	PER	879-19
-Covax	Covax	ORG	866-15
-covidu-19	covidušče	MISC	897-14
+Covax	Covax	PRO	866-15
 ZDA	ZDA	LOC	1055-0
 Evropske komisije	evropski komisija	ORG	999-3
 Ursula von der Leyen	Ursula von der Leyen	PER	1034-6
-Angela Merkel	Angela Merkel	PER	879-6
+Angela Merkel vrhu G20	Angela Merkel vrh G20	PER	879-6
 Svetovne zdravstvene organizacije	svetoven zdravstven organizacija	ORG	818-15
 WHO	WHO	ORG	950-11
 Argentina	Argentina	LOC	879-5

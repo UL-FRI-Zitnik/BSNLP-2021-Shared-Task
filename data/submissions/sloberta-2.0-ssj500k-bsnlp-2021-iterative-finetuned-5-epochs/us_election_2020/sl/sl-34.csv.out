@@ -11,7 +11,7 @@ Melania Trump	Melania Trump	PER	938-1
 Jared Kuschner	Jared Kuschner	PER	1019-4
 Beli hiši	bel hiša	ORG	810-2
 Omorosa Manigault Newman	Omorosa Manigault Newman	PER	1006-11
-The Mail on Sunday	the Mail on Sunday	MISC	856-1
+The Mail on Sunday	the Mail on Sunday	PRO	856-1
 Donald	Donald	PER	972-0
 Mar-a-Lago	Marvallago	LOC	938-2
 Floridi	Florida	LOC	983-4
@@ -29,7 +29,7 @@ Trump	Trump	PER	856-0
 Belo hišo	bel hiša	LOC	810-2
 Bidnovo	Bidnov	PER	810-10
 Omorosa	Omorosa	PER	1006-5
-Vajenec	vajenec	MISC	1048-12
+Vajenec	vajenec	PRO	1048-12
 Cohen	Cohen	PER	900-0
 Omoroso	Omoroso	PER	xxx
 Bele hiše	bel hiša	LOC	810-2

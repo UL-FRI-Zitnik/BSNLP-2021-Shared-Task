@@ -1,11 +1,10 @@
 sl-202
-Covid-19	covid-19	MISC	64-0
+Covid-19	covid-19	PRO	64-0
 Slovenci	Slovenec	PER	xxx
 Srečkom Šestanom	Srečko Šestan	PER	xxx
 Srečko Šestan	Srečko Šestan	PER	xxx
 Civilne zaščite	civilen zaščita	ORG	64-4
 Leon Vidic	Leon Vidic	PER	xxx
-Delo	delo	MISC	xxx
 Ljubljana	Ljubljana	LOC	313-0
 Sloveniji	Slovenija	LOC	xxx
 Hrvaškem	Hrvaško	LOC	327-1
@@ -13,7 +12,7 @@ Hrvatih	Hrvat	PER	327-7
 Italiji	Italija	LOC	290-3
 Italije	Italija	LOC	290-3
 Oni	on	LOC	xxx
-zakonu o nalezljivih bolezni	zakon o nalezljiv bolezen	MISC	xxx
+zakonu o nalezljivih bolezni	zakon o nalezljiv bolezen	PRO	xxx
 Civilna zaščita	civilen zaščita	ORG	64-4
 Kitajske	Kitajska	LOC	xxx
 Kitajska	Kitajska	LOC	xxx

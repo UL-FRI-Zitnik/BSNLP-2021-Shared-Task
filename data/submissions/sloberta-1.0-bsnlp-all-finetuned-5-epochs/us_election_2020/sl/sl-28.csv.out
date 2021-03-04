@@ -9,10 +9,11 @@ Donald Trump	Donald Trump	PER	971-0
 Beli hiši	bel hiša	LOC	808-3
 Joe Biden	Joe Biden	PER	1019-0
 Američanov	Američan	PER	884-0
-slovenskenovice.si	slovenskenovicevsa	MISC	xxx
+ameriških volitev	ameriški volitev	EVT	xxx
+slovenskenovice.si	slovenskenovicevsa	PRO	xxx
 Michiganu	Michigan	LOC	937-0
 Carlos Barria	Carlos Barria	PER	899-27
-CNN	CNN	MISC	899-7
+CNN	CNN	PRO	899-7
 Trump	Trump	PER	855-1
 Pensilvaniji	Pensilvanija	LOC	925-0
 Te	ta	PER	xxx
@@ -30,7 +31,6 @@ Scrantona	Scranton	LOC	821-24
 Kamala Harris	Kamala Harris	PER	1044-4
 Detroitu	Detroit	LOC	971-4
 Teksasu	Teksas	LOC	855-2
-republikancev	republikanec	PER	995-2
 Houstonu	Houston	LOC	913-3
 Mario Anzuoni	Mario Anzuoni	PER	937-15
 New Hampshire	New Hampshire	LOC	908-9

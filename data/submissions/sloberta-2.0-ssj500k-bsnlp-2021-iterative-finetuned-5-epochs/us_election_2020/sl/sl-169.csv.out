@@ -3,7 +3,6 @@ Georgii	Georgia	LOC	867-1
 Trump	Trump	PER	844-0
 Georgia	Georgia	LOC	867-1
 Joeja Bidna	Joe Bidn	PER	1015-6
-republikanskemu	republikanski	ORG	xxx
 ZDA	ZDA	LOC	1057-0
 Donaldu Trumpu	Donald Trump	PER	966-1
 Brad Raffensperger	Brad Raffensperger	PER	802-9
@@ -35,7 +34,7 @@ Tanzaniji	Tanzanija	LOC	845-1
 Venezuele	Venezuela	LOC	1047-6
 Kube	Kuba	LOC	1042-7
 Kitajske	Kitajska	LOC	1042-0
-My Cousin Vinny	my Cousin Vinny	MISC	934-9
+My Cousin	my Cousin	PRO	934-9
 Joe Pesci	Joe Pesci	PER	1015-10
 Trumpovi	Trumpov	PER	845-0
 Arizoni	Arizona	LOC	880-3
