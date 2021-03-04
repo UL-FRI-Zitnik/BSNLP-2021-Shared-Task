@@ -17,7 +17,7 @@ echo "$SLURM_JOB_ID -> Generating the output files for the models..."
 srun \
     --container-image "$CONTAINER_IMAGE_PATH" \
     --container-mounts "$PWD":/workspace,/shared/datasets/rsdo:/data \
-    --container-entrypoint /workspace/bin/exec-output.sh --lang "sl" --year "test_2021" --run-path "./data/runs/run_2496_slo_all"
+    --container-entrypoint /workspace/bin/exec-output.sh --lang "sl" --year "test_2021" --run-path "./data/runs/run_2668_slo_misc-submission"
     # --container-entrypoint /workspace/bin/exec-output.sh --lang "all" --year "test_2021" --run-path "./data/runs/run_l1o_2551"
 
 echo "$SLURM_JOB_ID -> Done."

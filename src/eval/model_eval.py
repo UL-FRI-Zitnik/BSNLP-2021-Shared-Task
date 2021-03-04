@@ -144,8 +144,6 @@ def main():
     doc_scores = {}
     for model in tqdm.tqdm(models, desc="Model"):
         logger.info(f"Model: {model}")
-        if 'cro-slo-eng-bert-bsnlp-2021-5-epochs' != model:
-            continue
         preds, scores = looper(run_path, lang, model,year, merge_misc)
         predictions.append(preds)
         doc_scores[model]= scores
